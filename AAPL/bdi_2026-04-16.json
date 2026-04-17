@@ -1,0 +1,100 @@
+{
+  "ticker": "AAPL",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 8,
+  "calls": 4,
+  "puts": 4,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "AAPLD760",
+      "isin": "BRAAPL9D0114",
+      "ativo": "AAPL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 1940,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "AAPLP580",
+      "isin": "BRAAPL9P00Z2",
+      "ativo": "AAPL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "AAPLP645",
+      "isin": "BRAAPL9P0102",
+      "ativo": "AAPL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "AAPLD707",
+      "isin": "BRAAPL9D00T1",
+      "ativo": "AAPL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 50,
+      "quantidade_descoberta": 3500,
+      "total_posicoes": 3600
+    },
+    {
+      "codigo_opcao": "AAPLD687",
+      "isin": "BRAAPL9D00S3",
+      "ativo": "AAPL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3500,
+      "total_posicoes": 3520
+    },
+    {
+      "codigo_opcao": "AAPLP677",
+      "isin": "BRAAPL9P00S7",
+      "ativo": "AAPL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3500
+    },
+    {
+      "codigo_opcao": "AAPLB659",
+      "isin": "BRAAPL9B00E7",
+      "ativo": "AAPL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 154,
+      "quantidade_coberta": 70,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "AAPLT66",
+      "isin": "BRAAPL9T0090",
+      "ativo": "AAPL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10
+    }
+  ]
+}
