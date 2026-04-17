@@ -1,0 +1,188 @@
+{
+  "ticker": "GOLD",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 16,
+  "calls": 5,
+  "puts": 11,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "GOLDL270",
+      "isin": "BRGOLD9L00R0",
+      "ativo": "GOLD",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2300
+    },
+    {
+      "codigo_opcao": "GOLDX270",
+      "isin": "BRGOLD9X00R5",
+      "ativo": "GOLD",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000000
+    },
+    {
+      "codigo_opcao": "GOLDI210",
+      "isin": "BRGOLD9I00C8",
+      "ativo": "GOLD",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10244
+    },
+    {
+      "codigo_opcao": "GOLDU210",
+      "isin": "BRGOLD9U00C3",
+      "ativo": "GOLD",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3900
+    },
+    {
+      "codigo_opcao": "GOLDP235",
+      "isin": "BRGOLD9P0080",
+      "ativo": "GOLD",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "GOLDP265",
+      "isin": "BRGOLD9P0023",
+      "ativo": "GOLD",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "GOLDQ250",
+      "isin": "BRGOLD9Q00E7",
+      "ativo": "GOLD",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 22530
+    },
+    {
+      "codigo_opcao": "GOLDL240",
+      "isin": "BRGOLD9L00M1",
+      "ativo": "GOLD",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "GOLDL250",
+      "isin": "BRGOLD9L00P4",
+      "ativo": "GOLD",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 75,
+      "total_posicoes": 500175
+    },
+    {
+      "codigo_opcao": "GOLDX230",
+      "isin": "BRGOLD9X00N4",
+      "ativo": "GOLD",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 900,
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "GOLDX240",
+      "isin": "BRGOLD9X00M6",
+      "ativo": "GOLD",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 17364
+    },
+    {
+      "codigo_opcao": "GOLDX250",
+      "isin": "BRGOLD9X00P9",
+      "ativo": "GOLD",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000000
+    },
+    {
+      "codigo_opcao": "GOLDM255",
+      "isin": "BRGOLD9M00C0",
+      "ativo": "GOLD",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2900
+    },
+    {
+      "codigo_opcao": "GOLDW20",
+      "isin": "BRGOLD9W00B1",
+      "ativo": "GOLD",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "GOLDI350",
+      "isin": "BRGOLD9I00B0",
+      "ativo": "GOLD",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10
+    },
+    {
+      "codigo_opcao": "GOLDU300",
+      "isin": "BRGOLD9U00B5",
+      "ativo": "GOLD",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    }
+  ]
+}
