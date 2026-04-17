@@ -1,0 +1,166 @@
+{
+  "ticker": "ORVR",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 14,
+  "calls": 8,
+  "puts": 6,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "ORVRF800",
+      "isin": "BRORVR3F00Z7",
+      "ativo": "ORVR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 175000
+    },
+    {
+      "codigo_opcao": "ORVRF860",
+      "isin": "BRORVR3F0142",
+      "ativo": "ORVR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 141200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 250000
+    },
+    {
+      "codigo_opcao": "ORVRR825",
+      "isin": "BRORVR3R0130",
+      "ativo": "ORVR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 250000
+    },
+    {
+      "codigo_opcao": "ORVRE740",
+      "isin": "BRORVR3E00M8",
+      "ativo": "ORVR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ORVRQ740",
+      "isin": "BRORVR3Q00F6",
+      "ativo": "ORVR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3900
+    },
+    {
+      "codigo_opcao": "ORVRE900",
+      "isin": "BRORVR3E00P1",
+      "ativo": "ORVR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26500
+    },
+    {
+      "codigo_opcao": "ORVRF900",
+      "isin": "BRORVR3F00L7",
+      "ativo": "ORVR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26500
+    },
+    {
+      "codigo_opcao": "ORVRG900",
+      "isin": "BRORVR3G00K7",
+      "ativo": "ORVR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26500
+    },
+    {
+      "codigo_opcao": "ORVRH900",
+      "isin": "BRORVR3H00G3",
+      "ativo": "ORVR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26500
+    },
+    {
+      "codigo_opcao": "ORVRQ70",
+      "isin": "BRORVR3Q00Q3",
+      "ativo": "ORVR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 79500
+    },
+    {
+      "codigo_opcao": "ORVRR700",
+      "isin": "BRORVR3R00M0",
+      "ativo": "ORVR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 79500
+    },
+    {
+      "codigo_opcao": "ORVRS700",
+      "isin": "BRORVR3S00L0",
+      "ativo": "ORVR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 79500
+    },
+    {
+      "codigo_opcao": "ORVRT700",
+      "isin": "BRORVR3T00H6",
+      "ativo": "ORVR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 79500
+    },
+    {
+      "codigo_opcao": "ORVRF770",
+      "isin": "BRORVR3F00O1",
+      "ativo": "ORVR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200000
+    }
+  ]
+}
