@@ -1,0 +1,23 @@
+{
+  "ticker": "TOKY",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 1,
+  "calls": 0,
+  "puts": 1,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "TOKYP400",
+      "isin": "BRTOKY3P0012",
+      "ativo": "TOKY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    }
+  ]
+}
