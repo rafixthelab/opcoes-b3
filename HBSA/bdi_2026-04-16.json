@@ -1,0 +1,78 @@
+{
+  "ticker": "HBSA",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 6,
+  "calls": 1,
+  "puts": 5,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "HBSAD501",
+      "isin": "BRHBSA3D00V2",
+      "ativo": "HBSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 102,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3500
+    },
+    {
+      "codigo_opcao": "HBSAP300",
+      "isin": "BRHBSA3P00H5",
+      "ativo": "HBSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "HBSAQ30",
+      "isin": "BRHBSA3Q00H3",
+      "ativo": "HBSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "HBSAR30",
+      "isin": "BRHBSA3R00K5",
+      "ativo": "HBSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "HBSAS30",
+      "isin": "BRHBSA3S00E6",
+      "ativo": "HBSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "HBSAT30",
+      "isin": "BRHBSA3T00M7",
+      "ativo": "HBSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    }
+  ]
+}
