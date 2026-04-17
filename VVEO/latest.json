@@ -1,0 +1,133 @@
+{
+  "ticker": "VVEO",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 11,
+  "calls": 9,
+  "puts": 2,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "VVEOA20",
+      "isin": "BRVVEO3A0014",
+      "ativo": "VVEO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 104000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 104000
+    },
+    {
+      "codigo_opcao": "VVEOD200",
+      "isin": "BRVVEO3D0003",
+      "ativo": "VVEO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 900,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "VVEOE20",
+      "isin": "BRVVEO3E0010",
+      "ativo": "VVEO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "VVEOF20",
+      "isin": "BRVVEO3F0019",
+      "ativo": "VVEO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "VVEOH20",
+      "isin": "BRVVEO3H0017",
+      "ativo": "VVEO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VVEOI20",
+      "isin": "BRVVEO3I0016",
+      "ativo": "VVEO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VVEOJ20",
+      "isin": "BRVVEO3J0015",
+      "ativo": "VVEO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VVEOL20",
+      "isin": "BRVVEO3L0045",
+      "ativo": "VVEO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VVEOR100",
+      "isin": "BRVVEO3R0056",
+      "ativo": "VVEO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6200
+    },
+    {
+      "codigo_opcao": "VVEOE140",
+      "isin": "BRVVEO3E00E4",
+      "ativo": "VVEO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "VVEOP130",
+      "isin": "BRVVEO3P00F7",
+      "ativo": "VVEO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 700
+    }
+  ]
+}
