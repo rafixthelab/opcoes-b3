@@ -1,0 +1,78 @@
+{
+  "ticker": "LOGG",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 6,
+  "calls": 3,
+  "puts": 3,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "LOGGP255",
+      "isin": "BRLOGG3P00Q3",
+      "ativo": "LOGG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "LOGGQ265",
+      "isin": "BRLOGG3Q00N8",
+      "ativo": "LOGG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "LOGGP270",
+      "isin": "BRLOGG3P00M2",
+      "ativo": "LOGG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "LOGGD295",
+      "isin": "BRLOGG3D00O4",
+      "ativo": "LOGG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 7200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7300
+    },
+    {
+      "codigo_opcao": "LOGGD275",
+      "isin": "BRLOGG3D00U1",
+      "ativo": "LOGG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "LOGGE300",
+      "isin": "BRLOGG3E00R5",
+      "ativo": "LOGG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 1500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1500
+    }
+  ]
+}
