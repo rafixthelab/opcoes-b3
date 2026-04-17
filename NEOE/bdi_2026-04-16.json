@@ -1,0 +1,89 @@
+{
+  "ticker": "NEOE",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 7,
+  "calls": 5,
+  "puts": 2,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "NEOEQ310",
+      "isin": "BRNEOE3Q02F2",
+      "ativo": "NEOE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 126,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 900
+    },
+    {
+      "codigo_opcao": "NEOEG358",
+      "isin": "BRNEOE3G0219",
+      "ativo": "NEOE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 127,
+      "quantidade_coberta": 1800,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1800
+    },
+    {
+      "codigo_opcao": "NEOEA180",
+      "isin": "BRNEOE3A01W3",
+      "ativo": "NEOE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 124,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "NEOEB18",
+      "isin": "BRNEOE3B0206",
+      "ativo": "NEOE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 124,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5800
+    },
+    {
+      "codigo_opcao": "NEOEF273",
+      "isin": "BRNEOE3F02F5",
+      "ativo": "NEOE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 127,
+      "quantidade_coberta": 17000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 17000
+    },
+    {
+      "codigo_opcao": "NEOEH250",
+      "isin": "BRNEOE3H01N7",
+      "ativo": "NEOE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 11500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 14500
+    },
+    {
+      "codigo_opcao": "NEOEP335",
+      "isin": "BRNEOE3P02L2",
+      "ativo": "NEOE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 127,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 29000
+    }
+  ]
+}
