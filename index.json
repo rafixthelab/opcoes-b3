@@ -1,15 +1,15 @@
 {
-  "atualizado_em": "2026-04-16T13:29:52.214554",
+  "atualizado_em": "2026-04-17T07:54:01.740819",
   "arquivos": [
     {
       "ticker": "PETR4",
       "empresa": "PETROLEO BRASILEIRO S.A. PETROBRAS",
-      "data": "14/04/2026",
-      "data_iso": "14-04-2026",
-      "total_opcoes": 2654,
+      "data": "16/04/2026",
+      "data_iso": "16-04-2026",
+      "total_opcoes": 2749,
       "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PETR4/latest.json",
-      "url_historico": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PETR4/opcoes_14-04-2026.json",
-      "atualizado_em": "2026-04-16 13:29:47"
+      "url_historico": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PETR4/opcoes_16-04-2026.json",
+      "atualizado_em": "2026-04-17 07:53:54"
     }
   ]
 }
