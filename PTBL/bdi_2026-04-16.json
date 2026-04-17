@@ -1,0 +1,56 @@
+{
+  "ticker": "PTBL",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 4,
+  "calls": 0,
+  "puts": 4,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "PTBLN30",
+      "isin": "BRPTBL3N00H6",
+      "ativo": "PTBL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "PTBLP300",
+      "isin": "BRPTBL3P00J7",
+      "ativo": "PTBL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "PTBLQ30",
+      "isin": "BRPTBL3Q00E6",
+      "ativo": "PTBL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "PTBLR30",
+      "isin": "BRPTBL3R00K1",
+      "ativo": "PTBL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    }
+  ]
+}
