@@ -1,0 +1,144 @@
+{
+  "ticker": "AMBP",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 12,
+  "calls": 7,
+  "puts": 5,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "AMBPG900",
+      "isin": "BRAMBP3G01Y3",
+      "ativo": "AMBP",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1800
+    },
+    {
+      "codigo_opcao": "AMBPH103",
+      "isin": "BRAMBP3H01Z8",
+      "ativo": "AMBP",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 1466900,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1500100
+    },
+    {
+      "codigo_opcao": "AMBPH138",
+      "isin": "BRAMBP3H0203",
+      "ativo": "AMBP",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 88600,
+      "quantidade_descoberta": 19800,
+      "total_posicoes": 133700
+    },
+    {
+      "codigo_opcao": "AMBPS110",
+      "isin": "BRAMBP3S01W2",
+      "ativo": "AMBP",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2500
+    },
+    {
+      "codigo_opcao": "AMBPT103",
+      "isin": "BRAMBP3T01Z3",
+      "ativo": "AMBP",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 24100,
+      "total_posicoes": 307400
+    },
+    {
+      "codigo_opcao": "AMBPT138",
+      "isin": "BRAMBP3T0209",
+      "ativo": "AMBP",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1948700
+    },
+    {
+      "codigo_opcao": "AMBPB500",
+      "isin": "BRAMBP3B05Z2",
+      "ativo": "AMBP",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 1100,
+      "total_posicoes": 14200
+    },
+    {
+      "codigo_opcao": "AMBPF400",
+      "isin": "BRAMBP3F0379",
+      "ativo": "AMBP",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 33200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 219800
+    },
+    {
+      "codigo_opcao": "AMBPG400",
+      "isin": "BRAMBP3G03D3",
+      "ativo": "AMBP",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 21900,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 47700
+    },
+    {
+      "codigo_opcao": "AMBPG70",
+      "isin": "BRAMBP3G03A9",
+      "ativo": "AMBP",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 900
+    },
+    {
+      "codigo_opcao": "AMBPN500",
+      "isin": "BRAMBP3N05Z7",
+      "ativo": "AMBP",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "AMBPS70",
+      "isin": "BRAMBP3S03D8",
+      "ativo": "AMBP",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    }
+  ]
+}
