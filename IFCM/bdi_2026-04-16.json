@@ -1,0 +1,100 @@
+{
+  "ticker": "IFCM",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 8,
+  "calls": 5,
+  "puts": 3,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "IFCMM250",
+      "isin": "BRIFCM3M00W0",
+      "ativo": "IFCM",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "IFCMA10",
+      "isin": "BRIFCM3A00F0",
+      "ativo": "IFCM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 102,
+      "quantidade_coberta": 18,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2376
+    },
+    {
+      "codigo_opcao": "IFCMB99",
+      "isin": "BRIFCM3B00R3",
+      "ativo": "IFCM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 102,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1433
+    },
+    {
+      "codigo_opcao": "IFCMG10",
+      "isin": "BRIFCM3G00L5",
+      "ativo": "IFCM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 102,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "IFCMK150",
+      "isin": "BRIFCM3K00N3",
+      "ativo": "IFCM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 101,
+      "quantidade_coberta": 22,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 34
+    },
+    {
+      "codigo_opcao": "IFCMQ10",
+      "isin": "BRIFCM3Q00G4",
+      "ativo": "IFCM",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 102,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 460,
+      "total_posicoes": 460
+    },
+    {
+      "codigo_opcao": "IFCMX10",
+      "isin": "BRIFCM3X00Z0",
+      "ativo": "IFCM",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 102,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "IFCMD900",
+      "isin": "BRIFCM3D00U3",
+      "ativo": "IFCM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10000
+    }
+  ]
+}
