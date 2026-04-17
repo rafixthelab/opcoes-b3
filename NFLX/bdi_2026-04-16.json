@@ -1,0 +1,23 @@
+{
+  "ticker": "NFLX",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 1,
+  "calls": 1,
+  "puts": 0,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "NFLXD115",
+      "isin": "BRNFLX9D0078",
+      "ativo": "NFLX",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 102,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 470
+    }
+  ]
+}
