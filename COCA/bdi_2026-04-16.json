@@ -1,0 +1,45 @@
+{
+  "ticker": "COCA",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-16",
+  "capturado_em": "2026-04-17 11:20:28",
+  "total_registros": 3,
+  "calls": 2,
+  "puts": 1,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "COCAF644",
+      "isin": "BRCOCA9F00G3",
+      "ativo": "COCA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 159,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2500
+    },
+    {
+      "codigo_opcao": "COCAQ624",
+      "isin": "BRCOCA9Q00K2",
+      "ativo": "COCA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 159,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 14880
+    },
+    {
+      "codigo_opcao": "COCAD657",
+      "isin": "BRCOCA9D00G8",
+      "ativo": "COCA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 360,
+      "quantidade_descoberta": 320,
+      "total_posicoes": 3820
+    }
+  ]
+}
