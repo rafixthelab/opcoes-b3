@@ -1,15 +1,1526 @@
 {
-  "atualizado_em": "2026-04-17T08:41:11.498500",
-  "arquivos": [
-    {
-      "ticker": "PETR4",
-      "empresa": "PETROLEO BRASILEIRO S.A. PETROBRAS",
+  "atualizado_em": "2026-04-17 11:20:28",
+  "fonte": "BDI B3",
+  "ativos": {
+    "AAPL": {
+      "total": 8,
+      "calls": 4,
+      "puts": 4,
       "data": "16/04/2026",
-      "data_iso": "16-04-2026",
-      "total_opcoes": 2749,
-      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PETR4/latest.json",
-      "url_historico": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PETR4/opcoes_16-04-2026.json",
-      "atualizado_em": "2026-04-17 08:41:04"
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AAPL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ABCB": {
+      "total": 56,
+      "calls": 35,
+      "puts": 21,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ABCB/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ABEV": {
+      "total": 384,
+      "calls": 219,
+      "puts": 165,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ABEV/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "AERI": {
+      "total": 1,
+      "calls": 1,
+      "puts": 0,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AERI/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "AGRO": {
+      "total": 32,
+      "calls": 15,
+      "puts": 17,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AGRO/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ALOS": {
+      "total": 347,
+      "calls": 194,
+      "puts": 153,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ALOS/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ALPA": {
+      "total": 136,
+      "calls": 71,
+      "puts": 65,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ALPA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ALUP": {
+      "total": 44,
+      "calls": 23,
+      "puts": 21,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ALUP/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "AMAR": {
+      "total": 22,
+      "calls": 19,
+      "puts": 3,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AMAR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "AMBP": {
+      "total": 12,
+      "calls": 7,
+      "puts": 5,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AMBP/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "AMZO": {
+      "total": 8,
+      "calls": 6,
+      "puts": 2,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AMZO/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ANIM": {
+      "total": 140,
+      "calls": 68,
+      "puts": 72,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ANIM/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ARML": {
+      "total": 26,
+      "calls": 13,
+      "puts": 13,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ARML/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ASAI": {
+      "total": 230,
+      "calls": 106,
+      "puts": 124,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ASAI/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "AUAU": {
+      "total": 245,
+      "calls": 138,
+      "puts": 107,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AUAU/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "AURA": {
+      "total": 34,
+      "calls": 23,
+      "puts": 11,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AURA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "AURE": {
+      "total": 73,
+      "calls": 39,
+      "puts": 34,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AURE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "AXIA": {
+      "total": 865,
+      "calls": 413,
+      "puts": 452,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AXIA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "AZUL": {
+      "total": 57,
+      "calls": 32,
+      "puts": 25,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AZUL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "AZZA": {
+      "total": 399,
+      "calls": 188,
+      "puts": 211,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/AZZA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "B3SA": {
+      "total": 697,
+      "calls": 387,
+      "puts": 310,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/B3SA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BABA": {
+      "total": 1,
+      "calls": 0,
+      "puts": 1,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BABA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BBAS": {
+      "total": 1222,
+      "calls": 618,
+      "puts": 604,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BBAS/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BBDC": {
+      "total": 1146,
+      "calls": 632,
+      "puts": 514,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BBDC/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BBSE": {
+      "total": 510,
+      "calls": 269,
+      "puts": 241,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BBSE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BEEF": {
+      "total": 385,
+      "calls": 175,
+      "puts": 210,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BEEF/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BERK": {
+      "total": 3,
+      "calls": 2,
+      "puts": 1,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BERK/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BHIA": {
+      "total": 213,
+      "calls": 108,
+      "puts": 105,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BHIA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BLAU": {
+      "total": 23,
+      "calls": 11,
+      "puts": 12,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BLAU/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BMGB": {
+      "total": 71,
+      "calls": 37,
+      "puts": 34,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BMGB/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BMOB": {
+      "total": 28,
+      "calls": 14,
+      "puts": 14,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BMOB/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BOVA": {
+      "total": 2178,
+      "calls": 1081,
+      "puts": 1097,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BOVA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BOVV": {
+      "total": 94,
+      "calls": 67,
+      "puts": 27,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BOVV/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BPAC": {
+      "total": 690,
+      "calls": 338,
+      "puts": 352,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BPAC/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BRAP": {
+      "total": 350,
+      "calls": 196,
+      "puts": 154,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BRAP/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BRAV": {
+      "total": 668,
+      "calls": 328,
+      "puts": 340,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BRAV/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BRKM": {
+      "total": 352,
+      "calls": 164,
+      "puts": 188,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BRKM/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "BRSR": {
+      "total": 163,
+      "calls": 89,
+      "puts": 74,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/BRSR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CAML": {
+      "total": 18,
+      "calls": 12,
+      "puts": 6,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CAML/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CASH": {
+      "total": 29,
+      "calls": 16,
+      "puts": 13,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CASH/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CBAV": {
+      "total": 32,
+      "calls": 21,
+      "puts": 11,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CBAV/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CEAB": {
+      "total": 150,
+      "calls": 61,
+      "puts": 89,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CEAB/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CMIG": {
+      "total": 348,
+      "calls": 183,
+      "puts": 165,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CMIG/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CMIN": {
+      "total": 216,
+      "calls": 99,
+      "puts": 117,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CMIN/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "COCA": {
+      "total": 3,
+      "calls": 2,
+      "puts": 1,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/COCA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "COGN": {
+      "total": 485,
+      "calls": 230,
+      "puts": 255,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/COGN/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CPFE": {
+      "total": 157,
+      "calls": 80,
+      "puts": 77,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CPFE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CPLE": {
+      "total": 223,
+      "calls": 121,
+      "puts": 102,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CPLE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CSAN": {
+      "total": 640,
+      "calls": 268,
+      "puts": 372,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CSAN/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CSMG": {
+      "total": 399,
+      "calls": 199,
+      "puts": 200,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CSMG/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CSNA": {
+      "total": 580,
+      "calls": 295,
+      "puts": 285,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CSNA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CURY": {
+      "total": 144,
+      "calls": 68,
+      "puts": 76,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CURY/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CVCB": {
+      "total": 216,
+      "calls": 110,
+      "puts": 106,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CVCB/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CXSE": {
+      "total": 465,
+      "calls": 228,
+      "puts": 237,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CXSE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "CYRE": {
+      "total": 370,
+      "calls": 186,
+      "puts": 184,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/CYRE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "DASA": {
+      "total": 19,
+      "calls": 8,
+      "puts": 11,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/DASA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "DIRR": {
+      "total": 203,
+      "calls": 95,
+      "puts": 108,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/DIRR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "DXCO": {
+      "total": 87,
+      "calls": 42,
+      "puts": 45,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/DXCO/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ECOR": {
+      "total": 168,
+      "calls": 81,
+      "puts": 87,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ECOR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "EGIE": {
+      "total": 296,
+      "calls": 150,
+      "puts": 146,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/EGIE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "EMBJ": {
+      "total": 803,
+      "calls": 378,
+      "puts": 425,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/EMBJ/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ENEV": {
+      "total": 280,
+      "calls": 140,
+      "puts": 140,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ENEV/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ENGI": {
+      "total": 139,
+      "calls": 63,
+      "puts": 76,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ENGI/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ENJU": {
+      "total": 2,
+      "calls": 2,
+      "puts": 0,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ENJU/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "EQTL": {
+      "total": 358,
+      "calls": 177,
+      "puts": 181,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/EQTL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ESPA": {
+      "total": 3,
+      "calls": 1,
+      "puts": 2,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ESPA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "EVEN": {
+      "total": 46,
+      "calls": 23,
+      "puts": 23,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/EVEN/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "EZTC": {
+      "total": 162,
+      "calls": 89,
+      "puts": 73,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/EZTC/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "FESA": {
+      "total": 37,
+      "calls": 23,
+      "puts": 14,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/FESA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "FLRY": {
+      "total": 153,
+      "calls": 83,
+      "puts": 70,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/FLRY/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "GFSA": {
+      "total": 45,
+      "calls": 31,
+      "puts": 14,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/GFSA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "GGBR": {
+      "total": 501,
+      "calls": 268,
+      "puts": 233,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/GGBR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "GGPS": {
+      "total": 13,
+      "calls": 12,
+      "puts": 1,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/GGPS/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "GMAT": {
+      "total": 188,
+      "calls": 88,
+      "puts": 100,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/GMAT/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "GOAU": {
+      "total": 261,
+      "calls": 124,
+      "puts": 137,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/GOAU/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "GOGL": {
+      "total": 31,
+      "calls": 15,
+      "puts": 16,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/GOGL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "GOLD": {
+      "total": 16,
+      "calls": 5,
+      "puts": 11,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/GOLD/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "GRND": {
+      "total": 85,
+      "calls": 49,
+      "puts": 36,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/GRND/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "HAPV": {
+      "total": 519,
+      "calls": 245,
+      "puts": 274,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/HAPV/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "HASH": {
+      "total": 81,
+      "calls": 41,
+      "puts": 40,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/HASH/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "HBOR": {
+      "total": 63,
+      "calls": 42,
+      "puts": 21,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/HBOR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "HBSA": {
+      "total": 6,
+      "calls": 1,
+      "puts": 5,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/HBSA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "HYPE": {
+      "total": 287,
+      "calls": 153,
+      "puts": 134,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/HYPE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "IBOV": {
+      "total": 810,
+      "calls": 386,
+      "puts": 424,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/IBOV/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "IFCM": {
+      "total": 8,
+      "calls": 5,
+      "puts": 3,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/IFCM/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "IGTI": {
+      "total": 241,
+      "calls": 131,
+      "puts": 110,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/IGTI/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "INBR": {
+      "total": 46,
+      "calls": 24,
+      "puts": 22,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/INBR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "INTB": {
+      "total": 72,
+      "calls": 40,
+      "puts": 32,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/INTB/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "IRBR": {
+      "total": 442,
+      "calls": 233,
+      "puts": 209,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/IRBR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ISAE": {
+      "total": 225,
+      "calls": 132,
+      "puts": 93,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ISAE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ITSA": {
+      "total": 472,
+      "calls": 275,
+      "puts": 197,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ITSA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ITUB": {
+      "total": 1170,
+      "calls": 658,
+      "puts": 512,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ITUB/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "IVVB": {
+      "total": 43,
+      "calls": 20,
+      "puts": 23,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/IVVB/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "JALL": {
+      "total": 39,
+      "calls": 22,
+      "puts": 17,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/JALL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "JBSS": {
+      "total": 192,
+      "calls": 109,
+      "puts": 83,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/JBSS/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "JHSF": {
+      "total": 197,
+      "calls": 110,
+      "puts": 87,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/JHSF/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "KEPL": {
+      "total": 54,
+      "calls": 27,
+      "puts": 27,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/KEPL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "KLBN": {
+      "total": 223,
+      "calls": 104,
+      "puts": 119,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/KLBN/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "LAVV": {
+      "total": 9,
+      "calls": 5,
+      "puts": 4,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/LAVV/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "LEVE": {
+      "total": 82,
+      "calls": 44,
+      "puts": 38,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/LEVE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "LJQQ": {
+      "total": 90,
+      "calls": 46,
+      "puts": 44,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/LJQQ/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "LOGG": {
+      "total": 6,
+      "calls": 3,
+      "puts": 3,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/LOGG/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "LOGN": {
+      "total": 3,
+      "calls": 2,
+      "puts": 1,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/LOGN/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "LREN": {
+      "total": 379,
+      "calls": 188,
+      "puts": 191,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/LREN/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "LWSA": {
+      "total": 158,
+      "calls": 85,
+      "puts": 73,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/LWSA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "M1TA": {
+      "total": 1,
+      "calls": 0,
+      "puts": 1,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/M1TA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MBRF": {
+      "total": 301,
+      "calls": 147,
+      "puts": 154,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MBRF/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MCDC": {
+      "total": 3,
+      "calls": 2,
+      "puts": 1,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MCDC/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MDIA": {
+      "total": 90,
+      "calls": 44,
+      "puts": 46,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MDIA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MDNE": {
+      "total": 19,
+      "calls": 9,
+      "puts": 10,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MDNE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MEAL": {
+      "total": 8,
+      "calls": 5,
+      "puts": 3,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MEAL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MELI": {
+      "total": 59,
+      "calls": 23,
+      "puts": 36,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MELI/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MGLU": {
+      "total": 629,
+      "calls": 313,
+      "puts": 316,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MGLU/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MILS": {
+      "total": 57,
+      "calls": 29,
+      "puts": 28,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MILS/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MLAS": {
+      "total": 2,
+      "calls": 2,
+      "puts": 0,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MLAS/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MOTV": {
+      "total": 171,
+      "calls": 84,
+      "puts": 87,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MOTV/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MOVI": {
+      "total": 175,
+      "calls": 94,
+      "puts": 81,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MOVI/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MRVE": {
+      "total": 404,
+      "calls": 185,
+      "puts": 219,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MRVE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MSFT": {
+      "total": 4,
+      "calls": 2,
+      "puts": 2,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MSFT/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MTRE": {
+      "total": 11,
+      "calls": 8,
+      "puts": 3,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MTRE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MULT": {
+      "total": 254,
+      "calls": 109,
+      "puts": 145,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MULT/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "MYPK": {
+      "total": 94,
+      "calls": 42,
+      "puts": 52,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/MYPK/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "NASD": {
+      "total": 1,
+      "calls": 0,
+      "puts": 1,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/NASD/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "NATU": {
+      "total": 268,
+      "calls": 125,
+      "puts": 143,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/NATU/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "NEOE": {
+      "total": 7,
+      "calls": 5,
+      "puts": 2,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/NEOE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "NFLX": {
+      "total": 1,
+      "calls": 1,
+      "puts": 0,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/NFLX/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "NVDC": {
+      "total": 37,
+      "calls": 17,
+      "puts": 20,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/NVDC/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ODPV": {
+      "total": 76,
+      "calls": 43,
+      "puts": 33,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ODPV/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ONCO": {
+      "total": 69,
+      "calls": 37,
+      "puts": 32,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ONCO/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ORVR": {
+      "total": 14,
+      "calls": 8,
+      "puts": 6,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ORVR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "PAGS": {
+      "total": 1,
+      "calls": 1,
+      "puts": 0,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PAGS/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "PCAR": {
+      "total": 150,
+      "calls": 77,
+      "puts": 73,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PCAR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "PETR": {
+      "total": 2749,
+      "calls": 1472,
+      "puts": 1277,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PETR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "PGMN": {
+      "total": 8,
+      "calls": 4,
+      "puts": 4,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PGMN/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "PLPL": {
+      "total": 36,
+      "calls": 18,
+      "puts": 18,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PLPL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "PNVL": {
+      "total": 53,
+      "calls": 37,
+      "puts": 16,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PNVL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "POMO": {
+      "total": 174,
+      "calls": 89,
+      "puts": 85,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/POMO/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "POSI": {
+      "total": 123,
+      "calls": 59,
+      "puts": 64,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/POSI/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "PRIO": {
+      "total": 1265,
+      "calls": 620,
+      "puts": 645,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PRIO/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "PSSA": {
+      "total": 262,
+      "calls": 127,
+      "puts": 135,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PSSA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "PTBL": {
+      "total": 4,
+      "calls": 0,
+      "puts": 4,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/PTBL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "QUAL": {
+      "total": 206,
+      "calls": 97,
+      "puts": 109,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/QUAL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "RADL": {
+      "total": 322,
+      "calls": 164,
+      "puts": 158,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/RADL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "RAIL": {
+      "total": 228,
+      "calls": 115,
+      "puts": 113,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/RAIL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "RAIZ": {
+      "total": 189,
+      "calls": 90,
+      "puts": 99,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/RAIZ/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "RANI": {
+      "total": 55,
+      "calls": 34,
+      "puts": 21,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/RANI/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "RAPT": {
+      "total": 150,
+      "calls": 66,
+      "puts": 84,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/RAPT/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "RDOR": {
+      "total": 306,
+      "calls": 153,
+      "puts": 153,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/RDOR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "RECV": {
+      "total": 119,
+      "calls": 57,
+      "puts": 62,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/RECV/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "RENT": {
+      "total": 481,
+      "calls": 228,
+      "puts": 253,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/RENT/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "RIAA": {
+      "total": 65,
+      "calls": 35,
+      "puts": 30,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/RIAA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ROMI": {
+      "total": 60,
+      "calls": 32,
+      "puts": 28,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ROMI/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "ROXO": {
+      "total": 105,
+      "calls": 57,
+      "puts": 48,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/ROXO/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SANB": {
+      "total": 315,
+      "calls": 147,
+      "puts": 168,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SANB/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SAPR": {
+      "total": 254,
+      "calls": 144,
+      "puts": 110,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SAPR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SBFG": {
+      "total": 85,
+      "calls": 40,
+      "puts": 45,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SBFG/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SBSP": {
+      "total": 477,
+      "calls": 243,
+      "puts": 234,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SBSP/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SEER": {
+      "total": 69,
+      "calls": 31,
+      "puts": 38,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SEER/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SIMH": {
+      "total": 192,
+      "calls": 99,
+      "puts": 93,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SIMH/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SLCE": {
+      "total": 148,
+      "calls": 74,
+      "puts": 74,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SLCE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SMAL": {
+      "total": 448,
+      "calls": 222,
+      "puts": 226,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SMAL/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SMFT": {
+      "total": 112,
+      "calls": 53,
+      "puts": 59,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SMFT/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SMTO": {
+      "total": 180,
+      "calls": 99,
+      "puts": 81,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SMTO/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SOJA": {
+      "total": 43,
+      "calls": 19,
+      "puts": 24,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SOJA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "SUZB": {
+      "total": 660,
+      "calls": 312,
+      "puts": 348,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/SUZB/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "TAEE": {
+      "total": 294,
+      "calls": 155,
+      "puts": 139,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/TAEE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "TASA": {
+      "total": 23,
+      "calls": 13,
+      "puts": 10,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/TASA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "TEND": {
+      "total": 92,
+      "calls": 50,
+      "puts": 42,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/TEND/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "TIMS": {
+      "total": 128,
+      "calls": 68,
+      "puts": 60,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/TIMS/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "TOKY": {
+      "total": 1,
+      "calls": 0,
+      "puts": 1,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/TOKY/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "TOTS": {
+      "total": 259,
+      "calls": 105,
+      "puts": 154,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/TOTS/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "TRIS": {
+      "total": 50,
+      "calls": 27,
+      "puts": 23,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/TRIS/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "TSLA": {
+      "total": 10,
+      "calls": 8,
+      "puts": 2,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/TSLA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "TTEN": {
+      "total": 63,
+      "calls": 31,
+      "puts": 32,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/TTEN/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "TUPY": {
+      "total": 126,
+      "calls": 68,
+      "puts": 58,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/TUPY/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "UGPA": {
+      "total": 200,
+      "calls": 111,
+      "puts": 89,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/UGPA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "UNIP": {
+      "total": 86,
+      "calls": 42,
+      "puts": 44,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/UNIP/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "USIM": {
+      "total": 511,
+      "calls": 266,
+      "puts": 245,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/USIM/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "VALE": {
+      "total": 1844,
+      "calls": 1047,
+      "puts": 797,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/VALE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "VAMO": {
+      "total": 320,
+      "calls": 150,
+      "puts": 170,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/VAMO/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "VBBR": {
+      "total": 295,
+      "calls": 164,
+      "puts": 131,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/VBBR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "VIVA": {
+      "total": 202,
+      "calls": 94,
+      "puts": 108,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/VIVA/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "VIVT": {
+      "total": 183,
+      "calls": 101,
+      "puts": 82,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/VIVT/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "VLID": {
+      "total": 84,
+      "calls": 42,
+      "puts": 42,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/VLID/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "VULC": {
+      "total": 99,
+      "calls": 53,
+      "puts": 46,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/VULC/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "VVEO": {
+      "total": 11,
+      "calls": 9,
+      "puts": 2,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/VVEO/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "WEGE": {
+      "total": 989,
+      "calls": 531,
+      "puts": 458,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/WEGE/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "WIZC": {
+      "total": 47,
+      "calls": 28,
+      "puts": 19,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/WIZC/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "XPBR": {
+      "total": 116,
+      "calls": 53,
+      "puts": 63,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/XPBR/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
+    },
+    "YDUQ": {
+      "total": 148,
+      "calls": 65,
+      "puts": 83,
+      "data": "16/04/2026",
+      "url_latest": "https://raw.githubusercontent.com/rafixthelab/opcoes-b3/main/YDUQ/latest.json",
+      "atualizado": "2026-04-17 11:20:28"
     }
-  ]
+  }
 }
