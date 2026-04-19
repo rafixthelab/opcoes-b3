@@ -1,34 +1,78 @@
 {
   "ticker": "ENGI",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 139,
-  "calls": 63,
-  "puts": 76,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 100,
+  "calls": 42,
+  "puts": 58,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "ENGIP478",
-      "isin": "BRENGI9P0532",
+      "codigo_opcao": "ENGIE510",
+      "isin": "BRENGI9E06P1",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 7100,
+      "total_posicoes": 7200
+    },
+    {
+      "codigo_opcao": "ENGIE52",
+      "isin": "BRENGI9E06O4",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 14900,
+      "total_posicoes": 14900
+    },
+    {
+      "codigo_opcao": "ENGIQ510",
+      "isin": "BRENGI9Q06O8",
       "ativo": "ENGI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 9900,
-      "total_posicoes": 11100
+      "quantidade_descoberta": 100,
+      "total_posicoes": 4600
     },
     {
-      "codigo_opcao": "ENGIP468",
-      "isin": "BRENGI9P0540",
+      "codigo_opcao": "ENGIQ52",
+      "isin": "BRENGI9Q06P5",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5000,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "ENGIR473",
+      "isin": "BRENGI9R04H5",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENGIR483",
+      "isin": "BRENGI9R04I3",
       "ativo": "ENGI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2000
+      "total_posicoes": 50000
     },
     {
       "codigo_opcao": "ENGIE488",
@@ -61,7 +105,7 @@
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 6000,
-      "total_posicoes": 6700
+      "total_posicoes": 6200
     },
     {
       "codigo_opcao": "ENGIQ488",
@@ -82,7 +126,7 @@
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
+      "quantidade_descoberta": 3100,
       "total_posicoes": 6300
     },
     {
@@ -97,26 +141,26 @@
       "total_posicoes": 3200
     },
     {
-      "codigo_opcao": "ENGIE581",
-      "isin": "BRENGI9E06G0",
+      "codigo_opcao": "ENGIE521",
+      "isin": "BRENGI9E06F2",
       "ativo": "ENGI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 140,
-      "quantidade_coberta": 4000,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 20200
+      "total_posicoes": 8200
     },
     {
-      "codigo_opcao": "ENGIQ581",
-      "isin": "BRENGI9Q06G4",
+      "codigo_opcao": "ENGIQ521",
+      "isin": "BRENGI9Q06E9",
       "ativo": "ENGI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 200
+      "quantidade_descoberta": 500,
+      "total_posicoes": 500
     },
     {
       "codigo_opcao": "ENGIE511",
@@ -138,7 +182,227 @@
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 2200,
-      "total_posicoes": 7900
+      "total_posicoes": 8300
+    },
+    {
+      "codigo_opcao": "ENGIF493",
+      "isin": "BRENGI9F04G2",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1800
+    },
+    {
+      "codigo_opcao": "ENGIR493",
+      "isin": "BRENGI9R04G7",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENGIF511",
+      "isin": "BRENGI9F04J6",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1800
+    },
+    {
+      "codigo_opcao": "ENGIL37",
+      "isin": "BRENGI9L05N3",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 136,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "ENGIR37",
+      "isin": "BRENGI9R0399",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 136,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 110,
+      "total_posicoes": 110
+    },
+    {
+      "codigo_opcao": "ENGIR453",
+      "isin": "BRENGI9R04S2",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENGIR511",
+      "isin": "BRENGI9R04J1",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 50000,
+      "total_posicoes": 50000
+    },
+    {
+      "codigo_opcao": "ENGIR531",
+      "isin": "BRENGI9R05G4",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "ENGIT37",
+      "isin": "BRENGI9T0363",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 136,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 110,
+      "total_posicoes": 110
+    },
+    {
+      "codigo_opcao": "ENGIV37",
+      "isin": "BRENGI9V0450",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 136,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 110,
+      "total_posicoes": 110
+    },
+    {
+      "codigo_opcao": "ENGIW37",
+      "isin": "BRENGI9W0491",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 136,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 210,
+      "total_posicoes": 210
+    },
+    {
+      "codigo_opcao": "ENGIX37",
+      "isin": "BRENGI9X05N8",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 136,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 210,
+      "total_posicoes": 210
+    },
+    {
+      "codigo_opcao": "ENGIF541",
+      "isin": "BRENGI9F04D9",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 1500,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 1700
+    },
+    {
+      "codigo_opcao": "ENGIF551",
+      "isin": "BRENGI9F04F4",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENGIL506",
+      "isin": "BRENGI9L06L5",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 138,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "ENGIX506",
+      "isin": "BRENGI9X06L0",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 138,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 210,
+      "total_posicoes": 264950
+    },
+    {
+      "codigo_opcao": "ENGIE458",
+      "isin": "BRENGI9E0683",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ENGIQ458",
+      "isin": "BRENGI9Q0671",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 24500
+    },
+    {
+      "codigo_opcao": "ENGIQ468",
+      "isin": "BRENGI9Q0697",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12300,
+      "total_posicoes": 13200
+    },
+    {
+      "codigo_opcao": "ENGIQ478",
+      "isin": "BRENGI9Q0689",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 17700,
+      "total_posicoes": 18300
     },
     {
       "codigo_opcao": "ENGIE403",
@@ -225,7 +489,7 @@
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 3000,
-      "quantidade_descoberta": 18900,
+      "quantidade_descoberta": 16700,
       "total_posicoes": 23000
     },
     {
@@ -235,9 +499,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 140,
-      "quantidade_coberta": 1000,
+      "quantidade_coberta": 1500,
       "quantidade_descoberta": 0,
-      "total_posicoes": 13500
+      "total_posicoes": 12500
     },
     {
       "codigo_opcao": "ENGIE596",
@@ -257,7 +521,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 140,
-      "quantidade_coberta": 200,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 800
     },
@@ -313,7 +577,7 @@
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 3000,
       "total_posicoes": 4100
     },
     {
@@ -368,7 +632,7 @@
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 3000,
       "total_posicoes": 3500
     },
     {
@@ -379,7 +643,7 @@
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 300
     },
     {
@@ -445,8 +709,8 @@
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 4400,
-      "total_posicoes": 4400
+      "quantidade_descoberta": 3700,
+      "total_posicoes": 3700
     },
     {
       "codigo_opcao": "ENGIQ616",
@@ -471,501 +735,6 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ENGID483",
-      "isin": "BRENGI9D0502",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "ENGIP483",
-      "isin": "BRENGI9P0508",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3500
-    },
-    {
-      "codigo_opcao": "ENGIP493",
-      "isin": "BRENGI9P04Z1",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 330800,
-      "total_posicoes": 334700
-    },
-    {
-      "codigo_opcao": "ENGID488",
-      "isin": "BRENGI9D0510",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6500,
-      "total_posicoes": 6500
-    },
-    {
-      "codigo_opcao": "ENGID498",
-      "isin": "BRENGI9D0528",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 35300,
-      "total_posicoes": 35400
-    },
-    {
-      "codigo_opcao": "ENGIP488",
-      "isin": "BRENGI9P0524",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1700,
-      "total_posicoes": 15100
-    },
-    {
-      "codigo_opcao": "ENGIP498",
-      "isin": "BRENGI9P0516",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11800,
-      "total_posicoes": 13800
-    },
-    {
-      "codigo_opcao": "ENGID506",
-      "isin": "BRENGI9D05T7",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 16000,
-      "quantidade_descoberta": 4800,
-      "total_posicoes": 97500
-    },
-    {
-      "codigo_opcao": "ENGID516",
-      "isin": "BRENGI9D05M2",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 10100,
-      "quantidade_descoberta": 15000,
-      "total_posicoes": 26100
-    },
-    {
-      "codigo_opcao": "ENGID536",
-      "isin": "BRENGI9D05P5",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 11900,
-      "total_posicoes": 339700
-    },
-    {
-      "codigo_opcao": "ENGID566",
-      "isin": "BRENGI9D05N0",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 85500
-    },
-    {
-      "codigo_opcao": "ENGID576",
-      "isin": "BRENGI9D05V3",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 4200
-    },
-    {
-      "codigo_opcao": "ENGIP546",
-      "isin": "BRENGI9P05L8",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12500,
-      "total_posicoes": 13500
-    },
-    {
-      "codigo_opcao": "ENGIP556",
-      "isin": "BRENGI9P05G8",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6000,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "ENGID526",
-      "isin": "BRENGI9D05Q3",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 46800,
-      "total_posicoes": 50100
-    },
-    {
-      "codigo_opcao": "ENGID546",
-      "isin": "BRENGI9D05K6",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 26700,
-      "total_posicoes": 33200
-    },
-    {
-      "codigo_opcao": "ENGID556",
-      "isin": "BRENGI9D05J8",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 20300,
-      "quantidade_descoberta": 27300,
-      "total_posicoes": 68900
-    },
-    {
-      "codigo_opcao": "ENGID586",
-      "isin": "BRENGI9D05H2",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6300,
-      "total_posicoes": 6400
-    },
-    {
-      "codigo_opcao": "ENGID596",
-      "isin": "BRENGI9D05L4",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "ENGID606",
-      "isin": "BRENGI9D05D1",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "ENGID616",
-      "isin": "BRENGI9D05R1",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "ENGID626",
-      "isin": "BRENGI9D0585",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2200,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "ENGID636",
-      "isin": "BRENGI9D0593",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2900,
-      "total_posicoes": 2900
-    },
-    {
-      "codigo_opcao": "ENGIP506",
-      "isin": "BRENGI9P05X3",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 16300,
-      "total_posicoes": 17600
-    },
-    {
-      "codigo_opcao": "ENGIP516",
-      "isin": "BRENGI9P05I4",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 15100,
-      "total_posicoes": 24300
-    },
-    {
-      "codigo_opcao": "ENGIP526",
-      "isin": "BRENGI9P0573",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14400,
-      "total_posicoes": 14600
-    },
-    {
-      "codigo_opcao": "ENGIP536",
-      "isin": "BRENGI9P05Q7",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11700,
-      "total_posicoes": 11700
-    },
-    {
-      "codigo_opcao": "ENGIP566",
-      "isin": "BRENGI9P05N4",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3600,
-      "total_posicoes": 3700
-    },
-    {
-      "codigo_opcao": "ENGIP606",
-      "isin": "BRENGI9P0581",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENGID433",
-      "isin": "BRENGI9D06C1",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2100,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "ENGIP463",
-      "isin": "BRENGI9P0649",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 321700,
-      "total_posicoes": 322300
-    },
-    {
-      "codigo_opcao": "ENGIT498",
-      "isin": "BRENGI9T04F5",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "ENGIF511",
-      "isin": "BRENGI9F04J6",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "ENGIL37",
-      "isin": "BRENGI9L05N3",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 136,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "ENGIP370",
-      "isin": "BRENGI9P04A4",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 136,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 110,
-      "total_posicoes": 110
-    },
-    {
-      "codigo_opcao": "ENGIR37",
-      "isin": "BRENGI9R0399",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 136,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 110,
-      "total_posicoes": 110
-    },
-    {
-      "codigo_opcao": "ENGIR511",
-      "isin": "BRENGI9R04J1",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 50000,
-      "total_posicoes": 50000
-    },
-    {
-      "codigo_opcao": "ENGIT37",
-      "isin": "BRENGI9T0363",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 136,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 110,
-      "total_posicoes": 110
-    },
-    {
-      "codigo_opcao": "ENGIV37",
-      "isin": "BRENGI9V0450",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 136,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 110,
-      "total_posicoes": 110
-    },
-    {
-      "codigo_opcao": "ENGIW37",
-      "isin": "BRENGI9W0491",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 136,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 210,
-      "total_posicoes": 210
-    },
-    {
-      "codigo_opcao": "ENGIX37",
-      "isin": "BRENGI9X05N8",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 136,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 210,
-      "total_posicoes": 210
-    },
-    {
-      "codigo_opcao": "ENGIE521",
-      "isin": "BRENGI9E06F2",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8200
-    },
-    {
-      "codigo_opcao": "ENGIQ521",
-      "isin": "BRENGI9Q06E9",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "ENGIF541",
-      "isin": "BRENGI9F04D9",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 1700
-    },
-    {
-      "codigo_opcao": "ENGIF551",
-      "isin": "BRENGI9F04F4",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
       "codigo_opcao": "ENGIE541",
       "isin": "BRENGI9E06H8",
       "ativo": "ENGI",
@@ -973,7 +742,7 @@
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
+      "quantidade_descoberta": 0,
       "total_posicoes": 1300
     },
     {
@@ -1006,7 +775,7 @@
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
+      "quantidade_descoberta": 2000,
       "total_posicoes": 2400
     },
     {
@@ -1043,202 +812,114 @@
       "total_posicoes": 45100
     },
     {
-      "codigo_opcao": "ENGIL506",
-      "isin": "BRENGI9L06L5",
+      "codigo_opcao": "ENGIE520",
+      "isin": "BRENGI9E06M8",
       "ativo": "ENGI",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 138,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 8200,
+      "total_posicoes": 15100
+    },
+    {
+      "codigo_opcao": "ENGIE530",
+      "isin": "BRENGI9E06K2",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 900,
+      "total_posicoes": 2900
+    },
+    {
+      "codigo_opcao": "ENGIE540",
+      "isin": "BRENGI9E06L0",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12300,
+      "total_posicoes": 12400
+    },
+    {
+      "codigo_opcao": "ENGIE550",
+      "isin": "BRENGI9E06N6",
+      "ativo": "ENGI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "ENGIQ520",
+      "isin": "BRENGI9Q06N0",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5700,
+      "total_posicoes": 11300
+    },
+    {
+      "codigo_opcao": "ENGIQ530",
+      "isin": "BRENGI9Q06M2",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10300
+    },
+    {
+      "codigo_opcao": "ENGIQ540",
+      "isin": "BRENGI9Q06K6",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "ENGIQ550",
+      "isin": "BRENGI9Q06L4",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2200
+    },
+    {
+      "codigo_opcao": "ENGIT498",
+      "isin": "BRENGI9T04F5",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 400
     },
     {
-      "codigo_opcao": "ENGIX506",
-      "isin": "BRENGI9X06L0",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 138,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 210,
-      "total_posicoes": 264950
-    },
-    {
-      "codigo_opcao": "ENGIP448",
-      "isin": "BRENGI9P0631",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "ENGIP473",
-      "isin": "BRENGI9P0656",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "ENGID458",
-      "isin": "BRENGI9D0551",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "ENGIE458",
-      "isin": "BRENGI9E0683",
+      "codigo_opcao": "ENGIF556",
+      "isin": "BRENGI9F0500",
       "ativo": "ENGI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ENGIP458",
-      "isin": "BRENGI9P0557",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2500,
-      "total_posicoes": 6900
-    },
-    {
-      "codigo_opcao": "ENGIQ458",
-      "isin": "BRENGI9Q0671",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 24500
-    },
-    {
-      "codigo_opcao": "ENGIQ468",
-      "isin": "BRENGI9Q0697",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12400,
-      "total_posicoes": 13200
-    },
-    {
-      "codigo_opcao": "ENGIQ478",
-      "isin": "BRENGI9Q0689",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17700,
-      "total_posicoes": 18300
-    },
-    {
-      "codigo_opcao": "ENGIF493",
-      "isin": "BRENGI9F04G2",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "ENGIR493",
-      "isin": "BRENGI9R04G7",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENGIE510",
-      "isin": "BRENGI9E06P1",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 7100,
-      "total_posicoes": 7200
-    },
-    {
-      "codigo_opcao": "ENGIE52",
-      "isin": "BRENGI9E06O4",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14900,
-      "total_posicoes": 14900
-    },
-    {
-      "codigo_opcao": "ENGIQ510",
-      "isin": "BRENGI9Q06O8",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 4600
-    },
-    {
-      "codigo_opcao": "ENGIQ52",
-      "isin": "BRENGI9Q06P5",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "ENGIR473",
-      "isin": "BRENGI9R04H5",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENGIR483",
-      "isin": "BRENGI9R04I3",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 50000
+      "total_posicoes": 3600
     },
     {
       "codigo_opcao": "ENGIF576",
@@ -1248,8 +929,8 @@
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
+      "quantidade_descoberta": 100,
+      "total_posicoes": 700
     },
     {
       "codigo_opcao": "ENGIF596",
@@ -1258,9 +939,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 140,
-      "quantidade_coberta": 900,
-      "quantidade_descoberta": 1900,
-      "total_posicoes": 31100
+      "quantidade_coberta": 23500,
+      "quantidade_descoberta": 5500,
+      "total_posicoes": 31500
     },
     {
       "codigo_opcao": "ENGIF606",
@@ -1271,7 +952,7 @@
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 14200
+      "total_posicoes": 16200
     },
     {
       "codigo_opcao": "ENGIF616",
@@ -1280,7 +961,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 140,
-      "quantidade_coberta": 900,
+      "quantidade_coberta": 1100,
       "quantidade_descoberta": 0,
       "total_posicoes": 1100
     },
@@ -1289,6 +970,17 @@
       "isin": "BRENGI9F0518",
       "ativo": "ENGI",
       "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENGIR526",
+      "isin": "BRENGI9R0514",
+      "ativo": "ENGI",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
@@ -1307,6 +999,17 @@
       "total_posicoes": 8600
     },
     {
+      "codigo_opcao": "ENGIR576",
+      "isin": "BRENGI9R04M5",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
       "codigo_opcao": "ENGIR586",
       "isin": "BRENGI9R0589",
       "ativo": "ENGI",
@@ -1314,8 +1017,19 @@
       "semanal": false,
       "contratos_em_aberto": 140,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 7700,
-      "total_posicoes": 7800
+      "quantidade_descoberta": 9300,
+      "total_posicoes": 9400
+    },
+    {
+      "codigo_opcao": "ENGIR596",
+      "isin": "BRENGI9R04W4",
+      "ativo": "ENGI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 140,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "ENGIR626",
@@ -1373,74 +1087,19 @@
       "total_posicoes": 36700
     },
     {
-      "codigo_opcao": "ENGIE520",
-      "isin": "BRENGI9E06M8",
+      "codigo_opcao": "ENGIE581",
+      "isin": "BRENGI9E06G0",
       "ativo": "ENGI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 140,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 8200,
-      "total_posicoes": 15100
-    },
-    {
-      "codigo_opcao": "ENGIE530",
-      "isin": "BRENGI9E06K2",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 2900
-    },
-    {
-      "codigo_opcao": "ENGIE540",
-      "isin": "BRENGI9E06L0",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8700,
-      "total_posicoes": 12400
-    },
-    {
-      "codigo_opcao": "ENGIE550",
-      "isin": "BRENGI9E06N6",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "ENGIQ520",
-      "isin": "BRENGI9Q06N0",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5900,
-      "total_posicoes": 11300
-    },
-    {
-      "codigo_opcao": "ENGIQ530",
-      "isin": "BRENGI9Q06M2",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 5500,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10300
+      "total_posicoes": 20200
     },
     {
-      "codigo_opcao": "ENGIQ540",
-      "isin": "BRENGI9Q06K6",
+      "codigo_opcao": "ENGIQ581",
+      "isin": "BRENGI9Q06G4",
       "ativo": "ENGI",
       "tipo": "Put",
       "semanal": false,
@@ -1448,94 +1107,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
       "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ENGIQ550",
-      "isin": "BRENGI9Q06L4",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "ENGID403",
-      "isin": "BRENGI9D0601",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3800,
-      "total_posicoes": 3800
-    },
-    {
-      "codigo_opcao": "ENGID511",
-      "isin": "BRENGI9D05Z4",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "ENGID531",
-      "isin": "BRENGI9D0619",
-      "ativo": "ENGI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 5900
-    },
-    {
-      "codigo_opcao": "ENGIP403",
-      "isin": "BRENGI9P0607",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "ENGIP438",
-      "isin": "BRENGI9P05Z8",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1900
-    },
-    {
-      "codigo_opcao": "ENGIP511",
-      "isin": "BRENGI9P05Y1",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2600,
-      "total_posicoes": 3900
-    },
-    {
-      "codigo_opcao": "ENGIP531",
-      "isin": "BRENGI9P0615",
-      "ativo": "ENGI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 140,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1100
     }
   ]
 }
