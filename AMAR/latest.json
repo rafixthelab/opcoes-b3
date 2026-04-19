@@ -1,35 +1,13 @@
 {
   "ticker": "AMAR",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 22,
-  "calls": 19,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 21,
+  "calls": 18,
   "puts": 3,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "AMARQ800",
-      "isin": "BRAMAR3Q01Y1",
-      "ativo": "AMAR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "AMARQ900",
-      "isin": "BRAMAR3Q0226",
-      "ativo": "AMAR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
     {
       "codigo_opcao": "AMARA10",
       "isin": "BRAMAR3A01X7",
@@ -130,17 +108,6 @@
       "total_posicoes": 7600
     },
     {
-      "codigo_opcao": "AMARD100",
-      "isin": "BRAMAR3D01G6",
-      "ativo": "AMAR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 10800
-    },
-    {
       "codigo_opcao": "AMARE10",
       "isin": "BRAMAR3E01C3",
       "ativo": "AMAR",
@@ -229,6 +196,17 @@
       "total_posicoes": 200
     },
     {
+      "codigo_opcao": "AMARJ15",
+      "isin": "BRAMAR3J0290",
+      "ativo": "AMAR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
       "codigo_opcao": "AMARG25",
       "isin": "BRAMAR3G01R6",
       "ativo": "AMAR",
@@ -240,15 +218,26 @@
       "total_posicoes": 500
     },
     {
-      "codigo_opcao": "AMARJ15",
-      "isin": "BRAMAR3J0290",
+      "codigo_opcao": "AMARQ800",
+      "isin": "BRAMAR3Q01Y1",
       "ativo": "AMAR",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 115,
-      "quantidade_coberta": 1000,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "AMARQ900",
+      "isin": "BRAMAR3Q0226",
+      "ativo": "AMAR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
     }
   ]
 }
