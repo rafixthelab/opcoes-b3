@@ -1,13 +1,332 @@
 {
   "ticker": "KLBN",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 223,
-  "calls": 104,
-  "puts": 119,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 173,
+  "calls": 81,
+  "puts": 92,
   "semanais": 0,
   "opcoes": [
+    {
+      "codigo_opcao": "KLBNF171",
+      "isin": "BRKLBN9F0AP3",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "KLBNF176",
+      "isin": "BRKLBN9F0B45",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 7000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 37000
+    },
+    {
+      "codigo_opcao": "KLBNF181",
+      "isin": "BRKLBN9F0B86",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 2700,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 3200
+    },
+    {
+      "codigo_opcao": "KLBNF186",
+      "isin": "BRKLBN9F0AJ6",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 6400,
+      "quantidade_descoberta": 37900,
+      "total_posicoes": 44400
+    },
+    {
+      "codigo_opcao": "KLBNF191",
+      "isin": "BRKLBN9F0AW9",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 8500,
+      "quantidade_descoberta": 151300,
+      "total_posicoes": 177800
+    },
+    {
+      "codigo_opcao": "KLBNF241",
+      "isin": "BRKLBN9F0AQ1",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6400,
+      "total_posicoes": 6400
+    },
+    {
+      "codigo_opcao": "KLBNR161",
+      "isin": "BRKLBN9R0AM6",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1500
+    },
+    {
+      "codigo_opcao": "KLBNR166",
+      "isin": "BRKLBN9R0B73",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 800,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "KLBNR171",
+      "isin": "BRKLBN9R0B40",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 17400
+    },
+    {
+      "codigo_opcao": "KLBNR176",
+      "isin": "BRKLBN9R0AP9",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1700,
+      "total_posicoes": 20500
+    },
+    {
+      "codigo_opcao": "KLBNR181",
+      "isin": "BRKLBN9R0BE1",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 38800
+    },
+    {
+      "codigo_opcao": "KLBNR186",
+      "isin": "BRKLBN9R0B81",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 15900,
+      "total_posicoes": 31800
+    },
+    {
+      "codigo_opcao": "KLBNR191",
+      "isin": "BRKLBN9R0AO2",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 53500,
+      "total_posicoes": 76800
+    },
+    {
+      "codigo_opcao": "KLBNR241",
+      "isin": "BRKLBN9R0AN4",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 15200
+    },
+    {
+      "codigo_opcao": "KLBNI226",
+      "isin": "BRKLBN9I0AW6",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 15000
+    },
+    {
+      "codigo_opcao": "KLBNI229",
+      "isin": "BRKLBN9I0AX4",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 40,
+      "quantidade_descoberta": 801,
+      "total_posicoes": 841
+    },
+    {
+      "codigo_opcao": "KLBNU168",
+      "isin": "BRKLBN9U0AW0",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 11818,
+      "total_posicoes": 13231
+    },
+    {
+      "codigo_opcao": "KLBNU226",
+      "isin": "BRKLBN9U0AY6",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "KLBNU23",
+      "isin": "BRKLBN9U0AX8",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "KLBNU232",
+      "isin": "BRKLBN9U0B02",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "KLBNI239",
+      "isin": "BRKLBN9I0B23",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 101,
+      "total_posicoes": 101
+    },
+    {
+      "codigo_opcao": "KLBNE223",
+      "isin": "BRKLBN9E0B06",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 7700,
+      "quantidade_descoberta": 42700,
+      "total_posicoes": 52700
+    },
+    {
+      "codigo_opcao": "KLBNF233",
+      "isin": "BRKLBN9F0AH0",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 200300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200300
+    },
+    {
+      "codigo_opcao": "KLBNQ223",
+      "isin": "BRKLBN9Q0AZ9",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 32000,
+      "total_posicoes": 36800
+    },
+    {
+      "codigo_opcao": "KLBNE167",
+      "isin": "BRKLBN9E0B55",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4100
+    },
+    {
+      "codigo_opcao": "KLBNQ157",
+      "isin": "BRKLBN9Q0B26",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4300,
+      "total_posicoes": 13400
+    },
+    {
+      "codigo_opcao": "KLBNQ167",
+      "isin": "BRKLBN9Q0B42",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 62700,
+      "total_posicoes": 73400
+    },
+    {
+      "codigo_opcao": "KLBNE190",
+      "isin": "BRKLBN9E0B63",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 47300,
+      "quantidade_descoberta": 33900,
+      "total_posicoes": 207500
+    },
+    {
+      "codigo_opcao": "KLBNQ190",
+      "isin": "BRKLBN9Q0B59",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 78200,
+      "total_posicoes": 256600
+    },
     {
       "codigo_opcao": "KLBNE184",
       "isin": "BRKLBN9E0C39",
@@ -15,9 +334,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 151,
-      "quantidade_coberta": 13000,
-      "quantidade_descoberta": 27658,
-      "total_posicoes": 88700
+      "quantidade_coberta": 12500,
+      "quantidade_descoberta": 29220,
+      "total_posicoes": 89800
     },
     {
       "codigo_opcao": "KLBNE194",
@@ -26,9 +345,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 151,
-      "quantidade_coberta": 35000,
-      "quantidade_descoberta": 25200,
-      "total_posicoes": 146600
+      "quantidade_coberta": 38500,
+      "quantidade_descoberta": 6600,
+      "total_posicoes": 133000
     },
     {
       "codigo_opcao": "KLBNQ184",
@@ -39,7 +358,7 @@
       "contratos_em_aberto": 151,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1000,
-      "total_posicoes": 196200
+      "total_posicoes": 240000
     },
     {
       "codigo_opcao": "KLBNQ194",
@@ -50,458 +369,18 @@
       "contratos_em_aberto": 151,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 77000,
-      "total_posicoes": 163400
+      "total_posicoes": 170800
     },
     {
-      "codigo_opcao": "KLBND197",
-      "isin": "BRKLBN9D0BY5",
+      "codigo_opcao": "KLBNC211",
+      "isin": "BRKLBN9C0BP4",
       "ativo": "KLBN",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 501,
-      "quantidade_descoberta": 47926,
-      "total_posicoes": 65084
-    },
-    {
-      "codigo_opcao": "KLBNE227",
-      "isin": "BRKLBN9E0AW0",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 50800,
-      "quantidade_descoberta": 22000,
-      "total_posicoes": 180400
-    },
-    {
-      "codigo_opcao": "KLBNF197",
-      "isin": "BRKLBN9F0A95",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 40,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 12100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 28240
-    },
-    {
-      "codigo_opcao": "KLBNL132",
-      "isin": "BRKLBN9L0AS9",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "KLBNP197",
-      "isin": "BRKLBN9P0BY1",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 111422,
-      "total_posicoes": 185265
-    },
-    {
-      "codigo_opcao": "KLBNQ227",
-      "isin": "BRKLBN9Q0AV8",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7700,
-      "total_posicoes": 30500
-    },
-    {
-      "codigo_opcao": "KLBNR197",
-      "isin": "BRKLBN9R0A90",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 54639
-    },
-    {
-      "codigo_opcao": "KLBNX132",
-      "isin": "BRKLBN9X0AS5",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "KLBND219",
-      "isin": "BRKLBN9D0CF2",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2800,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "KLBNP219",
-      "isin": "BRKLBN9P0CF8",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4200,
-      "total_posicoes": 4200
-    },
-    {
-      "codigo_opcao": "KLBND179",
-      "isin": "BRKLBN9D0C23",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 17100,
-      "total_posicoes": 32300
-    },
-    {
-      "codigo_opcao": "KLBND181",
-      "isin": "BRKLBN9D0C07",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5600,
-      "total_posicoes": 6600
-    },
-    {
-      "codigo_opcao": "KLBND182",
-      "isin": "BRKLBN9D0C31",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 34200,
-      "total_posicoes": 35100
-    },
-    {
-      "codigo_opcao": "KLBND183",
-      "isin": "BRKLBN9D0C56",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6500,
-      "total_posicoes": 9200
-    },
-    {
-      "codigo_opcao": "KLBND184",
-      "isin": "BRKLBN9D0C98",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 10000,
-      "quantidade_descoberta": 94000,
-      "total_posicoes": 108500
-    },
-    {
-      "codigo_opcao": "KLBND188",
-      "isin": "BRKLBN9D0BZ2",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12300,
-      "total_posicoes": 13700
-    },
-    {
-      "codigo_opcao": "KLBND189",
-      "isin": "BRKLBN9D0C15",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 12000,
-      "quantidade_descoberta": 41897,
-      "total_posicoes": 79100
-    },
-    {
-      "codigo_opcao": "KLBND19",
-      "isin": "BRKLBN9D0C80",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 4500,
-      "quantidade_descoberta": 89714,
-      "total_posicoes": 136200
-    },
-    {
-      "codigo_opcao": "KLBND191",
-      "isin": "BRKLBN9D0C72",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 92400,
-      "quantidade_descoberta": 84000,
-      "total_posicoes": 183100
-    },
-    {
-      "codigo_opcao": "KLBND193",
-      "isin": "BRKLBN9D0C49",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 14100,
-      "quantidade_descoberta": 54800,
-      "total_posicoes": 120900
-    },
-    {
-      "codigo_opcao": "KLBND198",
-      "isin": "BRKLBN9D0C64",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 31700,
-      "quantidade_descoberta": 60105,
-      "total_posicoes": 158000
-    },
-    {
-      "codigo_opcao": "KLBNP179",
-      "isin": "BRKLBN9P0BZ8",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6300,
-      "total_posicoes": 149200
-    },
-    {
-      "codigo_opcao": "KLBNP181",
-      "isin": "BRKLBN9P0C68",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11000,
-      "total_posicoes": 182400
-    },
-    {
-      "codigo_opcao": "KLBNP182",
-      "isin": "BRKLBN9P0C35",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 34100,
-      "total_posicoes": 136900
-    },
-    {
-      "codigo_opcao": "KLBNP183",
-      "isin": "BRKLBN9P0C84",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 44008,
-      "total_posicoes": 128900
-    },
-    {
-      "codigo_opcao": "KLBNP184",
-      "isin": "BRKLBN9P0C43",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 34700,
-      "total_posicoes": 89600
-    },
-    {
-      "codigo_opcao": "KLBNP188",
-      "isin": "BRKLBN9P0C76",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 56200,
-      "total_posicoes": 122200
-    },
-    {
-      "codigo_opcao": "KLBNP189",
-      "isin": "BRKLBN9P0C27",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 48400,
-      "total_posicoes": 146600
-    },
-    {
-      "codigo_opcao": "KLBNP19",
-      "isin": "BRKLBN9P0C19",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 111500,
-      "total_posicoes": 120500
-    },
-    {
-      "codigo_opcao": "KLBNP191",
-      "isin": "BRKLBN9P0C01",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 56000,
-      "total_posicoes": 113900
-    },
-    {
-      "codigo_opcao": "KLBNP193",
-      "isin": "BRKLBN9P0C50",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 48300,
-      "total_posicoes": 135100
-    },
-    {
-      "codigo_opcao": "KLBNP198",
-      "isin": "BRKLBN9P0C92",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 93100,
-      "total_posicoes": 110200
-    },
-    {
-      "codigo_opcao": "KLBND206",
-      "isin": "BRKLBN9D0CC9",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 49500,
-      "quantidade_descoberta": 120748,
-      "total_posicoes": 281100
-    },
-    {
-      "codigo_opcao": "KLBND22",
-      "isin": "BRKLBN9D0CA3",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17400,
-      "total_posicoes": 68300
-    },
-    {
-      "codigo_opcao": "KLBNP206",
-      "isin": "BRKLBN9P0CD3",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 61800,
-      "total_posicoes": 79700
-    },
-    {
-      "codigo_opcao": "KLBNP210",
-      "isin": "BRKLBN9P0CA9",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 72800,
-      "total_posicoes": 73600
-    },
-    {
-      "codigo_opcao": "KLBNP22",
-      "isin": "BRKLBN9P0CE1",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 64000,
-      "total_posicoes": 64000
-    },
-    {
-      "codigo_opcao": "KLBNE232",
-      "isin": "BRKLBN9E0BX6",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "KLBNE237",
-      "isin": "BRKLBN9E0BN7",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "KLBNE247",
-      "isin": "BRKLBN9E0BQ0",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "KLBNQ232",
-      "isin": "BRKLBN9Q0BP8",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 1200
+      "total_posicoes": 12200
     },
     {
       "codigo_opcao": "KLBNG221",
@@ -511,8 +390,8 @@
       "semanal": false,
       "contratos_em_aberto": 151,
       "quantidade_coberta": 11900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11900
+      "quantidade_descoberta": 6800,
+      "total_posicoes": 18700
     },
     {
       "codigo_opcao": "KLBNF198",
@@ -521,9 +400,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 151,
-      "quantidade_coberta": 3900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14900
+      "quantidade_coberta": 2900,
+      "quantidade_descoberta": 8300,
+      "total_posicoes": 23800
     },
     {
       "codigo_opcao": "KLBNR198",
@@ -534,7 +413,348 @@
       "contratos_em_aberto": 151,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 15000
+      "total_posicoes": 16200
+    },
+    {
+      "codigo_opcao": "KLBNG251",
+      "isin": "BRKLBN9G0BB0",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "KLBNU172",
+      "isin": "BRKLBN9U0B51",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 11413,
+      "total_posicoes": 11513
+    },
+    {
+      "codigo_opcao": "KLBNU179",
+      "isin": "BRKLBN9U0B85",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 11701
+    },
+    {
+      "codigo_opcao": "KLBNU182",
+      "isin": "BRKLBN9U0B93",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1212,
+      "total_posicoes": 16912
+    },
+    {
+      "codigo_opcao": "KLBNI192",
+      "isin": "BRKLBN9I0BD4",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "KLBNU189",
+      "isin": "BRKLBN9U0BC0",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 13900
+    },
+    {
+      "codigo_opcao": "KLBNU192",
+      "isin": "BRKLBN9U0BD8",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 16220
+    },
+    {
+      "codigo_opcao": "KLBNE177",
+      "isin": "BRKLBN9E0AY6",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 56600,
+      "quantidade_descoberta": 33800,
+      "total_posicoes": 119000
+    },
+    {
+      "codigo_opcao": "KLBNE187",
+      "isin": "BRKLBN9E0AX8",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 7200,
+      "quantidade_descoberta": 77300,
+      "total_posicoes": 159600
+    },
+    {
+      "codigo_opcao": "KLBNQ177",
+      "isin": "BRKLBN9Q0AX4",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 42300,
+      "total_posicoes": 258500
+    },
+    {
+      "codigo_opcao": "KLBNQ187",
+      "isin": "BRKLBN9Q0AW6",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 139800,
+      "total_posicoes": 317500
+    },
+    {
+      "codigo_opcao": "KLBNL171",
+      "isin": "BRKLBN9L0AV3",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "KLBNL186",
+      "isin": "BRKLBN9L0AY7",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "KLBNL191",
+      "isin": "BRKLBN9L0AZ4",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 47700
+    },
+    {
+      "codigo_opcao": "KLBNL196",
+      "isin": "BRKLBN9L0B01",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 52100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 52100
+    },
+    {
+      "codigo_opcao": "KLBNL206",
+      "isin": "BRKLBN9L0B19",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 37489,
+      "total_posicoes": 40700
+    },
+    {
+      "codigo_opcao": "KLBNL211",
+      "isin": "BRKLBN9L0B27",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 2000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5700
+    },
+    {
+      "codigo_opcao": "KLBNX171",
+      "isin": "BRKLBN9X0AV9",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2100,
+      "total_posicoes": 27500
+    },
+    {
+      "codigo_opcao": "KLBNX176",
+      "isin": "BRKLBN9X0AW7",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4400
+    },
+    {
+      "codigo_opcao": "KLBNX181",
+      "isin": "BRKLBN9X0AX5",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 35413,
+      "total_posicoes": 83400
+    },
+    {
+      "codigo_opcao": "KLBNX186",
+      "isin": "BRKLBN9X0AY3",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 17000,
+      "total_posicoes": 19000
+    },
+    {
+      "codigo_opcao": "KLBNX191",
+      "isin": "BRKLBN9X0AZ0",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "KLBNX196",
+      "isin": "BRKLBN9X0B06",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "KLBNE197",
+      "isin": "BRKLBN9E0AZ3",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 47000,
+      "quantidade_descoberta": 80100,
+      "total_posicoes": 390400
+    },
+    {
+      "codigo_opcao": "KLBNQ197",
+      "isin": "BRKLBN9Q0AY2",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 117395,
+      "total_posicoes": 185400
+    },
+    {
+      "codigo_opcao": "KLBNF159",
+      "isin": "BRKLBN9F0A79",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 147,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "KLBNR159",
+      "isin": "BRKLBN9R0A74",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 147,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 59881,
+      "total_posicoes": 59881
+    },
+    {
+      "codigo_opcao": "KLBNR169",
+      "isin": "BRKLBN9R0A66",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 147,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5532
+    },
+    {
+      "codigo_opcao": "KLBNU169",
+      "isin": "BRKLBN9U0AD0",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 147,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 13220,
+      "total_posicoes": 16144
+    },
+    {
+      "codigo_opcao": "KLBNE206",
+      "isin": "BRKLBN9E0B22",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 34700,
+      "quantidade_descoberta": 71400,
+      "total_posicoes": 212400
+    },
+    {
+      "codigo_opcao": "KLBNQ206",
+      "isin": "BRKLBN9Q0B18",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 103300,
+      "total_posicoes": 191100
     },
     {
       "codigo_opcao": "KLBNA22",
@@ -543,7 +763,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 145,
-      "quantidade_coberta": 2308,
+      "quantidade_coberta": 1308,
       "quantidade_descoberta": 0,
       "total_posicoes": 3420
     },
@@ -557,50 +777,6 @@
       "quantidade_coberta": 2724,
       "quantidade_descoberta": 0,
       "total_posicoes": 154709
-    },
-    {
-      "codigo_opcao": "KLBND154",
-      "isin": "BRKLBN9D0BU3",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 146,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10578,
-      "total_posicoes": 10678
-    },
-    {
-      "codigo_opcao": "KLBND192",
-      "isin": "BRKLBN9D0BT5",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 146,
-      "quantidade_coberta": 27100,
-      "quantidade_descoberta": 26003,
-      "total_posicoes": 66536
-    },
-    {
-      "codigo_opcao": "KLBND220",
-      "isin": "BRKLBN9D0AX9",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 145,
-      "quantidade_coberta": 102886,
-      "quantidade_descoberta": 61070,
-      "total_posicoes": 345768
-    },
-    {
-      "codigo_opcao": "KLBND237",
-      "isin": "BRKLBN9D0BV1",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 146,
-      "quantidade_coberta": 7259,
-      "quantidade_descoberta": 176361,
-      "total_posicoes": 220828
     },
     {
       "codigo_opcao": "KLBNE160",
@@ -631,9 +807,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 145,
-      "quantidade_coberta": 27275,
-      "quantidade_descoberta": 36228,
-      "total_posicoes": 207911
+      "quantidade_coberta": 37920,
+      "quantidade_descoberta": 33628,
+      "total_posicoes": 197221
     },
     {
       "codigo_opcao": "KLBNE265",
@@ -676,8 +852,8 @@
       "semanal": false,
       "contratos_em_aberto": 151,
       "quantidade_coberta": 1100,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 4800
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6300
     },
     {
       "codigo_opcao": "KLBNF207",
@@ -686,9 +862,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 149,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 14400,
-      "total_posicoes": 116000
+      "quantidade_coberta": 1100,
+      "quantidade_descoberta": 19500,
+      "total_posicoes": 117800
     },
     {
       "codigo_opcao": "KLBNF220",
@@ -698,8 +874,19 @@
       "semanal": false,
       "contratos_em_aberto": 145,
       "quantidade_coberta": 8410,
-      "quantidade_descoberta": 20039,
-      "total_posicoes": 36857
+      "quantidade_descoberta": 24339,
+      "total_posicoes": 40312
+    },
+    {
+      "codigo_opcao": "KLBNG195",
+      "isin": "BRKLBN9G0BF1",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8700
     },
     {
       "codigo_opcao": "KLBNG220",
@@ -708,7 +895,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 145,
-      "quantidade_coberta": 4800,
+      "quantidade_coberta": 1213,
       "quantidade_descoberta": 0,
       "total_posicoes": 4900
     },
@@ -719,7 +906,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 149,
-      "quantidade_coberta": 18200,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 19500
     },
@@ -730,7 +917,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 145,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 1100,
       "quantidade_descoberta": 0,
       "total_posicoes": 20500
     },
@@ -741,7 +928,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 149,
-      "quantidade_coberta": 300,
+      "quantidade_coberta": 100,
       "quantidade_descoberta": 0,
       "total_posicoes": 300
     },
@@ -785,7 +972,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 145,
-      "quantidade_coberta": 5999,
+      "quantidade_coberta": 5929,
       "quantidade_descoberta": 205,
       "total_posicoes": 9405
     },
@@ -797,7 +984,7 @@
       "semanal": false,
       "contratos_em_aberto": 145,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 19301,
       "total_posicoes": 31203
     },
     {
@@ -810,50 +997,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 16002
-    },
-    {
-      "codigo_opcao": "KLBNP154",
-      "isin": "BRKLBN9P0BV7",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 146,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7463,
-      "total_posicoes": 74931
-    },
-    {
-      "codigo_opcao": "KLBNP192",
-      "isin": "BRKLBN9P0BU9",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 146,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 56471,
-      "total_posicoes": 125292
-    },
-    {
-      "codigo_opcao": "KLBNP220",
-      "isin": "BRKLBN9P0AT3",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 145,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 34275,
-      "total_posicoes": 80119
-    },
-    {
-      "codigo_opcao": "KLBNP237",
-      "isin": "BRKLBN9P0BT1",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 146,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11898,
-      "total_posicoes": 11898
     },
     {
       "codigo_opcao": "KLBNQ160",
@@ -885,8 +1028,8 @@
       "semanal": false,
       "contratos_em_aberto": 145,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 20252,
-      "total_posicoes": 45576
+      "quantidade_descoberta": 50093,
+      "total_posicoes": 85217
     },
     {
       "codigo_opcao": "KLBNQ275",
@@ -907,8 +1050,8 @@
       "semanal": false,
       "contratos_em_aberto": 151,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 39500
+      "quantidade_descoberta": 42706,
+      "total_posicoes": 60300
     },
     {
       "codigo_opcao": "KLBNR207",
@@ -918,8 +1061,8 @@
       "semanal": false,
       "contratos_em_aberto": 149,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 74200,
-      "total_posicoes": 155400
+      "quantidade_descoberta": 80700,
+      "total_posicoes": 159800
     },
     {
       "codigo_opcao": "KLBNR220",
@@ -952,7 +1095,7 @@
       "contratos_em_aberto": 151,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 400
+      "total_posicoes": 1900
     },
     {
       "codigo_opcao": "KLBNS195",
@@ -1061,19 +1204,8 @@
       "semanal": false,
       "contratos_em_aberto": 145,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3800,
+      "quantidade_descoberta": 17352,
       "total_posicoes": 25669
-    },
-    {
-      "codigo_opcao": "KLBNC211",
-      "isin": "BRKLBN9C0BP4",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 12100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12200
     },
     {
       "codigo_opcao": "KLBNJ189",
@@ -1104,7 +1236,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 147,
-      "quantidade_coberta": 4636,
+      "quantidade_coberta": 1606,
       "quantidade_descoberta": 99,
       "total_posicoes": 11322
     },
@@ -1149,7 +1281,7 @@
       "semanal": false,
       "contratos_em_aberto": 147,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 10166,
+      "quantidade_descoberta": 24900,
       "total_posicoes": 24900
     },
     {
@@ -1161,183 +1293,18 @@
       "contratos_em_aberto": 147,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 9931
+      "total_posicoes": 109931
     },
     {
-      "codigo_opcao": "KLBNE190",
-      "isin": "BRKLBN9E0B63",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 46400,
-      "quantidade_descoberta": 44400,
-      "total_posicoes": 220000
-    },
-    {
-      "codigo_opcao": "KLBNQ190",
-      "isin": "BRKLBN9Q0B59",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 75200,
-      "total_posicoes": 221300
-    },
-    {
-      "codigo_opcao": "KLBNI226",
-      "isin": "BRKLBN9I0AW6",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 15000
-    },
-    {
-      "codigo_opcao": "KLBNI229",
-      "isin": "BRKLBN9I0AX4",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 40,
-      "quantidade_descoberta": 801,
-      "total_posicoes": 841
-    },
-    {
-      "codigo_opcao": "KLBNU168",
-      "isin": "BRKLBN9U0AW0",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11818,
-      "total_posicoes": 13231
-    },
-    {
-      "codigo_opcao": "KLBNU226",
-      "isin": "BRKLBN9U0AY6",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "KLBNU23",
-      "isin": "BRKLBN9U0AX8",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "KLBNU232",
-      "isin": "BRKLBN9U0B02",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "KLBNI239",
-      "isin": "BRKLBN9I0B23",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 101,
-      "total_posicoes": 101
-    },
-    {
-      "codigo_opcao": "KLBNL254",
-      "isin": "BRKLBN9L0AQ3",
+      "codigo_opcao": "KLBNK214",
+      "isin": "BRKLBN9K0AH3",
       "ativo": "KLBN",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 149,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 5757,
       "quantidade_descoberta": 0,
-      "total_posicoes": 9485
-    },
-    {
-      "codigo_opcao": "KLBNP15",
-      "isin": "BRKLBN9P0BX3",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "KLBNQ122",
-      "isin": "BRKLBN9Q0AU0",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2600,
-      "total_posicoes": 2600
-    },
-    {
-      "codigo_opcao": "KLBNS152",
-      "isin": "BRKLBN9S0B97",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "KLBNW189",
-      "isin": "BRKLBN9W0AI7",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 101,
-      "total_posicoes": 56021
-    },
-    {
-      "codigo_opcao": "KLBNX254",
-      "isin": "BRKLBN9X0AQ9",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12000,
-      "total_posicoes": 74639
-    },
-    {
-      "codigo_opcao": "KLBNR236",
-      "isin": "BRKLBN9R0AA1",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "total_posicoes": 6857
     },
     {
       "codigo_opcao": "KLBNS192",
@@ -1349,105 +1316,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "KLBNF159",
-      "isin": "BRKLBN9F0A79",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 147,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "KLBNR159",
-      "isin": "BRKLBN9R0A74",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 147,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 59881,
-      "total_posicoes": 59881
-    },
-    {
-      "codigo_opcao": "KLBNR169",
-      "isin": "BRKLBN9R0A66",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 147,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5532
-    },
-    {
-      "codigo_opcao": "KLBNU169",
-      "isin": "BRKLBN9U0AD0",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 147,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 13220,
-      "total_posicoes": 16144
-    },
-    {
-      "codigo_opcao": "KLBND171",
-      "isin": "BRKLBN9D0CU1",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2900,
-      "total_posicoes": 2900
-    },
-    {
-      "codigo_opcao": "KLBND176",
-      "isin": "BRKLBN9D0CT3",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 20000,
-      "quantidade_descoberta": 4400,
-      "total_posicoes": 24400
-    },
-    {
-      "codigo_opcao": "KLBNP176",
-      "isin": "BRKLBN9P0CJ0",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8200,
-      "total_posicoes": 80100
-    },
-    {
-      "codigo_opcao": "KLBNP241",
-      "isin": "BRKLBN9P0CU7",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14500,
-      "total_posicoes": 14500
-    },
-    {
-      "codigo_opcao": "KLBNG251",
-      "isin": "BRKLBN9G0BB0",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
     },
     {
       "codigo_opcao": "KLBNI187",
@@ -1481,6 +1349,116 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 3020
+    },
+    {
+      "codigo_opcao": "KLBNL213",
+      "isin": "BRKLBN9L0B35",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 1500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26700
+    },
+    {
+      "codigo_opcao": "KLBNE162",
+      "isin": "BRKLBN9E0BI7",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "KLBNE172",
+      "isin": "BRKLBN9E0B71",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 13600,
+      "total_posicoes": 22400
+    },
+    {
+      "codigo_opcao": "KLBNE182",
+      "isin": "BRKLBN9E0BH9",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 3800,
+      "quantidade_descoberta": 87300,
+      "total_posicoes": 116900
+    },
+    {
+      "codigo_opcao": "KLBNQ152",
+      "isin": "BRKLBN9Q0B91",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10000,
+      "total_posicoes": 20000
+    },
+    {
+      "codigo_opcao": "KLBNQ162",
+      "isin": "BRKLBN9Q0BE2",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 123800,
+      "total_posicoes": 136200
+    },
+    {
+      "codigo_opcao": "KLBNQ172",
+      "isin": "BRKLBN9Q0BK9",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 91900,
+      "total_posicoes": 174900
+    },
+    {
+      "codigo_opcao": "KLBNQ182",
+      "isin": "BRKLBN9Q0BH5",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12100,
+      "total_posicoes": 402200
+    },
+    {
+      "codigo_opcao": "KLBNQ245",
+      "isin": "BRKLBN9Q0BL7",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8000,
+      "total_posicoes": 8000
+    },
+    {
+      "codigo_opcao": "KLBNW152",
+      "isin": "BRKLBN9W0AJ5",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 149,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "KLBNU259",
@@ -1525,226 +1503,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 5100
-    },
-    {
-      "codigo_opcao": "KLBND210",
-      "isin": "BRKLBN9D0CB1",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 13500,
-      "quantidade_descoberta": 27000,
-      "total_posicoes": 152000
-    },
-    {
-      "codigo_opcao": "KLBND215",
-      "isin": "BRKLBN9D0CE5",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 7500,
-      "quantidade_descoberta": 30600,
-      "total_posicoes": 149900
-    },
-    {
-      "codigo_opcao": "KLBND225",
-      "isin": "BRKLBN9D0CD7",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 29900,
-      "total_posicoes": 53300
-    },
-    {
-      "codigo_opcao": "KLBNP215",
-      "isin": "BRKLBN9P0CC5",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9700,
-      "total_posicoes": 16000
-    },
-    {
-      "codigo_opcao": "KLBNP225",
-      "isin": "BRKLBN9P0CB7",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1800,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "KLBNE206",
-      "isin": "BRKLBN9E0B22",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 48200,
-      "quantidade_descoberta": 59100,
-      "total_posicoes": 210600
-    },
-    {
-      "codigo_opcao": "KLBNQ206",
-      "isin": "BRKLBN9Q0B18",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 103600,
-      "total_posicoes": 191100
-    },
-    {
-      "codigo_opcao": "KLBNF176",
-      "isin": "BRKLBN9F0B45",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 9000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 31000
-    },
-    {
-      "codigo_opcao": "KLBNF181",
-      "isin": "BRKLBN9F0B86",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 2700,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "KLBNF186",
-      "isin": "BRKLBN9F0AJ6",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 28945,
-      "total_posicoes": 32000
-    },
-    {
-      "codigo_opcao": "KLBNF191",
-      "isin": "BRKLBN9F0AW9",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 110500,
-      "total_posicoes": 159200
-    },
-    {
-      "codigo_opcao": "KLBNF241",
-      "isin": "BRKLBN9F0AQ1",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6400,
-      "total_posicoes": 6400
-    },
-    {
-      "codigo_opcao": "KLBNR161",
-      "isin": "BRKLBN9R0AM6",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "KLBNR166",
-      "isin": "BRKLBN9R0B73",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "KLBNR171",
-      "isin": "BRKLBN9R0B40",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16400
-    },
-    {
-      "codigo_opcao": "KLBNR176",
-      "isin": "BRKLBN9R0AP9",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "KLBNR181",
-      "isin": "BRKLBN9R0BE1",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 27800
-    },
-    {
-      "codigo_opcao": "KLBNR186",
-      "isin": "BRKLBN9R0B81",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 30900
-    },
-    {
-      "codigo_opcao": "KLBNR191",
-      "isin": "BRKLBN9R0AO2",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 36500,
-      "total_posicoes": 69400
-    },
-    {
-      "codigo_opcao": "KLBNR241",
-      "isin": "BRKLBN9R0AN4",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 15200
     },
     {
       "codigo_opcao": "KLBNI14",
@@ -1830,7 +1588,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 5800,
       "quantidade_descoberta": 0,
       "total_posicoes": 15100
     },
@@ -1852,7 +1610,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 148,
-      "quantidade_coberta": 4000,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 10000
     },
@@ -1890,6 +1648,17 @@
       "total_posicoes": 68103
     },
     {
+      "codigo_opcao": "KLBNU21",
+      "isin": "BRKLBN9U0AR0",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
       "codigo_opcao": "KLBNU224",
       "isin": "BRKLBN9U0AO7",
       "ativo": "KLBN",
@@ -1901,472 +1670,87 @@
       "total_posicoes": 10000
     },
     {
-      "codigo_opcao": "KLBND209",
-      "isin": "BRKLBN9D0BW9",
+      "codigo_opcao": "KLBNL254",
+      "isin": "BRKLBN9L0AQ3",
       "ativo": "KLBN",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 65540,
-      "quantidade_descoberta": 54142,
-      "total_posicoes": 179133
-    },
-    {
-      "codigo_opcao": "KLBNP209",
-      "isin": "BRKLBN9P0BW5",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 84389,
-      "total_posicoes": 130531
-    },
-    {
-      "codigo_opcao": "KLBNU172",
-      "isin": "BRKLBN9U0B51",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11413,
-      "total_posicoes": 11513
-    },
-    {
-      "codigo_opcao": "KLBNU179",
-      "isin": "BRKLBN9U0B85",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 148,
+      "contratos_em_aberto": 149,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 11401
+      "total_posicoes": 9485
     },
     {
-      "codigo_opcao": "KLBNU182",
-      "isin": "BRKLBN9U0B93",
+      "codigo_opcao": "KLBNQ122",
+      "isin": "BRKLBN9Q0AU0",
       "ativo": "KLBN",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 148,
+      "contratos_em_aberto": 149,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1212,
-      "total_posicoes": 16912
+      "quantidade_descoberta": 2600,
+      "total_posicoes": 2600
     },
     {
-      "codigo_opcao": "KLBNI192",
-      "isin": "BRKLBN9I0BD4",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "KLBNU189",
-      "isin": "BRKLBN9U0BC0",
+      "codigo_opcao": "KLBNS152",
+      "isin": "BRKLBN9S0B97",
       "ativo": "KLBN",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12700
-    },
-    {
-      "codigo_opcao": "KLBNU192",
-      "isin": "BRKLBN9U0BD8",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16220
-    },
-    {
-      "codigo_opcao": "KLBNQ187",
-      "isin": "BRKLBN9Q0AW6",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 140900,
-      "total_posicoes": 305600
-    },
-    {
-      "codigo_opcao": "KLBNL171",
-      "isin": "BRKLBN9L0AV3",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "KLBNL186",
-      "isin": "BRKLBN9L0AY7",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "KLBNL191",
-      "isin": "BRKLBN9L0AZ4",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 47700
-    },
-    {
-      "codigo_opcao": "KLBNL196",
-      "isin": "BRKLBN9L0B01",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 24400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 52100
-    },
-    {
-      "codigo_opcao": "KLBNL206",
-      "isin": "BRKLBN9L0B19",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 37489,
-      "total_posicoes": 40700
-    },
-    {
-      "codigo_opcao": "KLBNL211",
-      "isin": "BRKLBN9L0B27",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 4000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5700
-    },
-    {
-      "codigo_opcao": "KLBNX171",
-      "isin": "BRKLBN9X0AV9",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2100,
-      "total_posicoes": 27500
-    },
-    {
-      "codigo_opcao": "KLBNX176",
-      "isin": "BRKLBN9X0AW7",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4400
-    },
-    {
-      "codigo_opcao": "KLBNX181",
-      "isin": "BRKLBN9X0AX5",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 83400
-    },
-    {
-      "codigo_opcao": "KLBNX186",
-      "isin": "BRKLBN9X0AY3",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 19000
-    },
-    {
-      "codigo_opcao": "KLBNX196",
-      "isin": "BRKLBN9X0B06",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "KLBNP151",
-      "isin": "BRKLBN9P0CS1",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "KLBNP171",
-      "isin": "BRKLBN9P0CV5",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
+      "contratos_em_aberto": 149,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1500,
-      "total_posicoes": 42600
+      "total_posicoes": 1500
     },
     {
-      "codigo_opcao": "KLBNE177",
-      "isin": "BRKLBN9E0AY6",
+      "codigo_opcao": "KLBNW189",
+      "isin": "BRKLBN9W0AI7",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 149,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 101,
+      "total_posicoes": 56021
+    },
+    {
+      "codigo_opcao": "KLBNX254",
+      "isin": "BRKLBN9X0AQ9",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 149,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12000,
+      "total_posicoes": 74639
+    },
+    {
+      "codigo_opcao": "KLBNE227",
+      "isin": "BRKLBN9E0AW0",
       "ativo": "KLBN",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 16600,
-      "quantidade_descoberta": 34700,
-      "total_posicoes": 78800
+      "contratos_em_aberto": 149,
+      "quantidade_coberta": 50400,
+      "quantidade_descoberta": 62739,
+      "total_posicoes": 230400
     },
     {
-      "codigo_opcao": "KLBNE187",
-      "isin": "BRKLBN9E0AX8",
+      "codigo_opcao": "KLBNF197",
+      "isin": "BRKLBN9F0A95",
       "ativo": "KLBN",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 8000,
-      "quantidade_descoberta": 67300,
-      "total_posicoes": 175000
+      "contratos_em_aberto": 149,
+      "quantidade_coberta": 40,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 28340
     },
     {
-      "codigo_opcao": "KLBNQ177",
-      "isin": "BRKLBN9Q0AX4",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 34400,
-      "total_posicoes": 225900
-    },
-    {
-      "codigo_opcao": "KLBNL213",
-      "isin": "BRKLBN9L0B35",
+      "codigo_opcao": "KLBNL132",
+      "isin": "BRKLBN9L0AS9",
       "ativo": "KLBN",
       "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26700
-    },
-    {
-      "codigo_opcao": "KLBNE223",
-      "isin": "BRKLBN9E0B06",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 7600,
-      "quantidade_descoberta": 16700,
-      "total_posicoes": 52700
-    },
-    {
-      "codigo_opcao": "KLBNF233",
-      "isin": "BRKLBN9F0AH0",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 200300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200300
-    },
-    {
-      "codigo_opcao": "KLBNQ223",
-      "isin": "BRKLBN9Q0AZ9",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 32000,
-      "total_posicoes": 36800
-    },
-    {
-      "codigo_opcao": "KLBND156",
-      "isin": "BRKLBN9D0CG0",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "KLBND166",
-      "isin": "BRKLBN9D0CH8",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 4100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5100
-    },
-    {
-      "codigo_opcao": "KLBNP166",
-      "isin": "BRKLBN9P0CH4",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8500,
-      "total_posicoes": 20100
-    },
-    {
-      "codigo_opcao": "KLBNQ157",
-      "isin": "BRKLBN9Q0B26",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4300,
-      "total_posicoes": 13400
-    },
-    {
-      "codigo_opcao": "KLBNQ167",
-      "isin": "BRKLBN9Q0B42",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 29200,
-      "total_posicoes": 73600
-    },
-    {
-      "codigo_opcao": "KLBNE162",
-      "isin": "BRKLBN9E0BI7",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "KLBNE172",
-      "isin": "BRKLBN9E0B71",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 13600,
-      "total_posicoes": 22400
-    },
-    {
-      "codigo_opcao": "KLBNE182",
-      "isin": "BRKLBN9E0BH9",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 3800,
-      "quantidade_descoberta": 46200,
-      "total_posicoes": 59800
-    },
-    {
-      "codigo_opcao": "KLBNQ152",
-      "isin": "BRKLBN9Q0B91",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "KLBNQ162",
-      "isin": "BRKLBN9Q0BE2",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 99800,
-      "total_posicoes": 136100
-    },
-    {
-      "codigo_opcao": "KLBNQ172",
-      "isin": "BRKLBN9Q0BK9",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 93376,
-      "total_posicoes": 160900
-    },
-    {
-      "codigo_opcao": "KLBNQ182",
-      "isin": "BRKLBN9Q0BH5",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 45800,
-      "total_posicoes": 368000
-    },
-    {
-      "codigo_opcao": "KLBNQ245",
-      "isin": "BRKLBN9Q0BL7",
-      "ativo": "KLBN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8000,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "KLBNW152",
-      "isin": "BRKLBN9W0AJ5",
-      "ativo": "KLBN",
-      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 149,
       "quantidade_coberta": 0,
@@ -2374,26 +1758,37 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "KLBNE197",
-      "isin": "BRKLBN9E0AZ3",
-      "ativo": "KLBN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 38200,
-      "quantidade_descoberta": 93900,
-      "total_posicoes": 296600
-    },
-    {
-      "codigo_opcao": "KLBNQ197",
-      "isin": "BRKLBN9Q0AY2",
+      "codigo_opcao": "KLBNQ227",
+      "isin": "BRKLBN9Q0AV8",
       "ativo": "KLBN",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 151,
+      "contratos_em_aberto": 149,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 105795,
-      "total_posicoes": 158600
+      "quantidade_descoberta": 7700,
+      "total_posicoes": 31500
+    },
+    {
+      "codigo_opcao": "KLBNR197",
+      "isin": "BRKLBN9R0A90",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 149,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6800,
+      "total_posicoes": 84139
+    },
+    {
+      "codigo_opcao": "KLBNX132",
+      "isin": "BRKLBN9X0AS5",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 149,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
     },
     {
       "codigo_opcao": "KLBNR206",
@@ -2403,7 +1798,7 @@
       "semanal": false,
       "contratos_em_aberto": 151,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
+      "quantidade_descoberta": 1900,
       "total_posicoes": 3200
     },
     {
@@ -2414,8 +1809,8 @@
       "semanal": false,
       "contratos_em_aberto": 151,
       "quantidade_coberta": 6600,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 24000
+      "quantidade_descoberta": 0,
+      "total_posicoes": 39800
     },
     {
       "codigo_opcao": "KLBNF211",
@@ -2426,7 +1821,7 @@
       "contratos_em_aberto": 151,
       "quantidade_coberta": 15800,
       "quantidade_descoberta": 2600,
-      "total_posicoes": 23300
+      "total_posicoes": 22800
     },
     {
       "codigo_opcao": "KLBNF216",
@@ -2440,6 +1835,17 @@
       "total_posicoes": 2100
     },
     {
+      "codigo_opcao": "KLBNF226",
+      "isin": "BRKLBN9F0AB3",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
       "codigo_opcao": "KLBNR211",
       "isin": "BRKLBN9R0AF0",
       "ativo": "KLBN",
@@ -2451,15 +1857,59 @@
       "total_posicoes": 6700
     },
     {
-      "codigo_opcao": "KLBNK214",
-      "isin": "BRKLBN9K0AH3",
+      "codigo_opcao": "KLBNR236",
+      "isin": "BRKLBN9R0AA1",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "KLBNE232",
+      "isin": "BRKLBN9E0BX6",
       "ativo": "KLBN",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 149,
-      "quantidade_coberta": 5757,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1100,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "KLBNE237",
+      "isin": "BRKLBN9E0BN7",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 500,
       "quantidade_descoberta": 0,
-      "total_posicoes": 6857
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "KLBNE247",
+      "isin": "BRKLBN9E0BQ0",
+      "ativo": "KLBN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "KLBNQ232",
+      "isin": "BRKLBN9Q0BP8",
+      "ativo": "KLBN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 49200,
+      "total_posicoes": 49200
     }
   ]
 }
