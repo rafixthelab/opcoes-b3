@@ -1,134 +1,13 @@
 {
   "ticker": "MDNE",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 19,
-  "calls": 9,
-  "puts": 10,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 11,
+  "calls": 5,
+  "puts": 6,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "MDNEP288",
-      "isin": "BRMDNE3P00F1",
-      "ativo": "MDNE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "MDNED308",
-      "isin": "BRMDNE3D00C4",
-      "ativo": "MDNE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MDNED323",
-      "isin": "BRMDNE3D00A8",
-      "ativo": "MDNE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 900
-    },
-    {
-      "codigo_opcao": "MDNEP298",
-      "isin": "BRMDNE3P0065",
-      "ativo": "MDNE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "MDNEP303",
-      "isin": "BRMDNE3P0073",
-      "ativo": "MDNE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "MDNEL307",
-      "isin": "BRMDNE3L00D5",
-      "ativo": "MDNE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "MDNED338",
-      "isin": "BRMDNE3D00D2",
-      "ativo": "MDNE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1700
-    },
-    {
-      "codigo_opcao": "MDNED348",
-      "isin": "BRMDNE3D00E0",
-      "ativo": "MDNE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "MDNEF353",
-      "isin": "BRMDNE3F00N6",
-      "ativo": "MDNE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 10600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10600
-    },
-    {
-      "codigo_opcao": "MDNEP293",
-      "isin": "BRMDNE3P00B0",
-      "ativo": "MDNE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MDNEP308",
-      "isin": "BRMDNE3P00A2",
-      "ativo": "MDNE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
     {
       "codigo_opcao": "MDNEI282",
       "isin": "BRMDNE3I00C3",
@@ -158,9 +37,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "total_posicoes": 5100
     },
     {
       "codigo_opcao": "MDNEQ293",
@@ -196,6 +75,17 @@
       "total_posicoes": 6100
     },
     {
+      "codigo_opcao": "MDNEQ333",
+      "isin": "BRMDNE3Q00K9",
+      "ativo": "MDNE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
+    },
+    {
       "codigo_opcao": "MDNER288",
       "isin": "BRMDNE3R00F7",
       "ativo": "MDNE",
@@ -216,6 +106,28 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 9900
+    },
+    {
+      "codigo_opcao": "MDNEL307",
+      "isin": "BRMDNE3L00D5",
+      "ativo": "MDNE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 2000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "MDNEF353",
+      "isin": "BRMDNE3F00N6",
+      "ativo": "MDNE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 10600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10600
     }
   ]
 }
