@@ -1,0 +1,111 @@
+{
+  "ticker": "GGPS",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 9,
+  "calls": 8,
+  "puts": 1,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "GGPSG212",
+      "isin": "BRGGPS3G01O7",
+      "ativo": "GGPS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 124400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 166000
+    },
+    {
+      "codigo_opcao": "GGPSJ231",
+      "isin": "BRGGPS3J01A0",
+      "ativo": "GGPS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 50000
+    },
+    {
+      "codigo_opcao": "GGPSG232",
+      "isin": "BRGGPS3G01P4",
+      "ativo": "GGPS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 50100
+    },
+    {
+      "codigo_opcao": "GGPSV186",
+      "isin": "BRGGPS3V0182",
+      "ativo": "GGPS",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 45000
+    },
+    {
+      "codigo_opcao": "GGPSF194",
+      "isin": "BRGGPS3F01S0",
+      "ativo": "GGPS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "GGPSH214",
+      "isin": "BRGGPS3H0289",
+      "ativo": "GGPS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "GGPSL206",
+      "isin": "BRGGPS3L02F3",
+      "ativo": "GGPS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "GGPSE211",
+      "isin": "BRGGPS3E0225",
+      "ativo": "GGPS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 50000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 145000
+    },
+    {
+      "codigo_opcao": "GGPSJ216",
+      "isin": "BRGGPS3J0196",
+      "ativo": "GGPS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 45000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 45000
+    }
+  ]
+}
