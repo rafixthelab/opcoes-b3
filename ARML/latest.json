@@ -1,79 +1,13 @@
 {
   "ticker": "ARML",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 26,
-  "calls": 13,
-  "puts": 13,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 21,
+  "calls": 11,
+  "puts": 10,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "ARMLE583",
-      "isin": "BRARML3E01F3",
-      "ativo": "ARML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12700
-    },
-    {
-      "codigo_opcao": "ARMLF603",
-      "isin": "BRARML3F01F0",
-      "ativo": "ARML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ARMLP463",
-      "isin": "BRARML3P0208",
-      "ativo": "ARML",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "ARMLQ463",
-      "isin": "BRARML3Q01H3",
-      "ativo": "ARML",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26000
-    },
-    {
-      "codigo_opcao": "ARMLR463",
-      "isin": "BRARML3R01G3",
-      "ativo": "ARML",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ARMLE603",
-      "isin": "BRARML3E01N7",
-      "ativo": "ARML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
     {
       "codigo_opcao": "ARMLB50",
       "isin": "BRARML3B00W6",
@@ -84,17 +18,6 @@
       "quantidade_coberta": 1300,
       "quantidade_descoberta": 0,
       "total_posicoes": 2300
-    },
-    {
-      "codigo_opcao": "ARMLD500",
-      "isin": "BRARML3D00V4",
-      "ativo": "ARML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 113,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
     },
     {
       "codigo_opcao": "ARMLE50",
@@ -163,17 +86,6 @@
       "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "ARMLP500",
-      "isin": "BRARML3P00V8",
-      "ativo": "ARML",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 113,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 50300
-    },
-    {
       "codigo_opcao": "ARMLQ50",
       "isin": "BRARML3Q00N3",
       "ativo": "ARML",
@@ -218,61 +130,6 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ARMLP503",
-      "isin": "BRARML3P01S2",
-      "ativo": "ARML",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "ARMLD563",
-      "isin": "BRARML3D01Q2",
-      "ativo": "ARML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 1700,
-      "quantidade_descoberta": 1300,
-      "total_posicoes": 18400
-    },
-    {
-      "codigo_opcao": "ARMLD713",
-      "isin": "BRARML3D01U4",
-      "ativo": "ARML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "ARMLP713",
-      "isin": "BRARML3P01U8",
-      "ativo": "ARML",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 50000
-    },
-    {
-      "codigo_opcao": "ARMLQ373",
-      "isin": "BRARML3Q0199",
-      "ativo": "ARML",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
       "codigo_opcao": "ARMLE593",
       "isin": "BRARML3E0185",
       "ativo": "ARML",
@@ -293,6 +150,94 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 655000
+    },
+    {
+      "codigo_opcao": "ARMLQ713",
+      "isin": "BRARML3Q01P6",
+      "ativo": "ARML",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 50000
+    },
+    {
+      "codigo_opcao": "ARMLE603",
+      "isin": "BRARML3E01N7",
+      "ativo": "ARML",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ARMLE633",
+      "isin": "BRARML3E01M9",
+      "ativo": "ARML",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 800
+    },
+    {
+      "codigo_opcao": "ARMLQ373",
+      "isin": "BRARML3Q0199",
+      "ativo": "ARML",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "ARMLE583",
+      "isin": "BRARML3E01F3",
+      "ativo": "ARML",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12700
+    },
+    {
+      "codigo_opcao": "ARMLF603",
+      "isin": "BRARML3F01F0",
+      "ativo": "ARML",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ARMLQ463",
+      "isin": "BRARML3Q01H3",
+      "ativo": "ARML",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26000
+    },
+    {
+      "codigo_opcao": "ARMLR463",
+      "isin": "BRARML3R01G3",
+      "ativo": "ARML",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     }
   ]
 }
