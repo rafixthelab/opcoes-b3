@@ -1,11 +1,11 @@
 {
   "ticker": "GOAU",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 261,
-  "calls": 124,
-  "puts": 137,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 196,
+  "calls": 93,
+  "puts": 103,
   "semanais": 0,
   "opcoes": [
     {
@@ -20,17 +20,6 @@
       "total_posicoes": 10000
     },
     {
-      "codigo_opcao": "GOAUP515",
-      "isin": "BRGOAU4P0I92",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4600,
-      "total_posicoes": 4600
-    },
-    {
       "codigo_opcao": "GOAUQ615",
       "isin": "BRGOAU4Q0GC9",
       "ativo": "GOAU",
@@ -42,316 +31,30 @@
       "total_posicoes": 14100
     },
     {
-      "codigo_opcao": "GOAUD120",
-      "isin": "BRGOAU4D0HM1",
+      "codigo_opcao": "GOAUE725",
+      "isin": "BRGOAU4E0GU5",
       "ativo": "GOAU",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 6200,
-      "total_posicoes": 7400
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
     },
     {
-      "codigo_opcao": "GOAUD130",
-      "isin": "BRGOAU4D0HN9",
+      "codigo_opcao": "GOAUQ725",
+      "isin": "BRGOAU4Q0GU1",
       "ativo": "GOAU",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 275,
+      "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1000,
       "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "GOAUD740",
-      "isin": "BRGOAU4D0HQ2",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20100,
-      "total_posicoes": 20100
-    },
-    {
-      "codigo_opcao": "GOAUD780",
-      "isin": "BRGOAU4D0HJ7",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 95300,
-      "total_posicoes": 99900
-    },
-    {
-      "codigo_opcao": "GOAUD820",
-      "isin": "BRGOAU4D0HP4",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 2100,
-      "quantidade_descoberta": 146300,
-      "total_posicoes": 162600
-    },
-    {
-      "codigo_opcao": "GOAUP120",
-      "isin": "BRGOAU4P0HI5",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 33700,
-      "total_posicoes": 33700
-    },
-    {
-      "codigo_opcao": "GOAUP740",
-      "isin": "BRGOAU4P0HJ3",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 159200,
-      "total_posicoes": 264600
-    },
-    {
-      "codigo_opcao": "GOAUP760",
-      "isin": "BRGOAU4P0HN5",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2700,
-      "total_posicoes": 101800
-    },
-    {
-      "codigo_opcao": "GOAUP780",
-      "isin": "BRGOAU4P0HL9",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 64500,
-      "total_posicoes": 351500
-    },
-    {
-      "codigo_opcao": "GOAUP800",
-      "isin": "BRGOAU4P0HT2",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 131600,
-      "total_posicoes": 254400
-    },
-    {
-      "codigo_opcao": "GOAUP820",
-      "isin": "BRGOAU4P0HK1",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 103700,
-      "total_posicoes": 216600
-    },
-    {
-      "codigo_opcao": "GOAUP840",
-      "isin": "BRGOAU4P0HR6",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5611,
-      "total_posicoes": 193900
-    },
-    {
-      "codigo_opcao": "GOAUP920",
-      "isin": "BRGOAU4P0HS4",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 156100,
-      "total_posicoes": 194400
-    },
-    {
-      "codigo_opcao": "GOAUP940",
-      "isin": "BRGOAU4P0HP0",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 84600,
-      "total_posicoes": 98700
-    },
-    {
-      "codigo_opcao": "GOAUD730",
-      "isin": "BRGOAU4D0HX8",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 26900,
-      "total_posicoes": 58600
-    },
-    {
-      "codigo_opcao": "GOAUP730",
-      "isin": "BRGOAU4P0HX4",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 48700
-    },
-    {
-      "codigo_opcao": "GOAUD865",
-      "isin": "BRGOAU4D0I15",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 82800,
-      "total_posicoes": 180200
-    },
-    {
-      "codigo_opcao": "GOAUE861",
-      "isin": "BRGOAU4E0GB5",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 14100,
-      "quantidade_descoberta": 19400,
-      "total_posicoes": 75000
-    },
-    {
-      "codigo_opcao": "GOAUE941",
-      "isin": "BRGOAU4E0G98",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 41100,
-      "quantidade_descoberta": 20800,
-      "total_posicoes": 125600
-    },
-    {
-      "codigo_opcao": "GOAUP107",
-      "isin": "BRGOAU4P0I19",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6000,
-      "total_posicoes": 81000
-    },
-    {
-      "codigo_opcao": "GOAUP117",
-      "isin": "BRGOAU4P0I35",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "GOAUP615",
-      "isin": "BRGOAU4P0I43",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "GOAUP825",
-      "isin": "BRGOAU4P0HY2",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4200,
-      "total_posicoes": 2307800
-    },
-    {
-      "codigo_opcao": "GOAUP865",
-      "isin": "BRGOAU4P0HZ9",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9400,
-      "total_posicoes": 47700
-    },
-    {
-      "codigo_opcao": "GOAUQ861",
-      "isin": "BRGOAU4Q0GB1",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 36684,
-      "total_posicoes": 59100
-    },
-    {
-      "codigo_opcao": "GOAUQ941",
-      "isin": "BRGOAU4Q0GA3",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 62700,
-      "total_posicoes": 81200
-    },
-    {
-      "codigo_opcao": "GOAUM115",
-      "isin": "BRGOAU4M0GS9",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11896,
-      "total_posicoes": 34200
-    },
-    {
-      "codigo_opcao": "GOAUA845",
-      "isin": "BRGOAU4A0GQ7",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 192000
-    },
-    {
-      "codigo_opcao": "GOAUM845",
-      "isin": "BRGOAU4M0GT7",
+      "codigo_opcao": "GOAUR164",
+      "isin": "BRGOAU4R0JD0",
       "ativo": "GOAU",
       "tipo": "Put",
       "semanal": false,
@@ -361,13 +64,585 @@
       "total_posicoes": 100
     },
     {
+      "codigo_opcao": "GOAUF760",
+      "isin": "BRGOAU4F0HG1",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 14600
+    },
+    {
+      "codigo_opcao": "GOAUF780",
+      "isin": "BRGOAU4F0HD8",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 700,
+      "total_posicoes": 700
+    },
+    {
+      "codigo_opcao": "GOAUF800",
+      "isin": "BRGOAU4F0HH9",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 2000,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 2400
+    },
+    {
+      "codigo_opcao": "GOAUF820",
+      "isin": "BRGOAU4F0HM9",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "GOAUF860",
+      "isin": "BRGOAU4F0HJ5",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3200
+    },
+    {
+      "codigo_opcao": "GOAUF900",
+      "isin": "BRGOAU4F0HE6",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 64900,
+      "total_posicoes": 72300
+    },
+    {
+      "codigo_opcao": "GOAUF920",
+      "isin": "BRGOAU4F0HL1",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 5200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10700
+    },
+    {
+      "codigo_opcao": "GOAUF940",
+      "isin": "BRGOAU4F0HI7",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 7800,
+      "quantidade_descoberta": 4418,
+      "total_posicoes": 26500
+    },
+    {
+      "codigo_opcao": "GOAUF960",
+      "isin": "BRGOAU4F0HF3",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 3100,
+      "quantidade_descoberta": 11200,
+      "total_posicoes": 25000
+    },
+    {
+      "codigo_opcao": "GOAUR760",
+      "isin": "BRGOAU4R0HE2",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4200
+    },
+    {
+      "codigo_opcao": "GOAUR780",
+      "isin": "BRGOAU4R0HO1",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6200
+    },
+    {
+      "codigo_opcao": "GOAUR800",
+      "isin": "BRGOAU4R0HN3",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "GOAUR820",
+      "isin": "BRGOAU4R0HK9",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 900,
+      "total_posicoes": 5100
+    },
+    {
+      "codigo_opcao": "GOAUR840",
+      "isin": "BRGOAU4R0HJ1",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 133500
+    },
+    {
+      "codigo_opcao": "GOAUR860",
+      "isin": "BRGOAU4R0HF9",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8500,
+      "total_posicoes": 13000
+    },
+    {
+      "codigo_opcao": "GOAUR900",
+      "isin": "BRGOAU4R0HI3",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6700,
+      "total_posicoes": 26500
+    },
+    {
+      "codigo_opcao": "GOAUR920",
+      "isin": "BRGOAU4R0HM5",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 16400,
+      "total_posicoes": 31900
+    },
+    {
+      "codigo_opcao": "GOAUR940",
+      "isin": "BRGOAU4R0HL7",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 9000,
+      "total_posicoes": 14700
+    },
+    {
+      "codigo_opcao": "GOAUR960",
+      "isin": "BRGOAU4R0HH5",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 13500,
+      "total_posicoes": 25300
+    },
+    {
+      "codigo_opcao": "GOAUG860",
+      "isin": "BRGOAU4G0FU5",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 4300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5500
+    },
+    {
+      "codigo_opcao": "GOAUS860",
+      "isin": "BRGOAU4S0FU1",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1400
+    },
+    {
+      "codigo_opcao": "GOAUS173",
+      "isin": "BRGOAU4S0G07",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 46600
+    },
+    {
+      "codigo_opcao": "GOAUB110",
+      "isin": "BRGOAU4B0F53",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 800,
+      "total_posicoes": 9100
+    },
+    {
+      "codigo_opcao": "GOAUN110",
+      "isin": "BRGOAU4N0EZ8",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 123100
+    },
+    {
+      "codigo_opcao": "GOAUE101",
+      "isin": "BRGOAU4E0FQ5",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 68000,
+      "quantidade_descoberta": 170600,
+      "total_posicoes": 304800
+    },
+    {
+      "codigo_opcao": "GOAUE106",
+      "isin": "BRGOAU4E0G23",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 8300,
+      "quantidade_descoberta": 8500,
+      "total_posicoes": 33800
+    },
+    {
+      "codigo_opcao": "GOAUE116",
+      "isin": "BRGOAU4E0FR3",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "GOAUE121",
+      "isin": "BRGOAU4E0FP7",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 7000,
+      "total_posicoes": 7100
+    },
+    {
+      "codigo_opcao": "GOAUE126",
+      "isin": "BRGOAU4E0FN2",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "GOAUE936",
+      "isin": "BRGOAU4E0FW3",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 20800,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 4075300
+    },
+    {
+      "codigo_opcao": "GOAUE956",
+      "isin": "BRGOAU4E0FU7",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 127900,
+      "quantidade_descoberta": 4600,
+      "total_posicoes": 212800
+    },
+    {
+      "codigo_opcao": "GOAUE976",
+      "isin": "BRGOAU4E0FV5",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 139300,
+      "quantidade_descoberta": 5900,
+      "total_posicoes": 193700
+    },
+    {
+      "codigo_opcao": "GOAUE996",
+      "isin": "BRGOAU4E0FS1",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 21800,
+      "quantidade_descoberta": 48900,
+      "total_posicoes": 139200
+    },
+    {
+      "codigo_opcao": "GOAUQ101",
+      "isin": "BRGOAU4Q0G35",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 25100,
+      "total_posicoes": 33600
+    },
+    {
+      "codigo_opcao": "GOAUQ106",
+      "isin": "BRGOAU4Q0FX7",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10500,
+      "total_posicoes": 86400
+    },
+    {
+      "codigo_opcao": "GOAUQ136",
+      "isin": "BRGOAU4Q0FV1",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3000,
+      "total_posicoes": 6400
+    },
+    {
+      "codigo_opcao": "GOAUQ141",
+      "isin": "BRGOAU4Q0FS7",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "GOAUQ146",
+      "isin": "BRGOAU4Q0FP3",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1500,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "GOAUQ171",
+      "isin": "BRGOAU4Q0G50",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2200,
+      "total_posicoes": 2200
+    },
+    {
+      "codigo_opcao": "GOAUQ936",
+      "isin": "BRGOAU4Q0G68",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 426300,
+      "total_posicoes": 4086200
+    },
+    {
+      "codigo_opcao": "GOAUQ956",
+      "isin": "BRGOAU4Q0FU3",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 73700,
+      "total_posicoes": 103200
+    },
+    {
+      "codigo_opcao": "GOAUQ976",
+      "isin": "BRGOAU4Q0FQ1",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 46600,
+      "total_posicoes": 760900
+    },
+    {
+      "codigo_opcao": "GOAUQ996",
+      "isin": "BRGOAU4Q0G27",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 43600,
+      "total_posicoes": 99500
+    },
+    {
+      "codigo_opcao": "GOAUE675",
+      "isin": "BRGOAU4E0GT7",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 1700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2600
+    },
+    {
+      "codigo_opcao": "GOAUE695",
+      "isin": "BRGOAU4E0GR1",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 4900,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12100
+    },
+    {
+      "codigo_opcao": "GOAUF104",
+      "isin": "BRGOAU4F0J43",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4400
+    },
+    {
+      "codigo_opcao": "GOAUQ655",
+      "isin": "BRGOAU4Q0GO4",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 17300,
+      "total_posicoes": 17600
+    },
+    {
+      "codigo_opcao": "GOAUQ675",
+      "isin": "BRGOAU4Q0GS5",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6000
+    },
+    {
+      "codigo_opcao": "GOAUR104",
+      "isin": "BRGOAU4R0J55",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10400,
+      "total_posicoes": 28000
+    },
+    {
+      "codigo_opcao": "GOAUR109",
+      "isin": "BRGOAU4R0J48",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4900
+    },
+    {
+      "codigo_opcao": "GOAUR154",
+      "isin": "BRGOAU4R0J97",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "GOAUR805",
+      "isin": "BRGOAU4R0J63",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
       "codigo_opcao": "GOAUA770",
       "isin": "BRGOAU4A0GO2",
       "ativo": "GOAU",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 275,
-      "quantidade_coberta": 25200,
+      "quantidade_coberta": 24800,
       "quantidade_descoberta": 0,
       "total_posicoes": 30000
     },
@@ -383,15 +658,389 @@
       "total_posicoes": 16000
     },
     {
-      "codigo_opcao": "GOAUD112",
-      "isin": "BRGOAU4D0H73",
+      "codigo_opcao": "GOAUE856",
+      "isin": "BRGOAU4E0FJ0",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 2600,
+      "quantidade_descoberta": 32600,
+      "total_posicoes": 90200
+    },
+    {
+      "codigo_opcao": "GOAUE876",
+      "isin": "BRGOAU4E0FL6",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 42200,
+      "quantidade_descoberta": 53300,
+      "total_posicoes": 128100
+    },
+    {
+      "codigo_opcao": "GOAUE896",
+      "isin": "BRGOAU4E0FM4",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 4900,
+      "quantidade_descoberta": 58000,
+      "total_posicoes": 93600
+    },
+    {
+      "codigo_opcao": "GOAUE916",
+      "isin": "BRGOAU4E0FK8",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 19400,
+      "quantidade_descoberta": 123700,
+      "total_posicoes": 279900
+    },
+    {
+      "codigo_opcao": "GOAUQ856",
+      "isin": "BRGOAU4Q0FL2",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 75560,
+      "total_posicoes": 301100
+    },
+    {
+      "codigo_opcao": "GOAUQ876",
+      "isin": "BRGOAU4Q0FM0",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 76500,
+      "total_posicoes": 134600
+    },
+    {
+      "codigo_opcao": "GOAUQ896",
+      "isin": "BRGOAU4Q0FK4",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8600,
+      "total_posicoes": 91900
+    },
+    {
+      "codigo_opcao": "GOAUQ916",
+      "isin": "BRGOAU4Q0FJ6",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 102600,
+      "total_posicoes": 157700
+    },
+    {
+      "codigo_opcao": "GOAUE114",
+      "isin": "BRGOAU4E0G80",
       "ativo": "GOAU",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 275,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 18100,
-      "total_posicoes": 18100
+      "quantidade_descoberta": 3400,
+      "total_posicoes": 3500
+    },
+    {
+      "codigo_opcao": "GOAUF115",
+      "isin": "BRGOAU4F0HA4",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 500,
+      "quantidade_descoberta": 22300,
+      "total_posicoes": 22800
+    },
+    {
+      "codigo_opcao": "GOAUF880",
+      "isin": "BRGOAU4F0HB2",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "GOAUF980",
+      "isin": "BRGOAU4F0HC0",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 4100,
+      "quantidade_descoberta": 600,
+      "total_posicoes": 11400
+    },
+    {
+      "codigo_opcao": "GOAUR880",
+      "isin": "BRGOAU4R0HB8",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 18900,
+      "total_posicoes": 33900
+    },
+    {
+      "codigo_opcao": "GOAUR980",
+      "isin": "BRGOAU4R0HC6",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1900,
+      "total_posicoes": 11000
+    },
+    {
+      "codigo_opcao": "GOAUV771",
+      "isin": "BRGOAU4V0FB6",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 36300
+    },
+    {
+      "codigo_opcao": "GOAUX650",
+      "isin": "BRGOAU4X0FQ2",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 4800
+    },
+    {
+      "codigo_opcao": "GOAUT670",
+      "isin": "BRGOAU4T0HW2",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3900
+    },
+    {
+      "codigo_opcao": "GOAUI935",
+      "isin": "BRGOAU4I0FL2",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 40600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 40700
+    },
+    {
+      "codigo_opcao": "GOAUU935",
+      "isin": "BRGOAU4U0FK8",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9800
+    },
+    {
+      "codigo_opcao": "GOAUE10",
+      "isin": "BRGOAU4E0FG6",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 17400,
+      "quantidade_descoberta": 31900,
+      "total_posicoes": 85600
+    },
+    {
+      "codigo_opcao": "GOAUE103",
+      "isin": "BRGOAU4E0FD3",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 67200,
+      "quantidade_descoberta": 107063,
+      "total_posicoes": 176196
+    },
+    {
+      "codigo_opcao": "GOAUE105",
+      "isin": "BRGOAU4E0FH4",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 13554,
+      "quantidade_descoberta": 48605,
+      "total_posicoes": 74619
+    },
+    {
+      "codigo_opcao": "GOAUE108",
+      "isin": "BRGOAU4E0FF8",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 7200,
+      "quantidade_descoberta": 75500,
+      "total_posicoes": 90100
+    },
+    {
+      "codigo_opcao": "GOAUE110",
+      "isin": "BRGOAU4E0FE1",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 39100,
+      "quantidade_descoberta": 22800,
+      "total_posicoes": 70600
+    },
+    {
+      "codigo_opcao": "GOAUE113",
+      "isin": "BRGOAU4E0FI2",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 14300,
+      "quantidade_descoberta": 38391,
+      "total_posicoes": 62291
+    },
+    {
+      "codigo_opcao": "GOAUQ10",
+      "isin": "BRGOAU4Q0FD9",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3000,
+      "total_posicoes": 372200
+    },
+    {
+      "codigo_opcao": "GOAUQ103",
+      "isin": "BRGOAU4Q0FG2",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12743,
+      "total_posicoes": 49634
+    },
+    {
+      "codigo_opcao": "GOAUQ105",
+      "isin": "BRGOAU4Q0FH0",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12255,
+      "total_posicoes": 246200
+    },
+    {
+      "codigo_opcao": "GOAUQ108",
+      "isin": "BRGOAU4Q0FI8",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 24833,
+      "total_posicoes": 113500
+    },
+    {
+      "codigo_opcao": "GOAUQ110",
+      "isin": "BRGOAU4Q0FF4",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 21791,
+      "total_posicoes": 164900
+    },
+    {
+      "codigo_opcao": "GOAUQ113",
+      "isin": "BRGOAU4Q0FE7",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12282,
+      "total_posicoes": 64315
+    },
+    {
+      "codigo_opcao": "GOAUE861",
+      "isin": "BRGOAU4E0GB5",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 15500,
+      "quantidade_descoberta": 13500,
+      "total_posicoes": 59300
+    },
+    {
+      "codigo_opcao": "GOAUE941",
+      "isin": "BRGOAU4E0G98",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 44400,
+      "quantidade_descoberta": 9400,
+      "total_posicoes": 120000
+    },
+    {
+      "codigo_opcao": "GOAUQ861",
+      "isin": "BRGOAU4Q0GB1",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 44300,
+      "total_posicoes": 61100
+    },
+    {
+      "codigo_opcao": "GOAUQ941",
+      "isin": "BRGOAU4Q0GA3",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 54200,
+      "total_posicoes": 73400
     },
     {
       "codigo_opcao": "GOAUE123",
@@ -422,7 +1071,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 276,
-      "quantidade_coberta": 29900,
+      "quantidade_coberta": 41200,
       "quantidade_descoberta": 31900,
       "total_posicoes": 89100
     },
@@ -433,9 +1082,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 276,
-      "quantidade_coberta": 75400,
+      "quantidade_coberta": 77300,
       "quantidade_descoberta": 3500,
-      "total_posicoes": 124400
+      "total_posicoes": 124700
     },
     {
       "codigo_opcao": "GOAUE901",
@@ -444,9 +1093,20 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 276,
-      "quantidade_coberta": 38400,
-      "quantidade_descoberta": 38500,
-      "total_posicoes": 144900
+      "quantidade_coberta": 70000,
+      "quantidade_descoberta": 49700,
+      "total_posicoes": 165900
+    },
+    {
+      "codigo_opcao": "GOAUF925",
+      "isin": "BRGOAU4F0IB0",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 7900,
+      "total_posicoes": 14000
     },
     {
       "codigo_opcao": "GOAUQ123",
@@ -467,8 +1127,8 @@
       "semanal": false,
       "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2100,
-      "total_posicoes": 54000
+      "quantidade_descoberta": 5000,
+      "total_posicoes": 45800
     },
     {
       "codigo_opcao": "GOAUQ881",
@@ -478,8 +1138,8 @@
       "semanal": false,
       "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 60200,
-      "total_posicoes": 126200
+      "quantidade_descoberta": 102400,
+      "total_posicoes": 115300
     },
     {
       "codigo_opcao": "GOAUQ901",
@@ -489,8 +1149,8 @@
       "semanal": false,
       "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 120900,
-      "total_posicoes": 200300
+      "quantidade_descoberta": 120800,
+      "total_posicoes": 200500
     },
     {
       "codigo_opcao": "GOAUR144",
@@ -515,608 +1175,14 @@
       "total_posicoes": 400
     },
     {
-      "codigo_opcao": "GOAUD805",
-      "isin": "BRGOAU4D0IG1",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 13800,
-      "total_posicoes": 13800
-    },
-    {
-      "codigo_opcao": "GOAUD845",
-      "isin": "BRGOAU4D0IK3",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27200,
-      "total_posicoes": 35800
-    },
-    {
-      "codigo_opcao": "GOAUE675",
-      "isin": "BRGOAU4E0GT7",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 1700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2600
-    },
-    {
-      "codigo_opcao": "GOAUE695",
-      "isin": "BRGOAU4E0GR1",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 4200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12100
-    },
-    {
-      "codigo_opcao": "GOAUF104",
-      "isin": "BRGOAU4F0J43",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "GOAUP805",
-      "isin": "BRGOAU4P0IN3",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10700
-    },
-    {
-      "codigo_opcao": "GOAUP845",
-      "isin": "BRGOAU4P0ID4",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7500,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "GOAUQ655",
-      "isin": "BRGOAU4Q0GO4",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17300,
-      "total_posicoes": 17600
-    },
-    {
-      "codigo_opcao": "GOAUQ675",
-      "isin": "BRGOAU4Q0GS5",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6000,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "GOAUR104",
-      "isin": "BRGOAU4R0J55",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9000
-    },
-    {
-      "codigo_opcao": "GOAUR109",
-      "isin": "BRGOAU4R0J48",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6500
-    },
-    {
-      "codigo_opcao": "GOAUR154",
-      "isin": "BRGOAU4R0J97",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "GOAUR805",
-      "isin": "BRGOAU4R0J63",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "GOAUE10",
-      "isin": "BRGOAU4E0FG6",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 12100,
-      "quantidade_descoberta": 31900,
-      "total_posicoes": 85600
-    },
-    {
-      "codigo_opcao": "GOAUE103",
-      "isin": "BRGOAU4E0FD3",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 67200,
-      "quantidade_descoberta": 107063,
-      "total_posicoes": 176196
-    },
-    {
-      "codigo_opcao": "GOAUE105",
-      "isin": "BRGOAU4E0FH4",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 13569,
-      "quantidade_descoberta": 54004,
-      "total_posicoes": 80018
-    },
-    {
-      "codigo_opcao": "GOAUE108",
-      "isin": "BRGOAU4E0FF8",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 7300,
-      "quantidade_descoberta": 98200,
-      "total_posicoes": 166700
-    },
-    {
-      "codigo_opcao": "GOAUE110",
-      "isin": "BRGOAU4E0FE1",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 37200,
-      "quantidade_descoberta": 23000,
-      "total_posicoes": 63900
-    },
-    {
-      "codigo_opcao": "GOAUE113",
-      "isin": "BRGOAU4E0FI2",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 14300,
-      "quantidade_descoberta": 55197,
-      "total_posicoes": 79097
-    },
-    {
-      "codigo_opcao": "GOAUQ10",
-      "isin": "BRGOAU4Q0FD9",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 50600,
-      "total_posicoes": 372200
-    },
-    {
-      "codigo_opcao": "GOAUQ103",
-      "isin": "BRGOAU4Q0FG2",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10633,
-      "total_posicoes": 51134
-    },
-    {
-      "codigo_opcao": "GOAUQ105",
-      "isin": "BRGOAU4Q0FH0",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12267,
-      "total_posicoes": 246200
-    },
-    {
-      "codigo_opcao": "GOAUQ108",
-      "isin": "BRGOAU4Q0FI8",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 113500
-    },
-    {
-      "codigo_opcao": "GOAUQ110",
-      "isin": "BRGOAU4Q0FF4",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 48700,
-      "total_posicoes": 169900
-    },
-    {
-      "codigo_opcao": "GOAUQ113",
-      "isin": "BRGOAU4Q0FE7",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7808,
-      "total_posicoes": 51892
-    },
-    {
-      "codigo_opcao": "GOAUD860",
-      "isin": "BRGOAU4D0H32",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 18100,
-      "quantidade_descoberta": 265800,
-      "total_posicoes": 321200
-    },
-    {
-      "codigo_opcao": "GOAUD880",
-      "isin": "BRGOAU4D0H40",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 92400,
-      "quantidade_descoberta": 132162,
-      "total_posicoes": 333600
-    },
-    {
-      "codigo_opcao": "GOAUD900",
-      "isin": "BRGOAU4D0H57",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 126500,
-      "quantidade_descoberta": 20800,
-      "total_posicoes": 199500
-    },
-    {
-      "codigo_opcao": "GOAUD910",
-      "isin": "BRGOAU4D0H24",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 72000,
-      "quantidade_descoberta": 26300,
-      "total_posicoes": 235000
-    },
-    {
-      "codigo_opcao": "GOAUE856",
-      "isin": "BRGOAU4E0FJ0",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 2600,
-      "quantidade_descoberta": 34000,
-      "total_posicoes": 91600
-    },
-    {
-      "codigo_opcao": "GOAUE876",
-      "isin": "BRGOAU4E0FL6",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 42200,
-      "quantidade_descoberta": 58200,
-      "total_posicoes": 133500
-    },
-    {
-      "codigo_opcao": "GOAUE896",
-      "isin": "BRGOAU4E0FM4",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 4900,
-      "quantidade_descoberta": 57700,
-      "total_posicoes": 91700
-    },
-    {
-      "codigo_opcao": "GOAUE916",
-      "isin": "BRGOAU4E0FK8",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 13100,
-      "quantidade_descoberta": 110700,
-      "total_posicoes": 286600
-    },
-    {
-      "codigo_opcao": "GOAUP860",
-      "isin": "BRGOAU4P0H28",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 92500,
-      "total_posicoes": 138500
-    },
-    {
-      "codigo_opcao": "GOAUP880",
-      "isin": "BRGOAU4P0H44",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 134200,
-      "total_posicoes": 205300
-    },
-    {
-      "codigo_opcao": "GOAUP900",
-      "isin": "BRGOAU4P0H51",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 142600,
-      "total_posicoes": 188900
-    },
-    {
-      "codigo_opcao": "GOAUP910",
-      "isin": "BRGOAU4P0H36",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 87900,
-      "total_posicoes": 124000
-    },
-    {
-      "codigo_opcao": "GOAUQ856",
-      "isin": "BRGOAU4Q0FL2",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 69260,
-      "total_posicoes": 308200
-    },
-    {
-      "codigo_opcao": "GOAUQ876",
-      "isin": "BRGOAU4Q0FM0",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 69100,
-      "total_posicoes": 128800
-    },
-    {
-      "codigo_opcao": "GOAUQ896",
-      "isin": "BRGOAU4Q0FK4",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 29500,
-      "total_posicoes": 107600
-    },
-    {
-      "codigo_opcao": "GOAUQ916",
-      "isin": "BRGOAU4Q0FJ6",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100000,
-      "total_posicoes": 153100
-    },
-    {
-      "codigo_opcao": "GOAUE114",
-      "isin": "BRGOAU4E0G80",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3400,
-      "total_posicoes": 3500
-    },
-    {
-      "codigo_opcao": "GOAUF115",
-      "isin": "BRGOAU4F0HA4",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 22200
-    },
-    {
-      "codigo_opcao": "GOAUF880",
-      "isin": "BRGOAU4F0HB2",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "GOAUF980",
-      "isin": "BRGOAU4F0HC0",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 2800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10800
-    },
-    {
-      "codigo_opcao": "GOAUR880",
-      "isin": "BRGOAU4R0HB8",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14600
-    },
-    {
-      "codigo_opcao": "GOAUR980",
-      "isin": "BRGOAU4R0HC6",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 15100
-    },
-    {
-      "codigo_opcao": "GOAUV771",
-      "isin": "BRGOAU4V0FB6",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 36300
-    },
-    {
-      "codigo_opcao": "GOAUX650",
-      "isin": "BRGOAU4X0FQ2",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 4800
-    },
-    {
-      "codigo_opcao": "GOAUH960",
-      "isin": "BRGOAU4H0HV8",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 29500
-    },
-    {
-      "codigo_opcao": "GOAUT960",
-      "isin": "BRGOAU4T0HV4",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "GOAUG860",
-      "isin": "BRGOAU4G0FU5",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5500
-    },
-    {
-      "codigo_opcao": "GOAUF117",
-      "isin": "BRGOAU4F0IU0",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6500,
-      "total_posicoes": 6500
-    },
-    {
-      "codigo_opcao": "GOAUS173",
-      "isin": "BRGOAU4S0G07",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 46600
-    },
-    {
       "codigo_opcao": "GOAUJ130",
       "isin": "BRGOAU4J0FC0",
       "ativo": "GOAU",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 275,
-      "quantidade_coberta": 3100,
-      "quantidade_descoberta": 7000,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4100,
       "total_posicoes": 27000
     },
     {
@@ -1159,7 +1225,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 272,
-      "quantidade_coberta": 2000,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 300,
       "total_posicoes": 2300
     },
@@ -1170,9 +1236,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 272,
-      "quantidade_coberta": 133,
+      "quantidade_coberta": 33,
       "quantidade_descoberta": 23563,
-      "total_posicoes": 31662
+      "total_posicoes": 31562
     },
     {
       "codigo_opcao": "GOAUG2",
@@ -1340,169 +1406,48 @@
       "total_posicoes": 1400
     },
     {
-      "codigo_opcao": "GOAUD100",
-      "isin": "BRGOAU4D0H81",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 15800,
-      "quantidade_descoberta": 55500,
-      "total_posicoes": 115200
-    },
-    {
-      "codigo_opcao": "GOAUD105",
-      "isin": "BRGOAU4D0HC2",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 3600,
-      "quantidade_descoberta": 62400,
-      "total_posicoes": 75600
-    },
-    {
-      "codigo_opcao": "GOAUD110",
-      "isin": "BRGOAU4D0HA6",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 53900,
-      "total_posicoes": 54000
-    },
-    {
-      "codigo_opcao": "GOAUD115",
-      "isin": "BRGOAU4D0HB4",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 86000,
-      "total_posicoes": 86200
-    },
-    {
-      "codigo_opcao": "GOAUD980",
-      "isin": "BRGOAU4D0H99",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 22300,
-      "quantidade_descoberta": 69900,
-      "total_posicoes": 102100
-    },
-    {
-      "codigo_opcao": "GOAUP100",
-      "isin": "BRGOAU4P0H93",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 46100,
-      "total_posicoes": 50500
-    },
-    {
-      "codigo_opcao": "GOAUP105",
-      "isin": "BRGOAU4P0H85",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 44500,
-      "total_posicoes": 120000
-    },
-    {
-      "codigo_opcao": "GOAUP110",
-      "isin": "BRGOAU4P0H77",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11300,
-      "total_posicoes": 11500
-    },
-    {
-      "codigo_opcao": "GOAUP115",
-      "isin": "BRGOAU4P0HC8",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 24900,
-      "total_posicoes": 24900
-    },
-    {
-      "codigo_opcao": "GOAUP980",
-      "isin": "BRGOAU4P0HB0",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 51800,
-      "total_posicoes": 254000
-    },
-    {
-      "codigo_opcao": "GOAUI935",
-      "isin": "BRGOAU4I0FL2",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 40600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 40700
-    },
-    {
-      "codigo_opcao": "GOAUU935",
-      "isin": "BRGOAU4U0FK8",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9800
-    },
-    {
-      "codigo_opcao": "GOAUD615",
-      "isin": "BRGOAU4D0I23",
+      "codigo_opcao": "GOAUF117",
+      "isin": "BRGOAU4F0IU0",
       "ativo": "GOAU",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 5100,
-      "total_posicoes": 5100
+      "quantidade_descoberta": 6500,
+      "total_posicoes": 6500
     },
     {
-      "codigo_opcao": "GOAUD625",
-      "isin": "BRGOAU4D0I56",
+      "codigo_opcao": "GOAUK13",
+      "isin": "BRGOAU4K0FK0",
       "ativo": "GOAU",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 276,
+      "contratos_em_aberto": 273,
+      "quantidade_coberta": 5631,
+      "quantidade_descoberta": 1189,
+      "total_posicoes": 7065
+    },
+    {
+      "codigo_opcao": "GOAUW13",
+      "isin": "BRGOAU4W0FI0",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 273,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 400
+      "quantidade_descoberta": 7198,
+      "total_posicoes": 106321
     },
     {
-      "codigo_opcao": "GOAUD825",
-      "isin": "BRGOAU4D0HZ3",
+      "codigo_opcao": "GOAUM115",
+      "isin": "BRGOAU4M0GS9",
       "ativo": "GOAU",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 5000,
-      "quantidade_descoberta": 87000,
-      "total_posicoes": 2103900
+      "contratos_em_aberto": 275,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 11896,
+      "total_posicoes": 34200
     },
     {
       "codigo_opcao": "GOAUK118",
@@ -1533,7 +1478,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 273,
-      "quantidade_coberta": 48500,
+      "quantidade_coberta": 8601,
       "quantidade_descoberta": 1752,
       "total_posicoes": 55952
     },
@@ -1566,9 +1511,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 273,
-      "quantidade_coberta": 21883,
-      "quantidade_descoberta": 35301,
-      "total_posicoes": 178478
+      "quantidade_coberta": 42528,
+      "quantidade_descoberta": 65541,
+      "total_posicoes": 580341
     },
     {
       "codigo_opcao": "GOAUE150",
@@ -1578,7 +1523,7 @@
       "semanal": false,
       "contratos_em_aberto": 273,
       "quantidade_coberta": 3700,
-      "quantidade_descoberta": 7800,
+      "quantidade_descoberta": 2700,
       "total_posicoes": 41100
     },
     {
@@ -1601,7 +1546,7 @@
       "contratos_em_aberto": 273,
       "quantidade_coberta": 3300,
       "quantidade_descoberta": 0,
-      "total_posicoes": 4300
+      "total_posicoes": 3300
     },
     {
       "codigo_opcao": "GOAUQ140",
@@ -1611,41 +1556,8 @@
       "semanal": false,
       "contratos_em_aberto": 273,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 4643,
-      "total_posicoes": 32159
-    },
-    {
-      "codigo_opcao": "GOAUE725",
-      "isin": "BRGOAU4E0GU5",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "GOAUQ725",
-      "isin": "BRGOAU4Q0GU1",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "GOAUR164",
-      "isin": "BRGOAU4R0JD0",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "quantidade_descoberta": 332444,
+      "total_posicoes": 424960
     },
     {
       "codigo_opcao": "GOAUQ150",
@@ -1703,37 +1615,26 @@
       "total_posicoes": 4200
     },
     {
-      "codigo_opcao": "GOAUB110",
-      "isin": "BRGOAU4B0F53",
+      "codigo_opcao": "GOAUA845",
+      "isin": "BRGOAU4A0GQ7",
       "ativo": "GOAU",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 275,
+      "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 9100
+      "quantidade_descoberta": 0,
+      "total_posicoes": 192000
     },
     {
-      "codigo_opcao": "GOAUN110",
-      "isin": "BRGOAU4N0EZ8",
+      "codigo_opcao": "GOAUM845",
+      "isin": "BRGOAU4M0GT7",
       "ativo": "GOAU",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 275,
+      "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 123100
-    },
-    {
-      "codigo_opcao": "GOAUT670",
-      "isin": "BRGOAU4T0HW2",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3900
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "GOAUA10",
@@ -1744,7 +1645,7 @@
       "contratos_em_aberto": 270,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 156
+      "total_posicoes": 155
     },
     {
       "codigo_opcao": "GOAUB99",
@@ -1756,17 +1657,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 4498
-    },
-    {
-      "codigo_opcao": "GOAUD10",
-      "isin": "BRGOAU4D0GV4",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 270,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 25308,
-      "total_posicoes": 25308
     },
     {
       "codigo_opcao": "GOAUD150",
@@ -1797,7 +1687,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 270,
-      "quantidade_coberta": 981,
+      "quantidade_coberta": 1329,
       "quantidade_descoberta": 15000,
       "total_posicoes": 20300
     },
@@ -1857,6 +1747,17 @@
       "total_posicoes": 3100
     },
     {
+      "codigo_opcao": "GOAUF785",
+      "isin": "BRGOAU4F0IH7",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5600
+    },
+    {
       "codigo_opcao": "GOAUF825",
       "isin": "BRGOAU4F0IV8",
       "ativo": "GOAU",
@@ -1865,7 +1766,7 @@
       "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 400,
-      "total_posicoes": 500
+      "total_posicoes": 13300
     },
     {
       "codigo_opcao": "GOAUF845",
@@ -1879,6 +1780,17 @@
       "total_posicoes": 700
     },
     {
+      "codigo_opcao": "GOAUF885",
+      "isin": "BRGOAU4F0IG9",
+      "ativo": "GOAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1600
+    },
+    {
       "codigo_opcao": "GOAUF905",
       "isin": "BRGOAU4F0HU2",
       "ativo": "GOAU",
@@ -1886,8 +1798,8 @@
       "semanal": false,
       "contratos_em_aberto": 276,
       "quantidade_coberta": 100,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 1000
+      "quantidade_descoberta": 7400,
+      "total_posicoes": 12200
     },
     {
       "codigo_opcao": "GOAUF945",
@@ -1898,7 +1810,7 @@
       "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 400
+      "total_posicoes": 4100
     },
     {
       "codigo_opcao": "GOAUF985",
@@ -1907,9 +1819,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 276,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6200,
-      "total_posicoes": 13200
+      "quantidade_coberta": 1600,
+      "quantidade_descoberta": 10300,
+      "total_posicoes": 21700
     },
     {
       "codigo_opcao": "GOAUF995",
@@ -1918,9 +1830,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 276,
-      "quantidade_coberta": 2100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 19100
+      "quantidade_coberta": 2800,
+      "quantidade_descoberta": 3200,
+      "total_posicoes": 24000
     },
     {
       "codigo_opcao": "GOAUG139",
@@ -1931,7 +1843,7 @@
       "contratos_em_aberto": 273,
       "quantidade_coberta": 4750,
       "quantidade_descoberta": 0,
-      "total_posicoes": 11050
+      "total_posicoes": 11250
     },
     {
       "codigo_opcao": "GOAUG910",
@@ -1940,9 +1852,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 275,
-      "quantidade_coberta": 2000,
+      "quantidade_coberta": 1600,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2000
+      "total_posicoes": 2100
     },
     {
       "codigo_opcao": "GOAUJ100",
@@ -1953,7 +1865,7 @@
       "contratos_em_aberto": 275,
       "quantidade_coberta": 10100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10700
+      "total_posicoes": 11000
     },
     {
       "codigo_opcao": "GOAUJ974",
@@ -1962,7 +1874,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 269,
-      "quantidade_coberta": 1500,
+      "quantidade_coberta": 2666,
       "quantidade_descoberta": 0,
       "total_posicoes": 17561
     },
@@ -1984,7 +1896,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 270,
-      "quantidade_coberta": 1402,
+      "quantidade_coberta": 20794,
       "quantidade_descoberta": 0,
       "total_posicoes": 62193
     },
@@ -2009,17 +1921,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 21103
-    },
-    {
-      "codigo_opcao": "GOAUP10",
-      "isin": "BRGOAU4P0GV0",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 270,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 24300,
-      "total_posicoes": 60641
     },
     {
       "codigo_opcao": "GOAUP150",
@@ -2051,7 +1952,7 @@
       "semanal": false,
       "contratos_em_aberto": 270,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1600,
+      "quantidade_descoberta": 100,
       "total_posicoes": 87599
     },
     {
@@ -2084,8 +1985,8 @@
       "semanal": false,
       "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1100
+      "quantidade_descoberta": 6000,
+      "total_posicoes": 6100
     },
     {
       "codigo_opcao": "GOAUR765",
@@ -2121,6 +2022,17 @@
       "total_posicoes": 5000
     },
     {
+      "codigo_opcao": "GOAUR885",
+      "isin": "BRGOAU4R0IL5",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 38000,
+      "total_posicoes": 38000
+    },
+    {
       "codigo_opcao": "GOAUR905",
       "isin": "BRGOAU4R0HT0",
       "ativo": "GOAU",
@@ -2128,8 +2040,19 @@
       "semanal": false,
       "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
+      "quantidade_descoberta": 17700,
+      "total_posicoes": 26700
+    },
+    {
+      "codigo_opcao": "GOAUR945",
+      "isin": "BRGOAU4R0IZ5",
+      "ativo": "GOAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 276,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 11100
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "GOAUR985",
@@ -2150,8 +2073,8 @@
       "semanal": false,
       "contratos_em_aberto": 276,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4500
+      "quantidade_descoberta": 15000,
+      "total_posicoes": 19500
     },
     {
       "codigo_opcao": "GOAUS10",
@@ -2173,7 +2096,7 @@
       "contratos_em_aberto": 273,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3500
+      "total_posicoes": 3700
     },
     {
       "codigo_opcao": "GOAUS910",
@@ -2184,7 +2107,7 @@
       "contratos_em_aberto": 275,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2400
+      "total_posicoes": 12400
     },
     {
       "codigo_opcao": "GOAUV974",
@@ -2220,664 +2143,26 @@
       "total_posicoes": 98497
     },
     {
-      "codigo_opcao": "GOAUD960",
-      "isin": "BRGOAU4D0H65",
+      "codigo_opcao": "GOAUH960",
+      "isin": "BRGOAU4H0HV8",
       "ativo": "GOAU",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 275,
-      "quantidade_coberta": 35400,
-      "quantidade_descoberta": 228000,
-      "total_posicoes": 325300
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 29500
     },
     {
-      "codigo_opcao": "GOAUP960",
-      "isin": "BRGOAU4P0H69",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 136200,
-      "total_posicoes": 201300
-    },
-    {
-      "codigo_opcao": "GOAUE101",
-      "isin": "BRGOAU4E0FQ5",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 45500,
-      "quantidade_descoberta": 156100,
-      "total_posicoes": 266000
-    },
-    {
-      "codigo_opcao": "GOAUE106",
-      "isin": "BRGOAU4E0G23",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 5500,
-      "quantidade_descoberta": 9000,
-      "total_posicoes": 30900
-    },
-    {
-      "codigo_opcao": "GOAUE121",
-      "isin": "BRGOAU4E0FP7",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7000,
-      "total_posicoes": 7100
-    },
-    {
-      "codigo_opcao": "GOAUE126",
-      "isin": "BRGOAU4E0FN2",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "GOAUE936",
-      "isin": "BRGOAU4E0FW3",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 19500,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 4080000
-    },
-    {
-      "codigo_opcao": "GOAUE956",
-      "isin": "BRGOAU4E0FU7",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 100800,
-      "quantidade_descoberta": 17700,
-      "total_posicoes": 215800
-    },
-    {
-      "codigo_opcao": "GOAUE976",
-      "isin": "BRGOAU4E0FV5",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 137100,
-      "quantidade_descoberta": 6300,
-      "total_posicoes": 189600
-    },
-    {
-      "codigo_opcao": "GOAUE996",
-      "isin": "BRGOAU4E0FS1",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 14200,
-      "quantidade_descoberta": 54500,
-      "total_posicoes": 139100
-    },
-    {
-      "codigo_opcao": "GOAUQ101",
-      "isin": "BRGOAU4Q0G35",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 19700
-    },
-    {
-      "codigo_opcao": "GOAUQ106",
-      "isin": "BRGOAU4Q0FX7",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 24100,
-      "total_posicoes": 25000
-    },
-    {
-      "codigo_opcao": "GOAUQ136",
-      "isin": "BRGOAU4Q0FV1",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 6400
-    },
-    {
-      "codigo_opcao": "GOAUQ141",
-      "isin": "BRGOAU4Q0FS7",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "GOAUQ146",
-      "isin": "BRGOAU4Q0FP3",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "GOAUQ171",
-      "isin": "BRGOAU4Q0G50",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2200,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "GOAUQ936",
-      "isin": "BRGOAU4Q0G68",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 18800,
-      "total_posicoes": 4046800
-    },
-    {
-      "codigo_opcao": "GOAUQ956",
-      "isin": "BRGOAU4Q0FU3",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 72100,
-      "total_posicoes": 101600
-    },
-    {
-      "codigo_opcao": "GOAUQ976",
-      "isin": "BRGOAU4Q0FQ1",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 53000,
-      "total_posicoes": 567300
-    },
-    {
-      "codigo_opcao": "GOAUQ996",
-      "isin": "BRGOAU4Q0G27",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 46300,
-      "total_posicoes": 102000
-    },
-    {
-      "codigo_opcao": "GOAUD650",
-      "isin": "BRGOAU4D0HE8",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "GOAUD660",
-      "isin": "BRGOAU4D0HF5",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "GOAUD670",
-      "isin": "BRGOAU4D0HD0",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12300,
-      "total_posicoes": 12300
-    },
-    {
-      "codigo_opcao": "GOAUD680",
-      "isin": "BRGOAU4D0HH1",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2600,
-      "total_posicoes": 2600
-    },
-    {
-      "codigo_opcao": "GOAUD690",
-      "isin": "BRGOAU4D0HG3",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4300,
-      "total_posicoes": 4300
-    },
-    {
-      "codigo_opcao": "GOAUP650",
-      "isin": "BRGOAU4P0HH7",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20000,
-      "total_posicoes": 25200
-    },
-    {
-      "codigo_opcao": "GOAUP660",
-      "isin": "BRGOAU4P0HD6",
+      "codigo_opcao": "GOAUT960",
+      "isin": "BRGOAU4T0HV4",
       "ativo": "GOAU",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 275,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "GOAUP670",
-      "isin": "BRGOAU4P0HE4",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "GOAUP680",
-      "isin": "BRGOAU4P0HF1",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "GOAUP690",
-      "isin": "BRGOAU4P0HG9",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5300
-    },
-    {
-      "codigo_opcao": "GOAUD700",
-      "isin": "BRGOAU4D0HI9",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 32200,
-      "total_posicoes": 32300
-    },
-    {
-      "codigo_opcao": "GOAUD760",
-      "isin": "BRGOAU4D0HO7",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 54900,
-      "total_posicoes": 54900
-    },
-    {
-      "codigo_opcao": "GOAUD800",
-      "isin": "BRGOAU4D0HV2",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 2100,
-      "quantidade_descoberta": 177900,
-      "total_posicoes": 181900
-    },
-    {
-      "codigo_opcao": "GOAUD840",
-      "isin": "BRGOAU4D0HL3",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 8600,
-      "quantidade_descoberta": 60900,
-      "total_posicoes": 83900
-    },
-    {
-      "codigo_opcao": "GOAUD920",
-      "isin": "BRGOAU4D0HR0",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 27900,
-      "quantidade_descoberta": 112300,
-      "total_posicoes": 190400
-    },
-    {
-      "codigo_opcao": "GOAUD940",
-      "isin": "BRGOAU4D0HS8",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 19800,
-      "quantidade_descoberta": 40300,
-      "total_posicoes": 171100
-    },
-    {
-      "codigo_opcao": "GOAUP135",
-      "isin": "BRGOAU4P0HU0",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "GOAUP700",
-      "isin": "BRGOAU4P0HV8",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 29000
-    },
-    {
-      "codigo_opcao": "GOAUF760",
-      "isin": "BRGOAU4F0HG1",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14600
-    },
-    {
-      "codigo_opcao": "GOAUF780",
-      "isin": "BRGOAU4F0HD8",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "GOAUF800",
-      "isin": "BRGOAU4F0HH9",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 2400
-    },
-    {
-      "codigo_opcao": "GOAUF820",
-      "isin": "BRGOAU4F0HM9",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "GOAUF860",
-      "isin": "BRGOAU4F0HJ5",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "GOAUF900",
-      "isin": "BRGOAU4F0HE6",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 105919,
-      "total_posicoes": 225500
-    },
-    {
-      "codigo_opcao": "GOAUF920",
-      "isin": "BRGOAU4F0HL1",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 9700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10700
-    },
-    {
-      "codigo_opcao": "GOAUF940",
-      "isin": "BRGOAU4F0HI7",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 2300,
-      "quantidade_descoberta": 1600,
-      "total_posicoes": 26600
-    },
-    {
-      "codigo_opcao": "GOAUF960",
-      "isin": "BRGOAU4F0HF3",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 7200,
-      "total_posicoes": 24000
-    },
-    {
-      "codigo_opcao": "GOAUR760",
-      "isin": "BRGOAU4R0HE2",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4200
-    },
-    {
-      "codigo_opcao": "GOAUR780",
-      "isin": "BRGOAU4R0HO1",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6200
-    },
-    {
-      "codigo_opcao": "GOAUR800",
-      "isin": "BRGOAU4R0HN3",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "GOAUR820",
-      "isin": "BRGOAU4R0HK9",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 900,
-      "total_posicoes": 5100
-    },
-    {
-      "codigo_opcao": "GOAUR840",
-      "isin": "BRGOAU4R0HJ1",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 133500
-    },
-    {
-      "codigo_opcao": "GOAUR860",
-      "isin": "BRGOAU4R0HF9",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3500,
-      "total_posicoes": 7500
-    },
-    {
-      "codigo_opcao": "GOAUR900",
-      "isin": "BRGOAU4R0HI3",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8300,
-      "total_posicoes": 22700
-    },
-    {
-      "codigo_opcao": "GOAUR920",
-      "isin": "BRGOAU4R0HM5",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2400,
-      "total_posicoes": 12300
-    },
-    {
-      "codigo_opcao": "GOAUR940",
-      "isin": "BRGOAU4R0HL7",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 6300
-    },
-    {
-      "codigo_opcao": "GOAUR960",
-      "isin": "BRGOAU4R0HH5",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11200,
-      "total_posicoes": 22800
-    },
-    {
-      "codigo_opcao": "GOAUK13",
-      "isin": "BRGOAU4K0FK0",
-      "ativo": "GOAU",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 5614,
-      "quantidade_descoberta": 1189,
-      "total_posicoes": 7065
-    },
-    {
-      "codigo_opcao": "GOAUW13",
-      "isin": "BRGOAU4W0FI0",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 273,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7198,
-      "total_posicoes": 106321
-    },
-    {
-      "codigo_opcao": "GOAUS860",
-      "isin": "BRGOAU4S0FU1",
-      "ativo": "GOAU",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 275,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1400
+      "total_posicoes": 6000
     }
   ]
 }
