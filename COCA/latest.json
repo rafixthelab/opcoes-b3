@@ -1,10 +1,10 @@
 {
   "ticker": "COCA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 3,
-  "calls": 2,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 2,
+  "calls": 1,
   "puts": 1,
   "semanais": 0,
   "opcoes": [
@@ -29,17 +29,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 14880
-    },
-    {
-      "codigo_opcao": "COCAD657",
-      "isin": "BRCOCA9D00G8",
-      "ativo": "COCA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 360,
-      "quantidade_descoberta": 320,
-      "total_posicoes": 3820
     }
   ]
 }
