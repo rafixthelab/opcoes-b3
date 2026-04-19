@@ -1,23 +1,23 @@
 {
   "ticker": "GFSA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 45,
-  "calls": 31,
-  "puts": 14,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 30,
+  "calls": 22,
+  "puts": 8,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "GFSAL60",
-      "isin": "BRGFSA3L0840",
+      "codigo_opcao": "GFSAG300",
+      "isin": "BRGFSA3G0755",
       "ativo": "GFSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 127,
-      "quantidade_coberta": 5100,
+      "quantidade_coberta": 1000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 6400
+      "total_posicoes": 1000
     },
     {
       "codigo_opcao": "GFSAS305",
@@ -29,116 +29,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "GFSAE130",
-      "isin": "BRGFSA3E07G3",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "GFSAE140",
-      "isin": "BRGFSA3E07D0",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "GFSAE150",
-      "isin": "BRGFSA3E07F5",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "GFSAQ150",
-      "isin": "BRGFSA3Q07L7",
-      "ativo": "GFSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "GFSAP160",
-      "isin": "BRGFSA3P07F1",
-      "ativo": "GFSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "GFSAD450",
-      "isin": "BRGFSA3D0717",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 8400,
-      "total_posicoes": 10100
-    },
-    {
-      "codigo_opcao": "GFSAD500",
-      "isin": "BRGFSA3D0725",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3100
-    },
-    {
-      "codigo_opcao": "GFSAP450",
-      "isin": "BRGFSA3P0713",
-      "ativo": "GFSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "GFSAH30",
-      "isin": "BRGFSA3H07Y9",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 126,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "GFSAJ99",
-      "isin": "BRGFSA3J0661",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 126,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
     },
     {
       "codigo_opcao": "GFSAD20",
@@ -196,72 +86,6 @@
       "total_posicoes": 390
     },
     {
-      "codigo_opcao": "GFSAD11",
-      "isin": "BRGFSA3D06G7",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 124,
-      "quantidade_coberta": 25,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 75
-    },
-    {
-      "codigo_opcao": "GFSAD30",
-      "isin": "BRGFSA3D06J1",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 124,
-      "quantidade_coberta": 55,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 190
-    },
-    {
-      "codigo_opcao": "GFSAD35",
-      "isin": "BRGFSA3D06H5",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 124,
-      "quantidade_coberta": 374,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 920
-    },
-    {
-      "codigo_opcao": "GFSAD45",
-      "isin": "BRGFSA3D06K9",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 124,
-      "quantidade_coberta": 70,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 585
-    },
-    {
-      "codigo_opcao": "GFSAD799",
-      "isin": "BRGFSA3D06F9",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 124,
-      "quantidade_coberta": 60,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 185
-    },
-    {
-      "codigo_opcao": "GFSAD899",
-      "isin": "BRGFSA3D06D4",
-      "ativo": "GFSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 124,
-      "quantidade_coberta": 5,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5
-    },
-    {
       "codigo_opcao": "GFSAE10",
       "isin": "BRGFSA3E06U6",
       "ativo": "GFSA",
@@ -313,8 +137,8 @@
       "semanal": false,
       "contratos_em_aberto": 125,
       "quantidade_coberta": 250,
-      "quantidade_descoberta": 10,
-      "total_posicoes": 265
+      "quantidade_descoberta": 0,
+      "total_posicoes": 255
     },
     {
       "codigo_opcao": "GFSAG600",
@@ -359,28 +183,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 5
-    },
-    {
-      "codigo_opcao": "GFSAP30",
-      "isin": "BRGFSA3P06M9",
-      "ativo": "GFSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 124,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 95
-    },
-    {
-      "codigo_opcao": "GFSAP799",
-      "isin": "BRGFSA3P06G1",
-      "ativo": "GFSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 124,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 50
     },
     {
       "codigo_opcao": "GFSAQ10",
@@ -449,48 +251,59 @@
       "total_posicoes": 60
     },
     {
-      "codigo_opcao": "GFSAG300",
-      "isin": "BRGFSA3G0755",
+      "codigo_opcao": "GFSAJ99",
+      "isin": "BRGFSA3J0661",
+      "ativo": "GFSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 126,
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "GFSAE130",
+      "isin": "BRGFSA3E07G3",
       "ativo": "GFSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 127,
-      "quantidade_coberta": 1000,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 300
     },
     {
-      "codigo_opcao": "GFSAD250",
-      "isin": "BRGFSA3D0758",
+      "codigo_opcao": "GFSAE140",
+      "isin": "BRGFSA3E07D0",
       "ativo": "GFSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 127,
-      "quantidade_coberta": 3800,
+      "quantidade_coberta": 200,
       "quantidade_descoberta": 0,
-      "total_posicoes": 44900
+      "total_posicoes": 200
     },
     {
-      "codigo_opcao": "GFSAP150",
-      "isin": "BRGFSA3P0770",
+      "codigo_opcao": "GFSAE150",
+      "isin": "BRGFSA3E07F5",
+      "ativo": "GFSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 127,
+      "quantidade_coberta": 500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4000
+    },
+    {
+      "codigo_opcao": "GFSAQ150",
+      "isin": "BRGFSA3Q07L7",
       "ativo": "GFSA",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 127,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "GFSAP250",
-      "isin": "BRGFSA3P0762",
-      "ativo": "GFSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "GFSAH20",
@@ -502,6 +315,28 @@
       "quantidade_coberta": 200,
       "quantidade_descoberta": 0,
       "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "GFSAL60",
+      "isin": "BRGFSA3L0840",
+      "ativo": "GFSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 127,
+      "quantidade_coberta": 5100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6400
+    },
+    {
+      "codigo_opcao": "GFSAH30",
+      "isin": "BRGFSA3H07Y9",
+      "ativo": "GFSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 126,
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
     }
   ]
 }
