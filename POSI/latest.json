@@ -1,452 +1,23 @@
 {
   "ticker": "POSI",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 123,
-  "calls": 59,
-  "puts": 64,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 93,
+  "calls": 45,
+  "puts": 48,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "POSID453",
-      "isin": "BRPOSI3D03P5",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 35200,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 46200
-    },
-    {
-      "codigo_opcao": "POSIP353",
-      "isin": "BRPOSI3P03Q7",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "POSIP453",
-      "isin": "BRPOSI3P03P9",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 25500,
-      "total_posicoes": 46500
-    },
-    {
-      "codigo_opcao": "POSIL500",
-      "isin": "BRPOSI3L04B6",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "POSIL600",
-      "isin": "BRPOSI3L04E0",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "POSIX500",
-      "isin": "BRPOSI3X04C9",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "POSID510",
-      "isin": "BRPOSI3D0473",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 10300,
-      "quantidade_descoberta": 1400,
-      "total_posicoes": 12000
-    },
-    {
-      "codigo_opcao": "POSID530",
-      "isin": "BRPOSI3D04C1",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 5100,
-      "quantidade_descoberta": 66900,
-      "total_posicoes": 72000
-    },
-    {
-      "codigo_opcao": "POSID41",
-      "isin": "BRPOSI3D03W1",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 7300,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 10100
-    },
-    {
-      "codigo_opcao": "POSIP400",
-      "isin": "BRPOSI3P03W5",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 51600,
-      "total_posicoes": 68400
-    },
-    {
-      "codigo_opcao": "POSIE375",
-      "isin": "BRPOSI3E04A3",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "POSIE405",
-      "isin": "BRPOSI3E04C9",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "POSIE415",
-      "isin": "BRPOSI3E0480",
+      "codigo_opcao": "POSID600",
+      "isin": "BRPOSI3D04U3",
       "ativo": "POSI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 6700
-    },
-    {
-      "codigo_opcao": "POSIE515",
-      "isin": "BRPOSI3E0472",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 11200,
-      "quantidade_descoberta": 19700,
-      "total_posicoes": 33000
-    },
-    {
-      "codigo_opcao": "POSIE535",
-      "isin": "BRPOSI3E04E5",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "POSIQ355",
-      "isin": "BRPOSI3Q04F6",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "POSIQ365",
-      "isin": "BRPOSI3Q04H2",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "POSIQ375",
-      "isin": "BRPOSI3Q04G4",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "POSIQ385",
-      "isin": "BRPOSI3Q0478",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1900,
-      "total_posicoes": 22800
-    },
-    {
-      "codigo_opcao": "POSIQ405",
-      "isin": "BRPOSI3Q04E9",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6100
-    },
-    {
-      "codigo_opcao": "POSIQ415",
-      "isin": "BRPOSI3Q04C3",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 22000
-    },
-    {
-      "codigo_opcao": "POSIQ515",
-      "isin": "BRPOSI3Q04D1",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "POSIQ535",
-      "isin": "BRPOSI3Q0494",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "POSIQ575",
-      "isin": "BRPOSI3Q0460",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "POSID443",
-      "isin": "BRPOSI3D03N0",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 6700,
-      "quantidade_descoberta": 25800,
-      "total_posicoes": 34400
-    },
-    {
-      "codigo_opcao": "POSIP443",
-      "isin": "BRPOSI3P03N4",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 32200,
-      "total_posicoes": 42200
-    },
-    {
-      "codigo_opcao": "POSID705",
-      "isin": "BRPOSI3D03T7",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4800,
-      "total_posicoes": 100000
-    },
-    {
-      "codigo_opcao": "POSIQ705",
-      "isin": "BRPOSI3Q03T9",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9500
-    },
-    {
-      "codigo_opcao": "POSID470",
-      "isin": "BRPOSI3D04S7",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8200,
-      "total_posicoes": 24000
-    },
-    {
-      "codigo_opcao": "POSIE420",
-      "isin": "BRPOSI3E0431",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 8100
-    },
-    {
-      "codigo_opcao": "POSIE425",
-      "isin": "BRPOSI3E0415",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "POSIE435",
-      "isin": "BRPOSI3E0407",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 7300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7400
-    },
-    {
-      "codigo_opcao": "POSIE490",
-      "isin": "BRPOSI3E03Z2",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 4000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9400
-    },
-    {
-      "codigo_opcao": "POSIF615",
-      "isin": "BRPOSI3F0497",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "POSIP40",
-      "isin": "BRPOSI3P04Q5",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "POSIP470",
-      "isin": "BRPOSI3P04S1",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "POSIQ420",
-      "isin": "BRPOSI3Q03Z6",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14600
-    },
-    {
-      "codigo_opcao": "POSIQ425",
-      "isin": "BRPOSI3Q0403",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 41200
-    },
-    {
-      "codigo_opcao": "POSIQ435",
-      "isin": "BRPOSI3Q0437",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 66900
-    },
-    {
-      "codigo_opcao": "POSIQ490",
-      "isin": "BRPOSI3Q0411",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 4000
+      "total_posicoes": 500
     },
     {
       "codigo_opcao": "POSIA60",
@@ -457,7 +28,7 @@
       "contratos_em_aberto": 116,
       "quantidade_coberta": 1000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3500
+      "total_posicoes": 4500
     },
     {
       "codigo_opcao": "POSIB1",
@@ -480,17 +51,6 @@
       "quantidade_coberta": 100,
       "quantidade_descoberta": 13600,
       "total_posicoes": 16000
-    },
-    {
-      "codigo_opcao": "POSID60",
-      "isin": "BRPOSI3D03A7",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 127300,
-      "total_posicoes": 127300
     },
     {
       "codigo_opcao": "POSID70",
@@ -533,8 +93,8 @@
       "semanal": false,
       "contratos_em_aberto": 116,
       "quantidade_coberta": 400,
-      "quantidade_descoberta": 11100,
-      "total_posicoes": 15800
+      "quantidade_descoberta": 17400,
+      "total_posicoes": 17800
     },
     {
       "codigo_opcao": "POSIG60",
@@ -544,7 +104,7 @@
       "semanal": false,
       "contratos_em_aberto": 116,
       "quantidade_coberta": 400,
-      "quantidade_descoberta": 2000,
+      "quantidade_descoberta": 2300,
       "total_posicoes": 3400
     },
     {
@@ -557,226 +117,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
       "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "POSIF495",
-      "isin": "BRPOSI3F03V8",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "POSIG1",
-      "isin": "BRPOSI3G03P8",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 4200,
-      "total_posicoes": 13500
-    },
-    {
-      "codigo_opcao": "POSIG599",
-      "isin": "BRPOSI3G03O1",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "POSIG700",
-      "isin": "BRPOSI3G03N3",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2700
-    },
-    {
-      "codigo_opcao": "POSIS1",
-      "isin": "BRPOSI3S03N8",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "POSIJ500",
-      "isin": "BRPOSI3J0352",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 1300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5200
-    },
-    {
-      "codigo_opcao": "POSIJ599",
-      "isin": "BRPOSI3J0345",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 5100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6400
-    },
-    {
-      "codigo_opcao": "POSIJ650",
-      "isin": "BRPOSI3J0378",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "POSIV550",
-      "isin": "BRPOSI3V0372",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 30000
-    },
-    {
-      "codigo_opcao": "POSIV650",
-      "isin": "BRPOSI3V0356",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "POSIE440",
-      "isin": "BRPOSI3E03W9",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 10900,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 14900
-    },
-    {
-      "codigo_opcao": "POSIE450",
-      "isin": "BRPOSI3E03X7",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 45600,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 65600
-    },
-    {
-      "codigo_opcao": "POSIE460",
-      "isin": "BRPOSI3E03U3",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 31100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 36300
-    },
-    {
-      "codigo_opcao": "POSIE470",
-      "isin": "BRPOSI3E03V1",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 11800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 13400
-    },
-    {
-      "codigo_opcao": "POSIE480",
-      "isin": "BRPOSI3E03Y5",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 5400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 17400
-    },
-    {
-      "codigo_opcao": "POSIQ440",
-      "isin": "BRPOSI3Q03U7",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 14900
-    },
-    {
-      "codigo_opcao": "POSIQ450",
-      "isin": "BRPOSI3Q03W3",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 23300,
-      "total_posicoes": 32100
-    },
-    {
-      "codigo_opcao": "POSIQ460",
-      "isin": "BRPOSI3Q03Y9",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "POSIQ470",
-      "isin": "BRPOSI3Q03V5",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 39800,
-      "total_posicoes": 39800
-    },
-    {
-      "codigo_opcao": "POSIQ480",
-      "isin": "BRPOSI3Q03X1",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 16900,
-      "total_posicoes": 16900
     },
     {
       "codigo_opcao": "POSIK60",
@@ -845,17 +185,6 @@
       "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "POSIP60",
-      "isin": "BRPOSI3P03A1",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1200
-    },
-    {
       "codigo_opcao": "POSIQ600",
       "isin": "BRPOSI3Q02S3",
       "ativo": "POSI",
@@ -874,8 +203,8 @@
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3100
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 2100
     },
     {
       "codigo_opcao": "POSIR430",
@@ -962,8 +291,8 @@
       "semanal": false,
       "contratos_em_aberto": 116,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 23000
+      "quantidade_descoberta": 100,
+      "total_posicoes": 22100
     },
     {
       "codigo_opcao": "POSIX80",
@@ -977,153 +306,197 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "POSID400",
-      "isin": "BRPOSI3D03V3",
+      "codigo_opcao": "POSIE420",
+      "isin": "BRPOSI3E0431",
       "ativo": "POSI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 118,
-      "quantidade_coberta": 2500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26500
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5000,
+      "total_posicoes": 8100
     },
     {
-      "codigo_opcao": "POSID440",
-      "isin": "BRPOSI3D03U5",
+      "codigo_opcao": "POSIE425",
+      "isin": "BRPOSI3E0415",
       "ativo": "POSI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 118,
-      "quantidade_coberta": 57100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 257300
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "POSIP41",
-      "isin": "BRPOSI3P03U9",
+      "codigo_opcao": "POSIE435",
+      "isin": "BRPOSI3E0407",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 3300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 24000
+    },
+    {
+      "codigo_opcao": "POSIE490",
+      "isin": "BRPOSI3E03Z2",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 7000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 13300
+    },
+    {
+      "codigo_opcao": "POSIF615",
+      "isin": "BRPOSI3F0497",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "POSIQ420",
+      "isin": "BRPOSI3Q03Z6",
       "ativo": "POSI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 19500,
-      "total_posicoes": 34500
-    },
-    {
-      "codigo_opcao": "POSIP440",
-      "isin": "BRPOSI3P03V7",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "POSID455",
-      "isin": "BRPOSI3D04M0",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 2900,
-      "total_posicoes": 7100
-    },
-    {
-      "codigo_opcao": "POSID465",
-      "isin": "BRPOSI3D03Y7",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 17600,
-      "quantidade_descoberta": 31100,
-      "total_posicoes": 50400
-    },
-    {
-      "codigo_opcao": "POSID475",
-      "isin": "BRPOSI3D04D9",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 45800,
-      "total_posicoes": 51000
-    },
-    {
-      "codigo_opcao": "POSID485",
-      "isin": "BRPOSI3D0432",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 12100,
-      "quantidade_descoberta": 2500,
       "total_posicoes": 14600
     },
     {
-      "codigo_opcao": "POSIP365",
-      "isin": "BRPOSI3P03Y1",
+      "codigo_opcao": "POSIQ425",
+      "isin": "BRPOSI3Q0403",
       "ativo": "POSI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 44700,
-      "total_posicoes": 44800
+      "quantidade_descoberta": 300,
+      "total_posicoes": 41200
     },
     {
-      "codigo_opcao": "POSIP375",
-      "isin": "BRPOSI3P0420",
+      "codigo_opcao": "POSIQ435",
+      "isin": "BRPOSI3Q0437",
       "ativo": "POSI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 200,
-      "total_posicoes": 14200
+      "total_posicoes": 67100
     },
     {
-      "codigo_opcao": "POSIP385",
-      "isin": "BRPOSI3P0412",
+      "codigo_opcao": "POSIQ490",
+      "isin": "BRPOSI3Q0411",
       "ativo": "POSI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 23500,
-      "total_posicoes": 27100
+      "quantidade_descoberta": 4000,
+      "total_posicoes": 4000
     },
     {
-      "codigo_opcao": "POSIP455",
-      "isin": "BRPOSI3P04B7",
+      "codigo_opcao": "POSIR475",
+      "isin": "BRPOSI3R04C1",
       "ativo": "POSI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 21500,
-      "total_posicoes": 31500
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "POSIP465",
-      "isin": "BRPOSI3P04O0",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11500,
-      "total_posicoes": 11500
-    },
-    {
-      "codigo_opcao": "POSID600",
-      "isin": "BRPOSI3D04U3",
+      "codigo_opcao": "POSIE440",
+      "isin": "BRPOSI3E03W9",
       "ativo": "POSI",
       "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 10900,
+      "quantidade_descoberta": 900,
+      "total_posicoes": 14900
+    },
+    {
+      "codigo_opcao": "POSIE450",
+      "isin": "BRPOSI3E03X7",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 47400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 69100
+    },
+    {
+      "codigo_opcao": "POSIE460",
+      "isin": "BRPOSI3E03U3",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 31100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 68900
+    },
+    {
+      "codigo_opcao": "POSIE470",
+      "isin": "BRPOSI3E03V1",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 13400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 13900
+    },
+    {
+      "codigo_opcao": "POSIE480",
+      "isin": "BRPOSI3E03Y5",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 5400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 17400
+    },
+    {
+      "codigo_opcao": "POSIQ440",
+      "isin": "BRPOSI3Q03U7",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 15900
+    },
+    {
+      "codigo_opcao": "POSIQ450",
+      "isin": "BRPOSI3Q03W3",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 32100
+    },
+    {
+      "codigo_opcao": "POSIQ460",
+      "isin": "BRPOSI3Q03Y9",
+      "ativo": "POSI",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
@@ -1131,15 +504,92 @@
       "total_posicoes": 500
     },
     {
-      "codigo_opcao": "POSID495",
-      "isin": "BRPOSI3D03S9",
+      "codigo_opcao": "POSIQ470",
+      "isin": "BRPOSI3Q03V5",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 57000,
+      "total_posicoes": 67700
+    },
+    {
+      "codigo_opcao": "POSIQ480",
+      "isin": "BRPOSI3Q03X1",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 16900,
+      "total_posicoes": 16900
+    },
+    {
+      "codigo_opcao": "POSIJ500",
+      "isin": "BRPOSI3J0352",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 1300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5200
+    },
+    {
+      "codigo_opcao": "POSIJ599",
+      "isin": "BRPOSI3J0345",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 5100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6400
+    },
+    {
+      "codigo_opcao": "POSIJ650",
+      "isin": "BRPOSI3J0378",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 700
+    },
+    {
+      "codigo_opcao": "POSIV550",
+      "isin": "BRPOSI3V0372",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 30000
+    },
+    {
+      "codigo_opcao": "POSIV650",
+      "isin": "BRPOSI3V0356",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "POSIF495",
+      "isin": "BRPOSI3F03V8",
       "ativo": "POSI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 118,
-      "quantidade_coberta": 5700,
-      "quantidade_descoberta": 3100,
-      "total_posicoes": 11800
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "POSIE495",
@@ -1150,18 +600,7 @@
       "contratos_em_aberto": 118,
       "quantidade_coberta": 5900,
       "quantidade_descoberta": 0,
-      "total_posicoes": 26300
-    },
-    {
-      "codigo_opcao": "POSIP495",
-      "isin": "BRPOSI3P03S3",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "total_posicoes": 26400
     },
     {
       "codigo_opcao": "POSIQ395",
@@ -1186,37 +625,268 @@
       "total_posicoes": 300
     },
     {
-      "codigo_opcao": "POSID410",
-      "isin": "BRPOSI3D03R1",
+      "codigo_opcao": "POSIQ705",
+      "isin": "BRPOSI3Q03T9",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9500
+    },
+    {
+      "codigo_opcao": "POSIE375",
+      "isin": "BRPOSI3E04A3",
       "ativo": "POSI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 600100
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "POSIP410",
-      "isin": "BRPOSI3P03R5",
+      "codigo_opcao": "POSIE405",
+      "isin": "BRPOSI3E04C9",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 700,
+      "total_posicoes": 700
+    },
+    {
+      "codigo_opcao": "POSIE415",
+      "isin": "BRPOSI3E0480",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6700
+    },
+    {
+      "codigo_opcao": "POSIE515",
+      "isin": "BRPOSI3E0472",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 13200,
+      "quantidade_descoberta": 19700,
+      "total_posicoes": 33000
+    },
+    {
+      "codigo_opcao": "POSIE535",
+      "isin": "BRPOSI3E04E5",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1300,
+      "total_posicoes": 1400
+    },
+    {
+      "codigo_opcao": "POSIQ355",
+      "isin": "BRPOSI3Q04F6",
       "ativo": "POSI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
+      "quantidade_descoberta": 400,
+      "total_posicoes": 800
     },
     {
-      "codigo_opcao": "POSIP390",
-      "isin": "BRPOSI3P03X3",
+      "codigo_opcao": "POSIQ365",
+      "isin": "BRPOSI3Q04H2",
       "ativo": "POSI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 22000,
-      "total_posicoes": 67200
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "POSIQ375",
+      "isin": "BRPOSI3Q04G4",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "POSIQ385",
+      "isin": "BRPOSI3Q0478",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1900,
+      "total_posicoes": 22800
+    },
+    {
+      "codigo_opcao": "POSIQ405",
+      "isin": "BRPOSI3Q04E9",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6100
+    },
+    {
+      "codigo_opcao": "POSIQ415",
+      "isin": "BRPOSI3Q04C3",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 27000
+    },
+    {
+      "codigo_opcao": "POSIQ515",
+      "isin": "BRPOSI3Q04D1",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6000,
+      "total_posicoes": 6000
+    },
+    {
+      "codigo_opcao": "POSIQ535",
+      "isin": "BRPOSI3Q0494",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1800
+    },
+    {
+      "codigo_opcao": "POSIQ575",
+      "isin": "BRPOSI3Q0460",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "POSIG1",
+      "isin": "BRPOSI3G03P8",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 3200,
+      "total_posicoes": 13500
+    },
+    {
+      "codigo_opcao": "POSIG599",
+      "isin": "BRPOSI3G03O1",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3200
+    },
+    {
+      "codigo_opcao": "POSIG700",
+      "isin": "BRPOSI3G03N3",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2700
+    },
+    {
+      "codigo_opcao": "POSIS1",
+      "isin": "BRPOSI3S03N8",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "POSIL500",
+      "isin": "BRPOSI3L04B6",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 600,
+      "total_posicoes": 21600
+    },
+    {
+      "codigo_opcao": "POSIL600",
+      "isin": "BRPOSI3L04E0",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 1400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1400
+    },
+    {
+      "codigo_opcao": "POSIX500",
+      "isin": "BRPOSI3X04C9",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "POSIH399",
+      "isin": "BRPOSI3H0388",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 4400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5600
+    },
+    {
+      "codigo_opcao": "POSIT399",
+      "isin": "BRPOSI3T0376",
+      "ativo": "POSI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 66000
     },
     {
       "codigo_opcao": "POSIF455",
@@ -1225,9 +895,20 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 118,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 8100,
       "quantidade_descoberta": 0,
       "total_posicoes": 8100
+    },
+    {
+      "codigo_opcao": "POSIF465",
+      "isin": "BRPOSI3F04I3",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1800,
+      "total_posicoes": 4000
     },
     {
       "codigo_opcao": "POSIF485",
@@ -1236,9 +917,20 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 118,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 1000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 300
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "POSIF535",
+      "isin": "BRPOSI3F04X2",
+      "ativo": "POSI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 600
     },
     {
       "codigo_opcao": "POSIF575",
@@ -1249,7 +941,7 @@
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "total_posicoes": 1800
     },
     {
       "codigo_opcao": "POSIR385",
@@ -1336,30 +1028,8 @@
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "POSIH399",
-      "isin": "BRPOSI3H0388",
-      "ativo": "POSI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 4400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5600
-    },
-    {
-      "codigo_opcao": "POSIT399",
-      "isin": "BRPOSI3T0376",
-      "ativo": "POSI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 66000
+      "quantidade_descoberta": 400,
+      "total_posicoes": 400
     }
   ]
 }
