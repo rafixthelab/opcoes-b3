@@ -1,0 +1,89 @@
+{
+  "ticker": "MTRE",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 7,
+  "calls": 5,
+  "puts": 2,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "MTREI42",
+      "isin": "BRMTRE3I00J6",
+      "ativo": "MTRE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 126,
+      "quantidade_coberta": 71200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 71300
+    },
+    {
+      "codigo_opcao": "MTREU42",
+      "isin": "BRMTRE3U00J1",
+      "ativo": "MTRE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 126,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10800
+    },
+    {
+      "codigo_opcao": "MTREH460",
+      "isin": "BRMTRE3H00I0",
+      "ativo": "MTRE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 127,
+      "quantidade_coberta": 6600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6600
+    },
+    {
+      "codigo_opcao": "MTREL417",
+      "isin": "BRMTRE3L00U7",
+      "ativo": "MTRE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 130,
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "MTREQ375",
+      "isin": "BRMTRE3Q00S0",
+      "ativo": "MTRE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2700
+    },
+    {
+      "codigo_opcao": "MTREE395",
+      "isin": "BRMTRE3E0107",
+      "ativo": "MTRE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 3500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3600
+    },
+    {
+      "codigo_opcao": "MTREF385",
+      "isin": "BRMTRE3F00S3",
+      "ativo": "MTRE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    }
+  ]
+}
