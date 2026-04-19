@@ -1,11 +1,11 @@
 {
   "ticker": "LEVE",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 82,
-  "calls": 44,
-  "puts": 38,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 45,
+  "calls": 26,
+  "puts": 19,
   "semanais": 0,
   "opcoes": [
     {
@@ -28,7 +28,7 @@
       "contratos_em_aberto": 202,
       "quantidade_coberta": 3200,
       "quantidade_descoberta": 5000,
-      "total_posicoes": 11900
+      "total_posicoes": 11800
     },
     {
       "codigo_opcao": "LEVEE358",
@@ -37,7 +37,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 202,
-      "quantidade_coberta": 3000,
+      "quantidade_coberta": 4100,
       "quantidade_descoberta": 0,
       "total_posicoes": 8500
     },
@@ -72,128 +72,7 @@
       "contratos_em_aberto": 202,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 200,
-      "total_posicoes": 6400
-    },
-    {
-      "codigo_opcao": "LEVEH278",
-      "isin": "BRLEVE3H00Y9",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 202,
-      "quantidade_coberta": 22100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 22100
-    },
-    {
-      "codigo_opcao": "LEVEB269",
-      "isin": "BRLEVE3B00O3",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 199,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "LEVED270",
-      "isin": "BRLEVE3D00Z5",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 199,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "LEVEL350",
-      "isin": "BRLEVE3L02D1",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 198,
-      "quantidade_coberta": 2600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9400
-    },
-    {
-      "codigo_opcao": "LEVEL400",
-      "isin": "BRLEVE3L02C3",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 198,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 13200
-    },
-    {
-      "codigo_opcao": "LEVEL450",
-      "isin": "BRLEVE3L02E9",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 198,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3900
-    },
-    {
-      "codigo_opcao": "LEVEP270",
-      "isin": "BRLEVE3P00Z9",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 199,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5300,
-      "total_posicoes": 5400
-    },
-    {
-      "codigo_opcao": "LEVES27",
-      "isin": "BRLEVE3S00M1",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 199,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4200
-    },
-    {
-      "codigo_opcao": "LEVEX400",
-      "isin": "BRLEVE3X02C8",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 198,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "LEVEE283",
-      "isin": "BRLEVE3E0178",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 200,
-      "quantidade_coberta": 2500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4300
-    },
-    {
-      "codigo_opcao": "LEVEQ283",
-      "isin": "BRLEVE3Q0174",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 200,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 1100
+      "total_posicoes": 14400
     },
     {
       "codigo_opcao": "LEVEE378",
@@ -202,9 +81,20 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 202,
-      "quantidade_coberta": 1100,
+      "quantidade_coberta": 8800,
       "quantidade_descoberta": 1200,
-      "total_posicoes": 264800
+      "total_posicoes": 271300
+    },
+    {
+      "codigo_opcao": "LEVEF378",
+      "isin": "BRLEVE3F01P9",
+      "ativo": "LEVE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 202,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 2000
     },
     {
       "codigo_opcao": "LEVEQ378",
@@ -216,39 +106,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 260100
-    },
-    {
-      "codigo_opcao": "LEVED378",
-      "isin": "BRLEVE3D01U4",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 202,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 4900,
-      "total_posicoes": 5900
-    },
-    {
-      "codigo_opcao": "LEVED36",
-      "isin": "BRLEVE3D01V2",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 202,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "LEVED373",
-      "isin": "BRLEVE3D01W0",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 202,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 1200
     },
     {
       "codigo_opcao": "LEVEE328",
@@ -268,7 +125,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 202,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 300,
       "quantidade_descoberta": 0,
       "total_posicoes": 400
     },
@@ -279,9 +136,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 202,
-      "quantidade_coberta": 1100,
+      "quantidade_coberta": 1000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1300
+      "total_posicoes": 2600
     },
     {
       "codigo_opcao": "LEVEE363",
@@ -290,9 +147,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 202,
-      "quantidade_coberta": 300,
+      "quantidade_coberta": 500,
       "quantidade_descoberta": 0,
-      "total_posicoes": 253500
+      "total_posicoes": 254700
     },
     {
       "codigo_opcao": "LEVEE368",
@@ -301,9 +158,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 202,
-      "quantidade_coberta": 12400,
+      "quantidade_coberta": 12300,
       "quantidade_descoberta": 0,
-      "total_posicoes": 266700
+      "total_posicoes": 267100
     },
     {
       "codigo_opcao": "LEVEE373",
@@ -312,9 +169,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 202,
-      "quantidade_coberta": 3300,
+      "quantidade_coberta": 6600,
       "quantidade_descoberta": 0,
-      "total_posicoes": 260500
+      "total_posicoes": 260800
     },
     {
       "codigo_opcao": "LEVEF328",
@@ -361,6 +218,17 @@
       "total_posicoes": 9500
     },
     {
+      "codigo_opcao": "LEVEF348",
+      "isin": "BRLEVE3F01K0",
+      "ativo": "LEVE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 202,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
       "codigo_opcao": "LEVEF353",
       "isin": "BRLEVE3F01G8",
       "ativo": "LEVE",
@@ -389,9 +257,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 202,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 400,
       "quantidade_descoberta": 7500,
-      "total_posicoes": 16000
+      "total_posicoes": 17000
     },
     {
       "codigo_opcao": "LEVEF373",
@@ -400,31 +268,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 202,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 900,
       "quantidade_descoberta": 11400,
       "total_posicoes": 21900
-    },
-    {
-      "codigo_opcao": "LEVEP36",
-      "isin": "BRLEVE3P01V6",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 202,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LEVEP373",
-      "isin": "BRLEVE3P01W4",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 202,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7800,
-      "total_posicoes": 7800
     },
     {
       "codigo_opcao": "LEVEQ328",
@@ -435,7 +281,7 @@
       "contratos_em_aberto": 202,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 700,
-      "total_posicoes": 800
+      "total_posicoes": 2700
     },
     {
       "codigo_opcao": "LEVEQ343",
@@ -478,8 +324,8 @@
       "semanal": false,
       "contratos_em_aberto": 202,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 252200
+      "quantidade_descoberta": 1400,
+      "total_posicoes": 254000
     },
     {
       "codigo_opcao": "LEVEQ373",
@@ -489,8 +335,8 @@
       "semanal": false,
       "contratos_em_aberto": 202,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 240100
+      "quantidade_descoberta": 900,
+      "total_posicoes": 241000
     },
     {
       "codigo_opcao": "LEVER333",
@@ -545,7 +391,7 @@
       "contratos_em_aberto": 202,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 6400
+      "total_posicoes": 6700
     },
     {
       "codigo_opcao": "LEVER358",
@@ -559,356 +405,103 @@
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "LEVED320",
-      "isin": "BRLEVE3D01S8",
+      "codigo_opcao": "LEVEB269",
+      "isin": "BRLEVE3B00O3",
       "ativo": "LEVE",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 201,
+      "contratos_em_aberto": 199,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "LEVED328",
-      "isin": "BRLEVE3D01G3",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "LEVED333",
-      "isin": "BRLEVE3D01E8",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 400,
       "quantidade_descoberta": 0,
       "total_posicoes": 400
     },
     {
-      "codigo_opcao": "LEVED338",
-      "isin": "BRLEVE3D01I9",
+      "codigo_opcao": "LEVEL350",
+      "isin": "BRLEVE3L02D1",
       "ativo": "LEVE",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LEVED340",
-      "isin": "BRLEVE3D01C2",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "LEVED343",
-      "isin": "BRLEVE3D01J7",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4900,
-      "total_posicoes": 4900
-    },
-    {
-      "codigo_opcao": "LEVED345",
-      "isin": "BRLEVE3D01D0",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "LEVED348",
-      "isin": "BRLEVE3D01R0",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3600,
-      "total_posicoes": 3600
-    },
-    {
-      "codigo_opcao": "LEVED350",
-      "isin": "BRLEVE3D01K5",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 3500
-    },
-    {
-      "codigo_opcao": "LEVED353",
-      "isin": "BRLEVE3D01N9",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "LEVED355",
-      "isin": "BRLEVE3D01F5",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "LEVED358",
-      "isin": "BRLEVE3D01T6",
-      "ativo": "LEVE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 6800,
+      "contratos_em_aberto": 198,
+      "quantidade_coberta": 2600,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7500
+      "total_posicoes": 9400
     },
     {
-      "codigo_opcao": "LEVED360",
-      "isin": "BRLEVE3D01L3",
+      "codigo_opcao": "LEVEL400",
+      "isin": "BRLEVE3L02C3",
       "ativo": "LEVE",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 8900,
-      "quantidade_descoberta": 2900,
-      "total_posicoes": 12000
+      "contratos_em_aberto": 198,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 13200
     },
     {
-      "codigo_opcao": "LEVED363",
-      "isin": "BRLEVE3D01M1",
+      "codigo_opcao": "LEVEL450",
+      "isin": "BRLEVE3L02E9",
       "ativo": "LEVE",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 201,
+      "contratos_em_aberto": 198,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
+      "quantidade_descoberta": 0,
       "total_posicoes": 3900
     },
     {
-      "codigo_opcao": "LEVED365",
-      "isin": "BRLEVE3D01H1",
+      "codigo_opcao": "LEVES27",
+      "isin": "BRLEVE3S00M1",
+      "ativo": "LEVE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 199,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4200
+    },
+    {
+      "codigo_opcao": "LEVEE283",
+      "isin": "BRLEVE3E0178",
       "ativo": "LEVE",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 2900,
-      "total_posicoes": 4000
+      "contratos_em_aberto": 200,
+      "quantidade_coberta": 2500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4300
     },
     {
-      "codigo_opcao": "LEVED368",
-      "isin": "BRLEVE3D01A6",
+      "codigo_opcao": "LEVEQ283",
+      "isin": "BRLEVE3Q0174",
+      "ativo": "LEVE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 200,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 700,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "LEVEX400",
+      "isin": "BRLEVE3X02C8",
+      "ativo": "LEVE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 198,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "LEVEH278",
+      "isin": "BRLEVE3H00Y9",
       "ativo": "LEVE",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 6800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11600
-    },
-    {
-      "codigo_opcao": "LEVEP320",
-      "isin": "BRLEVE3P01J1",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
+      "contratos_em_aberto": 202,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "LEVEP323",
-      "isin": "BRLEVE3P01B8",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "LEVEP328",
-      "isin": "BRLEVE3P01G7",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "LEVEP333",
-      "isin": "BRLEVE3P01R4",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 18700
-    },
-    {
-      "codigo_opcao": "LEVEP335",
-      "isin": "BRLEVE3P01F9",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2400,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "LEVEP338",
-      "isin": "BRLEVE3P01P8",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11200
-    },
-    {
-      "codigo_opcao": "LEVEP340",
-      "isin": "BRLEVE3P01N3",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 16300,
-      "total_posicoes": 23400
-    },
-    {
-      "codigo_opcao": "LEVEP343",
-      "isin": "BRLEVE3P01O1",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3500,
-      "total_posicoes": 8300
-    },
-    {
-      "codigo_opcao": "LEVEP345",
-      "isin": "BRLEVE3P01T0",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "LEVEP348",
-      "isin": "BRLEVE3P01L7",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3500,
-      "total_posicoes": 5200
-    },
-    {
-      "codigo_opcao": "LEVEP350",
-      "isin": "BRLEVE3P01M5",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "LEVEP353",
-      "isin": "BRLEVE3P01K9",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "LEVEP355",
-      "isin": "BRLEVE3P01C6",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "LEVEP358",
-      "isin": "BRLEVE3P01A0",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1900,
-      "total_posicoes": 5400
-    },
-    {
-      "codigo_opcao": "LEVEP360",
-      "isin": "BRLEVE3P01Q6",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LEVEP368",
-      "isin": "BRLEVE3P01S2",
-      "ativo": "LEVE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "total_posicoes": 22100
     }
   ]
 }
