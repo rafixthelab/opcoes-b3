@@ -1,0 +1,23 @@
+{
+  "ticker": "PAGS",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 1,
+  "calls": 1,
+  "puts": 0,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "PAGSE100",
+      "isin": "BRPAGS9E00G3",
+      "ativo": "PAGS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1200
+    }
+  ]
+}
