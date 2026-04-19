@@ -1,0 +1,155 @@
+{
+  "ticker": "BLAU",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 13,
+  "calls": 5,
+  "puts": 8,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "BLAUQ100",
+      "isin": "BRBLAU3Q00E0",
+      "ativo": "BLAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "BLAUE100",
+      "isin": "BRBLAU3E00E6",
+      "ativo": "BLAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 900,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 900
+    },
+    {
+      "codigo_opcao": "BLAUB119",
+      "isin": "BRBLAU3B00F9",
+      "ativo": "BLAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 3100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5250
+    },
+    {
+      "codigo_opcao": "BLAUM12",
+      "isin": "BRBLAU3M00D1",
+      "ativo": "BLAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2500
+    },
+    {
+      "codigo_opcao": "BLAUN119",
+      "isin": "BRBLAU3N00F4",
+      "ativo": "BLAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7000
+    },
+    {
+      "codigo_opcao": "BLAUQ12",
+      "isin": "BRBLAU3Q0048",
+      "ativo": "BLAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "BLAUR12",
+      "isin": "BRBLAU3R0070",
+      "ativo": "BLAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "BLAUS12",
+      "isin": "BRBLAU3S0061",
+      "ativo": "BLAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "BLAUT120",
+      "isin": "BRBLAU3T0086",
+      "ativo": "BLAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6100
+    },
+    {
+      "codigo_opcao": "BLAUE105",
+      "isin": "BRBLAU3E00G1",
+      "ativo": "BLAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 121,
+      "quantidade_coberta": 1200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "BLAUE110",
+      "isin": "BRBLAU3E00K3",
+      "ativo": "BLAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 121,
+      "quantidade_coberta": 1900,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "BLAUE115",
+      "isin": "BRBLAU3E00N7",
+      "ativo": "BLAU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 121,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "BLAUQ110",
+      "isin": "BRBLAU3Q00J9",
+      "ativo": "BLAU",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 121,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 600,
+      "total_posicoes": 5000
+    }
+  ]
+}
