@@ -1,431 +1,13 @@
 {
   "ticker": "ABCB",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 56,
-  "calls": 35,
-  "puts": 21,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 42,
+  "calls": 25,
+  "puts": 17,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "ABCBA380",
-      "isin": "BRABCB4A01G9",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 148,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2800,
-      "total_posicoes": 11800
-    },
-    {
-      "codigo_opcao": "ABCBD225",
-      "isin": "BRABCB4D00V4",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ABCBD235",
-      "isin": "BRABCB4D00Y8",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ABCBD310",
-      "isin": "BRABCB4D00W2",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ABCBD320",
-      "isin": "BRABCB4D00X0",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "ABCBP235",
-      "isin": "BRABCB4P00X4",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4300
-    },
-    {
-      "codigo_opcao": "ABCBD210",
-      "isin": "BRABCB4D00Z5",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ABCBF235",
-      "isin": "BRABCB4F0155",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "ABCBF250",
-      "isin": "BRABCB4F0171",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ABCBF260",
-      "isin": "BRABCB4F01B9",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ABCBF270",
-      "isin": "BRABCB4F0148",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "ABCBF275",
-      "isin": "BRABCB4F0130",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "ABCBR230",
-      "isin": "BRABCB4R0177",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ABCBR240",
-      "isin": "BRABCB4R0193",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ABCBR245",
-      "isin": "BRABCB4R0151",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2800
-    },
-    {
-      "codigo_opcao": "ABCBE237",
-      "isin": "BRABCB4E00X8",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 3400
-    },
-    {
-      "codigo_opcao": "ABCBQ227",
-      "isin": "BRABCB4Q00W4",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ABCBQ237",
-      "isin": "BRABCB4Q00Y0",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1700
-    },
-    {
-      "codigo_opcao": "ABCBQ240",
-      "isin": "BRABCB4Q00X2",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4700
-    },
-    {
-      "codigo_opcao": "ABCBE252",
-      "isin": "BRABCB4E0172",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 1300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12500
-    },
-    {
-      "codigo_opcao": "ABCBE255",
-      "isin": "BRABCB4E0149",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "ABCBE265",
-      "isin": "BRABCB4E0156",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 1100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3500
-    },
-    {
-      "codigo_opcao": "ABCBE320",
-      "isin": "BRABCB4E0164",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5100,
-      "total_posicoes": 6100
-    },
-    {
-      "codigo_opcao": "ABCBQ252",
-      "isin": "BRABCB4Q0152",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "ABCBQ255",
-      "isin": "BRABCB4Q0145",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6600
-    },
-    {
-      "codigo_opcao": "ABCBQ265",
-      "isin": "BRABCB4Q0178",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10400
-    },
-    {
-      "codigo_opcao": "ABCBD250",
-      "isin": "BRABCB4D00R2",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 40700,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 44800
-    },
-    {
-      "codigo_opcao": "ABCBP250",
-      "isin": "BRABCB4P00R6",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6200,
-      "total_posicoes": 48100
-    },
-    {
-      "codigo_opcao": "ABCBE280",
-      "isin": "BRABCB4E0198",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "ABCBQ280",
-      "isin": "BRABCB4Q0194",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ABCBE212",
-      "isin": "BRABCB4E0180",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ABCBD255",
-      "isin": "BRABCB4D0116",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2400,
-      "total_posicoes": 2800
-    },
-    {
-      "codigo_opcao": "ABCBP255",
-      "isin": "BRABCB4P0112",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7200,
-      "total_posicoes": 15700
-    },
-    {
-      "codigo_opcao": "ABCBD265",
-      "isin": "BRABCB4D00S0",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 9100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 19700
-    },
-    {
-      "codigo_opcao": "ABCBD275",
-      "isin": "BRABCB4D00T8",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 6000,
-      "quantidade_descoberta": 3700,
-      "total_posicoes": 14800
-    },
-    {
-      "codigo_opcao": "ABCBD285",
-      "isin": "BRABCB4D00U6",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 2500
-    },
-    {
-      "codigo_opcao": "ABCBP265",
-      "isin": "BRABCB4P00U0",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 4300
-    },
-    {
-      "codigo_opcao": "ABCBP275",
-      "isin": "BRABCB4P00S4",
-      "ativo": "ABCB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4600
-    },
     {
       "codigo_opcao": "ABCBB199",
       "isin": "BRABCB4B00X4",
@@ -436,17 +18,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "ABCBD200",
-      "isin": "BRABCB4D00E0",
-      "ativo": "ABCB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 147,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
     },
     {
       "codigo_opcao": "ABCBF200",
@@ -488,7 +59,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 147,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 700
     },
@@ -499,7 +70,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 200,
       "quantidade_descoberta": 0,
       "total_posicoes": 3000
     },
@@ -544,7 +115,7 @@
       "semanal": false,
       "contratos_em_aberto": 150,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 100
     },
     {
@@ -557,6 +128,160 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 3700
+    },
+    {
+      "codigo_opcao": "ABCBE237",
+      "isin": "BRABCB4E00X8",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 3400
+    },
+    {
+      "codigo_opcao": "ABCBQ227",
+      "isin": "BRABCB4Q00W4",
+      "ativo": "ABCB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ABCBQ237",
+      "isin": "BRABCB4Q00Y0",
+      "ativo": "ABCB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1700
+    },
+    {
+      "codigo_opcao": "ABCBQ240",
+      "isin": "BRABCB4Q00X2",
+      "ativo": "ABCB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5700
+    },
+    {
+      "codigo_opcao": "ABCBE212",
+      "isin": "BRABCB4E0180",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ABCBF257",
+      "isin": "BRABCB4F01D5",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2900
+    },
+    {
+      "codigo_opcao": "ABCBR257",
+      "isin": "BRABCB4R01G3",
+      "ativo": "ABCB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ABCBE252",
+      "isin": "BRABCB4E0172",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 1700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12500
+    },
+    {
+      "codigo_opcao": "ABCBE255",
+      "isin": "BRABCB4E0149",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 800,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1300
+    },
+    {
+      "codigo_opcao": "ABCBE265",
+      "isin": "BRABCB4E0156",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 1200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3400
+    },
+    {
+      "codigo_opcao": "ABCBE320",
+      "isin": "BRABCB4E0164",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5100,
+      "total_posicoes": 6100
+    },
+    {
+      "codigo_opcao": "ABCBQ252",
+      "isin": "BRABCB4Q0152",
+      "ativo": "ABCB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2100
+    },
+    {
+      "codigo_opcao": "ABCBQ255",
+      "isin": "BRABCB4Q0145",
+      "ativo": "ABCB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7600
+    },
+    {
+      "codigo_opcao": "ABCBQ265",
+      "isin": "BRABCB4Q0178",
+      "ativo": "ABCB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 12400
     },
     {
       "codigo_opcao": "ABCBE250",
@@ -576,7 +301,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 150,
-      "quantidade_coberta": 1100,
+      "quantidade_coberta": 100,
       "quantidade_descoberta": 500,
       "total_posicoes": 3100
     },
@@ -587,9 +312,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 150,
-      "quantidade_coberta": 11100,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 16100
+      "quantidade_coberta": 12300,
+      "quantidade_descoberta": 900,
+      "total_posicoes": 16200
     },
     {
       "codigo_opcao": "ABCBQ250",
@@ -611,7 +336,7 @@
       "contratos_em_aberto": 150,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 5700
+      "total_posicoes": 8200
     },
     {
       "codigo_opcao": "ABCBQ270",
@@ -623,6 +348,127 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 900
+    },
+    {
+      "codigo_opcao": "ABCBE280",
+      "isin": "BRABCB4E0198",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 1700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4400
+    },
+    {
+      "codigo_opcao": "ABCBQ280",
+      "isin": "BRABCB4Q0194",
+      "ativo": "ABCB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ABCBA380",
+      "isin": "BRABCB4A01G9",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 148,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 11800
+    },
+    {
+      "codigo_opcao": "ABCBF235",
+      "isin": "BRABCB4F0155",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 1100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "ABCBF250",
+      "isin": "BRABCB4F0171",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ABCBF260",
+      "isin": "BRABCB4F01B9",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4000,
+      "total_posicoes": 4800
+    },
+    {
+      "codigo_opcao": "ABCBF270",
+      "isin": "BRABCB4F0148",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "ABCBF275",
+      "isin": "BRABCB4F0130",
+      "ativo": "ABCB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 700
+    },
+    {
+      "codigo_opcao": "ABCBR230",
+      "isin": "BRABCB4R0177",
+      "ativo": "ABCB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ABCBR240",
+      "isin": "BRABCB4R0193",
+      "ativo": "ABCB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ABCBR245",
+      "isin": "BRABCB4R0151",
+      "ativo": "ABCB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 150,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2800
     }
   ]
 }
