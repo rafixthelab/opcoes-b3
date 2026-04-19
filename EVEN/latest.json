@@ -1,144 +1,78 @@
 {
   "ticker": "EVEN",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 46,
-  "calls": 23,
-  "puts": 23,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 33,
+  "calls": 17,
+  "puts": 16,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "EVEND863",
-      "isin": "BREVEN3D04I1",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 7700,
-      "total_posicoes": 8100
-    },
-    {
-      "codigo_opcao": "EVENE793",
-      "isin": "BREVEN3E04U4",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 1300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "EVENN623",
-      "isin": "BREVEN3N04W1",
+      "codigo_opcao": "EVENQ603",
+      "isin": "BREVEN3Q04Y0",
       "ativo": "EVEN",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 121,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 11900
+      "total_posicoes": 28300
     },
     {
-      "codigo_opcao": "EVENP863",
-      "isin": "BREVEN3P04I5",
-      "ativo": "EVEN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "EVENQ793",
-      "isin": "BREVEN3Q04U8",
-      "ativo": "EVEN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "EVENR553",
-      "isin": "BREVEN3R03V6",
-      "ativo": "EVEN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "EVEND733",
-      "isin": "BREVEN3D04K7",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 10100
-    },
-    {
-      "codigo_opcao": "EVEND743",
-      "isin": "BREVEN3D04J9",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 2200,
-      "total_posicoes": 5200
-    },
-    {
-      "codigo_opcao": "EVEND793",
-      "isin": "BREVEN3D04L5",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "EVENP733",
-      "isin": "BREVEN3P04L9",
+      "codigo_opcao": "EVENQ703",
+      "isin": "BREVEN3Q04Z7",
       "ativo": "EVEN",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 121,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 2000,
-      "total_posicoes": 9500
+      "total_posicoes": 5200
     },
     {
-      "codigo_opcao": "EVENP743",
-      "isin": "BREVEN3P04J3",
+      "codigo_opcao": "EVENQ743",
+      "isin": "BREVEN3Q0527",
       "ativo": "EVEN",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 121,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 500
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
     },
     {
-      "codigo_opcao": "EVEND763",
-      "isin": "BREVEN3D04X0",
+      "codigo_opcao": "EVENE723",
+      "isin": "BREVEN3E0513",
       "ativo": "EVEN",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 121,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "EVENE733",
+      "isin": "BREVEN3E0521",
+      "ativo": "EVEN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 121,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "EVENE743",
+      "isin": "BREVEN3E0505",
+      "ativo": "EVEN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 121,
+      "quantidade_coberta": 1200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1500
     },
     {
       "codigo_opcao": "EVENE783",
@@ -174,6 +108,28 @@
       "total_posicoes": 900
     },
     {
+      "codigo_opcao": "EVENF703",
+      "isin": "BREVEN3F0439",
+      "ativo": "EVEN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 121,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "EVENF763",
+      "isin": "BREVEN3F0488",
+      "ativo": "EVEN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 121,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
       "codigo_opcao": "EVENF783",
       "isin": "BREVEN3F0405",
       "ativo": "EVEN",
@@ -183,28 +139,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 2000,
       "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "EVENP683",
-      "isin": "BREVEN3P04X4",
-      "ativo": "EVEN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8300
-    },
-    {
-      "codigo_opcao": "EVENP703",
-      "isin": "BREVEN3P04S4",
-      "ativo": "EVEN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12500
     },
     {
       "codigo_opcao": "EVENQ643",
@@ -236,8 +170,8 @@
       "semanal": false,
       "contratos_em_aberto": 121,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 6900
+      "quantidade_descoberta": 400,
+      "total_posicoes": 7000
     },
     {
       "codigo_opcao": "EVENR663",
@@ -262,15 +196,59 @@
       "total_posicoes": 300
     },
     {
-      "codigo_opcao": "EVEND923",
-      "isin": "BREVEN3D04H3",
+      "codigo_opcao": "EVENB599",
+      "isin": "BREVEN3B03T4",
       "ativo": "EVEN",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 121,
+      "contratos_em_aberto": 120,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 6600,
-      "total_posicoes": 15800
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "EVENL60",
+      "isin": "BREVEN3L03W7",
+      "ativo": "EVEN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 1300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2300
+    },
+    {
+      "codigo_opcao": "EVENQ60",
+      "isin": "BREVEN3Q04H5",
+      "ativo": "EVEN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "EVENR60",
+      "isin": "BREVEN3R03H5",
+      "ativo": "EVEN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "EVENS60",
+      "isin": "BREVEN3S03R2",
+      "ativo": "EVEN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "EVENG743",
@@ -350,169 +328,48 @@
       "total_posicoes": 5000
     },
     {
-      "codigo_opcao": "EVENQ743",
-      "isin": "BREVEN3Q0527",
+      "codigo_opcao": "EVENE793",
+      "isin": "BREVEN3E04U4",
+      "ativo": "EVEN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 121,
+      "quantidade_coberta": 800,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 900
+    },
+    {
+      "codigo_opcao": "EVENN623",
+      "isin": "BREVEN3N04W1",
       "ativo": "EVEN",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 121,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1100
+      "total_posicoes": 20100
     },
     {
-      "codigo_opcao": "EVENE723",
-      "isin": "BREVEN3E0513",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "EVENE733",
-      "isin": "BREVEN3E0521",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "EVENE743",
-      "isin": "BREVEN3E0505",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "EVENB599",
-      "isin": "BREVEN3B03T4",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "EVENL60",
-      "isin": "BREVEN3L03W7",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 1300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2300
-    },
-    {
-      "codigo_opcao": "EVENQ60",
-      "isin": "BREVEN3Q04H5",
+      "codigo_opcao": "EVENQ793",
+      "isin": "BREVEN3Q04U8",
       "ativo": "EVEN",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 120,
+      "contratos_em_aberto": 121,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 300
     },
     {
-      "codigo_opcao": "EVENR60",
-      "isin": "BREVEN3R03H5",
-      "ativo": "EVEN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "EVENS60",
-      "isin": "BREVEN3S03R2",
-      "ativo": "EVEN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "EVENP643",
-      "isin": "BREVEN3P04Q8",
+      "codigo_opcao": "EVENR553",
+      "isin": "BREVEN3R03V6",
       "ativo": "EVEN",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 121,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2800
-    },
-    {
-      "codigo_opcao": "EVEND903",
-      "isin": "BREVEN3D04O9",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "EVENQ603",
-      "isin": "BREVEN3Q04Y0",
-      "ativo": "EVEN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 28300
-    },
-    {
-      "codigo_opcao": "EVENQ703",
-      "isin": "BREVEN3Q04Z7",
-      "ativo": "EVEN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 5200
-    },
-    {
-      "codigo_opcao": "EVEND723",
-      "isin": "BREVEN3D04P6",
-      "ativo": "EVEN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10900,
-      "total_posicoes": 10900
-    },
-    {
-      "codigo_opcao": "EVENP723",
-      "isin": "BREVEN3P04P0",
-      "ativo": "EVEN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 121,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 700
+      "total_posicoes": 1400
     }
   ]
 }
