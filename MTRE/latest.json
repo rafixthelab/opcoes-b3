@@ -1,68 +1,13 @@
 {
   "ticker": "MTRE",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 11,
-  "calls": 8,
-  "puts": 3,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 7,
+  "calls": 5,
+  "puts": 2,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "MTREQ375",
-      "isin": "BRMTRE3Q00S0",
-      "ativo": "MTRE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2500
-    },
-    {
-      "codigo_opcao": "MTREL417",
-      "isin": "BRMTRE3L00U7",
-      "ativo": "MTRE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "MTRED428",
-      "isin": "BRMTRE3D00Y6",
-      "ativo": "MTRE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 131,
-      "quantidade_coberta": 23900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 24500
-    },
-    {
-      "codigo_opcao": "MTREH460",
-      "isin": "BRMTRE3H00I0",
-      "ativo": "MTRE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 6600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6600
-    },
-    {
-      "codigo_opcao": "MTRED503",
-      "isin": "BRMTRE3D00Z3",
-      "ativo": "MTRE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 131,
-      "quantidade_coberta": 5900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6700
-    },
     {
       "codigo_opcao": "MTREI42",
       "isin": "BRMTRE3I00J6",
@@ -86,15 +31,37 @@
       "total_posicoes": 10800
     },
     {
-      "codigo_opcao": "MTRED405",
-      "isin": "BRMTRE3D0157",
+      "codigo_opcao": "MTREH460",
+      "isin": "BRMTRE3H00I0",
       "ativo": "MTRE",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 1000,
+      "contratos_em_aberto": 127,
+      "quantidade_coberta": 6600,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 6600
+    },
+    {
+      "codigo_opcao": "MTREL417",
+      "isin": "BRMTRE3L00U7",
+      "ativo": "MTRE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 130,
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "MTREQ375",
+      "isin": "BRMTRE3Q00S0",
+      "ativo": "MTRE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2700
     },
     {
       "codigo_opcao": "MTREE395",
@@ -117,17 +84,6 @@
       "quantidade_coberta": 100,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MTREP395",
-      "isin": "BRMTRE3P0104",
-      "ativo": "MTRE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 800
     }
   ]
 }
