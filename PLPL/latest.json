@@ -1,27 +1,60 @@
 {
   "ticker": "PLPL",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 36,
-  "calls": 18,
-  "puts": 18,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 29,
+  "calls": 14,
+  "puts": 15,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "PLPLB17",
-      "isin": "BRPLPL3B00J9",
+      "codigo_opcao": "PLPLE142",
+      "isin": "BRPLPL3E00U0",
+      "ativo": "PLPL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "PLPLE147",
+      "isin": "BRPLPL3E00S4",
+      "ativo": "PLPL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 11000
+    },
+    {
+      "codigo_opcao": "PLPLE152",
+      "isin": "BRPLPL3E00R6",
       "ativo": "PLPL",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "PLPLN152",
-      "isin": "BRPLPL3N00J4",
+      "codigo_opcao": "PLPLQ112",
+      "isin": "BRPLPL3Q00P4",
+      "ativo": "PLPL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7100
+    },
+    {
+      "codigo_opcao": "PLPLQ117",
+      "isin": "BRPLPL3Q00R0",
       "ativo": "PLPL",
       "tipo": "Put",
       "semanal": false,
@@ -31,15 +64,92 @@
       "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "PLPLG150",
-      "isin": "BRPLPL3G00I0",
+      "codigo_opcao": "PLPLQ122",
+      "isin": "BRPLPL3Q00Y6",
+      "ativo": "PLPL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 29700
+    },
+    {
+      "codigo_opcao": "PLPLQ127",
+      "isin": "BRPLPL3Q00V2",
+      "ativo": "PLPL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "PLPLQ132",
+      "isin": "BRPLPL3Q00Q2",
+      "ativo": "PLPL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10100
+    },
+    {
+      "codigo_opcao": "PLPLE130",
+      "isin": "BRPLPL3E00N5",
       "ativo": "PLPL",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 101800,
+      "quantidade_coberta": 100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 266000
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "PLPLE140",
+      "isin": "BRPLPL3E00O3",
+      "ativo": "PLPL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 1800,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9300
+    },
+    {
+      "codigo_opcao": "PLPLE150",
+      "isin": "BRPLPL3E00M7",
+      "ativo": "PLPL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 1900,
+      "total_posicoes": 7500
+    },
+    {
+      "codigo_opcao": "PLPLQ140",
+      "isin": "BRPLPL3Q00N9",
+      "ativo": "PLPL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "PLPLR150",
+      "isin": "BRPLPL3R00P2",
+      "ativo": "PLPL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "PLPLF127",
@@ -127,7 +237,7 @@
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 1300
     },
     {
       "codigo_opcao": "PLPLS10",
@@ -141,96 +251,19 @@
       "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "PLPLD150",
-      "isin": "BRPLPL3D00H9",
+      "codigo_opcao": "PLPLB17",
+      "isin": "BRPLPL3B00J9",
       "ativo": "PLPL",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 500,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 0,
       "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "PLPLD160",
-      "isin": "BRPLPL3D00I7",
-      "ativo": "PLPL",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "PLPLE130",
-      "isin": "BRPLPL3E00N5",
-      "ativo": "PLPL",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "PLPLE140",
-      "isin": "BRPLPL3E00O3",
-      "ativo": "PLPL",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 6500
-    },
-    {
-      "codigo_opcao": "PLPLE150",
-      "isin": "BRPLPL3E00M7",
-      "ativo": "PLPL",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "PLPLQ140",
-      "isin": "BRPLPL3Q00N9",
-      "ativo": "PLPL",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6300
-    },
-    {
-      "codigo_opcao": "PLPLR150",
-      "isin": "BRPLPL3R00P2",
-      "ativo": "PLPL",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "PLPLD140",
-      "isin": "BRPLPL3D00K3",
-      "ativo": "PLPL",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "PLPLP130",
-      "isin": "BRPLPL3P00K7",
+      "codigo_opcao": "PLPLN152",
+      "isin": "BRPLPL3N00J4",
       "ativo": "PLPL",
       "tipo": "Put",
       "semanal": false,
@@ -238,127 +271,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "PLPLP140",
-      "isin": "BRPLPL3P00L5",
-      "ativo": "PLPL",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "PLPLD127",
-      "isin": "BRPLPL3D00O5",
-      "ativo": "PLPL",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "PLPLD142",
-      "isin": "BRPLPL3D00R8",
-      "ativo": "PLPL",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "PLPLE142",
-      "isin": "BRPLPL3E00U0",
-      "ativo": "PLPL",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "PLPLE147",
-      "isin": "BRPLPL3E00S4",
-      "ativo": "PLPL",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "PLPLP132",
-      "isin": "BRPLPL3P00M3",
-      "ativo": "PLPL",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "PLPLQ112",
-      "isin": "BRPLPL3Q00P4",
-      "ativo": "PLPL",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7100
-    },
-    {
-      "codigo_opcao": "PLPLQ117",
-      "isin": "BRPLPL3Q00R0",
-      "ativo": "PLPL",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "PLPLQ122",
-      "isin": "BRPLPL3Q00Y6",
-      "ativo": "PLPL",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 29700
-    },
-    {
-      "codigo_opcao": "PLPLQ127",
-      "isin": "BRPLPL3Q00V2",
-      "ativo": "PLPL",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "PLPLQ132",
-      "isin": "BRPLPL3Q00Q2",
-      "ativo": "PLPL",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10000
     },
     {
       "codigo_opcao": "PLPLF140",
@@ -383,6 +295,17 @@
       "total_posicoes": 1200
     },
     {
+      "codigo_opcao": "PLPLG150",
+      "isin": "BRPLPL3G00I0",
+      "ativo": "PLPL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 101800,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 266600
+    },
+    {
       "codigo_opcao": "PLPLG170",
       "isin": "BRPLPL3G00H2",
       "ativo": "PLPL",
@@ -391,7 +314,7 @@
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7600
+      "total_posicoes": 7800
     },
     {
       "codigo_opcao": "PLPLS170",
