@@ -1,387 +1,13 @@
 {
   "ticker": "BOVV",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 94,
-  "calls": 67,
-  "puts": 27,
-  "semanais": 6,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 54,
+  "calls": 44,
+  "puts": 10,
+  "semanais": 7,
   "opcoes": [
-    {
-      "codigo_opcao": "BOVVG152",
-      "isin": "BRBOVV9G09U6",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 23208
-    },
-    {
-      "codigo_opcao": "BOVVD196",
-      "isin": "BRBOVV9D0A03",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6000,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "BOVVD210",
-      "isin": "BRBOVV9D09U3",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 80000,
-      "total_posicoes": 80001
-    },
-    {
-      "codigo_opcao": "BOVVI147",
-      "isin": "BRBOVV9I08V2",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1,
-      "total_posicoes": 30401
-    },
-    {
-      "codigo_opcao": "BOVVI157",
-      "isin": "BRBOVV9I08C2",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8,
-      "total_posicoes": 44008
-    },
-    {
-      "codigo_opcao": "BOVVI159",
-      "isin": "BRBOVV9I08O7",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 129800,
-      "total_posicoes": 151000
-    },
-    {
-      "codigo_opcao": "BOVVI161",
-      "isin": "BRBOVV9I0883",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 258760,
-      "total_posicoes": 258760
-    },
-    {
-      "codigo_opcao": "BOVVU161",
-      "isin": "BRBOVV9U08P9",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2900
-    },
-    {
-      "codigo_opcao": "BOVVL200",
-      "isin": "BRBOVV9L0AF0",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 51903
-    },
-    {
-      "codigo_opcao": "BOVVL210",
-      "isin": "BRBOVV9L0AH6",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2,
-      "total_posicoes": 120006
-    },
-    {
-      "codigo_opcao": "BOVVJ151",
-      "isin": "BRBOVV9J0AB3",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7002
-    },
-    {
-      "codigo_opcao": "BOVVD172",
-      "isin": "BRBOVV9D0946",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4810,
-      "total_posicoes": 4810
-    },
-    {
-      "codigo_opcao": "BOVVD174",
-      "isin": "BRBOVV9D0912",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6250,
-      "total_posicoes": 6250
-    },
-    {
-      "codigo_opcao": "BOVVD176",
-      "isin": "BRBOVV9D0961",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10250,
-      "total_posicoes": 10250
-    },
-    {
-      "codigo_opcao": "BOVVD178",
-      "isin": "BRBOVV9D09A5",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17701,
-      "total_posicoes": 36800
-    },
-    {
-      "codigo_opcao": "BOVVD180",
-      "isin": "BRBOVV9D0920",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1860,
-      "total_posicoes": 1860
-    },
-    {
-      "codigo_opcao": "BOVVD182",
-      "isin": "BRBOVV9D0953",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "BOVVD186",
-      "isin": "BRBOVV9D09B3",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "BOVVD190",
-      "isin": "BRBOVV9D0987",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1860,
-      "total_posicoes": 1860
-    },
-    {
-      "codigo_opcao": "BOVVD192",
-      "isin": "BRBOVV9D09C1",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 20000,
-      "total_posicoes": 21200
-    },
-    {
-      "codigo_opcao": "BOVVD194",
-      "isin": "BRBOVV9D0995",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 60000
-    },
-    {
-      "codigo_opcao": "BOVVP172",
-      "isin": "BRBOVV9P0918",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2900
-    },
-    {
-      "codigo_opcao": "BOVVP176",
-      "isin": "BRBOVV9P0926",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "BOVVP182",
-      "isin": "BRBOVV9P0934",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "BOVVP184",
-      "isin": "BRBOVV9P0959",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 13400,
-      "total_posicoes": 13400
-    },
-    {
-      "codigo_opcao": "BOVVP188",
-      "isin": "BRBOVV9P09A9",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8900,
-      "total_posicoes": 8900
-    },
-    {
-      "codigo_opcao": "BOVVP190",
-      "isin": "BRBOVV9P0991",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4501,
-      "total_posicoes": 62402
-    },
-    {
-      "codigo_opcao": "BOVVD161",
-      "isin": "BRBOVV9D0AV7",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5800,
-      "total_posicoes": 5800
-    },
-    {
-      "codigo_opcao": "BOVVD175",
-      "isin": "BRBOVV9D0BP7",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5800,
-      "total_posicoes": 5800
-    },
-    {
-      "codigo_opcao": "BOVVP171",
-      "isin": "BRBOVV9P0B14",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6150
-    },
-    {
-      "codigo_opcao": "BOVVE198W2",
-      "isin": "BRBOVV9E0BS0",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000000
-    },
-    {
-      "codigo_opcao": "BOVVE200W2",
-      "isin": "BRBOVV9E0C58",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9000000
-    },
-    {
-      "codigo_opcao": "BOVVQ198W2",
-      "isin": "BRBOVV9Q0C52",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000000
-    },
-    {
-      "codigo_opcao": "BOVVQ200W2",
-      "isin": "BRBOVV9Q0C45",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9000000
-    },
     {
       "codigo_opcao": "BOVVG155",
       "isin": "BRBOVV9G08Y0",
@@ -391,7 +17,7 @@
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 20008
+      "total_posicoes": 20009
     },
     {
       "codigo_opcao": "BOVVG181",
@@ -456,8 +82,8 @@
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 27600,
-      "total_posicoes": 27600
+      "quantidade_descoberta": 97410,
+      "total_posicoes": 97410
     },
     {
       "codigo_opcao": "BOVVI175",
@@ -511,8 +137,8 @@
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 118500,
-      "total_posicoes": 118500
+      "quantidade_descoberta": 188310,
+      "total_posicoes": 188310
     },
     {
       "codigo_opcao": "BOVVI185",
@@ -537,213 +163,37 @@
       "total_posicoes": 63700
     },
     {
-      "codigo_opcao": "BOVVP198W5",
-      "isin": "BRBOVV9P0DA1",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 50000
-    },
-    {
-      "codigo_opcao": "BOVVP200W5",
-      "isin": "BRBOVV9P0D87",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 30000
-    },
-    {
-      "codigo_opcao": "BOVVD142",
-      "isin": "BRBOVV9D09D9",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20003,
-      "total_posicoes": 20003
-    },
-    {
-      "codigo_opcao": "BOVVD144",
-      "isin": "BRBOVV9D09I8",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 33903,
-      "total_posicoes": 38103
-    },
-    {
-      "codigo_opcao": "BOVVD152",
-      "isin": "BRBOVV9D09R9",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4810,
-      "total_posicoes": 4810
-    },
-    {
-      "codigo_opcao": "BOVVD154",
-      "isin": "BRBOVV9D09F4",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7400,
-      "total_posicoes": 7400
-    },
-    {
-      "codigo_opcao": "BOVVD156",
-      "isin": "BRBOVV9D09K4",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9100,
-      "total_posicoes": 9100
-    },
-    {
-      "codigo_opcao": "BOVVD158",
-      "isin": "BRBOVV9D09S7",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7650,
-      "total_posicoes": 7650
-    },
-    {
-      "codigo_opcao": "BOVVD160",
-      "isin": "BRBOVV9D09E7",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4450,
-      "total_posicoes": 4450
-    },
-    {
-      "codigo_opcao": "BOVVD162",
-      "isin": "BRBOVV9D09L2",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "BOVVD166",
-      "isin": "BRBOVV9D09O6",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 72405,
-      "total_posicoes": 72405
-    },
-    {
-      "codigo_opcao": "BOVVD168",
-      "isin": "BRBOVV9D09H0",
-      "ativo": "BOVV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8600,
-      "total_posicoes": 8600
-    },
-    {
-      "codigo_opcao": "BOVVP152",
-      "isin": "BRBOVV9P09I2",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7400
-    },
-    {
-      "codigo_opcao": "BOVVP160",
-      "isin": "BRBOVV9P09Q5",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "BOVVP164",
-      "isin": "BRBOVV9P09G6",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "BOVVP168",
-      "isin": "BRBOVV9P09P7",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4900
-    },
-    {
-      "codigo_opcao": "BOVVP170",
-      "isin": "BRBOVV9P09D3",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 14000
-    },
-    {
-      "codigo_opcao": "BOVVL180",
-      "isin": "BRBOVV9L0A48",
+      "codigo_opcao": "BOVVL200",
+      "isin": "BRBOVV9L0AF0",
       "ativo": "BOVV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 20002
+      "total_posicoes": 51903
     },
     {
-      "codigo_opcao": "BOVVL190",
-      "isin": "BRBOVV9L0A55",
+      "codigo_opcao": "BOVVL210",
+      "isin": "BRBOVV9L0AH6",
       "ativo": "BOVV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 10001
+      "quantidade_descoberta": 2,
+      "total_posicoes": 120006
+    },
+    {
+      "codigo_opcao": "BOVVG152",
+      "isin": "BRBOVV9G09U6",
+      "ativo": "BOVV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 23208
     },
     {
       "codigo_opcao": "BOVVE177",
@@ -764,8 +214,8 @@
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 85,
-      "total_posicoes": 10400
+      "quantidade_descoberta": 95,
+      "total_posicoes": 13400
     },
     {
       "codigo_opcao": "BOVVF179",
@@ -834,6 +284,17 @@
       "total_posicoes": 60100
     },
     {
+      "codigo_opcao": "BOVVL235",
+      "isin": "BRBOVV9L0AZ8",
+      "ativo": "BOVV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 67000
+    },
+    {
       "codigo_opcao": "BOVVQ190",
       "isin": "BRBOVV9Q0AO7",
       "ativo": "BOVV",
@@ -886,7 +347,7 @@
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10400
+      "total_posicoes": 13400
     },
     {
       "codigo_opcao": "BOVVE173",
@@ -944,81 +405,169 @@
       "total_posicoes": 2400
     },
     {
-      "codigo_opcao": "BOVVP196",
-      "isin": "BRBOVV9P09X1",
+      "codigo_opcao": "BOVVL180",
+      "isin": "BRBOVV9L0A48",
       "ativo": "BOVV",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 80002
+      "total_posicoes": 20002
     },
     {
-      "codigo_opcao": "BOVVP198",
-      "isin": "BRBOVV9P09T9",
+      "codigo_opcao": "BOVVL190",
+      "isin": "BRBOVV9L0A55",
       "ativo": "BOVV",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 6000,
-      "total_posicoes": 6000
+      "quantidade_descoberta": 10000,
+      "total_posicoes": 10001
     },
     {
-      "codigo_opcao": "BOVVP185",
-      "isin": "BRBOVV9P0A31",
+      "codigo_opcao": "BOVVE198W2",
+      "isin": "BRBOVV9E0BS0",
       "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1800,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "BOVVP187",
-      "isin": "BRBOVV9P0A64",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4550,
-      "total_posicoes": 4550
-    },
-    {
-      "codigo_opcao": "BOVVP189",
-      "isin": "BRBOVV9P0A56",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2399,
-      "total_posicoes": 2900
-    },
-    {
-      "codigo_opcao": "BOVVP191",
-      "isin": "BRBOVV9P0A23",
-      "ativo": "BOVV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 105,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3000
+      "total_posicoes": 4000000
     },
     {
-      "codigo_opcao": "BOVVL170",
-      "isin": "BRBOVV9L0AA1",
+      "codigo_opcao": "BOVVE200W2",
+      "isin": "BRBOVV9E0C58",
+      "ativo": "BOVV",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9000000
+    },
+    {
+      "codigo_opcao": "BOVVQ198W2",
+      "isin": "BRBOVV9Q0C52",
+      "ativo": "BOVV",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4000000
+    },
+    {
+      "codigo_opcao": "BOVVQ200W2",
+      "isin": "BRBOVV9Q0C45",
+      "ativo": "BOVV",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9000000
+    },
+    {
+      "codigo_opcao": "BOVVI147",
+      "isin": "BRBOVV9I08V2",
       "ativo": "BOVV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1,
-      "total_posicoes": 2501
+      "total_posicoes": 30401
+    },
+    {
+      "codigo_opcao": "BOVVI157",
+      "isin": "BRBOVV9I08C2",
+      "ativo": "BOVV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8,
+      "total_posicoes": 44002
+    },
+    {
+      "codigo_opcao": "BOVVI159",
+      "isin": "BRBOVV9I08O7",
+      "ativo": "BOVV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 129796,
+      "total_posicoes": 150996
+    },
+    {
+      "codigo_opcao": "BOVVI161",
+      "isin": "BRBOVV9I0883",
+      "ativo": "BOVV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 258760,
+      "total_posicoes": 258760
+    },
+    {
+      "codigo_opcao": "BOVVU161",
+      "isin": "BRBOVV9U08P9",
+      "ativo": "BOVV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2900
+    },
+    {
+      "codigo_opcao": "BOVVP190W5",
+      "isin": "BRBOVV9P0D95",
+      "ativo": "BOVV",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2400,
+      "total_posicoes": 80000
+    },
+    {
+      "codigo_opcao": "BOVVP198W5",
+      "isin": "BRBOVV9P0DA1",
+      "ativo": "BOVV",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 50000,
+      "total_posicoes": 50000
+    },
+    {
+      "codigo_opcao": "BOVVP200W5",
+      "isin": "BRBOVV9P0D87",
+      "ativo": "BOVV",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 80000,
+      "total_posicoes": 80000
+    },
+    {
+      "codigo_opcao": "BOVVJ151",
+      "isin": "BRBOVV9J0AB3",
+      "ativo": "BOVV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7002
     },
     {
       "codigo_opcao": "BOVVL166",
@@ -1041,6 +590,17 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 366
+    },
+    {
+      "codigo_opcao": "BOVVL170",
+      "isin": "BRBOVV9L0AA1",
+      "ativo": "BOVV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1,
+      "total_posicoes": 2501
     }
   ]
 }
