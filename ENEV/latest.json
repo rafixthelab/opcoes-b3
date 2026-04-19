@@ -1,276 +1,155 @@
 {
   "ticker": "ENEV",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 280,
-  "calls": 140,
-  "puts": 140,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 188,
+  "calls": 94,
+  "puts": 94,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "ENEVD240",
-      "isin": "BRENEV3D0621",
+      "codigo_opcao": "ENEVG225",
+      "isin": "BRENEV3G0586",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 37000,
-      "quantidade_descoberta": 2219800,
-      "total_posicoes": 5667100
-    },
-    {
-      "codigo_opcao": "ENEVP240",
-      "isin": "BRENEV3P0627",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2044100,
-      "total_posicoes": 2097800
-    },
-    {
-      "codigo_opcao": "ENEVD120",
-      "isin": "BRENEV3D0639",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4700,
-      "total_posicoes": 4700
-    },
-    {
-      "codigo_opcao": "ENEVE197",
-      "isin": "BRENEV3E06R5",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "ENEVF207",
-      "isin": "BRENEV3F05U8",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVH192",
-      "isin": "BRENEV3H05S8",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2700,
-      "total_posicoes": 2700
-    },
-    {
-      "codigo_opcao": "ENEVJ225",
-      "isin": "BRENEV3J0666",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "ENEVQ197",
-      "isin": "BRENEV3Q06R9",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVR207",
-      "isin": "BRENEV3R05U3",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 6700
-    },
-    {
-      "codigo_opcao": "ENEVX149",
-      "isin": "BRENEV3X0775",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ENEVD200",
-      "isin": "BRENEV3D0647",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 2500,
-      "quantidade_descoberta": 2970300,
-      "total_posicoes": 2976600
-    },
-    {
-      "codigo_opcao": "ENEVP200",
-      "isin": "BRENEV3P0643",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3985400,
-      "total_posicoes": 4011600
-    },
-    {
-      "codigo_opcao": "ENEVD260",
-      "isin": "BRENEV3D05M0",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 4905300,
-      "total_posicoes": 10450500
-    },
-    {
-      "codigo_opcao": "ENEVP260",
-      "isin": "BRENEV3P05M4",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 762800,
-      "total_posicoes": 4273100
-    },
-    {
-      "codigo_opcao": "ENEVD157",
-      "isin": "BRENEV3D05P3",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ENEVD167",
-      "isin": "BRENEV3D05Z2",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVD170",
-      "isin": "BRENEV3D05X7",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 300,
       "total_posicoes": 300
     },
     {
-      "codigo_opcao": "ENEVD172",
-      "isin": "BRENEV3D05R9",
+      "codigo_opcao": "ENEVM127",
+      "isin": "BRENEV3M0786",
       "ativo": "ENEV",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 100,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ENEVD175",
-      "isin": "BRENEV3D05N8",
+      "codigo_opcao": "ENEVM128",
+      "isin": "BRENEV3M07B0",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 32400
+    },
+    {
+      "codigo_opcao": "ENEVN12",
+      "isin": "BRENEV3N07T0",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 34500,
+      "total_posicoes": 34500
+    },
+    {
+      "codigo_opcao": "ENEVN124",
+      "isin": "BRENEV3N07Q6",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 34500
+    },
+    {
+      "codigo_opcao": "ENEVW107",
+      "isin": "BRENEV3W06H8",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVE195",
+      "isin": "BRENEV3E0687",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 600
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "ENEVD180",
-      "isin": "BRENEV3D05Q1",
+      "codigo_opcao": "ENEVE200",
+      "isin": "BRENEV3E0695",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "total_posicoes": 1100
     },
     {
-      "codigo_opcao": "ENEVD182",
-      "isin": "BRENEV3D05W9",
+      "codigo_opcao": "ENEVE205",
+      "isin": "BRENEV3E06A1",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 200
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "ENEVD185",
-      "isin": "BRENEV3D0605",
+      "codigo_opcao": "ENEVQ195",
+      "isin": "BRENEV3Q0683",
       "ativo": "ENEV",
-      "tipo": "Call",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3300,
+      "total_posicoes": 11200
+    },
+    {
+      "codigo_opcao": "ENEVQ200",
+      "isin": "BRENEV3Q0691",
+      "ativo": "ENEV",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "total_posicoes": 2100
     },
     {
-      "codigo_opcao": "ENEVD187",
-      "isin": "BRENEV3D05U3",
+      "codigo_opcao": "ENEVQ205",
+      "isin": "BRENEV3Q06A5",
       "ativo": "ENEV",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
+      "quantidade_descoberta": 13000000,
+      "total_posicoes": 13012800
     },
     {
-      "codigo_opcao": "ENEVD190",
-      "isin": "BRENEV3D05Y5",
+      "codigo_opcao": "ENEVR200",
+      "isin": "BRENEV3R05D9",
       "ativo": "ENEV",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 12800,
-      "total_posicoes": 13200
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "ENEVE157",
@@ -405,160 +284,6 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ENEVP155",
-      "isin": "BRENEV3P05X1",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVP157",
-      "isin": "BRENEV3P05Q5",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "ENEVP162",
-      "isin": "BRENEV3P05N2",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 26400,
-      "total_posicoes": 26400
-    },
-    {
-      "codigo_opcao": "ENEVP165",
-      "isin": "BRENEV3P0601",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 502000,
-      "total_posicoes": 502400
-    },
-    {
-      "codigo_opcao": "ENEVP167",
-      "isin": "BRENEV3P05U7",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3200,
-      "total_posicoes": 24600
-    },
-    {
-      "codigo_opcao": "ENEVP170",
-      "isin": "BRENEV3P05W3",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 13400
-    },
-    {
-      "codigo_opcao": "ENEVP172",
-      "isin": "BRENEV3P05R3",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600000,
-      "total_posicoes": 601800
-    },
-    {
-      "codigo_opcao": "ENEVP175",
-      "isin": "BRENEV3P05Z6",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 622000,
-      "total_posicoes": 640900
-    },
-    {
-      "codigo_opcao": "ENEVP177",
-      "isin": "BRENEV3P05Y9",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 38400,
-      "total_posicoes": 109200
-    },
-    {
-      "codigo_opcao": "ENEVP180",
-      "isin": "BRENEV3P05O0",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7797900,
-      "total_posicoes": 10324600
-    },
-    {
-      "codigo_opcao": "ENEVP182",
-      "isin": "BRENEV3P05V5",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 337100,
-      "total_posicoes": 1555400
-    },
-    {
-      "codigo_opcao": "ENEVP185",
-      "isin": "BRENEV3P05P7",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 132600,
-      "total_posicoes": 3036400
-    },
-    {
-      "codigo_opcao": "ENEVP187",
-      "isin": "BRENEV3P05T9",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 52600
-    },
-    {
-      "codigo_opcao": "ENEVP190",
-      "isin": "BRENEV3P05S1",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 350900
-    },
-    {
       "codigo_opcao": "ENEVQ160",
       "isin": "BRENEV3Q06F4",
       "ativo": "ENEV",
@@ -566,7 +291,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 700,
       "total_posicoes": 700
     },
     {
@@ -577,7 +302,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 13451900,
+      "quantidade_descoberta": 13451200,
       "total_posicoes": 13451900
     },
     {
@@ -599,7 +324,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 200,
       "total_posicoes": 200
     },
     {
@@ -610,7 +335,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 300,
       "total_posicoes": 900
     },
     {
@@ -632,7 +357,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 1200,
       "total_posicoes": 19600
     },
     {
@@ -702,565 +427,48 @@
       "total_posicoes": 2100
     },
     {
-      "codigo_opcao": "ENEVD265",
-      "isin": "BRENEV3D06N6",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 786700,
-      "total_posicoes": 865500
-    },
-    {
-      "codigo_opcao": "ENEVD270",
-      "isin": "BRENEV3D06O4",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 800,
-      "quantidade_descoberta": 5000000,
-      "total_posicoes": 5762600
-    },
-    {
-      "codigo_opcao": "ENEVD275",
-      "isin": "BRENEV3D06M8",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 75800,
-      "total_posicoes": 76900
-    },
-    {
-      "codigo_opcao": "ENEVD280",
-      "isin": "BRENEV3D06G0",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4876300,
-      "total_posicoes": 11268100
-    },
-    {
-      "codigo_opcao": "ENEVD285",
-      "isin": "BRENEV3D06F2",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "ENEVD290",
-      "isin": "BRENEV3D06H8",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 57700,
-      "total_posicoes": 58400
-    },
-    {
-      "codigo_opcao": "ENEVD295",
-      "isin": "BRENEV3D06J4",
+      "codigo_opcao": "ENEVE232",
+      "isin": "BRENEV3E07T9",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 6900
     },
     {
-      "codigo_opcao": "ENEVD300",
-      "isin": "BRENEV3D06L0",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1518900,
-      "total_posicoes": 7010300
-    },
-    {
-      "codigo_opcao": "ENEVD305",
-      "isin": "BRENEV3D06K2",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 33000,
-      "total_posicoes": 33000
-    },
-    {
-      "codigo_opcao": "ENEVD310",
-      "isin": "BRENEV3D06I6",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "ENEVF265",
-      "isin": "BRENEV3F0645",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4989400,
-      "total_posicoes": 5000000
-    },
-    {
-      "codigo_opcao": "ENEVF270",
-      "isin": "BRENEV3F0637",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 5012700,
-      "total_posicoes": 5473500
-    },
-    {
-      "codigo_opcao": "ENEVF275",
-      "isin": "BRENEV3F05W4",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 900,
-      "total_posicoes": 14900
-    },
-    {
-      "codigo_opcao": "ENEVF280",
-      "isin": "BRENEV3F05Z7",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 7000,
-      "total_posicoes": 7900
-    },
-    {
-      "codigo_opcao": "ENEVF285",
-      "isin": "BRENEV3F05V6",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 33800,
-      "total_posicoes": 33900
-    },
-    {
-      "codigo_opcao": "ENEVF290",
-      "isin": "BRENEV3F05X2",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 137900,
-      "quantidade_descoberta": 7650000,
-      "total_posicoes": 11250300
-    },
-    {
-      "codigo_opcao": "ENEVF300",
-      "isin": "BRENEV3F0629",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 5000200
-    },
-    {
-      "codigo_opcao": "ENEVK227",
-      "isin": "BRENEV3K0689",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "ENEVK242",
-      "isin": "BRENEV3K06B6",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVK247",
-      "isin": "BRENEV3K0655",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVK257",
-      "isin": "BRENEV3K0663",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVK262",
-      "isin": "BRENEV3K0697",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "ENEVP265",
-      "isin": "BRENEV3P06M2",
+      "codigo_opcao": "ENEVQ232",
+      "isin": "BRENEV3Q07T3",
       "ativo": "ENEV",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 89100,
-      "total_posicoes": 89100
+      "quantidade_descoberta": 44000,
+      "total_posicoes": 44200
     },
     {
-      "codigo_opcao": "ENEVP270",
-      "isin": "BRENEV3P06N0",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5071000,
-      "total_posicoes": 5073200
-    },
-    {
-      "codigo_opcao": "ENEVP275",
-      "isin": "BRENEV3P06K6",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17400,
-      "total_posicoes": 18100
-    },
-    {
-      "codigo_opcao": "ENEVP280",
-      "isin": "BRENEV3P06O8",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4005900,
-      "total_posicoes": 4005900
-    },
-    {
-      "codigo_opcao": "ENEVP285",
-      "isin": "BRENEV3P06H2",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10300,
-      "total_posicoes": 10300
-    },
-    {
-      "codigo_opcao": "ENEVP290",
-      "isin": "BRENEV3P06F6",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1800,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "ENEVR265",
-      "isin": "BRENEV3R0641",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1700,
-      "total_posicoes": 29400
-    },
-    {
-      "codigo_opcao": "ENEVR270",
-      "isin": "BRENEV3R0617",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 9800
-    },
-    {
-      "codigo_opcao": "ENEVR275",
-      "isin": "BRENEV3R0625",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14800,
-      "total_posicoes": 14800
-    },
-    {
-      "codigo_opcao": "ENEVR280",
-      "isin": "BRENEV3R05X7",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVW227",
-      "isin": "BRENEV3W0693",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "ENEVW242",
-      "isin": "BRENEV3W0669",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ENEVD152",
-      "isin": "BRENEV3D06A3",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "ENEVD225",
-      "isin": "BRENEV3D0670",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 59700,
-      "total_posicoes": 61100
-    },
-    {
-      "codigo_opcao": "ENEVD235",
-      "isin": "BRENEV3D0696",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 600000,
-      "quantidade_descoberta": 995500,
-      "total_posicoes": 1596000
-    },
-    {
-      "codigo_opcao": "ENEVD245",
-      "isin": "BRENEV3D0654",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 206500,
-      "total_posicoes": 2708700
-    },
-    {
-      "codigo_opcao": "ENEVD247",
-      "isin": "BRENEV3D0688",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500600
-    },
-    {
-      "codigo_opcao": "ENEVD352",
-      "isin": "BRENEV3D0662",
+      "codigo_opcao": "ENEVG235",
+      "isin": "BRENEV3G0537",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1100,
-      "total_posicoes": 88300
+      "total_posicoes": 1100
     },
     {
-      "codigo_opcao": "ENEVP152",
-      "isin": "BRENEV3P0650",
+      "codigo_opcao": "ENEVS235",
+      "isin": "BRENEV3S0533",
       "ativo": "ENEV",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "ENEVP225",
-      "isin": "BRENEV3P0676",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 79400,
-      "total_posicoes": 357200
-    },
-    {
-      "codigo_opcao": "ENEVP235",
-      "isin": "BRENEV3P0668",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7568400,
-      "total_posicoes": 7572700
-    },
-    {
-      "codigo_opcao": "ENEVP245",
-      "isin": "BRENEV3P0684",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 324600,
-      "total_posicoes": 326000
-    },
-    {
-      "codigo_opcao": "ENEVP247",
-      "isin": "BRENEV3P0692",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 37300,
-      "total_posicoes": 37300
-    },
-    {
-      "codigo_opcao": "ENEVP352",
-      "isin": "BRENEV3P06A7",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1300,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "ENEVW107",
-      "isin": "BRENEV3W06H8",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVL314",
-      "isin": "BRENEV3L07G1",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "ENEVX314",
-      "isin": "BRENEV3X07G6",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3500
-    },
-    {
-      "codigo_opcao": "ENEVE225",
-      "isin": "BRENEV3E06V7",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 900,
-      "quantidade_descoberta": 48700,
-      "total_posicoes": 50800
-    },
-    {
-      "codigo_opcao": "ENEVQ225",
-      "isin": "BRENEV3Q06V1",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 1000
+      "total_posicoes": 22000
     },
     {
       "codigo_opcao": "ENEVI225",
@@ -1296,140 +504,8 @@
       "total_posicoes": 1503000
     },
     {
-      "codigo_opcao": "ENEVE237",
-      "isin": "BRENEV3E07V5",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8600
-    },
-    {
-      "codigo_opcao": "ENEVE262",
-      "isin": "BRENEV3E07U7",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 4600
-    },
-    {
-      "codigo_opcao": "ENEVE267",
-      "isin": "BRENEV3E07W3",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 900,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "ENEVQ237",
-      "isin": "BRENEV3Q07V9",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "ENEVQ262",
-      "isin": "BRENEV3Q07W7",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2700
-    },
-    {
-      "codigo_opcao": "ENEVQ267",
-      "isin": "BRENEV3Q07U1",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVF230",
-      "isin": "BRENEV3F0652",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 5800
-    },
-    {
-      "codigo_opcao": "ENEVR230",
-      "isin": "BRENEV3R0658",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000000
-    },
-    {
-      "codigo_opcao": "ENEVD207",
-      "isin": "BRENEV3D0613",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "ENEVG247",
-      "isin": "BRENEV3G0511",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "ENEVH225",
-      "isin": "BRENEV3H05R0",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVK222",
-      "isin": "BRENEV3K0622",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVL194",
-      "isin": "BRENEV3L0753",
+      "codigo_opcao": "ENEVK280",
+      "isin": "BRENEV3K06L5",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
@@ -1439,102 +515,14 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ENEVP207",
-      "isin": "BRENEV3P0619",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 50700
-    },
-    {
-      "codigo_opcao": "ENEVQ192",
-      "isin": "BRENEV3Q06Q1",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5300
-    },
-    {
-      "codigo_opcao": "ENEVT225",
-      "isin": "BRENEV3T05R5",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ENEVW222",
-      "isin": "BRENEV3W0628",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "ENEVX194",
-      "isin": "BRENEV3X0759",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "ENEVQ140",
-      "isin": "BRENEV3Q06Y5",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 30500
-    },
-    {
-      "codigo_opcao": "ENEVR141",
-      "isin": "BRENEV3R0674",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 30500
-    },
-    {
-      "codigo_opcao": "ENEVE120",
-      "isin": "BRENEV3E0737",
+      "codigo_opcao": "ENEVK300",
+      "isin": "BRENEV3K06M3",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 4700
-    },
-    {
-      "codigo_opcao": "ENEVH247",
-      "isin": "BRENEV3H05Y6",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
       "total_posicoes": 100
     },
     {
@@ -1655,7 +643,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 100
     },
     {
@@ -1813,37 +801,26 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ENEVM128",
-      "isin": "BRENEV3M07B0",
+      "codigo_opcao": "ENEVF230",
+      "isin": "BRENEV3F0652",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 3800,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 5800
+    },
+    {
+      "codigo_opcao": "ENEVR230",
+      "isin": "BRENEV3R0658",
       "ativo": "ENEV",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 32400
-    },
-    {
-      "codigo_opcao": "ENEVN12",
-      "isin": "BRENEV3N07T0",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 34500,
-      "total_posicoes": 34500
-    },
-    {
-      "codigo_opcao": "ENEVN124",
-      "isin": "BRENEV3N07Q6",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 34500
+      "total_posicoes": 5000000
     },
     {
       "codigo_opcao": "ENEVR220",
@@ -1853,8 +830,85 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
+      "quantidade_descoberta": 0,
       "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVX16",
+      "isin": "BRENEV3X06I4",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1243400
+    },
+    {
+      "codigo_opcao": "ENEVE215",
+      "isin": "BRENEV3E06S3",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 6300,
+      "quantidade_descoberta": 11100,
+      "total_posicoes": 17900
+    },
+    {
+      "codigo_opcao": "ENEVQ215",
+      "isin": "BRENEV3Q06S7",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8200
+    },
+    {
+      "codigo_opcao": "ENEVE202",
+      "isin": "BRENEV3E06T1",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3100,
+      "total_posicoes": 3100
+    },
+    {
+      "codigo_opcao": "ENEVQ202",
+      "isin": "BRENEV3Q06T5",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12687000,
+      "total_posicoes": 13651100
+    },
+    {
+      "codigo_opcao": "ENEVE220",
+      "isin": "BRENEV3E06U9",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6100
+    },
+    {
+      "codigo_opcao": "ENEVQ220",
+      "isin": "BRENEV3Q06U3",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5500,
+      "total_posicoes": 39000
     },
     {
       "codigo_opcao": "ENEVE222",
@@ -1879,312 +933,103 @@
       "total_posicoes": 1500
     },
     {
-      "codigo_opcao": "ENEVE232",
-      "isin": "BRENEV3E07T9",
+      "codigo_opcao": "ENEVG247",
+      "isin": "BRENEV3G0511",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 6900
-    },
-    {
-      "codigo_opcao": "ENEVQ232",
-      "isin": "BRENEV3Q07T3",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 44000,
-      "total_posicoes": 44200
-    },
-    {
-      "codigo_opcao": "ENEVL14",
-      "isin": "BRENEV3L06A6",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ENEVX14",
-      "isin": "BRENEV3X06A1",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 128500
-    },
-    {
-      "codigo_opcao": "ENEVL210",
-      "isin": "BRENEV3L07F3",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 853500
-    },
-    {
-      "codigo_opcao": "ENEVD227",
-      "isin": "BRENEV3D06R7",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8800,
-      "total_posicoes": 1508800
-    },
-    {
-      "codigo_opcao": "ENEVP227",
-      "isin": "BRENEV3P06R1",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "ENEVX16",
-      "isin": "BRENEV3X06I4",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1243400
-    },
-    {
-      "codigo_opcao": "ENEVE202",
-      "isin": "BRENEV3E06T1",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3100,
-      "total_posicoes": 3100
-    },
-    {
-      "codigo_opcao": "ENEVQ202",
-      "isin": "BRENEV3Q06T5",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12452600,
-      "total_posicoes": 13651100
-    },
-    {
-      "codigo_opcao": "ENEVE220",
-      "isin": "BRENEV3E06U9",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6100
-    },
-    {
-      "codigo_opcao": "ENEVQ220",
-      "isin": "BRENEV3Q06U3",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5500,
-      "total_posicoes": 39000
-    },
-    {
-      "codigo_opcao": "ENEVG235",
-      "isin": "BRENEV3G0537",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1400,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "ENEVS235",
-      "isin": "BRENEV3S0533",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 22000
-    },
-    {
-      "codigo_opcao": "ENEVD205",
-      "isin": "BRENEV3D06C9",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 11800,
-      "total_posicoes": 11900
-    },
-    {
-      "codigo_opcao": "ENEVP205",
-      "isin": "BRENEV3P06C3",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 380200,
-      "total_posicoes": 600600
-    },
-    {
-      "codigo_opcao": "ENEVE215",
-      "isin": "BRENEV3E06S3",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 6300,
-      "quantidade_descoberta": 1400,
-      "total_posicoes": 17900
-    },
-    {
-      "codigo_opcao": "ENEVQ215",
-      "isin": "BRENEV3Q06S7",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8200
-    },
-    {
-      "codigo_opcao": "ENEVD242",
-      "isin": "BRENEV3D06Q9",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 954500,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 1371500
-    },
-    {
-      "codigo_opcao": "ENEVP242",
-      "isin": "BRENEV3P06Q3",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 25000,
-      "total_posicoes": 25000
-    },
-    {
-      "codigo_opcao": "ENEVD257",
-      "isin": "BRENEV3D06P1",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 714000,
-      "total_posicoes": 6110800
-    },
-    {
-      "codigo_opcao": "ENEVP257",
-      "isin": "BRENEV3P06P5",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2149400,
-      "total_posicoes": 2149500
-    },
-    {
-      "codigo_opcao": "ENEVD145",
-      "isin": "BRENEV3D06U1",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
       "total_posicoes": 500
     },
     {
-      "codigo_opcao": "ENEVG225",
-      "isin": "BRENEV3G0586",
+      "codigo_opcao": "ENEVH225",
+      "isin": "BRENEV3H05R0",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ENEVP145",
-      "isin": "BRENEV3P06U5",
+      "codigo_opcao": "ENEVK222",
+      "isin": "BRENEV3K0622",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVL194",
+      "isin": "BRENEV3L0753",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVQ192",
+      "isin": "BRENEV3Q06Q1",
       "ativo": "ENEV",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 5300
     },
     {
-      "codigo_opcao": "ENEVG275",
-      "isin": "BRENEV3G05B6",
+      "codigo_opcao": "ENEVT225",
+      "isin": "BRENEV3T05R5",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVW222",
+      "isin": "BRENEV3W0628",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "ENEVX194",
+      "isin": "BRENEV3X0759",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 1600
+    },
+    {
+      "codigo_opcao": "ENEVE120",
+      "isin": "BRENEV3E0737",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000000,
-      "total_posicoes": 10000000
-    },
-    {
-      "codigo_opcao": "ENEVG290",
-      "isin": "BRENEV3G05C4",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 997400,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10000000
-    },
-    {
-      "codigo_opcao": "ENEVG300",
-      "isin": "BRENEV3G05D2",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10000000
+      "total_posicoes": 4700
     },
     {
       "codigo_opcao": "ENEVF225",
@@ -2193,7 +1038,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 1000,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 1000,
       "total_posicoes": 2000
     },
@@ -2205,8 +1050,140 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVH247",
+      "isin": "BRENEV3H05Y6",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
       "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVL210",
+      "isin": "BRENEV3L07F3",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 853400
+    },
+    {
+      "codigo_opcao": "ENEVE237",
+      "isin": "BRENEV3E07V5",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8600
+    },
+    {
+      "codigo_opcao": "ENEVE262",
+      "isin": "BRENEV3E07U7",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1100,
+      "total_posicoes": 4600
+    },
+    {
+      "codigo_opcao": "ENEVE267",
+      "isin": "BRENEV3E07W3",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1200,
+      "total_posicoes": 7800
+    },
+    {
+      "codigo_opcao": "ENEVQ237",
+      "isin": "BRENEV3Q07V9",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 700
+    },
+    {
+      "codigo_opcao": "ENEVQ262",
+      "isin": "BRENEV3Q07W7",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2800
+    },
+    {
+      "codigo_opcao": "ENEVQ267",
+      "isin": "BRENEV3Q07U1",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVL314",
+      "isin": "BRENEV3L07G1",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "ENEVX314",
+      "isin": "BRENEV3X07G6",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3500
+    },
+    {
+      "codigo_opcao": "ENEVE225",
+      "isin": "BRENEV3E06V7",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 900,
+      "quantidade_descoberta": 48700,
+      "total_posicoes": 50800
+    },
+    {
+      "codigo_opcao": "ENEVQ225",
+      "isin": "BRENEV3Q06V1",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 1000
     },
     {
       "codigo_opcao": "ENEVE125",
@@ -2261,7 +1238,7 @@
       "contratos_em_aberto": 107,
       "quantidade_coberta": 1000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 4800
+      "total_posicoes": 5300
     },
     {
       "codigo_opcao": "ENEVE230",
@@ -2282,8 +1259,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 2600,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 3100
+      "quantidade_descoberta": 40100,
+      "total_posicoes": 43100
     },
     {
       "codigo_opcao": "ENEVE240",
@@ -2293,7 +1270,7 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
+      "quantidade_descoberta": 0,
       "total_posicoes": 700
     },
     {
@@ -2303,7 +1280,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 1000,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 25700,
       "total_posicoes": 32300
     },
@@ -2315,7 +1292,7 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 3000,
-      "quantidade_descoberta": 11020100,
+      "quantidade_descoberta": 11019800,
       "total_posicoes": 11024400
     },
     {
@@ -2325,9 +1302,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 1100,
-      "quantidade_descoberta": 92100,
-      "total_posicoes": 531400
+      "quantidade_coberta": 1500,
+      "quantidade_descoberta": 90600,
+      "total_posicoes": 529900
     },
     {
       "codigo_opcao": "ENEVE260",
@@ -2337,8 +1314,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 200,
-      "quantidade_descoberta": 1508300,
-      "total_posicoes": 1584900
+      "quantidade_descoberta": 1592500,
+      "total_posicoes": 1625100
     },
     {
       "codigo_opcao": "ENEVE265",
@@ -2348,8 +1325,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 1700,
-      "quantidade_descoberta": 17800,
-      "total_posicoes": 24100
+      "quantidade_descoberta": 16500,
+      "total_posicoes": 23800
     },
     {
       "codigo_opcao": "ENEVE270",
@@ -2359,8 +1336,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 1200,
-      "quantidade_descoberta": 21300,
-      "total_posicoes": 25500
+      "quantidade_descoberta": 39100,
+      "total_posicoes": 50400
     },
     {
       "codigo_opcao": "ENEVE275",
@@ -2369,9 +1346,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 1300,
-      "total_posicoes": 40800
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5000,
+      "total_posicoes": 45700
     },
     {
       "codigo_opcao": "ENEVE280",
@@ -2380,9 +1357,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 700,
+      "quantidade_coberta": 10900,
       "quantidade_descoberta": 23808500,
-      "total_posicoes": 23820600
+      "total_posicoes": 23820700
     },
     {
       "codigo_opcao": "ENEVE285",
@@ -2392,8 +1369,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 1700,
-      "quantidade_descoberta": 1255700,
-      "total_posicoes": 1258600
+      "quantidade_descoberta": 161500,
+      "total_posicoes": 2504400
     },
     {
       "codigo_opcao": "ENEVE290",
@@ -2414,8 +1391,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 4844200,
-      "quantidade_descoberta": 8400,
-      "total_posicoes": 5197300
+      "quantidade_descoberta": 8500,
+      "total_posicoes": 5197400
     },
     {
       "codigo_opcao": "ENEVE300",
@@ -2424,9 +1401,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 2600,
-      "quantidade_descoberta": 27700,
-      "total_posicoes": 88200
+      "quantidade_coberta": 11200,
+      "quantidade_descoberta": 14500,
+      "total_posicoes": 120800
     },
     {
       "codigo_opcao": "ENEVE305",
@@ -2436,8 +1413,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 38300,
-      "total_posicoes": 39500
+      "quantidade_descoberta": 40700,
+      "total_posicoes": 41900
     },
     {
       "codigo_opcao": "ENEVF240",
@@ -2459,7 +1436,7 @@
       "contratos_em_aberto": 107,
       "quantidade_coberta": 300,
       "quantidade_descoberta": 0,
-      "total_posicoes": 300
+      "total_posicoes": 1600
     },
     {
       "codigo_opcao": "ENEVF255",
@@ -2468,7 +1445,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 1000,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
       "total_posicoes": 1100
     },
@@ -2492,7 +1469,7 @@
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1600
+      "total_posicoes": 2100
     },
     {
       "codigo_opcao": "ENEVQ230",
@@ -2524,7 +1501,7 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 13561100,
+      "quantidade_descoberta": 10972500,
       "total_posicoes": 18218700
     },
     {
@@ -2535,8 +1512,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 21100
+      "quantidade_descoberta": 40600,
+      "total_posicoes": 62600
     },
     {
       "codigo_opcao": "ENEVQ250",
@@ -2568,7 +1545,7 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 431700,
+      "quantidade_descoberta": 474800,
       "total_posicoes": 1302300
     },
     {
@@ -2590,8 +1567,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 82600,
-      "total_posicoes": 290400
+      "quantidade_descoberta": 122600,
+      "total_posicoes": 331700
     },
     {
       "codigo_opcao": "ENEVQ275",
@@ -2601,8 +1578,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 42400,
-      "total_posicoes": 42800
+      "quantidade_descoberta": 28300,
+      "total_posicoes": 28800
     },
     {
       "codigo_opcao": "ENEVQ280",
@@ -2612,8 +1589,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 2700
+      "quantidade_descoberta": 1500,
+      "total_posicoes": 3600
     },
     {
       "codigo_opcao": "ENEVQ285",
@@ -2623,8 +1600,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 102400,
-      "total_posicoes": 108300
+      "quantidade_descoberta": 2602800,
+      "total_posicoes": 2608300
     },
     {
       "codigo_opcao": "ENEVQ290",
@@ -2671,6 +1648,17 @@
       "total_posicoes": 15100
     },
     {
+      "codigo_opcao": "ENEVR235",
+      "isin": "BRENEV3R06F2",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
       "codigo_opcao": "ENEVR240",
       "isin": "BRENEV3R06K2",
       "ativo": "ENEV",
@@ -2701,7 +1689,7 @@
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 4500
+      "total_posicoes": 6500
     },
     {
       "codigo_opcao": "ENEVR255",
@@ -2711,8 +1699,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 1000
     },
     {
       "codigo_opcao": "ENEVR260",
@@ -2722,7 +1710,7 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 17900,
+      "quantidade_descoberta": 20700,
       "total_posicoes": 20900
     },
     {
@@ -2737,356 +1725,356 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ENEVD202",
-      "isin": "BRENEV3D06B1",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1300,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "ENEVP202",
-      "isin": "BRENEV3P06B5",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7500,
-      "total_posicoes": 123400
-    },
-    {
-      "codigo_opcao": "ENEVD212",
-      "isin": "BRENEV3D06D7",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 4100
-    },
-    {
-      "codigo_opcao": "ENEVP212",
-      "isin": "BRENEV3P06D1",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 562100,
-      "total_posicoes": 567500
-    },
-    {
-      "codigo_opcao": "ENEVD255",
-      "isin": "BRENEV3D06E5",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 32900,
-      "total_posicoes": 490000
-    },
-    {
-      "codigo_opcao": "ENEVP255",
-      "isin": "BRENEV3P06E9",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 65400,
-      "total_posicoes": 66400
-    },
-    {
-      "codigo_opcao": "ENEVP192",
-      "isin": "BRENEV3P06S9",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 31500,
-      "total_posicoes": 83100
-    },
-    {
-      "codigo_opcao": "ENEVD197",
-      "isin": "BRENEV3D06T3",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "ENEVP197",
-      "isin": "BRENEV3P06T7",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 587100,
-      "total_posicoes": 631700
-    },
-    {
-      "codigo_opcao": "ENEVD230",
-      "isin": "BRENEV3D05E7",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 49400,
-      "quantidade_descoberta": 2996100,
-      "total_posicoes": 11542600
-    },
-    {
-      "codigo_opcao": "ENEVP230",
-      "isin": "BRENEV3P05E1",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3286600,
-      "total_posicoes": 6576800
-    },
-    {
-      "codigo_opcao": "ENEVD160",
-      "isin": "BRENEV3D05F4",
+      "codigo_opcao": "ENEVL14",
+      "isin": "BRENEV3L06A6",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
+      "quantidade_descoberta": 0,
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "ENEVD195",
-      "isin": "BRENEV3D05G2",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 4100
-    },
-    {
-      "codigo_opcao": "ENEVP160",
-      "isin": "BRENEV3P05F8",
+      "codigo_opcao": "ENEVX14",
+      "isin": "BRENEV3X06A1",
       "ativo": "ENEV",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 137300,
-      "total_posicoes": 1273000
+      "quantidade_descoberta": 400,
+      "total_posicoes": 128500
     },
     {
-      "codigo_opcao": "ENEVP195",
-      "isin": "BRENEV3P05G6",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 133200,
-      "total_posicoes": 186300
-    },
-    {
-      "codigo_opcao": "ENEVD150",
-      "isin": "BRENEV3D05H0",
+      "codigo_opcao": "ENEVE197",
+      "isin": "BRENEV3E06R5",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "ENEVD250",
-      "isin": "BRENEV3D05I8",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3261300,
-      "total_posicoes": 4890100
-    },
-    {
-      "codigo_opcao": "ENEVP150",
-      "isin": "BRENEV3P05H4",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
+      "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1100
+      "total_posicoes": 3000
     },
     {
-      "codigo_opcao": "ENEVP250",
-      "isin": "BRENEV3P05I2",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 628400,
-      "total_posicoes": 2639600
-    },
-    {
-      "codigo_opcao": "ENEVE195",
-      "isin": "BRENEV3E0687",
+      "codigo_opcao": "ENEVF207",
+      "isin": "BRENEV3F05U8",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "ENEVE200",
-      "isin": "BRENEV3E0695",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
+      "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 1100
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ENEVE205",
-      "isin": "BRENEV3E06A1",
+      "codigo_opcao": "ENEVH192",
+      "isin": "BRENEV3H05S8",
       "ativo": "ENEV",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 106,
+      "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
+      "quantidade_descoberta": 2700,
+      "total_posicoes": 2700
     },
     {
-      "codigo_opcao": "ENEVQ195",
-      "isin": "BRENEV3Q0683",
+      "codigo_opcao": "ENEVJ225",
+      "isin": "BRENEV3J0666",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "ENEVQ197",
+      "isin": "BRENEV3Q06R9",
       "ativo": "ENEV",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 11200
-    },
-    {
-      "codigo_opcao": "ENEVQ200",
-      "isin": "BRENEV3Q0691",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "ENEVQ205",
-      "isin": "BRENEV3Q06A5",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6000000,
-      "total_posicoes": 13012800
-    },
-    {
-      "codigo_opcao": "ENEVR200",
-      "isin": "BRENEV3R05D9",
-      "ativo": "ENEV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
+      "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ENEVD210",
-      "isin": "BRENEV3D05J6",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 3900,
-      "quantidade_descoberta": 35300,
-      "total_posicoes": 151600
-    },
-    {
-      "codigo_opcao": "ENEVD215",
-      "isin": "BRENEV3D05K4",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 1100,
-      "quantidade_descoberta": 742200,
-      "total_posicoes": 783300
-    },
-    {
-      "codigo_opcao": "ENEVD220",
-      "isin": "BRENEV3D05L2",
-      "ativo": "ENEV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 900,
-      "quantidade_descoberta": 6901700,
-      "total_posicoes": 6903600
-    },
-    {
-      "codigo_opcao": "ENEVP210",
-      "isin": "BRENEV3P05J0",
+      "codigo_opcao": "ENEVR207",
+      "isin": "BRENEV3R05U3",
       "ativo": "ENEV",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 106,
+      "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 5309200,
-      "total_posicoes": 5521200
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6700
     },
     {
-      "codigo_opcao": "ENEVP215",
-      "isin": "BRENEV3P05K8",
+      "codigo_opcao": "ENEVX149",
+      "isin": "BRENEV3X0775",
       "ativo": "ENEV",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 106,
+      "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 400800,
-      "total_posicoes": 1134900
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
     },
     {
-      "codigo_opcao": "ENEVP220",
-      "isin": "BRENEV3P05L6",
+      "codigo_opcao": "ENEVG275",
+      "isin": "BRENEV3G05B6",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10000000,
+      "total_posicoes": 10000000
+    },
+    {
+      "codigo_opcao": "ENEVG290",
+      "isin": "BRENEV3G05C4",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 997400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10000000
+    },
+    {
+      "codigo_opcao": "ENEVG300",
+      "isin": "BRENEV3G05D2",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10000000
+    },
+    {
+      "codigo_opcao": "ENEVF265",
+      "isin": "BRENEV3F0645",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4987100,
+      "total_posicoes": 5000300
+    },
+    {
+      "codigo_opcao": "ENEVF270",
+      "isin": "BRENEV3F0637",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 5042900,
+      "total_posicoes": 5584400
+    },
+    {
+      "codigo_opcao": "ENEVF275",
+      "isin": "BRENEV3F05W4",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 34100
+    },
+    {
+      "codigo_opcao": "ENEVF280",
+      "isin": "BRENEV3F05Z7",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 5400,
+      "total_posicoes": 7900
+    },
+    {
+      "codigo_opcao": "ENEVF285",
+      "isin": "BRENEV3F05V6",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 58200,
+      "total_posicoes": 58300
+    },
+    {
+      "codigo_opcao": "ENEVF290",
+      "isin": "BRENEV3F05X2",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 137900,
+      "quantidade_descoberta": 7650000,
+      "total_posicoes": 11250300
+    },
+    {
+      "codigo_opcao": "ENEVF300",
+      "isin": "BRENEV3F0629",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000200
+    },
+    {
+      "codigo_opcao": "ENEVK227",
+      "isin": "BRENEV3K0689",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1400
+    },
+    {
+      "codigo_opcao": "ENEVK242",
+      "isin": "BRENEV3K06B6",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVK247",
+      "isin": "BRENEV3K0655",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVK257",
+      "isin": "BRENEV3K0663",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVK262",
+      "isin": "BRENEV3K0697",
+      "ativo": "ENEV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "ENEVR265",
+      "isin": "BRENEV3R0641",
       "ativo": "ENEV",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 106,
+      "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2530300,
-      "total_posicoes": 2999300
+      "quantidade_descoberta": 25000,
+      "total_posicoes": 26000
+    },
+    {
+      "codigo_opcao": "ENEVR270",
+      "isin": "BRENEV3R0617",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4700
+    },
+    {
+      "codigo_opcao": "ENEVR275",
+      "isin": "BRENEV3R0625",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 57400,
+      "total_posicoes": 127500
+    },
+    {
+      "codigo_opcao": "ENEVR280",
+      "isin": "BRENEV3R05X7",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ENEVW227",
+      "isin": "BRENEV3W0693",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1400
+    },
+    {
+      "codigo_opcao": "ENEVW242",
+      "isin": "BRENEV3W0669",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ENEVQ140",
+      "isin": "BRENEV3Q06Y5",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 30500
+    },
+    {
+      "codigo_opcao": "ENEVR141",
+      "isin": "BRENEV3R0674",
+      "ativo": "ENEV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 30500
     }
   ]
 }
