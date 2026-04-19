@@ -1,0 +1,100 @@
+{
+  "ticker": "AMZO",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 8,
+  "calls": 6,
+  "puts": 2,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "AMZOG69",
+      "isin": "BRAMZO9G00F4",
+      "ativo": "AMZO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 290,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1500
+    },
+    {
+      "codigo_opcao": "AMZOX114",
+      "isin": "BRAMZO9X00Z7",
+      "ativo": "AMZO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "AMZOL65",
+      "isin": "BRAMZO9L00X7",
+      "ativo": "AMZO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1900
+    },
+    {
+      "codigo_opcao": "AMZOL675",
+      "isin": "BRAMZO9L0104",
+      "ativo": "AMZO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 3400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3400
+    },
+    {
+      "codigo_opcao": "AMZOE560",
+      "isin": "BRAMZO9E00X2",
+      "ativo": "AMZO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "AMZOE600",
+      "isin": "BRAMZO9E00V6",
+      "ativo": "AMZO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 1620,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3520
+    },
+    {
+      "codigo_opcao": "AMZOE610",
+      "isin": "BRAMZO9E00Y0",
+      "ativo": "AMZO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "AMZOQ620",
+      "isin": "BRAMZO9Q00V0",
+      "ativo": "AMZO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 16790
+    }
+  ]
+}
