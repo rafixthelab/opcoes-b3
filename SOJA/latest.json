@@ -1,167 +1,13 @@
 {
   "ticker": "SOJA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 43,
-  "calls": 19,
-  "puts": 24,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 35,
+  "calls": 15,
+  "puts": 20,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "SOJAD850",
-      "isin": "BRSOJA3D00B7",
-      "ativo": "SOJA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "SOJAP850",
-      "isin": "BRSOJA3P00B1",
-      "ativo": "SOJA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9200
-    },
-    {
-      "codigo_opcao": "SOJAA10",
-      "isin": "BRSOJA3A00A5",
-      "ativo": "SOJA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 304
-    },
-    {
-      "codigo_opcao": "SOJAB10",
-      "isin": "BRSOJA3B0079",
-      "ativo": "SOJA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 38447
-    },
-    {
-      "codigo_opcao": "SOJAS740",
-      "isin": "BRSOJA3S00B5",
-      "ativo": "SOJA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "SOJAD730",
-      "isin": "BRSOJA3D00C5",
-      "ativo": "SOJA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 20800,
-      "quantidade_descoberta": 8400,
-      "total_posicoes": 51600
-    },
-    {
-      "codigo_opcao": "SOJAP730",
-      "isin": "BRSOJA3P00C9",
-      "ativo": "SOJA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 80900
-    },
-    {
-      "codigo_opcao": "SOJAE710",
-      "isin": "BRSOJA3E00D1",
-      "ativo": "SOJA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "SOJAE810",
-      "isin": "BRSOJA3E00C3",
-      "ativo": "SOJA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 14200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 21800
-    },
-    {
-      "codigo_opcao": "SOJAQ710",
-      "isin": "BRSOJA3Q00C7",
-      "ativo": "SOJA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 84800
-    },
-    {
-      "codigo_opcao": "SOJAQ810",
-      "isin": "BRSOJA3Q00D5",
-      "ativo": "SOJA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 141100
-    },
-    {
-      "codigo_opcao": "SOJAD820",
-      "isin": "BRSOJA3D00D3",
-      "ativo": "SOJA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 92400
-    },
-    {
-      "codigo_opcao": "SOJAP820",
-      "isin": "BRSOJA3P00D7",
-      "ativo": "SOJA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 32467,
-      "total_posicoes": 96200
-    },
-    {
-      "codigo_opcao": "SOJAR891",
-      "isin": "BRSOJA3R00G6",
-      "ativo": "SOJA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
     {
       "codigo_opcao": "SOJAE730",
       "isin": "BRSOJA3E00E9",
@@ -180,9 +26,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 400,
+      "quantidade_coberta": 900,
       "quantidade_descoberta": 0,
-      "total_posicoes": 800
+      "total_posicoes": 900
     },
     {
       "codigo_opcao": "SOJAE790",
@@ -193,7 +39,7 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2900
+      "total_posicoes": 6600
     },
     {
       "codigo_opcao": "SOJAQ630",
@@ -237,7 +83,7 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 21600
+      "total_posicoes": 21700
     },
     {
       "codigo_opcao": "SOJAQ730",
@@ -248,7 +94,7 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 20000
+      "total_posicoes": 30000
     },
     {
       "codigo_opcao": "SOJAR671",
@@ -284,15 +130,81 @@
       "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "SOJAD100",
-      "isin": "BRSOJA3D0002",
+      "codigo_opcao": "SOJAE710",
+      "isin": "BRSOJA3E00D1",
+      "ativo": "SOJA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7100
+    },
+    {
+      "codigo_opcao": "SOJAE810",
+      "isin": "BRSOJA3E00C3",
+      "ativo": "SOJA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 14200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 23900
+    },
+    {
+      "codigo_opcao": "SOJAQ710",
+      "isin": "BRSOJA3Q00C7",
+      "ativo": "SOJA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 85200
+    },
+    {
+      "codigo_opcao": "SOJAQ810",
+      "isin": "BRSOJA3Q00D5",
+      "ativo": "SOJA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 141100
+    },
+    {
+      "codigo_opcao": "SOJAS740",
+      "isin": "BRSOJA3S00B5",
+      "ativo": "SOJA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6000
+    },
+    {
+      "codigo_opcao": "SOJAA10",
+      "isin": "BRSOJA3A00A5",
       "ativo": "SOJA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 13796,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 43951
+      "total_posicoes": 304
+    },
+    {
+      "codigo_opcao": "SOJAB10",
+      "isin": "BRSOJA3B0079",
+      "ativo": "SOJA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 38447
     },
     {
       "codigo_opcao": "SOJAE100",
@@ -301,7 +213,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 6500,
+      "quantidade_coberta": 6935,
       "quantidade_descoberta": 0,
       "total_posicoes": 27976
     },
@@ -323,7 +235,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 100,
       "quantidade_descoberta": 1882,
       "total_posicoes": 3000
     },
@@ -394,17 +306,6 @@
       "total_posicoes": 111800
     },
     {
-      "codigo_opcao": "SOJAP100",
-      "isin": "BRSOJA3P0008",
-      "ativo": "SOJA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
       "codigo_opcao": "SOJAQ100",
       "isin": "BRSOJA3Q0007",
       "ativo": "SOJA",
@@ -469,6 +370,17 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 1023
+    },
+    {
+      "codigo_opcao": "SOJAR891",
+      "isin": "BRSOJA3R00G6",
+      "ativo": "SOJA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "SOJAE107",
