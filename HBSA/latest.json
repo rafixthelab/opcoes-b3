@@ -1,35 +1,13 @@
 {
   "ticker": "HBSA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 6,
-  "calls": 1,
-  "puts": 5,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 4,
+  "calls": 0,
+  "puts": 4,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "HBSAD501",
-      "isin": "BRHBSA3D00V2",
-      "ativo": "HBSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 102,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3500
-    },
-    {
-      "codigo_opcao": "HBSAP300",
-      "isin": "BRHBSA3P00H5",
-      "ativo": "HBSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 101,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
     {
       "codigo_opcao": "HBSAQ30",
       "isin": "BRHBSA3Q00H3",
