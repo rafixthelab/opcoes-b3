@@ -1,13 +1,706 @@
 {
   "ticker": "ITSA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 472,
-  "calls": 275,
-  "puts": 197,
-  "semanais": 64,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 399,
+  "calls": 226,
+  "puts": 173,
+  "semanais": 66,
   "opcoes": [
+    {
+      "codigo_opcao": "ITSAL142",
+      "isin": "BRITSA4L0TF9",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 6,
+      "total_posicoes": 63300
+    },
+    {
+      "codigo_opcao": "ITSAX137",
+      "isin": "BRITSA4X0TU4",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ITSAX142",
+      "isin": "BRITSA4X0TS8",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 25100
+    },
+    {
+      "codigo_opcao": "ITSAF678",
+      "isin": "BRITSA4F0S15",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 454,
+      "quantidade_coberta": 13770,
+      "quantidade_descoberta": 10200,
+      "total_posicoes": 535870
+    },
+    {
+      "codigo_opcao": "ITSAR678",
+      "isin": "BRITSA4R0S77",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 454,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1200,
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "ITSAE100",
+      "isin": "BRITSA4E0Q85",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 52200,
+      "quantidade_descoberta": 4900,
+      "total_posicoes": 180400
+    },
+    {
+      "codigo_opcao": "ITSAE110",
+      "isin": "BRITSA4E0QA5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 161900,
+      "quantidade_descoberta": 3400,
+      "total_posicoes": 329900
+    },
+    {
+      "codigo_opcao": "ITSAQ100",
+      "isin": "BRITSA4Q0QG8",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 46100,
+      "total_posicoes": 47700
+    },
+    {
+      "codigo_opcao": "ITSAQ105",
+      "isin": "BRITSA4Q0QF0",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2200,
+      "total_posicoes": 7200
+    },
+    {
+      "codigo_opcao": "ITSAQ110",
+      "isin": "BRITSA4Q0QE3",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 42700,
+      "total_posicoes": 43800
+    },
+    {
+      "codigo_opcao": "ITSAE105",
+      "isin": "BRITSA4E0Q93",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 98300,
+      "quantidade_descoberta": 2600,
+      "total_posicoes": 252500
+    },
+    {
+      "codigo_opcao": "ITSAF11",
+      "isin": "BRITSA4F0S64",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 27100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 36800
+    },
+    {
+      "codigo_opcao": "ITSAR11",
+      "isin": "BRITSA4R0SC2",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1600,
+      "total_posicoes": 48700
+    },
+    {
+      "codigo_opcao": "ITSAE115",
+      "isin": "BRITSA4E0QG2",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 307400,
+      "quantidade_descoberta": 3100,
+      "total_posicoes": 1874800
+    },
+    {
+      "codigo_opcao": "ITSAQ115",
+      "isin": "BRITSA4Q0QM6",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 53100,
+      "total_posicoes": 65000
+    },
+    {
+      "codigo_opcao": "ITSAE798",
+      "isin": "BRITSA4E0QH0",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 1900,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 48400
+    },
+    {
+      "codigo_opcao": "ITSAG996",
+      "isin": "BRITSA4G0TB5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 451,
+      "quantidade_coberta": 28904,
+      "quantidade_descoberta": 4098,
+      "total_posicoes": 71402
+    },
+    {
+      "codigo_opcao": "ITSAS996",
+      "isin": "BRITSA4S0TB1",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 451,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2040,
+      "total_posicoes": 2040
+    },
+    {
+      "codigo_opcao": "ITSAL12",
+      "isin": "BRITSA4L0TB8",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 453,
+      "quantidade_coberta": 15918,
+      "quantidade_descoberta": 20983,
+      "total_posicoes": 39401
+    },
+    {
+      "codigo_opcao": "ITSAX12",
+      "isin": "BRITSA4X0TO7",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 453,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 25531,
+      "total_posicoes": 33515
+    },
+    {
+      "codigo_opcao": "ITSAG630",
+      "isin": "BRITSA4G0TG4",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 344000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 345600
+    },
+    {
+      "codigo_opcao": "ITSAE134",
+      "isin": "BRITSA4E0QF4",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 225000,
+      "quantidade_descoberta": 40800,
+      "total_posicoes": 2141600
+    },
+    {
+      "codigo_opcao": "ITSAH160",
+      "isin": "BRITSA4H0V99",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1400,
+      "total_posicoes": 1400
+    },
+    {
+      "codigo_opcao": "ITSAH180",
+      "isin": "BRITSA4H0VA2",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ITSAT150",
+      "isin": "BRITSA4T0V94",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 800
+    },
+    {
+      "codigo_opcao": "ITSAT190",
+      "isin": "BRITSA4T0V45",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2500,
+      "total_posicoes": 22100
+    },
+    {
+      "codigo_opcao": "ITSAH150",
+      "isin": "BRITSA4H0V57",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 500,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 5900
+    },
+    {
+      "codigo_opcao": "ITSAQ134",
+      "isin": "BRITSA4Q0QL8",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 961737,
+      "total_posicoes": 1915700
+    },
+    {
+      "codigo_opcao": "ITSAT200",
+      "isin": "BRITSA4T0V52",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2800,
+      "total_posicoes": 4000
+    },
+    {
+      "codigo_opcao": "ITSAK100",
+      "isin": "BRITSA4K0SB1",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 22200
+    },
+    {
+      "codigo_opcao": "ITSAC610",
+      "isin": "BRITSA4C0SW7",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 700
+    },
+    {
+      "codigo_opcao": "ITSAE160",
+      "isin": "BRITSA4E0QJ6",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 308200,
+      "quantidade_descoberta": 2100,
+      "total_posicoes": 507000
+    },
+    {
+      "codigo_opcao": "ITSAE185",
+      "isin": "BRITSA4E0QQ1",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 101000,
+      "total_posicoes": 101000
+    },
+    {
+      "codigo_opcao": "ITSAE946",
+      "isin": "BRITSA4E0QO6",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 2400,
+      "quantidade_descoberta": 10000,
+      "total_posicoes": 24800
+    },
+    {
+      "codigo_opcao": "ITSAE976",
+      "isin": "BRITSA4E0QK4",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 2000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7500
+    },
+    {
+      "codigo_opcao": "ITSAE996",
+      "isin": "BRITSA4E0QL2",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3000,
+      "total_posicoes": 4100
+    },
+    {
+      "codigo_opcao": "ITSAF152",
+      "isin": "BRITSA4F0SL7",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 14900,
+      "quantidade_descoberta": 4500,
+      "total_posicoes": 44600
+    },
+    {
+      "codigo_opcao": "ITSAF942",
+      "isin": "BRITSA4F0SN3",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12000
+    },
+    {
+      "codigo_opcao": "ITSAF982",
+      "isin": "BRITSA4F0SO1",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 31900
+    },
+    {
+      "codigo_opcao": "ITSAQ160",
+      "isin": "BRITSA4Q0QU9",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 65500,
+      "total_posicoes": 103600
+    },
+    {
+      "codigo_opcao": "ITSAQ163",
+      "isin": "BRITSA4Q0QV7",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 663700,
+      "total_posicoes": 8726000
+    },
+    {
+      "codigo_opcao": "ITSAQ168",
+      "isin": "BRITSA4Q0QT1",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 17800,
+      "total_posicoes": 17900
+    },
+    {
+      "codigo_opcao": "ITSAR152",
+      "isin": "BRITSA4R0SS8",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "ITSAD126W5",
+      "isin": "BRITSA4D0UL5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1400,
+      "total_posicoes": 1400
+    },
+    {
+      "codigo_opcao": "ITSAD131W5",
+      "isin": "BRITSA4D0UO9",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 800,
+      "total_posicoes": 800
+    },
+    {
+      "codigo_opcao": "ITSAD136W5",
+      "isin": "BRITSA4D0UY8",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 20100,
+      "total_posicoes": 24700
+    },
+    {
+      "codigo_opcao": "ITSAD141W5",
+      "isin": "BRITSA4D0US0",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 14500
+    },
+    {
+      "codigo_opcao": "ITSAD146W5",
+      "isin": "BRITSA4D0UT8",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 27400,
+      "total_posicoes": 31400
+    },
+    {
+      "codigo_opcao": "ITSAD151W5",
+      "isin": "BRITSA4D0UG5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 3300,
+      "quantidade_descoberta": 16100,
+      "total_posicoes": 72000
+    },
+    {
+      "codigo_opcao": "ITSAD156W5",
+      "isin": "BRITSA4D0UK7",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 3000,
+      "total_posicoes": 13100
+    },
+    {
+      "codigo_opcao": "ITSAD161W5",
+      "isin": "BRITSA4D0UV4",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 9200,
+      "total_posicoes": 9200
+    },
+    {
+      "codigo_opcao": "ITSAE130",
+      "isin": "BRITSA4E0R19",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 462800,
+      "quantidade_descoberta": 153000,
+      "total_posicoes": 723200
+    },
+    {
+      "codigo_opcao": "ITSAE135",
+      "isin": "BRITSA4E0R01",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 74500,
+      "quantidade_descoberta": 70300,
+      "total_posicoes": 266600
+    },
+    {
+      "codigo_opcao": "ITSAP111W5",
+      "isin": "BRITSA4P0UK3",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ITSAP126W5",
+      "isin": "BRITSA4P0V01",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ITSAP136W5",
+      "isin": "BRITSA4P0UU2",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "ITSAP141W5",
+      "isin": "BRITSA4P0UR8",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10500,
+      "total_posicoes": 13100
+    },
+    {
+      "codigo_opcao": "ITSAP146W5",
+      "isin": "BRITSA4P0UY4",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 21800,
+      "total_posicoes": 46500
+    },
+    {
+      "codigo_opcao": "ITSAP151W5",
+      "isin": "BRITSA4P0UX6",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 77400,
+      "total_posicoes": 88200
+    },
+    {
+      "codigo_opcao": "ITSAP161W5",
+      "isin": "BRITSA4P0UO5",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1600
+    },
+    {
+      "codigo_opcao": "ITSAQ130",
+      "isin": "BRITSA4Q0R70",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 556300,
+      "total_posicoes": 664600
+    },
+    {
+      "codigo_opcao": "ITSAQ135",
+      "isin": "BRITSA4Q0R62",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 7800,
+      "total_posicoes": 190600
+    },
+    {
+      "codigo_opcao": "ITSAH121",
+      "isin": "BRITSA4H0VE4",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
     {
       "codigo_opcao": "ITSAE110W2",
       "isin": "BRITSA4E0S34",
@@ -17,7 +710,7 @@
       "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2000
+      "total_posicoes": 10200
     },
     {
       "codigo_opcao": "ITSAE150W2",
@@ -108,145 +801,13 @@
       "total_posicoes": 300
     },
     {
-      "codigo_opcao": "ITSAF678",
-      "isin": "BRITSA4F0S15",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 454,
-      "quantidade_coberta": 13770,
-      "quantidade_descoberta": 10200,
-      "total_posicoes": 535870
-    },
-    {
-      "codigo_opcao": "ITSAR678",
-      "isin": "BRITSA4R0S77",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 454,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "ITSAD134",
-      "isin": "BRITSA4D0R78",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 58000,
-      "quantidade_descoberta": 337720,
-      "total_posicoes": 457400
-    },
-    {
-      "codigo_opcao": "ITSAD136",
-      "isin": "BRITSA4D0R60",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 41400,
-      "quantidade_descoberta": 245500,
-      "total_posicoes": 363100
-    },
-    {
-      "codigo_opcao": "ITSAD139",
-      "isin": "BRITSA4D0R86",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 58500,
-      "quantidade_descoberta": 11000,
-      "total_posicoes": 481700
-    },
-    {
-      "codigo_opcao": "ITSAP134",
-      "isin": "BRITSA4P0R80",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 118200,
-      "total_posicoes": 351100
-    },
-    {
-      "codigo_opcao": "ITSAP136",
-      "isin": "BRITSA4P0R98",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 559100,
-      "total_posicoes": 3693600
-    },
-    {
-      "codigo_opcao": "ITSAP139",
-      "isin": "BRITSA4P0RA0",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 274700,
-      "total_posicoes": 406700
-    },
-    {
-      "codigo_opcao": "ITSAD121",
-      "isin": "BRITSA4D0SI5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 181400,
-      "quantidade_descoberta": 136700,
-      "total_posicoes": 325100
-    },
-    {
-      "codigo_opcao": "ITSAD126",
-      "isin": "BRITSA4D0SF1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 40100,
-      "quantidade_descoberta": 243400,
-      "total_posicoes": 291400
-    },
-    {
-      "codigo_opcao": "ITSAP121",
-      "isin": "BRITSA4P0SL5",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 631700,
-      "total_posicoes": 809100
-    },
-    {
-      "codigo_opcao": "ITSAP126",
-      "isin": "BRITSA4P0SI1",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 15900,
-      "total_posicoes": 549300
-    },
-    {
       "codigo_opcao": "ITSAG107",
       "isin": "BRITSA4G0TE9",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 453,
-      "quantidade_coberta": 475110,
+      "quantidade_coberta": 475985,
       "quantidade_descoberta": 0,
       "total_posicoes": 481884
     },
@@ -268,9 +829,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 453,
-      "quantidade_coberta": 102405,
+      "quantidade_coberta": 114442,
       "quantidade_descoberta": 2700,
-      "total_posicoes": 215630
+      "total_posicoes": 214630
     },
     {
       "codigo_opcao": "ITSAQ129",
@@ -284,433 +845,268 @@
       "total_posicoes": 263576
     },
     {
-      "codigo_opcao": "ITSAH760",
-      "isin": "BRITSA4H0V16",
+      "codigo_opcao": "ITSAF109",
+      "isin": "BRITSA4F0TP6",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 455,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 400
+      "total_posicoes": 34200
     },
     {
-      "codigo_opcao": "ITSAH780",
-      "isin": "BRITSA4H0UZ1",
+      "codigo_opcao": "ITSAF149",
+      "isin": "BRITSA4F0TN1",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 455,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 16900,
+      "quantidade_descoberta": 100000,
+      "total_posicoes": 144700
+    },
+    {
+      "codigo_opcao": "ITSAF94",
+      "isin": "BRITSA4F0TK7",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 3000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "ITSAF96",
+      "isin": "BRITSA4F0TL5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5200
+    },
+    {
+      "codigo_opcao": "ITSAF98",
+      "isin": "BRITSA4F0TM3",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 300
+      "total_posicoes": 16700
     },
     {
-      "codigo_opcao": "ITSAH840",
-      "isin": "BRITSA4H0UW8",
+      "codigo_opcao": "ITSAF990",
+      "isin": "BRITSA4F0TJ9",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 455,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 36600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 43600
+    },
+    {
+      "codigo_opcao": "ITSAR149",
+      "isin": "BRITSA4R0TO5",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
+      "quantidade_descoberta": 32300,
+      "total_posicoes": 37500
+    },
+    {
+      "codigo_opcao": "ITSAC141",
+      "isin": "BRITSA4C0SX5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 23000,
+      "total_posicoes": 23000
+    },
+    {
+      "codigo_opcao": "ITSAO141",
+      "isin": "BRITSA4O0T16",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1100,
+      "total_posicoes": 3800
+    },
+    {
+      "codigo_opcao": "ITSAF156",
+      "isin": "BRITSA4F0TR2",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 2500,
+      "quantidade_descoberta": 11300,
+      "total_posicoes": 16300
+    },
+    {
+      "codigo_opcao": "ITSAF161",
+      "isin": "BRITSA4F0TS0",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 8700,
+      "total_posicoes": 9400
+    },
+    {
+      "codigo_opcao": "ITSAF166",
+      "isin": "BRITSA4F0TV4",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 1500,
+      "total_posicoes": 1600
+    },
+    {
+      "codigo_opcao": "ITSAG157",
+      "isin": "BRITSA4G0U43",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 500,
       "quantidade_descoberta": 0,
       "total_posicoes": 500
     },
     {
-      "codigo_opcao": "ITSAH860",
-      "isin": "BRITSA4H0UU2",
+      "codigo_opcao": "ITSAQ167W5",
+      "isin": "BRITSA4Q0UI6",
       "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ITSAR156",
+      "isin": "BRITSA4R0TW8",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6400,
       "total_posicoes": 6400
     },
     {
-      "codigo_opcao": "ITSAH880",
-      "isin": "BRITSA4H0UY4",
+      "codigo_opcao": "ITSAR161",
+      "isin": "BRITSA4R0U16",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8900,
+      "total_posicoes": 8900
+    },
+    {
+      "codigo_opcao": "ITSAR166",
+      "isin": "BRITSA4R0TY4",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2200,
+      "total_posicoes": 2200
+    },
+    {
+      "codigo_opcao": "ITSAS147",
+      "isin": "BRITSA4S0U22",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ITSAS149",
+      "isin": "BRITSA4S0U48",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ITSAA984",
+      "isin": "BRITSA4A0SE7",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
     },
     {
-      "codigo_opcao": "ITSAT780",
-      "isin": "BRITSA4T0UV6",
+      "codigo_opcao": "ITSAW130",
+      "isin": "BRITSA4W0SA9",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 17700,
-      "total_posicoes": 17700
-    },
-    {
-      "codigo_opcao": "ITSAK100",
-      "isin": "BRITSA4K0SB1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 200,
       "quantidade_descoberta": 0,
-      "total_posicoes": 22200
+      "total_posicoes": 3600
     },
     {
-      "codigo_opcao": "ITSAE966",
-      "isin": "BRITSA4E0QI8",
+      "codigo_opcao": "ITSAE149",
+      "isin": "BRITSA4E0QB3",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 63700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 178200
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 564600,
+      "quantidade_descoberta": 99500,
+      "total_posicoes": 886500
     },
     {
-      "codigo_opcao": "ITSAF104",
-      "isin": "BRITSA4F0SH5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "ITSAF780",
-      "isin": "BRITSA4F0SC6",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 2100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "ITSAF800",
-      "isin": "BRITSA4F0SJ1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "ITSAF880",
-      "isin": "BRITSA4F0S80",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 26600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26600
-    },
-    {
-      "codigo_opcao": "ITSAF90",
-      "isin": "BRITSA4F0SF9",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 56000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 56000
-    },
-    {
-      "codigo_opcao": "ITSAF920",
-      "isin": "BRITSA4F0SD4",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 6100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 17700
-    },
-    {
-      "codigo_opcao": "ITSAF960",
-      "isin": "BRITSA4F0SG7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAE123",
-      "isin": "BRITSA4E0QW9",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 61300,
-      "quantidade_descoberta": 40000,
-      "total_posicoes": 334200
-    },
-    {
-      "codigo_opcao": "ITSAE138",
-      "isin": "BRITSA4E0QV1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 342800,
-      "quantidade_descoberta": 30904,
-      "total_posicoes": 4651600
-    },
-    {
-      "codigo_opcao": "ITSAE141",
-      "isin": "BRITSA4E0QT5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 212800,
-      "quantidade_descoberta": 142800,
-      "total_posicoes": 660100
-    },
-    {
-      "codigo_opcao": "ITSAE143",
-      "isin": "BRITSA4E0QY5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 227000,
-      "quantidade_descoberta": 67800,
-      "total_posicoes": 621100
-    },
-    {
-      "codigo_opcao": "ITSAE146",
-      "isin": "BRITSA4E0QU3",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 71900,
-      "quantidade_descoberta": 100600,
-      "total_posicoes": 519800
-    },
-    {
-      "codigo_opcao": "ITSAE153",
-      "isin": "BRITSA4E0QX7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 164500,
-      "quantidade_descoberta": 14300,
-      "total_posicoes": 530700
-    },
-    {
-      "codigo_opcao": "ITSAE886",
-      "isin": "BRITSA4E0QZ2",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 33000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 86100
-    },
-    {
-      "codigo_opcao": "ITSAF122",
-      "isin": "BRITSA4F0ST0",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 5200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 43000
-    },
-    {
-      "codigo_opcao": "ITSAF127",
-      "isin": "BRITSA4F0SW4",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 5100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 21700
-    },
-    {
-      "codigo_opcao": "ITSAF137",
-      "isin": "BRITSA4F0SS2",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 51600,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 99400
-    },
-    {
-      "codigo_opcao": "ITSAP226",
-      "isin": "BRITSA4P0UH9",
+      "codigo_opcao": "ITSAQ149",
+      "isin": "BRITSA4Q0QH6",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 456,
+      "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 800
+      "quantidade_descoberta": 200908,
+      "total_posicoes": 458100
     },
     {
-      "codigo_opcao": "ITSAQ123",
-      "isin": "BRITSA4Q0R21",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 101100,
-      "total_posicoes": 245000
-    },
-    {
-      "codigo_opcao": "ITSAQ138",
-      "isin": "BRITSA4Q0QZ8",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 54400,
-      "total_posicoes": 4183800
-    },
-    {
-      "codigo_opcao": "ITSAQ141",
-      "isin": "BRITSA4Q0R13",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 52300,
-      "total_posicoes": 3150400
-    },
-    {
-      "codigo_opcao": "ITSAQ143",
-      "isin": "BRITSA4Q0R39",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 26600,
-      "total_posicoes": 367200
-    },
-    {
-      "codigo_opcao": "ITSAQ146",
-      "isin": "BRITSA4Q0R54",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1213937,
-      "total_posicoes": 2188300
-    },
-    {
-      "codigo_opcao": "ITSAQ153",
-      "isin": "BRITSA4Q0R47",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 23700,
-      "total_posicoes": 154300
-    },
-    {
-      "codigo_opcao": "ITSAQ886",
-      "isin": "BRITSA4Q0R05",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10700,
-      "total_posicoes": 10700
-    },
-    {
-      "codigo_opcao": "ITSAR122",
-      "isin": "BRITSA4R0T27",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 5100
-    },
-    {
-      "codigo_opcao": "ITSAR127",
-      "isin": "BRITSA4R0T19",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAR137",
-      "isin": "BRITSA4R0SY6",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 30400
-    },
-    {
-      "codigo_opcao": "ITSAJ100",
-      "isin": "BRITSA4J0TW8",
+      "codigo_opcao": "ITSAE988",
+      "isin": "BRITSA4E0QC1",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 453,
-      "quantidade_coberta": 0,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 19200,
       "quantidade_descoberta": 0,
-      "total_posicoes": 9700
-    },
-    {
-      "codigo_opcao": "ITSAE820",
-      "isin": "BRITSA4E0Q51",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 449,
-      "quantidade_coberta": 13362,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 22967
-    },
-    {
-      "codigo_opcao": "ITSAQ820",
-      "isin": "BRITSA4Q0QB9",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 449,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 311100
+      "total_posicoes": 166500
     },
     {
       "codigo_opcao": "ITSAG112",
@@ -719,7 +1115,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 455,
-      "quantidade_coberta": 35900,
+      "quantidade_coberta": 61900,
       "quantidade_descoberta": 0,
       "total_posicoes": 89700
     },
@@ -746,433 +1142,15 @@
       "total_posicoes": 10000
     },
     {
-      "codigo_opcao": "ITSAB13",
-      "isin": "BRITSA4B0SL1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 44500
-    },
-    {
-      "codigo_opcao": "ITSAE118",
-      "isin": "BRITSA4E0QE7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 46700,
-      "quantidade_descoberta": 12800,
-      "total_posicoes": 83500
-    },
-    {
-      "codigo_opcao": "ITSAH140",
-      "isin": "BRITSA4H0V40",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 8700
-    },
-    {
-      "codigo_opcao": "ITSAN13",
-      "isin": "BRITSA4N0SM5",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5600
-    },
-    {
-      "codigo_opcao": "ITSAQ118",
-      "isin": "BRITSA4Q0QK0",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9000,
-      "total_posicoes": 15700
-    },
-    {
-      "codigo_opcao": "ITSAT140",
-      "isin": "BRITSA4T0V37",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 21900
-    },
-    {
-      "codigo_opcao": "ITSAD154",
-      "isin": "BRITSA4D0RR8",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 316900,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 1746100
-    },
-    {
-      "codigo_opcao": "ITSAD155",
-      "isin": "BRITSA4D0RP2",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 64100,
-      "quantidade_descoberta": 184900,
-      "total_posicoes": 10545800
-    },
-    {
-      "codigo_opcao": "ITSAD160",
-      "isin": "BRITSA4D0RQ0",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 14500,
-      "quantidade_descoberta": 1131700,
-      "total_posicoes": 1461100
-    },
-    {
-      "codigo_opcao": "ITSAH150",
-      "isin": "BRITSA4H0V57",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 5900
-    },
-    {
-      "codigo_opcao": "ITSAP155",
-      "isin": "BRITSA4P0RR4",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 143800,
-      "total_posicoes": 10277200
-    },
-    {
-      "codigo_opcao": "ITSAQ134",
-      "isin": "BRITSA4Q0QL8",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 885097,
-      "total_posicoes": 1955700
-    },
-    {
-      "codigo_opcao": "ITSAT200",
-      "isin": "BRITSA4T0V52",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "ITSAE156",
-      "isin": "BRITSA4E0R27",
+      "codigo_opcao": "ITSAG808",
+      "isin": "BRITSA4G0U01",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 369800,
-      "quantidade_descoberta": 549000,
-      "total_posicoes": 1161200
-    },
-    {
-      "codigo_opcao": "ITSAE956",
-      "isin": "BRITSA4E0R35",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 1500,
+      "quantidade_coberta": 2226600,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1700
-    },
-    {
-      "codigo_opcao": "ITSAF132",
-      "isin": "BRITSA4F0SZ7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14300
-    },
-    {
-      "codigo_opcao": "ITSAF147",
-      "isin": "BRITSA4F0SY0",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 3800,
-      "quantidade_descoberta": 3200,
-      "total_posicoes": 25200
-    },
-    {
-      "codigo_opcao": "ITSAQ156",
-      "isin": "BRITSA4Q0R96",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7000,
-      "total_posicoes": 844700
-    },
-    {
-      "codigo_opcao": "ITSAR132",
-      "isin": "BRITSA4R0T50",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9600,
-      "total_posicoes": 66800
-    },
-    {
-      "codigo_opcao": "ITSAR147",
-      "isin": "BRITSA4R0T68",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 17100
-    },
-    {
-      "codigo_opcao": "ITSAE16",
-      "isin": "BRITSA4E0R68",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 83300,
-      "quantidade_descoberta": 16300,
-      "total_posicoes": 217200
-    },
-    {
-      "codigo_opcao": "ITSAE165",
-      "isin": "BRITSA4E0R84",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 200900,
-      "quantidade_descoberta": 18400,
-      "total_posicoes": 277000
-    },
-    {
-      "codigo_opcao": "ITSAE170",
-      "isin": "BRITSA4E0RA3",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 88500,
-      "total_posicoes": 95200
-    },
-    {
-      "codigo_opcao": "ITSAE175",
-      "isin": "BRITSA4E0RS5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 23200,
-      "total_posicoes": 23200
-    },
-    {
-      "codigo_opcao": "ITSAE180",
-      "isin": "BRITSA4E0RQ9",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 40000,
-      "total_posicoes": 40000
-    },
-    {
-      "codigo_opcao": "ITSAE746",
-      "isin": "BRITSA4E0RP1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4200
-    },
-    {
-      "codigo_opcao": "ITSAE766",
-      "isin": "BRITSA4E0R76",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1700
-    },
-    {
-      "codigo_opcao": "ITSAE826",
-      "isin": "BRITSA4E0RF2",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16400
-    },
-    {
-      "codigo_opcao": "ITSAE846",
-      "isin": "BRITSA4E0R92",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 1800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 114200
-    },
-    {
-      "codigo_opcao": "ITSAE866",
-      "isin": "BRITSA4E0RH8",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 49100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 55100
-    },
-    {
-      "codigo_opcao": "ITSAE88",
-      "isin": "BRITSA4E0RR7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 27400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 57300
-    },
-    {
-      "codigo_opcao": "ITSAE906",
-      "isin": "BRITSA4E0RB1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 20400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 74300
-    },
-    {
-      "codigo_opcao": "ITSAE926",
-      "isin": "BRITSA4E0RG0",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 12100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 40900
-    },
-    {
-      "codigo_opcao": "ITSAQ16",
-      "isin": "BRITSA4Q0RX1",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 51100,
-      "total_posicoes": 67800
-    },
-    {
-      "codigo_opcao": "ITSAQ165",
-      "isin": "BRITSA4Q0RI2",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 45600,
-      "total_posicoes": 63600
-    },
-    {
-      "codigo_opcao": "ITSAQ170",
-      "isin": "BRITSA4Q0RD3",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "ITSAQ180",
-      "isin": "BRITSA4Q0RV5",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5800
-    },
-    {
-      "codigo_opcao": "ITSAQ220",
-      "isin": "BRITSA4Q0RR3",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100000
-    },
-    {
-      "codigo_opcao": "ITSAQ225",
-      "isin": "BRITSA4Q0RY9",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1400
+      "total_posicoes": 2226600
     },
     {
       "codigo_opcao": "ITSAD138W4",
@@ -1204,8 +1182,8 @@
       "semanal": true,
       "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 9600,
-      "total_posicoes": 18700
+      "quantidade_descoberta": 19300,
+      "total_posicoes": 39800
     },
     {
       "codigo_opcao": "ITSAP138W5",
@@ -1263,268 +1241,26 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ITSAD127",
-      "isin": "BRITSA4D0R11",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 452,
-      "quantidade_coberta": 10587,
-      "quantidade_descoberta": 114886,
-      "total_posicoes": 130266
-    },
-    {
-      "codigo_opcao": "ITSAP127",
-      "isin": "BRITSA4P0R31",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 452,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 128010,
-      "total_posicoes": 188918
-    },
-    {
-      "codigo_opcao": "ITSAL155",
-      "isin": "BRITSA4L0TI3",
+      "codigo_opcao": "ITSAL135",
+      "isin": "BRITSA4L0TG7",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 455,
-      "quantidade_coberta": 368400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 379500
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 930,
+      "total_posicoes": 45200
     },
     {
-      "codigo_opcao": "ITSAX155",
-      "isin": "BRITSA4X0TV2",
+      "codigo_opcao": "ITSAX135",
+      "isin": "BRITSA4X0TT6",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11000
-    },
-    {
-      "codigo_opcao": "ITSAW130",
-      "isin": "BRITSA4W0SA9",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3600
-    },
-    {
-      "codigo_opcao": "ITSAE149",
-      "isin": "BRITSA4E0QB3",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 479500,
-      "quantidade_descoberta": 96800,
-      "total_posicoes": 839500
-    },
-    {
-      "codigo_opcao": "ITSAQ149",
-      "isin": "BRITSA4Q0QH6",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 222223,
-      "total_posicoes": 417300
-    },
-    {
-      "codigo_opcao": "ITSAE988",
-      "isin": "BRITSA4E0QC1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 15600,
-      "quantidade_descoberta": 408,
-      "total_posicoes": 166500
-    },
-    {
-      "codigo_opcao": "ITSAG808",
-      "isin": "BRITSA4G0U01",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 2226600,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 2226900
-    },
-    {
-      "codigo_opcao": "ITSAC141",
-      "isin": "BRITSA4C0SX5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 23000,
-      "total_posicoes": 23000
-    },
-    {
-      "codigo_opcao": "ITSAO141",
-      "isin": "BRITSA4O0T16",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 3800
-    },
-    {
-      "codigo_opcao": "ITSAE150W4",
-      "isin": "BRITSA4E0T33",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAE155W4",
-      "isin": "BRITSA4E0SV7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 3700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3700
-    },
-    {
-      "codigo_opcao": "ITSAQ120W4",
-      "isin": "BRITSA4Q0TB3",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAQ130W4",
-      "isin": "BRITSA4Q0TK4",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 19000,
-      "total_posicoes": 500000
-    },
-    {
-      "codigo_opcao": "ITSAQ135W4",
-      "isin": "BRITSA4Q0TE7",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4900,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "ITSAQ140W4",
-      "isin": "BRITSA4Q0T03",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "ITSAQ145W4",
-      "isin": "BRITSA4Q0TJ6",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500000,
-      "total_posicoes": 500700
-    },
-    {
-      "codigo_opcao": "ITSAQ150W4",
-      "isin": "BRITSA4Q0T45",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAQ175W4",
-      "isin": "BRITSA4Q0T11",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "ITSAF156",
-      "isin": "BRITSA4F0TR2",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 4300,
-      "total_posicoes": 8500
-    },
-    {
-      "codigo_opcao": "ITSAG157",
-      "isin": "BRITSA4G0U43",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "ITSAQ167W5",
-      "isin": "BRITSA4Q0UI6",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAS149",
-      "isin": "BRITSA4S0U48",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 2900,
+      "total_posicoes": 7800
     },
     {
       "codigo_opcao": "ITSAB112",
@@ -1593,301 +1329,103 @@
       "total_posicoes": 600
     },
     {
-      "codigo_opcao": "ITSAD126W5",
-      "isin": "BRITSA4D0UL5",
+      "codigo_opcao": "ITSAC630",
+      "isin": "BRITSA4C0SV9",
       "ativo": "ITSA",
       "tipo": "Call",
-      "semanal": true,
+      "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1400,
-      "total_posicoes": 1400
+      "quantidade_coberta": 330700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1628400
     },
     {
-      "codigo_opcao": "ITSAD131W5",
-      "isin": "BRITSA4D0UO9",
+      "codigo_opcao": "ITSAE163",
+      "isin": "BRITSA4E0QN8",
       "ativo": "ITSA",
       "tipo": "Call",
-      "semanal": true,
+      "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 800
+      "quantidade_coberta": 132100,
+      "quantidade_descoberta": 7703168,
+      "total_posicoes": 8856900
     },
     {
-      "codigo_opcao": "ITSAD136W5",
-      "isin": "BRITSA4D0UY8",
+      "codigo_opcao": "ITSAE168",
+      "isin": "BRITSA4E0QP3",
       "ativo": "ITSA",
       "tipo": "Call",
-      "semanal": true,
+      "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 22100,
-      "total_posicoes": 26500
+      "quantidade_coberta": 1100,
+      "quantidade_descoberta": 96300,
+      "total_posicoes": 99200
     },
     {
-      "codigo_opcao": "ITSAD141W5",
-      "isin": "BRITSA4D0US0",
+      "codigo_opcao": "ITSAF962",
+      "isin": "BRITSA4F0SM5",
       "ativo": "ITSA",
       "tipo": "Call",
-      "semanal": true,
+      "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 14500
+      "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "ITSAD146W5",
-      "isin": "BRITSA4D0UT8",
+      "codigo_opcao": "ITSAG828",
+      "isin": "BRITSA4G0TR1",
       "ativo": "ITSA",
       "tipo": "Call",
-      "semanal": true,
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 94900,
+      "quantidade_descoberta": 600,
+      "total_posicoes": 95500
+    },
+    {
+      "codigo_opcao": "ITSAG132",
+      "isin": "BRITSA4G0TW1",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 100,
-      "quantidade_descoberta": 7900,
-      "total_posicoes": 12400
+      "quantidade_descoberta": 4500,
+      "total_posicoes": 4600
     },
     {
-      "codigo_opcao": "ITSAD151W5",
-      "isin": "BRITSA4D0UG5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 3400,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 62800
-    },
-    {
-      "codigo_opcao": "ITSAD156W5",
-      "isin": "BRITSA4D0UK7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 12600
-    },
-    {
-      "codigo_opcao": "ITSAD161W5",
-      "isin": "BRITSA4D0UV4",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2200,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "ITSAE130",
-      "isin": "BRITSA4E0R19",
+      "codigo_opcao": "ITSAG137",
+      "isin": "BRITSA4G0TZ4",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 54000,
-      "quantidade_descoberta": 153000,
-      "total_posicoes": 719400
-    },
-    {
-      "codigo_opcao": "ITSAE135",
-      "isin": "BRITSA4E0R01",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 55600,
-      "quantidade_descoberta": 71600,
-      "total_posicoes": 258900
-    },
-    {
-      "codigo_opcao": "ITSAP111W5",
-      "isin": "BRITSA4P0UK3",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 200
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ITSAP126W5",
-      "isin": "BRITSA4P0V01",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ITSAP136W5",
-      "isin": "BRITSA4P0UU2",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "ITSAP141W5",
-      "isin": "BRITSA4P0UR8",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6500,
-      "total_posicoes": 8600
-    },
-    {
-      "codigo_opcao": "ITSAP146W5",
-      "isin": "BRITSA4P0UY4",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6300,
-      "total_posicoes": 15300
-    },
-    {
-      "codigo_opcao": "ITSAP151W5",
-      "isin": "BRITSA4P0UX6",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 53900,
-      "total_posicoes": 60800
-    },
-    {
-      "codigo_opcao": "ITSAP161W5",
-      "isin": "BRITSA4P0UO5",
+      "codigo_opcao": "ITSAP131W4",
+      "isin": "BRITSA4P0TB4",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": true,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 1600
+      "total_posicoes": 8200
     },
     {
-      "codigo_opcao": "ITSAQ130",
-      "isin": "BRITSA4Q0R70",
+      "codigo_opcao": "ITSAS134",
+      "isin": "BRITSA4S0TT3",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 476300,
-      "total_posicoes": 664200
-    },
-    {
-      "codigo_opcao": "ITSAQ135",
-      "isin": "BRITSA4Q0R62",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 33500,
-      "total_posicoes": 212600
-    },
-    {
-      "codigo_opcao": "ITSAL135",
-      "isin": "BRITSA4L0TG7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 914,
-      "total_posicoes": 45200
-    },
-    {
-      "codigo_opcao": "ITSAX135",
-      "isin": "BRITSA4X0TT6",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2900,
-      "total_posicoes": 7800
-    },
-    {
-      "codigo_opcao": "ITSAD129",
-      "isin": "BRITSA4D0R37",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 453,
-      "quantidade_coberta": 23727,
-      "quantidade_descoberta": 29169,
-      "total_posicoes": 70934
-    },
-    {
-      "codigo_opcao": "ITSAI100",
-      "isin": "BRITSA4I0UQ9",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 453,
-      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 15100
-    },
-    {
-      "codigo_opcao": "ITSAP129",
-      "isin": "BRITSA4P0R56",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 453,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 443602,
-      "total_posicoes": 609871
-    },
-    {
-      "codigo_opcao": "ITSAU100",
-      "isin": "BRITSA4U0UX9",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 453,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "ITSAX115",
-      "isin": "BRITSA4X0TN9",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 453,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "ITSAI10",
-      "isin": "BRITSA4I0V71",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11000
+      "total_posicoes": 7000
     },
     {
       "codigo_opcao": "ITSAI105",
@@ -1929,7 +1467,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 9100,
       "quantidade_descoberta": 0,
       "total_posicoes": 35000
     },
@@ -1951,9 +1489,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 12100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 11100
+      "total_posicoes": 12100
     },
     {
       "codigo_opcao": "ITSAU108",
@@ -1963,7 +1501,7 @@
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
+      "quantidade_descoberta": 0,
       "total_posicoes": 500
     },
     {
@@ -2011,743 +1549,6 @@
       "total_posicoes": 2600
     },
     {
-      "codigo_opcao": "ITSAD143",
-      "isin": "BRITSA4D0V23",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 11700,
-      "quantidade_descoberta": 730500,
-      "total_posicoes": 862200
-    },
-    {
-      "codigo_opcao": "ITSAD158",
-      "isin": "BRITSA4D0V15",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 11000,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 54000
-    },
-    {
-      "codigo_opcao": "ITSAE120",
-      "isin": "BRITSA4E0R50",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 22600,
-      "quantidade_descoberta": 24230,
-      "total_posicoes": 111700
-    },
-    {
-      "codigo_opcao": "ITSAE150",
-      "isin": "BRITSA4E0R43",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 186500,
-      "quantidade_descoberta": 43200,
-      "total_posicoes": 637200
-    },
-    {
-      "codigo_opcao": "ITSAP143",
-      "isin": "BRITSA4P0V35",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 199400,
-      "total_posicoes": 917400
-    },
-    {
-      "codigo_opcao": "ITSAP158",
-      "isin": "BRITSA4P0V43",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2100,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "ITSAQ120",
-      "isin": "BRITSA4Q0RA9",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 41000,
-      "total_posicoes": 78700
-    },
-    {
-      "codigo_opcao": "ITSAQ150",
-      "isin": "BRITSA4Q0RB7",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 51200,
-      "total_posicoes": 306800
-    },
-    {
-      "codigo_opcao": "ITSAH121",
-      "isin": "BRITSA4H0VE4",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "ITSAE145W5",
-      "isin": "BRITSA4E0TL6",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ITSAE165W5",
-      "isin": "BRITSA4E0TQ5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAQ145W5",
-      "isin": "BRITSA4Q0UH8",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ITSAE100",
-      "isin": "BRITSA4E0Q85",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 47700,
-      "quantidade_descoberta": 4900,
-      "total_posicoes": 179600
-    },
-    {
-      "codigo_opcao": "ITSAE110",
-      "isin": "BRITSA4E0QA5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 156600,
-      "quantidade_descoberta": 18000,
-      "total_posicoes": 327000
-    },
-    {
-      "codigo_opcao": "ITSAQ100",
-      "isin": "BRITSA4Q0QG8",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 46100,
-      "total_posicoes": 47700
-    },
-    {
-      "codigo_opcao": "ITSAQ105",
-      "isin": "BRITSA4Q0QF0",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2200,
-      "total_posicoes": 7200
-    },
-    {
-      "codigo_opcao": "ITSAQ110",
-      "isin": "BRITSA4Q0QE3",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 42700,
-      "total_posicoes": 43800
-    },
-    {
-      "codigo_opcao": "ITSAE105",
-      "isin": "BRITSA4E0Q93",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 87000,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 250000
-    },
-    {
-      "codigo_opcao": "ITSAD112",
-      "isin": "BRITSA4D0R45",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 12300,
-      "quantidade_descoberta": 4300,
-      "total_posicoes": 37000
-    },
-    {
-      "codigo_opcao": "ITSAD131",
-      "isin": "BRITSA4D0R52",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 34200,
-      "quantidade_descoberta": 667600,
-      "total_posicoes": 1091000
-    },
-    {
-      "codigo_opcao": "ITSAP112",
-      "isin": "BRITSA4P0R64",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 219900,
-      "total_posicoes": 414000
-    },
-    {
-      "codigo_opcao": "ITSAP131",
-      "isin": "BRITSA4P0R72",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 519798,
-      "total_posicoes": 1023000
-    },
-    {
-      "codigo_opcao": "ITSAD146",
-      "isin": "BRITSA4D0R94",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 223000,
-      "quantidade_descoberta": 4597400,
-      "total_posicoes": 5113100
-    },
-    {
-      "codigo_opcao": "ITSAP146",
-      "isin": "BRITSA4P0RB8",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 474500,
-      "total_posicoes": 5091600
-    },
-    {
-      "codigo_opcao": "ITSAD150",
-      "isin": "BRITSA4D0RO5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 287400,
-      "quantidade_descoberta": 2307600,
-      "total_posicoes": 3123500
-    },
-    {
-      "codigo_opcao": "ITSAE134",
-      "isin": "BRITSA4E0QF4",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 130100,
-      "quantidade_descoberta": 40800,
-      "total_posicoes": 2116800
-    },
-    {
-      "codigo_opcao": "ITSAH160",
-      "isin": "BRITSA4H0V99",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1400,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "ITSAH180",
-      "isin": "BRITSA4H0VA2",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAP150",
-      "isin": "BRITSA4P0RQ6",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2100800,
-      "total_posicoes": 2122300
-    },
-    {
-      "codigo_opcao": "ITSAP154",
-      "isin": "BRITSA4P0RT0",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 124900,
-      "total_posicoes": 134800
-    },
-    {
-      "codigo_opcao": "ITSAP160",
-      "isin": "BRITSA4P0RS2",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 133500,
-      "total_posicoes": 170200
-    },
-    {
-      "codigo_opcao": "ITSAT150",
-      "isin": "BRITSA4T0V94",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "ITSAT190",
-      "isin": "BRITSA4T0V45",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14300,
-      "total_posicoes": 22100
-    },
-    {
-      "codigo_opcao": "ITSAQ160",
-      "isin": "BRITSA4Q0QU9",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 64000,
-      "total_posicoes": 102900
-    },
-    {
-      "codigo_opcao": "ITSAQ163",
-      "isin": "BRITSA4Q0QV7",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 670700,
-      "total_posicoes": 8733600
-    },
-    {
-      "codigo_opcao": "ITSAQ168",
-      "isin": "BRITSA4Q0QT1",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17800,
-      "total_posicoes": 17900
-    },
-    {
-      "codigo_opcao": "ITSAD106W4",
-      "isin": "BRITSA4D0TB8",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3100
-    },
-    {
-      "codigo_opcao": "ITSAD116W4",
-      "isin": "BRITSA4D0TJ1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "ITSAD121W4",
-      "isin": "BRITSA4D0TO1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10700
-    },
-    {
-      "codigo_opcao": "ITSAD126W4",
-      "isin": "BRITSA4D0TX2",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 1700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2800
-    },
-    {
-      "codigo_opcao": "ITSAD131W4",
-      "isin": "BRITSA4D0TG7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 2900
-    },
-    {
-      "codigo_opcao": "ITSAD136W4",
-      "isin": "BRITSA4D0U99",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 2700
-    },
-    {
-      "codigo_opcao": "ITSAD141W4",
-      "isin": "BRITSA4D0TV6",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 3200,
-      "quantidade_descoberta": 6600,
-      "total_posicoes": 29900
-    },
-    {
-      "codigo_opcao": "ITSAD146W4",
-      "isin": "BRITSA4D0U73",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 7500,
-      "quantidade_descoberta": 23551,
-      "total_posicoes": 52900
-    },
-    {
-      "codigo_opcao": "ITSAD151W4",
-      "isin": "BRITSA4D0U81",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 19800,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 143600
-    },
-    {
-      "codigo_opcao": "ITSAD156W4",
-      "isin": "BRITSA4D0TP8",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 11800,
-      "total_posicoes": 16500
-    },
-    {
-      "codigo_opcao": "ITSAG124",
-      "isin": "BRITSA4G0TV3",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "ITSAG134",
-      "isin": "BRITSA4G0TY7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 16600,
-      "total_posicoes": 19600
-    },
-    {
-      "codigo_opcao": "ITSAG139",
-      "isin": "BRITSA4G0TT7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAG90",
-      "isin": "BRITSA4G0TX9",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "ITSAP116W4",
-      "isin": "BRITSA4P0TC2",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ITSAP126W4",
-      "isin": "BRITSA4P0U93",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "ITSAP136W4",
-      "isin": "BRITSA4P0TR0",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 488100,
-      "total_posicoes": 501000
-    },
-    {
-      "codigo_opcao": "ITSAP141W4",
-      "isin": "BRITSA4P0TN9",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17700,
-      "total_posicoes": 47500
-    },
-    {
-      "codigo_opcao": "ITSAP146W4",
-      "isin": "BRITSA4P0U85",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17600,
-      "total_posicoes": 83800
-    },
-    {
-      "codigo_opcao": "ITSAP151W4",
-      "isin": "BRITSA4P0U02",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14100,
-      "total_posicoes": 40500
-    },
-    {
-      "codigo_opcao": "ITSAP156W4",
-      "isin": "BRITSA4P0TJ7",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 26900
-    },
-    {
-      "codigo_opcao": "ITSAS124",
-      "isin": "BRITSA4S0TY3",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 366000
-    },
-    {
-      "codigo_opcao": "ITSAS129",
-      "isin": "BRITSA4S0TW7",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "ITSAS132",
-      "isin": "BRITSA4S0TU1",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAF109",
-      "isin": "BRITSA4F0TP6",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5100
-    },
-    {
-      "codigo_opcao": "ITSAF149",
-      "isin": "BRITSA4F0TN1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 16800,
-      "quantidade_descoberta": 68400,
-      "total_posicoes": 112400
-    },
-    {
-      "codigo_opcao": "ITSAF94",
-      "isin": "BRITSA4F0TK7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 1900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1900
-    },
-    {
-      "codigo_opcao": "ITSAF96",
-      "isin": "BRITSA4F0TL5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5200
-    },
-    {
-      "codigo_opcao": "ITSAF98",
-      "isin": "BRITSA4F0TM3",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16700
-    },
-    {
-      "codigo_opcao": "ITSAF990",
-      "isin": "BRITSA4F0TJ9",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 36400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 43600
-    },
-    {
-      "codigo_opcao": "ITSAR149",
-      "isin": "BRITSA4R0TO5",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 457,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 34500,
-      "total_posicoes": 40500
-    },
-    {
       "codigo_opcao": "ITSAI166",
       "isin": "BRITSA4I0UT3",
       "ativo": "ITSA",
@@ -2759,202 +1560,367 @@
       "total_posicoes": 42300
     },
     {
-      "codigo_opcao": "ITSAG161",
-      "isin": "BRITSA4G0TP5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 1900,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "ITSAS161",
-      "isin": "BRITSA4S0TN6",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "ITSAS166",
-      "isin": "BRITSA4S0TP1",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAG668",
-      "isin": "BRITSA4G0TQ3",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 20800,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 22100
-    },
-    {
-      "codigo_opcao": "ITSAG132",
-      "isin": "BRITSA4G0TW1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 4500,
-      "total_posicoes": 4600
-    },
-    {
-      "codigo_opcao": "ITSAG137",
-      "isin": "BRITSA4G0TZ4",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ITSAP131W4",
-      "isin": "BRITSA4P0TB4",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3900,
-      "total_posicoes": 8200
-    },
-    {
-      "codigo_opcao": "ITSAS134",
-      "isin": "BRITSA4S0TT3",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7000
-    },
-    {
-      "codigo_opcao": "ITSAD100",
-      "isin": "BRITSA4D0QW0",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 451,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 91020,
-      "total_posicoes": 91020
-    },
-    {
-      "codigo_opcao": "ITSAD105",
-      "isin": "BRITSA4D0QX8",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 451,
-      "quantidade_coberta": 6500,
-      "quantidade_descoberta": 40705,
-      "total_posicoes": 47205
-    },
-    {
-      "codigo_opcao": "ITSAD110",
-      "isin": "BRITSA4D0QY6",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 451,
-      "quantidade_coberta": 5005,
-      "quantidade_descoberta": 15931,
-      "total_posicoes": 51363
-    },
-    {
-      "codigo_opcao": "ITSAD115",
-      "isin": "BRITSA4D0QZ3",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 451,
-      "quantidade_coberta": 4408,
-      "quantidade_descoberta": 174977,
-      "total_posicoes": 595705
-    },
-    {
-      "codigo_opcao": "ITSAP105",
-      "isin": "BRITSA4P0QZ9",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 451,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 119802,
-      "total_posicoes": 119904
-    },
-    {
-      "codigo_opcao": "ITSAP110",
-      "isin": "BRITSA4P0R07",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 451,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 367332,
-      "total_posicoes": 371157
-    },
-    {
-      "codigo_opcao": "ITSAP115",
-      "isin": "BRITSA4P0R15",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 451,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 179664,
-      "total_posicoes": 591478
-    },
-    {
-      "codigo_opcao": "ITSAG996",
-      "isin": "BRITSA4G0TB5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 451,
-      "quantidade_coberta": 28904,
-      "quantidade_descoberta": 4098,
-      "total_posicoes": 71402
-    },
-    {
-      "codigo_opcao": "ITSAS996",
-      "isin": "BRITSA4S0TB1",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 451,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2040,
-      "total_posicoes": 2040
-    },
-    {
-      "codigo_opcao": "ITSAA984",
-      "isin": "BRITSA4A0SE7",
+      "codigo_opcao": "ITSAI125",
+      "isin": "BRITSA4I0UR7",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "ITSAI128",
+      "isin": "BRITSA4I0US5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 393600
+    },
+    {
+      "codigo_opcao": "ITSAU125",
+      "isin": "BRITSA4U0UY7",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "ITSAU128",
+      "isin": "BRITSA4U0UZ4",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2700
+    },
+    {
+      "codigo_opcao": "ITSAE848",
+      "isin": "BRITSA4E0QD9",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 59400,
+      "quantidade_descoberta": 13900,
+      "total_posicoes": 281900
+    },
+    {
+      "codigo_opcao": "ITSAH97",
+      "isin": "BRITSA4H0V32",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 105000,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 111400
+    },
+    {
+      "codigo_opcao": "ITSAE123",
+      "isin": "BRITSA4E0QW9",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 64600,
+      "quantidade_descoberta": 40300,
+      "total_posicoes": 339000
+    },
+    {
+      "codigo_opcao": "ITSAE138",
+      "isin": "BRITSA4E0QV1",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 373200,
+      "quantidade_descoberta": 10604,
+      "total_posicoes": 4680700
+    },
+    {
+      "codigo_opcao": "ITSAE141",
+      "isin": "BRITSA4E0QT5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 217400,
+      "quantidade_descoberta": 75800,
+      "total_posicoes": 548900
+    },
+    {
+      "codigo_opcao": "ITSAE143",
+      "isin": "BRITSA4E0QY5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 312100,
+      "quantidade_descoberta": 58800,
+      "total_posicoes": 618100
+    },
+    {
+      "codigo_opcao": "ITSAE146",
+      "isin": "BRITSA4E0QU3",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 72000,
+      "quantidade_descoberta": 48300,
+      "total_posicoes": 506300
+    },
+    {
+      "codigo_opcao": "ITSAE153",
+      "isin": "BRITSA4E0QX7",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 185800,
+      "quantidade_descoberta": 3965500,
+      "total_posicoes": 4489000
+    },
+    {
+      "codigo_opcao": "ITSAE886",
+      "isin": "BRITSA4E0QZ2",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 33000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 86100
+    },
+    {
+      "codigo_opcao": "ITSAF122",
+      "isin": "BRITSA4F0ST0",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 21600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 43000
+    },
+    {
+      "codigo_opcao": "ITSAF127",
+      "isin": "BRITSA4F0SW4",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 21200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 25700
+    },
+    {
+      "codigo_opcao": "ITSAF137",
+      "isin": "BRITSA4F0SS2",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 60900,
+      "quantidade_descoberta": 5400,
+      "total_posicoes": 100800
+    },
+    {
+      "codigo_opcao": "ITSAQ123",
+      "isin": "BRITSA4Q0R21",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 101100,
+      "total_posicoes": 159600
+    },
+    {
+      "codigo_opcao": "ITSAQ138",
+      "isin": "BRITSA4Q0QZ8",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 47900,
+      "total_posicoes": 4189600
+    },
+    {
+      "codigo_opcao": "ITSAQ141",
+      "isin": "BRITSA4Q0R13",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 45700,
+      "total_posicoes": 3161200
+    },
+    {
+      "codigo_opcao": "ITSAQ143",
+      "isin": "BRITSA4Q0R39",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 32200,
+      "total_posicoes": 396300
+    },
+    {
+      "codigo_opcao": "ITSAQ146",
+      "isin": "BRITSA4Q0R54",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1226600,
+      "total_posicoes": 2241200
+    },
+    {
+      "codigo_opcao": "ITSAQ153",
+      "isin": "BRITSA4Q0R47",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 23000,
+      "total_posicoes": 4263800
+    },
+    {
+      "codigo_opcao": "ITSAQ886",
+      "isin": "BRITSA4Q0R05",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10700,
+      "total_posicoes": 10700
+    },
+    {
+      "codigo_opcao": "ITSAR122",
+      "isin": "BRITSA4R0T27",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 5100
+    },
+    {
+      "codigo_opcao": "ITSAR127",
+      "isin": "BRITSA4R0T19",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ITSAR137",
+      "isin": "BRITSA4R0SY6",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 35300
+    },
+    {
+      "codigo_opcao": "ITSAE156",
+      "isin": "BRITSA4E0R27",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 367600,
+      "quantidade_descoberta": 534200,
+      "total_posicoes": 1138200
+    },
+    {
+      "codigo_opcao": "ITSAE956",
+      "isin": "BRITSA4E0R35",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 1500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1700
+    },
+    {
+      "codigo_opcao": "ITSAF132",
+      "isin": "BRITSA4F0SZ7",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 19000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 23600
+    },
+    {
+      "codigo_opcao": "ITSAF147",
+      "isin": "BRITSA4F0SY0",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 11100,
+      "quantidade_descoberta": 17500,
+      "total_posicoes": 41600
+    },
+    {
+      "codigo_opcao": "ITSAQ156",
+      "isin": "BRITSA4Q0R96",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6700,
+      "total_posicoes": 850200
+    },
+    {
+      "codigo_opcao": "ITSAR132",
+      "isin": "BRITSA4R0T50",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 9600,
+      "total_posicoes": 67200
+    },
+    {
+      "codigo_opcao": "ITSAR147",
+      "isin": "BRITSA4R0T68",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8100,
+      "total_posicoes": 32000
     },
     {
       "codigo_opcao": "ITSAK1",
@@ -3023,411 +1989,257 @@
       "total_posicoes": 81500
     },
     {
-      "codigo_opcao": "ITSAL12",
-      "isin": "BRITSA4L0TB8",
+      "codigo_opcao": "ITSAG161",
+      "isin": "BRITSA4G0TP5",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 453,
-      "quantidade_coberta": 15000,
-      "quantidade_descoberta": 20983,
-      "total_posicoes": 39401
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 2400,
+      "total_posicoes": 12700
     },
     {
-      "codigo_opcao": "ITSAX12",
-      "isin": "BRITSA4X0TO7",
+      "codigo_opcao": "ITSAS161",
+      "isin": "BRITSA4S0TN6",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 453,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 32715,
-      "total_posicoes": 33515
-    },
-    {
-      "codigo_opcao": "ITSAI125",
-      "isin": "BRITSA4I0UR7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
+      "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 400
+      "total_posicoes": 600
     },
     {
-      "codigo_opcao": "ITSAI128",
-      "isin": "BRITSA4I0US5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 393600
-    },
-    {
-      "codigo_opcao": "ITSAU125",
-      "isin": "BRITSA4U0UY7",
+      "codigo_opcao": "ITSAS166",
+      "isin": "BRITSA4S0TP1",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 455,
+      "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ITSAU128",
-      "isin": "BRITSA4U0UZ4",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2700
-    },
-    {
-      "codigo_opcao": "ITSAD754",
-      "isin": "BRITSA4D0RC0",
+      "codigo_opcao": "ITSAG668",
+      "isin": "BRITSA4G0TQ3",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 1100
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 21300,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 22100
     },
     {
-      "codigo_opcao": "ITSAD774",
-      "isin": "BRITSA4D0RG1",
+      "codigo_opcao": "ITSAE150W4",
+      "isin": "BRITSA4E0T33",
       "ativo": "ITSA",
       "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
+      "semanal": true,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ITSAD804",
-      "isin": "BRITSA4D0RA4",
+      "codigo_opcao": "ITSAE155W4",
+      "isin": "BRITSA4E0SV7",
       "ativo": "ITSA",
       "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 40500,
-      "total_posicoes": 40500
+      "semanal": true,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 3700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3700
     },
     {
-      "codigo_opcao": "ITSAD814",
-      "isin": "BRITSA4D0RF3",
+      "codigo_opcao": "ITSAQ120W4",
+      "isin": "BRITSA4Q0TB3",
       "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 500100
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ITSAD834",
-      "isin": "BRITSA4D0RD8",
+      "codigo_opcao": "ITSAQ130W4",
+      "isin": "BRITSA4Q0TK4",
       "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3800,
-      "total_posicoes": 3800
+      "quantidade_descoberta": 499000,
+      "total_posicoes": 500000
     },
     {
-      "codigo_opcao": "ITSAD844",
-      "isin": "BRITSA4D0RI7",
+      "codigo_opcao": "ITSAQ135W4",
+      "isin": "BRITSA4Q0TE7",
       "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 11400,
-      "total_posicoes": 11400
+      "quantidade_descoberta": 4900,
+      "total_posicoes": 5000
     },
     {
-      "codigo_opcao": "ITSAD864",
-      "isin": "BRITSA4D0RK3",
+      "codigo_opcao": "ITSAQ140W4",
+      "isin": "BRITSA4Q0T03",
       "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 39600,
-      "total_posicoes": 39600
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4000
     },
     {
-      "codigo_opcao": "ITSAD874",
-      "isin": "BRITSA4D0RB2",
+      "codigo_opcao": "ITSAQ145W4",
+      "isin": "BRITSA4Q0TJ6",
       "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 27900,
-      "total_posicoes": 27900
+      "quantidade_descoberta": 500000,
+      "total_posicoes": 500700
     },
     {
-      "codigo_opcao": "ITSAD910",
-      "isin": "BRITSA4D0RE6",
+      "codigo_opcao": "ITSAQ150W4",
+      "isin": "BRITSA4Q0T45",
       "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 26800,
-      "total_posicoes": 26900
-    },
-    {
-      "codigo_opcao": "ITSAD920",
-      "isin": "BRITSA4D0RJ5",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 6300,
-      "total_posicoes": 15000
-    },
-    {
-      "codigo_opcao": "ITSAE848",
-      "isin": "BRITSA4E0QD9",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 55200,
-      "quantidade_descoberta": 13900,
-      "total_posicoes": 281900
-    },
-    {
-      "codigo_opcao": "ITSAH97",
-      "isin": "BRITSA4H0V32",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 105000,
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 111400
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ITSAD644",
-      "isin": "BRITSA4D0RN7",
+      "codigo_opcao": "ITSAQ175W4",
+      "isin": "BRITSA4Q0T11",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "ITSAK157",
+      "isin": "BRITSA4K0SC9",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 297900,
-      "total_posicoes": 497900
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 24800,
+      "total_posicoes": 37200
     },
     {
-      "codigo_opcao": "ITSAP644",
-      "isin": "BRITSA4P0RP8",
+      "codigo_opcao": "ITSAW157",
+      "isin": "BRITSA4W0SC5",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 455,
+      "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100000,
-      "total_posicoes": 100000
+      "quantidade_descoberta": 2200,
+      "total_posicoes": 60800
     },
     {
-      "codigo_opcao": "ITSAC630",
-      "isin": "BRITSA4C0SV9",
+      "codigo_opcao": "ITSAI100",
+      "isin": "BRITSA4I0UQ9",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 330700,
+      "contratos_em_aberto": 453,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1643100
+      "total_posicoes": 15100
     },
     {
-      "codigo_opcao": "ITSAD181",
-      "isin": "BRITSA4D0T01",
+      "codigo_opcao": "ITSAU100",
+      "isin": "BRITSA4U0UX9",
       "ativo": "ITSA",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 456,
+      "contratos_em_aberto": 453,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 9100,
-      "total_posicoes": 9100
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 12000
     },
     {
-      "codigo_opcao": "ITSAD652",
-      "isin": "BRITSA4D0SW6",
+      "codigo_opcao": "ITSAX115",
+      "isin": "BRITSA4X0TN9",
       "ativo": "ITSA",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 9300,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 9500
+      "contratos_em_aberto": 453,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "ITSAE163",
-      "isin": "BRITSA4E0QN8",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 120000,
-      "quantidade_descoberta": 7476401,
-      "total_posicoes": 8854200
-    },
-    {
-      "codigo_opcao": "ITSAE168",
-      "isin": "BRITSA4E0QP3",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 88000,
-      "total_posicoes": 90800
-    },
-    {
-      "codigo_opcao": "ITSAF962",
-      "isin": "BRITSA4F0SM5",
+      "codigo_opcao": "ITSAI10",
+      "isin": "BRITSA4I0V71",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 11000
     },
     {
-      "codigo_opcao": "ITSAG828",
-      "isin": "BRITSA4G0TR1",
+      "codigo_opcao": "ITSAE120",
+      "isin": "BRITSA4E0R50",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 95500
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 20600,
+      "quantidade_descoberta": 24130,
+      "total_posicoes": 112000
     },
     {
-      "codigo_opcao": "ITSAL142",
-      "isin": "BRITSA4L0TF9",
+      "codigo_opcao": "ITSAE150",
+      "isin": "BRITSA4E0R43",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 6,
-      "total_posicoes": 63300
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 207900,
+      "quantidade_descoberta": 69600,
+      "total_posicoes": 675600
     },
     {
-      "codigo_opcao": "ITSAX137",
-      "isin": "BRITSA4X0TU4",
+      "codigo_opcao": "ITSAQ120",
+      "isin": "BRITSA4Q0RA9",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 455,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
+      "quantidade_descoberta": 41500,
+      "total_posicoes": 78200
     },
     {
-      "codigo_opcao": "ITSAX142",
-      "isin": "BRITSA4X0TS8",
+      "codigo_opcao": "ITSAQ150",
+      "isin": "BRITSA4Q0RB7",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 455,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 24600
-    },
-    {
-      "codigo_opcao": "ITSAD119",
-      "isin": "BRITSA4D0R03",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 452,
-      "quantidade_coberta": 98166,
-      "quantidade_descoberta": 47768,
-      "total_posicoes": 266071
-    },
-    {
-      "codigo_opcao": "ITSAP119",
-      "isin": "BRITSA4P0R23",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 452,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 308848,
-      "total_posicoes": 312427
-    },
-    {
-      "codigo_opcao": "ITSAG630",
-      "isin": "BRITSA4G0TG4",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 344000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 345600
-    },
-    {
-      "codigo_opcao": "ITSAD140",
-      "isin": "BRITSA4D0RS6",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 201700,
-      "quantidade_descoberta": 571500,
-      "total_posicoes": 891500
-    },
-    {
-      "codigo_opcao": "ITSAP140",
-      "isin": "BRITSA4P0RU8",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 290981,
-      "total_posicoes": 2090700
-    },
-    {
-      "codigo_opcao": "ITSAD12",
-      "isin": "BRITSA4D0SE4",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 21800,
-      "quantidade_descoberta": 62700,
-      "total_posicoes": 129600
-    },
-    {
-      "codigo_opcao": "ITSAP12",
-      "isin": "BRITSA4P0SG5",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 708300,
-      "total_posicoes": 1152500
+      "quantidade_descoberta": 76300,
+      "total_posicoes": 342400
     },
     {
       "codigo_opcao": "ITSAA150",
@@ -3447,7 +2259,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 447,
-      "quantidade_coberta": 51850,
+      "quantidade_coberta": 50950,
       "quantidade_descoberta": 0,
       "total_posicoes": 1056105
     },
@@ -3470,8 +2282,8 @@
       "semanal": false,
       "contratos_em_aberto": 448,
       "quantidade_coberta": 5550,
-      "quantidade_descoberta": 23414,
-      "total_posicoes": 172780
+      "quantidade_descoberta": 23417,
+      "total_posicoes": 172777
     },
     {
       "codigo_opcao": "ITSAB110",
@@ -3480,7 +2292,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 448,
-      "quantidade_coberta": 10758,
+      "quantidade_coberta": 10789,
       "quantidade_descoberta": 0,
       "total_posicoes": 19930
     },
@@ -3491,9 +2303,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 448,
-      "quantidade_coberta": 18616,
-      "quantidade_descoberta": 210470,
-      "total_posicoes": 603858
+      "quantidade_coberta": 21220,
+      "quantidade_descoberta": 210467,
+      "total_posicoes": 603758
     },
     {
       "codigo_opcao": "ITSAB804",
@@ -3518,26 +2330,15 @@
       "total_posicoes": 20998
     },
     {
-      "codigo_opcao": "ITSAD900",
-      "isin": "BRITSA4D0QD0",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 446,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 40488,
-      "total_posicoes": 40488
-    },
-    {
       "codigo_opcao": "ITSAE190",
       "isin": "BRITSA4E0OK9",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 439,
-      "quantidade_coberta": 36209,
-      "quantidade_descoberta": 4075267,
-      "total_posicoes": 12621230
+      "quantidade_coberta": 97339,
+      "quantidade_descoberta": 4015767,
+      "total_posicoes": 12632175
     },
     {
       "codigo_opcao": "ITSAE900",
@@ -3546,9 +2347,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 439,
-      "quantidade_coberta": 85787,
+      "quantidade_coberta": 87287,
       "quantidade_descoberta": 0,
-      "total_posicoes": 837355
+      "total_posicoes": 802355
     },
     {
       "codigo_opcao": "ITSAF113",
@@ -3557,7 +2358,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 452,
-      "quantidade_coberta": 125786,
+      "quantidade_coberta": 125799,
       "quantidade_descoberta": 0,
       "total_posicoes": 151800
     },
@@ -3568,9 +2369,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 9900,
+      "quantidade_coberta": 2500,
       "quantidade_descoberta": 0,
-      "total_posicoes": 41300
+      "total_posicoes": 49400
     },
     {
       "codigo_opcao": "ITSAF118",
@@ -3579,7 +2380,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 452,
-      "quantidade_coberta": 146705,
+      "quantidade_coberta": 170020,
       "quantidade_descoberta": 0,
       "total_posicoes": 622173
     },
@@ -3601,9 +2402,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 452,
-      "quantidade_coberta": 972016,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1032086
+      "quantidade_coberta": 969952,
+      "quantidade_descoberta": 4200,
+      "total_posicoes": 1037286
     },
     {
       "codigo_opcao": "ITSAF125",
@@ -3623,9 +2424,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16700
+      "quantidade_coberta": 16700,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 19300
     },
     {
       "codigo_opcao": "ITSAF135",
@@ -3634,7 +2435,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 27700,
+      "quantidade_coberta": 27500,
       "quantidade_descoberta": 22000,
       "total_posicoes": 94400
     },
@@ -3645,9 +2446,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 2700,
-      "quantidade_descoberta": 291208,
-      "total_posicoes": 21945500
+      "quantidade_coberta": 3300,
+      "quantidade_descoberta": 293008,
+      "total_posicoes": 21947300
     },
     {
       "codigo_opcao": "ITSAF145",
@@ -3656,9 +2457,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 18700,
-      "quantidade_descoberta": 113500,
-      "total_posicoes": 149200
+      "quantidade_coberta": 18900,
+      "quantidade_descoberta": 128500,
+      "total_posicoes": 153000
     },
     {
       "codigo_opcao": "ITSAF150",
@@ -3667,9 +2468,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 455,
-      "quantidade_coberta": 11600,
-      "quantidade_descoberta": 35900,
-      "total_posicoes": 80500
+      "quantidade_coberta": 11100,
+      "quantidade_descoberta": 48200,
+      "total_posicoes": 93300
     },
     {
       "codigo_opcao": "ITSAF155",
@@ -3678,9 +2479,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 455,
-      "quantidade_coberta": 13100,
-      "quantidade_descoberta": 30600,
-      "total_posicoes": 15159400
+      "quantidade_coberta": 27400,
+      "quantidade_descoberta": 33200,
+      "total_posicoes": 15175200
     },
     {
       "codigo_opcao": "ITSAF160",
@@ -3689,9 +2490,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 455,
-      "quantidade_coberta": 11600,
-      "quantidade_descoberta": 3200,
-      "total_posicoes": 10078600
+      "quantidade_coberta": 8700,
+      "quantidade_descoberta": 9300,
+      "total_posicoes": 10092200
     },
     {
       "codigo_opcao": "ITSAF165",
@@ -3700,9 +2501,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 455,
-      "quantidade_coberta": 24200,
-      "quantidade_descoberta": 7700,
-      "total_posicoes": 58400
+      "quantidade_coberta": 27200,
+      "quantidade_descoberta": 9400,
+      "total_posicoes": 83900
     },
     {
       "codigo_opcao": "ITSAF183",
@@ -3711,9 +2512,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 453,
-      "quantidade_coberta": 1700,
-      "quantidade_descoberta": 27664,
-      "total_posicoes": 69383
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 31164,
+      "total_posicoes": 73955
     },
     {
       "codigo_opcao": "ITSAF900",
@@ -3722,7 +2523,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 446,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 46,
       "quantidade_descoberta": 200,
       "total_posicoes": 836520
     },
@@ -3744,7 +2545,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 451,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 40300,
       "quantidade_descoberta": 1,
       "total_posicoes": 41879
     },
@@ -3799,7 +2600,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 453,
-      "quantidade_coberta": 330433,
+      "quantidade_coberta": 330866,
       "quantidade_descoberta": 0,
       "total_posicoes": 332010
     },
@@ -3810,7 +2611,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 455,
-      "quantidade_coberta": 600,
+      "quantidade_coberta": 1500,
       "quantidade_descoberta": 0,
       "total_posicoes": 2200
     },
@@ -3821,7 +2622,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 441,
-      "quantidade_coberta": 39889,
+      "quantidade_coberta": 38133,
       "quantidade_descoberta": 20089,
       "total_posicoes": 205857
     },
@@ -3832,7 +2633,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 447,
-      "quantidade_coberta": 5012,
+      "quantidade_coberta": 5165,
       "quantidade_descoberta": 848241,
       "total_posicoes": 883451
     },
@@ -3845,7 +2646,7 @@
       "contratos_em_aberto": 441,
       "quantidade_coberta": 120477,
       "quantidade_descoberta": 1856,
-      "total_posicoes": 1560021
+      "total_posicoes": 1558814
     },
     {
       "codigo_opcao": "ITSAG160",
@@ -3854,9 +2655,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 447,
-      "quantidade_coberta": 31906,
+      "quantidade_coberta": 32079,
       "quantidade_descoberta": 1,
-      "total_posicoes": 650337
+      "total_posicoes": 650437
     },
     {
       "codigo_opcao": "ITSAG163",
@@ -3865,7 +2666,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 100,
       "quantidade_descoberta": 600,
       "total_posicoes": 700
     },
@@ -3878,7 +2679,7 @@
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 3200,
-      "total_posicoes": 3200
+      "total_posicoes": 3400
     },
     {
       "codigo_opcao": "ITSAG600",
@@ -3899,8 +2700,8 @@
       "semanal": false,
       "contratos_em_aberto": 441,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 184432,
-      "total_posicoes": 188428
+      "quantidade_descoberta": 182452,
+      "total_posicoes": 186448
     },
     {
       "codigo_opcao": "ITSAH120",
@@ -3975,9 +2776,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 442,
-      "quantidade_coberta": 85400,
+      "quantidade_coberta": 441759,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1608700
+      "total_posicoes": 1609300
     },
     {
       "codigo_opcao": "ITSAJ900",
@@ -4019,7 +2820,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 448,
-      "quantidade_coberta": 7802,
+      "quantidade_coberta": 5533,
       "quantidade_descoberta": 502,
       "total_posicoes": 49944
     },
@@ -4052,9 +2853,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 448,
-      "quantidade_coberta": 16131,
+      "quantidade_coberta": 16557,
       "quantidade_descoberta": 0,
-      "total_posicoes": 120700
+      "total_posicoes": 117700
     },
     {
       "codigo_opcao": "ITSAL954",
@@ -4076,7 +2877,7 @@
       "contratos_em_aberto": 447,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 477,
-      "total_posicoes": 20409
+      "total_posicoes": 12409
     },
     {
       "codigo_opcao": "ITSAM160",
@@ -4120,7 +2921,7 @@
       "contratos_em_aberto": 448,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 48142,
-      "total_posicoes": 51845
+      "total_posicoes": 51645
     },
     {
       "codigo_opcao": "ITSAN120",
@@ -4156,17 +2957,6 @@
       "total_posicoes": 719774
     },
     {
-      "codigo_opcao": "ITSAP900",
-      "isin": "BRITSA4P0QF1",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 446,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 344494,
-      "total_posicoes": 346534
-    },
-    {
       "codigo_opcao": "ITSAQ190",
       "isin": "BRITSA4Q0OQ2",
       "ativo": "ITSA",
@@ -4174,8 +2964,8 @@
       "semanal": false,
       "contratos_em_aberto": 439,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 105054,
-      "total_posicoes": 11794249
+      "quantidade_descoberta": 108006,
+      "total_posicoes": 11797001
     },
     {
       "codigo_opcao": "ITSAQ900",
@@ -4207,8 +2997,8 @@
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 1000
+      "quantidade_descoberta": 2400,
+      "total_posicoes": 3100
     },
     {
       "codigo_opcao": "ITSAR118",
@@ -4218,8 +3008,8 @@
       "semanal": false,
       "contratos_em_aberto": 452,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 15102,
-      "total_posicoes": 15802
+      "quantidade_descoberta": 19102,
+      "total_posicoes": 19802
     },
     {
       "codigo_opcao": "ITSAR120",
@@ -4262,8 +3052,8 @@
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "quantidade_descoberta": 29800,
+      "total_posicoes": 47200
     },
     {
       "codigo_opcao": "ITSAR135",
@@ -4273,8 +3063,8 @@
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 10800,
-      "total_posicoes": 53600
+      "quantidade_descoberta": 25700,
+      "total_posicoes": 41500
     },
     {
       "codigo_opcao": "ITSAR140",
@@ -4284,8 +3074,8 @@
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 28000,
-      "total_posicoes": 21999900
+      "quantidade_descoberta": 42200,
+      "total_posicoes": 22019000
     },
     {
       "codigo_opcao": "ITSAR145",
@@ -4295,8 +3085,8 @@
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 42200,
-      "total_posicoes": 85000
+      "quantidade_descoberta": 57900,
+      "total_posicoes": 102400
     },
     {
       "codigo_opcao": "ITSAR150",
@@ -4306,8 +3096,8 @@
       "semanal": false,
       "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2800,
-      "total_posicoes": 8600
+      "quantidade_descoberta": 20800,
+      "total_posicoes": 42100
     },
     {
       "codigo_opcao": "ITSAR155",
@@ -4317,8 +3107,8 @@
       "semanal": false,
       "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 24300,
-      "total_posicoes": 15031000
+      "quantidade_descoberta": 27400,
+      "total_posicoes": 15034500
     },
     {
       "codigo_opcao": "ITSAR160",
@@ -4328,8 +3118,8 @@
       "semanal": false,
       "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 10028900
+      "quantidade_descoberta": 5100,
+      "total_posicoes": 10033400
     },
     {
       "codigo_opcao": "ITSAR165",
@@ -4339,8 +3129,8 @@
       "semanal": false,
       "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 19700
+      "quantidade_descoberta": 20200,
+      "total_posicoes": 40100
     },
     {
       "codigo_opcao": "ITSAR183",
@@ -4351,7 +3141,7 @@
       "contratos_em_aberto": 453,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 6100
+      "total_posicoes": 6300
     },
     {
       "codigo_opcao": "ITSAR900",
@@ -4406,7 +3196,7 @@
       "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 500
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "ITSAS118",
@@ -4461,7 +3251,7 @@
       "contratos_em_aberto": 441,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 1263136
+      "total_posicoes": 1263045
     },
     {
       "codigo_opcao": "ITSAS160",
@@ -4471,8 +3261,8 @@
       "semanal": false,
       "contratos_em_aberto": 447,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 321270
+      "quantidade_descoberta": 100,
+      "total_posicoes": 325070
     },
     {
       "codigo_opcao": "ITSAS600",
@@ -4537,7 +3327,7 @@
       "semanal": false,
       "contratos_em_aberto": 442,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 8400,
+      "quantidade_descoberta": 8300,
       "total_posicoes": 31983
     },
     {
@@ -4581,8 +3371,8 @@
       "semanal": false,
       "contratos_em_aberto": 448,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 11816,
-      "total_posicoes": 174699
+      "quantidade_descoberta": 0,
+      "total_posicoes": 174597
     },
     {
       "codigo_opcao": "ITSAX884",
@@ -4592,8 +3382,8 @@
       "semanal": false,
       "contratos_em_aberto": 448,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 101,
-      "total_posicoes": 202
+      "quantidade_descoberta": 10101,
+      "total_posicoes": 10202
     },
     {
       "codigo_opcao": "ITSAX900",
@@ -4603,7 +3393,7 @@
       "semanal": false,
       "contratos_em_aberto": 446,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 214536,
+      "quantidade_descoberta": 210336,
       "total_posicoes": 821052
     },
     {
@@ -4614,8 +3404,8 @@
       "semanal": false,
       "contratos_em_aberto": 448,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 186581,
-      "total_posicoes": 433993
+      "quantidade_descoberta": 188869,
+      "total_posicoes": 434093
     },
     {
       "codigo_opcao": "ITSAX954",
@@ -4625,96 +3415,118 @@
       "semanal": false,
       "contratos_em_aberto": 448,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 60897,
+      "quantidade_descoberta": 62937,
       "total_posicoes": 383118
     },
     {
-      "codigo_opcao": "ITSAK157",
-      "isin": "BRITSA4K0SC9",
+      "codigo_opcao": "ITSAK148",
+      "isin": "BRITSA4K0S64",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 452,
+      "quantidade_coberta": 14284,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 37239
+    },
+    {
+      "codigo_opcao": "ITSAW148",
+      "isin": "BRITSA4W0S69",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 452,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 34168,
+      "total_posicoes": 61869
+    },
+    {
+      "codigo_opcao": "ITSAE966",
+      "isin": "BRITSA4E0QI8",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 24800,
-      "total_posicoes": 37200
+      "quantidade_coberta": 63600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 178200
     },
     {
-      "codigo_opcao": "ITSAW157",
-      "isin": "BRITSA4W0SC5",
+      "codigo_opcao": "ITSAF104",
+      "isin": "BRITSA4F0SH5",
       "ativo": "ITSA",
-      "tipo": "Put",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "ITSAF780",
+      "isin": "BRITSA4F0SC6",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 3200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3200
+    },
+    {
+      "codigo_opcao": "ITSAF800",
+      "isin": "BRITSA4F0SJ1",
+      "ativo": "ITSA",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2200,
-      "total_posicoes": 60800
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1600
     },
     {
-      "codigo_opcao": "ITSAD824",
-      "isin": "BRITSA4D0SD6",
+      "codigo_opcao": "ITSAF880",
+      "isin": "BRITSA4F0S80",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 455,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 26600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26600
+    },
+    {
+      "codigo_opcao": "ITSAF90",
+      "isin": "BRITSA4F0SF9",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 56000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 56000
+    },
+    {
+      "codigo_opcao": "ITSAF920",
+      "isin": "BRITSA4F0SD4",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 6100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 17700
+    },
+    {
+      "codigo_opcao": "ITSAF960",
+      "isin": "BRITSA4F0SG7",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 506100
-    },
-    {
-      "codigo_opcao": "ITSAF11",
-      "isin": "BRITSA4F0S64",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 25800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 35000
-    },
-    {
-      "codigo_opcao": "ITSAR11",
-      "isin": "BRITSA4R0SC2",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1600,
-      "total_posicoes": 48900
-    },
-    {
-      "codigo_opcao": "ITSAE115",
-      "isin": "BRITSA4E0QG2",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 295300,
-      "quantidade_descoberta": 3100,
-      "total_posicoes": 1872000
-    },
-    {
-      "codigo_opcao": "ITSAQ115",
-      "isin": "BRITSA4Q0QM6",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 53200,
-      "total_posicoes": 65300
-    },
-    {
-      "codigo_opcao": "ITSAE798",
-      "isin": "BRITSA4E0QH0",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 455,
-      "quantidade_coberta": 1900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 48400
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "ITSAC134",
@@ -4725,7 +3537,7 @@
       "contratos_em_aberto": 456,
       "quantidade_coberta": 100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3500
+      "total_posicoes": 3600
     },
     {
       "codigo_opcao": "ITSAC152",
@@ -4736,7 +3548,7 @@
       "contratos_em_aberto": 456,
       "quantidade_coberta": 69500,
       "quantidade_descoberta": 23000,
-      "total_posicoes": 225300
+      "total_posicoes": 226300
     },
     {
       "codigo_opcao": "ITSAI143",
@@ -4780,117 +3592,238 @@
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 43800
+      "total_posicoes": 43700
     },
     {
-      "codigo_opcao": "ITSAD128",
-      "isin": "BRITSA4D0UC4",
+      "codigo_opcao": "ITSAD106W4",
+      "isin": "BRITSA4D0TB8",
       "ativo": "ITSA",
       "tipo": "Call",
-      "semanal": false,
+      "semanal": true,
       "contratos_em_aberto": 456,
-      "quantidade_coberta": 1300,
-      "quantidade_descoberta": 135900,
-      "total_posicoes": 150100
-    },
-    {
-      "codigo_opcao": "ITSAD149",
-      "isin": "BRITSA4D0UE0",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 301200,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 819300
-    },
-    {
-      "codigo_opcao": "ITSAD169",
-      "isin": "BRITSA4D0UD2",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9500,
-      "total_posicoes": 9500
-    },
-    {
-      "codigo_opcao": "ITSAE126",
-      "isin": "BRITSA4E0QR9",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 162900,
-      "quantidade_descoberta": 50300,
-      "total_posicoes": 331700
-    },
-    {
-      "codigo_opcao": "ITSAE128",
-      "isin": "BRITSA4E0QS7",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 44300,
-      "quantidade_descoberta": 2100,
-      "total_posicoes": 119200
-    },
-    {
-      "codigo_opcao": "ITSAF142",
-      "isin": "BRITSA4F0SQ6",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 5900,
+      "quantidade_coberta": 700,
       "quantidade_descoberta": 0,
-      "total_posicoes": 120200
+      "total_posicoes": 3100
     },
     {
-      "codigo_opcao": "ITSAP128",
-      "isin": "BRITSA4P0UF3",
+      "codigo_opcao": "ITSAD116W4",
+      "isin": "BRITSA4D0TJ1",
       "ativo": "ITSA",
-      "tipo": "Put",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "ITSAD121W4",
+      "isin": "BRITSA4D0TO1",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10700
+    },
+    {
+      "codigo_opcao": "ITSAD126W4",
+      "isin": "BRITSA4D0TX2",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 1700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2700
+    },
+    {
+      "codigo_opcao": "ITSAD131W4",
+      "isin": "BRITSA4D0TG7",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 6800,
+      "total_posicoes": 8700
+    },
+    {
+      "codigo_opcao": "ITSAD136W4",
+      "isin": "BRITSA4D0U99",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 2400,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "ITSAD141W4",
+      "isin": "BRITSA4D0TV6",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 3200,
+      "quantidade_descoberta": 17600,
+      "total_posicoes": 47400
+    },
+    {
+      "codigo_opcao": "ITSAD146W4",
+      "isin": "BRITSA4D0U73",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 7500,
+      "quantidade_descoberta": 24751,
+      "total_posicoes": 55400
+    },
+    {
+      "codigo_opcao": "ITSAD151W4",
+      "isin": "BRITSA4D0U81",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 20000,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 143400
+    },
+    {
+      "codigo_opcao": "ITSAD156W4",
+      "isin": "BRITSA4D0TP8",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 11000,
+      "total_posicoes": 17700
+    },
+    {
+      "codigo_opcao": "ITSAG124",
+      "isin": "BRITSA4G0TV3",
+      "ativo": "ITSA",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 241610,
-      "total_posicoes": 695000
+      "quantidade_descoberta": 100,
+      "total_posicoes": 300
     },
     {
-      "codigo_opcao": "ITSAP149",
-      "isin": "BRITSA4P0UG1",
+      "codigo_opcao": "ITSAG134",
+      "isin": "BRITSA4G0TY7",
       "ativo": "ITSA",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 195480,
-      "total_posicoes": 208800
+      "quantidade_descoberta": 16700,
+      "total_posicoes": 19600
     },
     {
-      "codigo_opcao": "ITSAQ126",
-      "isin": "BRITSA4Q0QY1",
+      "codigo_opcao": "ITSAE145W5",
+      "isin": "BRITSA4E0TL6",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ITSAE150W5",
+      "isin": "BRITSA4E0TV5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "ITSAE165W5",
+      "isin": "BRITSA4E0TQ5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ITSAQ145W5",
+      "isin": "BRITSA4Q0UH8",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ITSAJ100",
+      "isin": "BRITSA4J0TW8",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 453,
+      "quantidade_coberta": 700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9700
+    },
+    {
+      "codigo_opcao": "ITSAE820",
+      "isin": "BRITSA4E0Q51",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 449,
+      "quantidade_coberta": 13362,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 22957
+    },
+    {
+      "codigo_opcao": "ITSAQ820",
+      "isin": "BRITSA4Q0QB9",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 456,
+      "contratos_em_aberto": 449,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 33000,
-      "total_posicoes": 138900
+      "quantidade_descoberta": 0,
+      "total_posicoes": 311100
     },
     {
-      "codigo_opcao": "ITSAQ128",
-      "isin": "BRITSA4Q0QX3",
+      "codigo_opcao": "ITSAL155",
+      "isin": "BRITSA4L0TI3",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 368400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 379500
+    },
+    {
+      "codigo_opcao": "ITSAX155",
+      "isin": "BRITSA4X0TV2",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 456,
+      "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 73900,
-      "total_posicoes": 329600
+      "quantidade_descoberta": 0,
+      "total_posicoes": 11000
     },
     {
       "codigo_opcao": "ITSAB165",
@@ -4911,294 +3844,558 @@
       "semanal": false,
       "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 16500,
-      "total_posicoes": 567500
+      "quantidade_descoberta": 20700,
+      "total_posicoes": 571900
     },
     {
-      "codigo_opcao": "ITSAK148",
-      "isin": "BRITSA4K0S64",
+      "codigo_opcao": "ITSAB13",
+      "isin": "BRITSA4B0SL1",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 452,
-      "quantidade_coberta": 14284,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 37239
+      "total_posicoes": 44500
     },
     {
-      "codigo_opcao": "ITSAW148",
-      "isin": "BRITSA4W0S69",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 452,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 22188,
-      "total_posicoes": 61369
-    },
-    {
-      "codigo_opcao": "ITSAD124",
-      "isin": "BRITSA4D0R29",
+      "codigo_opcao": "ITSAE118",
+      "isin": "BRITSA4E0QE7",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 452,
-      "quantidade_coberta": 7627,
-      "quantidade_descoberta": 666175,
-      "total_posicoes": 687134
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 47600,
+      "quantidade_descoberta": 3100,
+      "total_posicoes": 84100
     },
     {
-      "codigo_opcao": "ITSAP124",
-      "isin": "BRITSA4P0R49",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 452,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27304,
-      "total_posicoes": 63405
-    },
-    {
-      "codigo_opcao": "ITSAC610",
-      "isin": "BRITSA4C0SW7",
+      "codigo_opcao": "ITSAH140",
+      "isin": "BRITSA4H0V40",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 456,
+      "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 500,
-      "total_posicoes": 700
+      "total_posicoes": 8700
     },
     {
-      "codigo_opcao": "ITSAD102",
-      "isin": "BRITSA4D0T27",
+      "codigo_opcao": "ITSAN13",
+      "isin": "BRITSA4N0SM5",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5600
+    },
+    {
+      "codigo_opcao": "ITSAQ118",
+      "isin": "BRITSA4Q0QK0",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8800,
+      "total_posicoes": 15500
+    },
+    {
+      "codigo_opcao": "ITSAT140",
+      "isin": "BRITSA4T0V37",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8900
+    },
+    {
+      "codigo_opcao": "ITSAE126",
+      "isin": "BRITSA4E0QR9",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 165000,
+      "quantidade_descoberta": 50300,
+      "total_posicoes": 331700
+    },
+    {
+      "codigo_opcao": "ITSAE128",
+      "isin": "BRITSA4E0QS7",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 74300,
+      "quantidade_descoberta": 600,
+      "total_posicoes": 120700
+    },
+    {
+      "codigo_opcao": "ITSAF142",
+      "isin": "BRITSA4F0SQ6",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 11700,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 189400
+    },
+    {
+      "codigo_opcao": "ITSAQ126",
+      "isin": "BRITSA4Q0QY1",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 33000,
+      "total_posicoes": 133200
+    },
+    {
+      "codigo_opcao": "ITSAQ128",
+      "isin": "BRITSA4Q0QX3",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 87900,
+      "total_posicoes": 247600
+    },
+    {
+      "codigo_opcao": "ITSAR142",
+      "isin": "BRITSA4R0SW0",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 16200,
+      "total_posicoes": 16700
+    },
+    {
+      "codigo_opcao": "ITSAG139",
+      "isin": "BRITSA4G0TT7",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 33100,
-      "total_posicoes": 36100
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ITSAD166",
-      "isin": "BRITSA4D0T35",
+      "codigo_opcao": "ITSAG90",
+      "isin": "BRITSA4G0TX9",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 155900,
-      "total_posicoes": 160900
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3200
     },
     {
-      "codigo_opcao": "ITSAD171",
-      "isin": "BRITSA4D0SX4",
+      "codigo_opcao": "ITSAP116W4",
+      "isin": "BRITSA4P0TC2",
       "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
+      "tipo": "Put",
+      "semanal": true,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "ITSAD176",
-      "isin": "BRITSA4D0ST2",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "ITSAD186",
-      "isin": "BRITSA4D0T68",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
+      "quantidade_descoberta": 0,
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "ITSAD632",
-      "isin": "BRITSA4D0T43",
+      "codigo_opcao": "ITSAP126W4",
+      "isin": "BRITSA4P0U93",
       "ativo": "ITSA",
-      "tipo": "Call",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "ITSAP136W4",
+      "isin": "BRITSA4P0TR0",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 486700,
+      "total_posicoes": 501000
+    },
+    {
+      "codigo_opcao": "ITSAP141W4",
+      "isin": "BRITSA4P0TN9",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 19700,
+      "total_posicoes": 48500
+    },
+    {
+      "codigo_opcao": "ITSAP146W4",
+      "isin": "BRITSA4P0U85",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 39100,
+      "total_posicoes": 117200
+    },
+    {
+      "codigo_opcao": "ITSAP151W4",
+      "isin": "BRITSA4P0U02",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 23600,
+      "total_posicoes": 70400
+    },
+    {
+      "codigo_opcao": "ITSAP156W4",
+      "isin": "BRITSA4P0TJ7",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 13200,
+      "total_posicoes": 54800
+    },
+    {
+      "codigo_opcao": "ITSAP161W4",
+      "isin": "BRITSA4P0TO7",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "ITSAS124",
+      "isin": "BRITSA4S0TY3",
+      "ativo": "ITSA",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 94200,
-      "total_posicoes": 100200
-    },
-    {
-      "codigo_opcao": "ITSAD852",
-      "isin": "BRITSA4D0T50",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 113000,
-      "total_posicoes": 113000
-    },
-    {
-      "codigo_opcao": "ITSAD928",
-      "isin": "BRITSA4D0SS4",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 1000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 366000
     },
     {
-      "codigo_opcao": "ITSAD957",
-      "isin": "BRITSA4D0SN5",
+      "codigo_opcao": "ITSAS129",
+      "isin": "BRITSA4S0TW7",
       "ativo": "ITSA",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 456,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 4800,
-      "total_posicoes": 4800
-    },
-    {
-      "codigo_opcao": "ITSAD977",
-      "isin": "BRITSA4D0SO3",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 22100,
-      "total_posicoes": 164300
-    },
-    {
-      "codigo_opcao": "ITSAE160",
-      "isin": "BRITSA4E0QJ6",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 141000,
-      "quantidade_descoberta": 2100,
-      "total_posicoes": 336200
-    },
-    {
-      "codigo_opcao": "ITSAE185",
-      "isin": "BRITSA4E0QQ1",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 101000,
-      "total_posicoes": 101000
-    },
-    {
-      "codigo_opcao": "ITSAE946",
-      "isin": "BRITSA4E0QO6",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 6000,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 24800
-    },
-    {
-      "codigo_opcao": "ITSAE976",
-      "isin": "BRITSA4E0QK4",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 2000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7500
+      "total_posicoes": 1800
     },
     {
-      "codigo_opcao": "ITSAE996",
-      "isin": "BRITSA4E0QL2",
+      "codigo_opcao": "ITSAS132",
+      "isin": "BRITSA4S0TU1",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 456,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ITSAE16",
+      "isin": "BRITSA4E0R68",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 456,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 76400,
+      "quantidade_descoberta": 800,
+      "total_posicoes": 341500
+    },
+    {
+      "codigo_opcao": "ITSAE165",
+      "isin": "BRITSA4E0R84",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 196200,
+      "quantidade_descoberta": 45500,
+      "total_posicoes": 315000
+    },
+    {
+      "codigo_opcao": "ITSAE170",
+      "isin": "BRITSA4E0RA3",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 3700,
+      "quantidade_descoberta": 88700,
+      "total_posicoes": 98500
+    },
+    {
+      "codigo_opcao": "ITSAE175",
+      "isin": "BRITSA4E0RS5",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 23200,
+      "total_posicoes": 23200
+    },
+    {
+      "codigo_opcao": "ITSAE180",
+      "isin": "BRITSA4E0RQ9",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 40200,
+      "total_posicoes": 40200
+    },
+    {
+      "codigo_opcao": "ITSAE746",
+      "isin": "BRITSA4E0RP1",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4200
+    },
+    {
+      "codigo_opcao": "ITSAE766",
+      "isin": "BRITSA4E0R76",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1700
+    },
+    {
+      "codigo_opcao": "ITSAE826",
+      "isin": "BRITSA4E0RF2",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 16400
+    },
+    {
+      "codigo_opcao": "ITSAE846",
+      "isin": "BRITSA4E0R92",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 2600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 114200
+    },
+    {
+      "codigo_opcao": "ITSAE866",
+      "isin": "BRITSA4E0RH8",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 49100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 55100
+    },
+    {
+      "codigo_opcao": "ITSAE88",
+      "isin": "BRITSA4E0RR7",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 31500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 57300
+    },
+    {
+      "codigo_opcao": "ITSAE906",
+      "isin": "BRITSA4E0RB1",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 20400,
+      "quantidade_descoberta": 7600,
+      "total_posicoes": 83000
+    },
+    {
+      "codigo_opcao": "ITSAE926",
+      "isin": "BRITSA4E0RG0",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 12100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 40900
+    },
+    {
+      "codigo_opcao": "ITSAQ16",
+      "isin": "BRITSA4Q0RX1",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 44200,
+      "total_posicoes": 61700
+    },
+    {
+      "codigo_opcao": "ITSAQ165",
+      "isin": "BRITSA4Q0RI2",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 28400,
+      "total_posicoes": 46400
+    },
+    {
+      "codigo_opcao": "ITSAQ170",
+      "isin": "BRITSA4Q0RD3",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 3000,
-      "total_posicoes": 4100
+      "total_posicoes": 3000
     },
     {
-      "codigo_opcao": "ITSAF152",
-      "isin": "BRITSA4F0SL7",
+      "codigo_opcao": "ITSAQ180",
+      "isin": "BRITSA4Q0RV5",
       "ativo": "ITSA",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 12200,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 37200
-    },
-    {
-      "codigo_opcao": "ITSAF942",
-      "isin": "BRITSA4F0SN3",
-      "ativo": "ITSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 456,
+      "contratos_em_aberto": 457,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 12000
+      "total_posicoes": 5800
     },
     {
-      "codigo_opcao": "ITSAF982",
-      "isin": "BRITSA4F0SO1",
+      "codigo_opcao": "ITSAQ220",
+      "isin": "BRITSA4Q0RR3",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 150000
+    },
+    {
+      "codigo_opcao": "ITSAQ225",
+      "isin": "BRITSA4Q0RY9",
+      "ativo": "ITSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 457,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1400
+    },
+    {
+      "codigo_opcao": "ITSAH760",
+      "isin": "BRITSA4H0V16",
       "ativo": "ITSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 456,
+      "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 29500
+      "total_posicoes": 400
     },
     {
-      "codigo_opcao": "ITSAP166",
-      "isin": "BRITSA4P0SV4",
+      "codigo_opcao": "ITSAH780",
+      "isin": "BRITSA4H0UZ1",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "ITSAH840",
+      "isin": "BRITSA4H0UW8",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "ITSAH860",
+      "isin": "BRITSA4H0UU2",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6400
+    },
+    {
+      "codigo_opcao": "ITSAH880",
+      "isin": "BRITSA4H0UY4",
+      "ativo": "ITSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 455,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ITSAT780",
+      "isin": "BRITSA4T0UV6",
       "ativo": "ITSA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 456,
+      "contratos_em_aberto": 455,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 106900,
-      "total_posicoes": 106900
-    },
-    {
-      "codigo_opcao": "ITSAP181",
-      "isin": "BRITSA4P0ST8",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "ITSAP652",
-      "isin": "BRITSA4P0SZ5",
-      "ativo": "ITSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 456,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 101100,
-      "total_posicoes": 101100
+      "quantidade_descoberta": 17700,
+      "total_posicoes": 17700
     }
   ]
 }
