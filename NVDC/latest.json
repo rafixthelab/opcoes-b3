@@ -1,23 +1,23 @@
 {
   "ticker": "NVDC",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
   "total_registros": 37,
   "calls": 17,
   "puts": 20,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "NVDCB220",
-      "isin": "BRNVDC9B01N1",
+      "codigo_opcao": "NVDCX210",
+      "isin": "BRNVDC9X00Q0",
       "ativo": "NVDC",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 131,
-      "quantidade_coberta": 5620,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11940
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 50000,
+      "total_posicoes": 50000
     },
     {
       "codigo_opcao": "NVDCG165",
@@ -64,26 +64,15 @@
       "total_posicoes": 5800
     },
     {
-      "codigo_opcao": "NVDCE200",
-      "isin": "BRNVDC9E00R8",
+      "codigo_opcao": "NVDCG160",
+      "isin": "BRNVDC9G00P7",
       "ativo": "NVDC",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 18470,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 18470
-    },
-    {
-      "codigo_opcao": "NVDCQ200",
-      "isin": "BRNVDC9Q00R2",
-      "ativo": "NVDC",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
+      "contratos_em_aberto": 130,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2700
+      "total_posicoes": 15960
     },
     {
       "codigo_opcao": "NVDCO155",
@@ -106,6 +95,28 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 1500
+    },
+    {
+      "codigo_opcao": "NVDCB220",
+      "isin": "BRNVDC9B01N1",
+      "ativo": "NVDC",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 131,
+      "quantidade_coberta": 11940,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 11940
+    },
+    {
+      "codigo_opcao": "NVDCU260",
+      "isin": "BRNVDC9U00T0",
+      "ativo": "NVDC",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 27000
     },
     {
       "codigo_opcao": "NVDCB232",
@@ -229,17 +240,6 @@
       "total_posicoes": 4000
     },
     {
-      "codigo_opcao": "NVDCP17",
-      "isin": "BRNVDC9P0130",
-      "ativo": "NVDC",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 131,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 50480
-    },
-    {
       "codigo_opcao": "NVDCA225",
       "isin": "BRNVDC9A01K9",
       "ativo": "NVDC",
@@ -306,94 +306,6 @@
       "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "NVDCT207",
-      "isin": "BRNVDC9T00R6",
-      "ativo": "NVDC",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2500
-    },
-    {
-      "codigo_opcao": "NVDCX160",
-      "isin": "BRNVDC9X00P2",
-      "ativo": "NVDC",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 131,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 50000,
-      "total_posicoes": 50000
-    },
-    {
-      "codigo_opcao": "NVDCG160",
-      "isin": "BRNVDC9G00P7",
-      "ativo": "NVDC",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 15960
-    },
-    {
-      "codigo_opcao": "NVDCU260",
-      "isin": "BRNVDC9U00T0",
-      "ativo": "NVDC",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 27000
-    },
-    {
-      "codigo_opcao": "NVDCX210",
-      "isin": "BRNVDC9X00Q0",
-      "ativo": "NVDC",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 131,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 50000,
-      "total_posicoes": 50000
-    },
-    {
-      "codigo_opcao": "NVDCD225",
-      "isin": "BRNVDC9D01A4",
-      "ativo": "NVDC",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 131,
-      "quantidade_coberta": 63590,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 85990
-    },
-    {
-      "codigo_opcao": "NVDCP172",
-      "isin": "BRNVDC9P01B6",
-      "ativo": "NVDC",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 131,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 35510
-    },
-    {
-      "codigo_opcao": "NVDCC230",
-      "isin": "BRNVDC9C0242",
-      "ativo": "NVDC",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 131,
-      "quantidade_coberta": 5920,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12900
-    },
-    {
       "codigo_opcao": "NVDCN170",
       "isin": "BRNVDC9N01V9",
       "ativo": "NVDC",
@@ -414,6 +326,94 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 10250
+    },
+    {
+      "codigo_opcao": "NVDCE200",
+      "isin": "BRNVDC9E00R8",
+      "ativo": "NVDC",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 18470,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 18470
+    },
+    {
+      "codigo_opcao": "NVDCQ200",
+      "isin": "BRNVDC9Q00R2",
+      "ativo": "NVDC",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2700
+    },
+    {
+      "codigo_opcao": "NVDCP17",
+      "isin": "BRNVDC9P0130",
+      "ativo": "NVDC",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 131,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 50480
+    },
+    {
+      "codigo_opcao": "NVDCT207",
+      "isin": "BRNVDC9T00R6",
+      "ativo": "NVDC",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2500
+    },
+    {
+      "codigo_opcao": "NVDCD225",
+      "isin": "BRNVDC9D01A4",
+      "ativo": "NVDC",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 131,
+      "quantidade_coberta": 63590,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 69990
+    },
+    {
+      "codigo_opcao": "NVDCP172",
+      "isin": "BRNVDC9P01B6",
+      "ativo": "NVDC",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 131,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 19510
+    },
+    {
+      "codigo_opcao": "NVDCX160",
+      "isin": "BRNVDC9X00P2",
+      "ativo": "NVDC",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 131,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 50000,
+      "total_posicoes": 50000
+    },
+    {
+      "codigo_opcao": "NVDCC230",
+      "isin": "BRNVDC9C0242",
+      "ativo": "NVDC",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 131,
+      "quantidade_coberta": 5920,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12900
     }
   ]
 }
