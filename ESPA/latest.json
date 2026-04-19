@@ -1,11 +1,11 @@
 {
   "ticker": "ESPA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 3,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 2,
   "calls": 1,
-  "puts": 2,
+  "puts": 1,
   "semanais": 0,
   "opcoes": [
     {
@@ -18,17 +18,6 @@
       "quantidade_coberta": 2600,
       "quantidade_descoberta": 0,
       "total_posicoes": 2600
-    },
-    {
-      "codigo_opcao": "ESPAP100",
-      "isin": "BRESPA3P0063",
-      "ativo": "ESPA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
     },
     {
       "codigo_opcao": "ESPAQ10",
