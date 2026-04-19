@@ -1,0 +1,23 @@
+{
+  "ticker": "BABA",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 1,
+  "calls": 0,
+  "puts": 1,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "BABAR676",
+      "isin": "BRBABA9R00R3",
+      "ativo": "BABA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4800
+    }
+  ]
+}
