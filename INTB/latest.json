@@ -1,35 +1,13 @@
 {
   "ticker": "INTB",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 72,
-  "calls": 40,
-  "puts": 32,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 52,
+  "calls": 31,
+  "puts": 21,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "INTBD150",
-      "isin": "BRINTB3D01E9",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 78800
-    },
-    {
-      "codigo_opcao": "INTBP150",
-      "isin": "BRINTB3P01E3",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27400,
-      "total_posicoes": 35200
-    },
     {
       "codigo_opcao": "INTBE116",
       "isin": "BRINTB3E01V1",
@@ -38,8 +16,8 @@
       "semanal": false,
       "contratos_em_aberto": 115,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
+      "quantidade_descoberta": 0,
+      "total_posicoes": 16000
     },
     {
       "codigo_opcao": "INTBE141",
@@ -48,9 +26,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 115,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 19300,
-      "total_posicoes": 21600
+      "quantidade_coberta": 1400,
+      "quantidade_descoberta": 23300,
+      "total_posicoes": 25800
     },
     {
       "codigo_opcao": "INTBE161",
@@ -61,7 +39,18 @@
       "contratos_em_aberto": 115,
       "quantidade_coberta": 1300,
       "quantidade_descoberta": 2000,
-      "total_posicoes": 9400
+      "total_posicoes": 11400
+    },
+    {
+      "codigo_opcao": "INTBE171",
+      "isin": "BRINTB3E01Y5",
+      "ativo": "INTB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 800
     },
     {
       "codigo_opcao": "INTBQ121",
@@ -97,92 +86,114 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "INTBD141",
-      "isin": "BRINTB3D01D1",
+      "codigo_opcao": "INTBE130",
+      "isin": "BRINTB3E01T5",
       "ativo": "INTB",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 115,
-      "quantidade_coberta": 1000,
+      "quantidade_coberta": 15000,
+      "quantidade_descoberta": 14100,
+      "total_posicoes": 32400
+    },
+    {
+      "codigo_opcao": "INTBE135",
+      "isin": "BRINTB3E01Q1",
+      "ativo": "INTB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 200,
       "quantidade_descoberta": 0,
-      "total_posicoes": 96200
+      "total_posicoes": 135300
     },
     {
-      "codigo_opcao": "INTBD146",
-      "isin": "BRINTB3D0168",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 92900
-    },
-    {
-      "codigo_opcao": "INTBP111",
-      "isin": "BRINTB3P01D5",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "INTBP146",
-      "isin": "BRINTB3P0180",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3700,
-      "total_posicoes": 99100
-    },
-    {
-      "codigo_opcao": "INTBD120",
-      "isin": "BRINTB3D0135",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 37800,
-      "total_posicoes": 96900
-    },
-    {
-      "codigo_opcao": "INTBD130",
-      "isin": "BRINTB3D0127",
+      "codigo_opcao": "INTBE14",
+      "isin": "BRINTB3E01P3",
       "ativo": "INTB",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 115,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 88200
+      "total_posicoes": 4500
     },
     {
-      "codigo_opcao": "INTBD135",
-      "isin": "BRINTB3D0119",
+      "codigo_opcao": "INTBE145",
+      "isin": "BRINTB3E01S7",
       "ativo": "INTB",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 115,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 131700
+      "quantidade_coberta": 14500,
+      "quantidade_descoberta": 3000,
+      "total_posicoes": 83400
     },
     {
-      "codigo_opcao": "INTBP115",
-      "isin": "BRINTB3P0131",
+      "codigo_opcao": "INTBE150",
+      "isin": "BRINTB3E01R9",
+      "ativo": "INTB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 12600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 65900
+    },
+    {
+      "codigo_opcao": "INTBQ130",
+      "isin": "BRINTB3Q01P7",
       "ativo": "INTB",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 115,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2000
+      "total_posicoes": 53500
+    },
+    {
+      "codigo_opcao": "INTBQ135",
+      "isin": "BRINTB3Q01Q5",
+      "ativo": "INTB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 29300
+    },
+    {
+      "codigo_opcao": "INTBQ14",
+      "isin": "BRINTB3Q01R3",
+      "ativo": "INTB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 10100
+    },
+    {
+      "codigo_opcao": "INTBQ145",
+      "isin": "BRINTB3Q01S1",
+      "ativo": "INTB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 16100
+    },
+    {
+      "codigo_opcao": "INTBQ150",
+      "isin": "BRINTB3Q01T9",
+      "ativo": "INTB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 24800,
+      "total_posicoes": 27600
     },
     {
       "codigo_opcao": "INTBS141",
@@ -194,50 +205,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "INTBD115",
-      "isin": "BRINTB3D0101",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 10000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "INTBP120",
-      "isin": "BRINTB3P0123",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 30200
-    },
-    {
-      "codigo_opcao": "INTBP130",
-      "isin": "BRINTB3P0107",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 60800,
-      "total_posicoes": 130300
-    },
-    {
-      "codigo_opcao": "INTBP135",
-      "isin": "BRINTB3P0115",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1300,
-      "total_posicoes": 5900
     },
     {
       "codigo_opcao": "INTBA14",
@@ -282,17 +249,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 21800
-    },
-    {
-      "codigo_opcao": "INTBD140",
-      "isin": "BRINTB3D00I2",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 10000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 37700
     },
     {
       "codigo_opcao": "INTBE140",
@@ -438,17 +394,6 @@
       "total_posicoes": 2400
     },
     {
-      "codigo_opcao": "INTBP140",
-      "isin": "BRINTB3P00I6",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 49200,
-      "total_posicoes": 252100
-    },
-    {
       "codigo_opcao": "INTBQ140",
       "isin": "BRINTB3Q01F8",
       "ativo": "INTB",
@@ -467,8 +412,8 @@
       "semanal": false,
       "contratos_em_aberto": 112,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 3200
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4000
     },
     {
       "codigo_opcao": "INTBS140",
@@ -504,37 +449,26 @@
       "total_posicoes": 1200
     },
     {
-      "codigo_opcao": "INTBD170",
-      "isin": "BRINTB3D00Z6",
+      "codigo_opcao": "INTBE155",
+      "isin": "BRINTB3E01U3",
       "ativo": "INTB",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 31800,
-      "quantidade_descoberta": 24500,
-      "total_posicoes": 72500
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 5700,
+      "quantidade_descoberta": 10500,
+      "total_posicoes": 60700
     },
     {
-      "codigo_opcao": "INTBP170",
-      "isin": "BRINTB3P00Z0",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "INTBP141",
-      "isin": "BRINTB3P01B9",
+      "codigo_opcao": "INTBQ155",
+      "isin": "BRINTB3Q01U7",
       "ativo": "INTB",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 115,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 64000
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 2000
     },
     {
       "codigo_opcao": "INTBF141",
@@ -543,9 +477,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 13000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 13000
+      "total_posicoes": 15000
     },
     {
       "codigo_opcao": "INTBF151",
@@ -578,7 +512,18 @@
       "contratos_em_aberto": 115,
       "quantidade_coberta": 7000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7000
+      "total_posicoes": 10100
+    },
+    {
+      "codigo_opcao": "INTBF166",
+      "isin": "BRINTB3F01D6",
+      "ativo": "INTB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "INTBR136",
@@ -588,7 +533,7 @@
       "semanal": false,
       "contratos_em_aberto": 115,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3200,
+      "quantidade_descoberta": 800,
       "total_posicoes": 25000
     },
     {
@@ -599,8 +544,8 @@
       "semanal": false,
       "contratos_em_aberto": 115,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "quantidade_descoberta": 2400,
+      "total_posicoes": 3400
     },
     {
       "codigo_opcao": "INTBR146",
@@ -614,6 +559,17 @@
       "total_posicoes": 200
     },
     {
+      "codigo_opcao": "INTBR156",
+      "isin": "BRINTB3R01J8",
+      "ativo": "INTB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
       "codigo_opcao": "INTBR111",
       "isin": "BRINTB3R0204",
       "ativo": "INTB",
@@ -623,182 +579,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "INTBE130",
-      "isin": "BRINTB3E01T5",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 15000,
-      "quantidade_descoberta": 4400,
-      "total_posicoes": 32400
-    },
-    {
-      "codigo_opcao": "INTBE135",
-      "isin": "BRINTB3E01Q1",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 135300
-    },
-    {
-      "codigo_opcao": "INTBE14",
-      "isin": "BRINTB3E01P3",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4500
-    },
-    {
-      "codigo_opcao": "INTBE145",
-      "isin": "BRINTB3E01S7",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 10500,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 83400
-    },
-    {
-      "codigo_opcao": "INTBE150",
-      "isin": "BRINTB3E01R9",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 7000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 65900
-    },
-    {
-      "codigo_opcao": "INTBQ130",
-      "isin": "BRINTB3Q01P7",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3600
-    },
-    {
-      "codigo_opcao": "INTBQ135",
-      "isin": "BRINTB3Q01Q5",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 29500
-    },
-    {
-      "codigo_opcao": "INTBQ14",
-      "isin": "BRINTB3Q01R3",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10100
-    },
-    {
-      "codigo_opcao": "INTBQ145",
-      "isin": "BRINTB3Q01S1",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16000
-    },
-    {
-      "codigo_opcao": "INTBQ150",
-      "isin": "BRINTB3Q01T9",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 22100,
-      "total_posicoes": 27600
-    },
-    {
-      "codigo_opcao": "INTBE155",
-      "isin": "BRINTB3E01U3",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 5300,
-      "quantidade_descoberta": 10500,
-      "total_posicoes": 60700
-    },
-    {
-      "codigo_opcao": "INTBQ155",
-      "isin": "BRINTB3Q01U7",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "INTBD156",
-      "isin": "BRINTB3D01J8",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 9400,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 30400
-    },
-    {
-      "codigo_opcao": "INTBD166",
-      "isin": "BRINTB3D01G4",
-      "ativo": "INTB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 2600
-    },
-    {
-      "codigo_opcao": "INTBP156",
-      "isin": "BRINTB3P01I4",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 16900
-    },
-    {
-      "codigo_opcao": "INTBP166",
-      "isin": "BRINTB3P01H6",
-      "ativo": "INTB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
     }
   ]
 }
