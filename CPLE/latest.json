@@ -1,11 +1,11 @@
 {
   "ticker": "CPLE",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 223,
-  "calls": 121,
-  "puts": 102,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 191,
+  "calls": 104,
+  "puts": 87,
   "semanais": 0,
   "opcoes": [
     {
@@ -194,17 +194,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "CPLEP923",
-      "isin": "BRCPLE1P0017",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
     },
     {
       "codigo_opcao": "CPLER947",
@@ -456,7 +445,7 @@
       "semanal": false,
       "contratos_em_aberto": 152,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1600,
+      "quantidade_descoberta": 1200,
       "total_posicoes": 6200
     },
     {
@@ -477,9 +466,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 152,
-      "quantidade_coberta": 75700,
+      "quantidade_coberta": 76000,
       "quantidade_descoberta": 700,
-      "total_posicoes": 118500
+      "total_posicoes": 117700
     },
     {
       "codigo_opcao": "CPLEQ115",
@@ -515,367 +504,59 @@
       "total_posicoes": 44500
     },
     {
-      "codigo_opcao": "CPLED16",
-      "isin": "BRCPLE3D0100",
+      "codigo_opcao": "CPLEE149",
+      "isin": "BRCPLE3E00N9",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 71500,
-      "quantidade_descoberta": 756500,
-      "total_posicoes": 1155400
+      "quantidade_coberta": 33600,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 51100
     },
     {
-      "codigo_opcao": "CPLEP16",
-      "isin": "BRCPLE3P0106",
+      "codigo_opcao": "CPLEQ149",
+      "isin": "BRCPLE3Q00N3",
       "ativo": "CPLE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 9100,
-      "total_posicoes": 20100
+      "quantidade_descoberta": 5700,
+      "total_posicoes": 17300
     },
     {
-      "codigo_opcao": "CPLED114",
-      "isin": "BRCPLE3D00R2",
+      "codigo_opcao": "CPLEL102",
+      "isin": "BRCPLE3L0191",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "CPLED119",
-      "isin": "BRCPLE3D00T8",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 34600
-    },
-    {
-      "codigo_opcao": "CPLEP114",
-      "isin": "BRCPLE3P00U0",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "CPLEP119",
-      "isin": "BRCPLE3P00Q8",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 2300
-    },
-    {
-      "codigo_opcao": "CPLEE102",
-      "isin": "BRCPLE3E00Z3",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 4000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "CPLEE137",
-      "isin": "BRCPLE3E00Y6",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 13600
-    },
-    {
-      "codigo_opcao": "CPLEE147",
-      "isin": "BRCPLE3E0109",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2700
-    },
-    {
-      "codigo_opcao": "CPLEE152",
-      "isin": "BRCPLE3E00T6",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 10600,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 219300
-    },
-    {
-      "codigo_opcao": "CPLEE157",
-      "isin": "BRCPLE3E0117",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 26600,
-      "quantidade_descoberta": 8400,
-      "total_posicoes": 54000
-    },
-    {
-      "codigo_opcao": "CPLEE162",
-      "isin": "BRCPLE3E00U4",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 35700,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 1776500
-    },
-    {
-      "codigo_opcao": "CPLEE167",
-      "isin": "BRCPLE3E0158",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 43900,
-      "quantidade_descoberta": 15300,
-      "total_posicoes": 2782500
-    },
-    {
-      "codigo_opcao": "CPLEE172",
-      "isin": "BRCPLE3E01C0",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 39500,
-      "quantidade_descoberta": 1300,
-      "total_posicoes": 2239300
-    },
-    {
-      "codigo_opcao": "CPLEE177",
-      "isin": "BRCPLE3E00W0",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 104400,
-      "quantidade_descoberta": 48000,
-      "total_posicoes": 168400
-    },
-    {
-      "codigo_opcao": "CPLEE182",
-      "isin": "BRCPLE3E00X8",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 47400,
-      "total_posicoes": 48000
-    },
-    {
-      "codigo_opcao": "CPLEE187",
-      "isin": "BRCPLE3E0125",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 9000,
-      "quantidade_descoberta": 6500,
-      "total_posicoes": 15600
-    },
-    {
-      "codigo_opcao": "CPLEE192",
-      "isin": "BRCPLE3E0166",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3900,
-      "total_posicoes": 3900
-    },
-    {
-      "codigo_opcao": "CPLEE202",
-      "isin": "BRCPLE3E01D8",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CPLEQ137",
-      "isin": "BRCPLE3Q00V6",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "CPLEQ147",
-      "isin": "BRCPLE3Q00W4",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 16000
-    },
-    {
-      "codigo_opcao": "CPLEQ152",
-      "isin": "BRCPLE3Q0113",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 29000,
-      "total_posicoes": 40500
-    },
-    {
-      "codigo_opcao": "CPLEQ157",
-      "isin": "BRCPLE3Q00X2",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1703400,
-      "total_posicoes": 1716400
-    },
-    {
-      "codigo_opcao": "CPLEQ162",
-      "isin": "BRCPLE3Q0139",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 19800,
-      "total_posicoes": 37300
-    },
-    {
-      "codigo_opcao": "CPLEQ167",
-      "isin": "BRCPLE3Q00Y0",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17300,
-      "total_posicoes": 2552400
-    },
-    {
-      "codigo_opcao": "CPLEQ227",
-      "isin": "BRCPLE3Q01B6",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "CPLEE169",
-      "isin": "BRCPLE3E01F3",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 15800,
-      "quantidade_descoberta": 194900,
-      "total_posicoes": 17008100
-    },
-    {
-      "codigo_opcao": "CPLEQ169",
-      "isin": "BRCPLE3Q01F7",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5800,
-      "total_posicoes": 17012700
-    },
-    {
-      "codigo_opcao": "CPLEB139",
-      "isin": "BRCPLE3B01I3",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "CPLEN139",
-      "isin": "BRCPLE3N01I8",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 700,
       "quantidade_descoberta": 0,
       "total_posicoes": 700
     },
     {
-      "codigo_opcao": "CPLED135",
-      "isin": "BRCPLE3D00X0",
+      "codigo_opcao": "CPLEL105",
+      "isin": "BRCPLE3L01A9",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 2200,
-      "quantidade_descoberta": 6300,
-      "total_posicoes": 12200
+      "quantidade_coberta": 800,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1200
     },
     {
-      "codigo_opcao": "CPLED140",
-      "isin": "BRCPLE3D00Y8",
+      "codigo_opcao": "CPLEA200",
+      "isin": "BRCPLE3A01H7",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 4700,
-      "quantidade_descoberta": 41100,
-      "total_posicoes": 51100
-    },
-    {
-      "codigo_opcao": "CPLED150",
-      "isin": "BRCPLE3D00W2",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 26600,
-      "quantidade_descoberta": 78800,
-      "total_posicoes": 118600
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 75000,
+      "total_posicoes": 75000
     },
     {
       "codigo_opcao": "CPLEE117",
@@ -906,7 +587,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 200,
       "quantidade_descoberta": 100,
       "total_posicoes": 2700
     },
@@ -939,7 +620,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 800,
+      "quantidade_coberta": 3700,
       "quantidade_descoberta": 0,
       "total_posicoes": 12500
     },
@@ -950,9 +631,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 6800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 19500
+      "quantidade_coberta": 8100,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 20500
     },
     {
       "codigo_opcao": "CPLEF164",
@@ -973,41 +654,8 @@
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 12400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14400
-    },
-    {
-      "codigo_opcao": "CPLEP135",
-      "isin": "BRCPLE3P00W6",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10800
-    },
-    {
-      "codigo_opcao": "CPLEP140",
-      "isin": "BRCPLE3P00X4",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500300,
-      "total_posicoes": 1513100
-    },
-    {
-      "codigo_opcao": "CPLEP150",
-      "isin": "BRCPLE3P00Y2",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 587400,
-      "total_posicoes": 691400
+      "quantidade_descoberta": 2600,
+      "total_posicoes": 17000
     },
     {
       "codigo_opcao": "CPLEQ117",
@@ -1050,7 +698,7 @@
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 34000,
+      "quantidade_descoberta": 34200,
       "total_posicoes": 35200
     },
     {
@@ -1073,7 +721,7 @@
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 8300
+      "total_posicoes": 20400
     },
     {
       "codigo_opcao": "CPLER164",
@@ -1083,8 +731,8 @@
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 4500,
-      "total_posicoes": 24700
+      "quantidade_descoberta": 20000,
+      "total_posicoes": 24900
     },
     {
       "codigo_opcao": "CPLER169",
@@ -1098,65 +746,109 @@
       "total_posicoes": 10700
     },
     {
-      "codigo_opcao": "CPLEL102",
-      "isin": "BRCPLE3L0191",
+      "codigo_opcao": "CPLEF708",
+      "isin": "BRCPLE3F00Y3",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 600,
+      "quantidade_coberta": 64700,
       "quantidade_descoberta": 0,
-      "total_posicoes": 700
+      "total_posicoes": 64700
     },
     {
-      "codigo_opcao": "CPLEL105",
-      "isin": "BRCPLE3L01A9",
+      "codigo_opcao": "CPLEG162",
+      "isin": "BRCPLE3G00V7",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1200
+      "total_posicoes": 2500
     },
     {
-      "codigo_opcao": "CPLEE155",
-      "isin": "BRCPLE3E00R0",
+      "codigo_opcao": "CPLEG167",
+      "isin": "BRCPLE3G00U9",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 13900,
-      "quantidade_descoberta": 52900,
-      "total_posicoes": 76200
-    },
-    {
-      "codigo_opcao": "CPLEI152",
-      "isin": "BRCPLE3I00L4",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 8000,
+      "quantidade_coberta": 5000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 8100
+      "total_posicoes": 5000
     },
     {
-      "codigo_opcao": "CPLEQ155",
-      "isin": "BRCPLE3Q00R4",
+      "codigo_opcao": "CPLES172",
+      "isin": "BRCPLE3S00X8",
       "ativo": "CPLE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 56600,
-      "total_posicoes": 92100
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "CPLEU145",
-      "isin": "BRCPLE3U00J3",
+      "codigo_opcao": "CPLEX115",
+      "isin": "BRCPLE3X0130",
       "ativo": "CPLE",
       "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2260000,
+      "total_posicoes": 2260700
+    },
+    {
+      "codigo_opcao": "CPLEE134",
+      "isin": "BRCPLE3E00I9",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 6600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 35900
+    },
+    {
+      "codigo_opcao": "CPLEE142",
+      "isin": "BRCPLE3E00J7",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 8100,
+      "quantidade_descoberta": 6800,
+      "total_posicoes": 512500
+    },
+    {
+      "codigo_opcao": "CPLEQ134",
+      "isin": "BRCPLE3Q00I3",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 398500,
+      "total_posicoes": 497800
+    },
+    {
+      "codigo_opcao": "CPLEQ142",
+      "isin": "BRCPLE3Q00J1",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 20300
+    },
+    {
+      "codigo_opcao": "CPLEC190",
+      "isin": "BRCPLE3C0119",
+      "ativo": "CPLE",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
@@ -1164,158 +856,312 @@
       "total_posicoes": 400
     },
     {
-      "codigo_opcao": "CPLEU147",
-      "isin": "BRCPLE3U00I5",
+      "codigo_opcao": "CPLEK190",
+      "isin": "BRCPLE3K00V9",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CPLEW155",
+      "isin": "BRCPLE3W00W2",
       "ativo": "CPLE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 9900
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "CPLED17",
-      "isin": "BRCPLE3D0266",
+      "codigo_opcao": "CPLEB139",
+      "isin": "BRCPLE3B01I3",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 500,
       "quantidade_descoberta": 0,
       "total_posicoes": 500
     },
     {
-      "codigo_opcao": "CPLED195",
-      "isin": "BRCPLE3D01W0",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 47500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 91300
-    },
-    {
-      "codigo_opcao": "CPLEJ185",
-      "isin": "BRCPLE3J01F2",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 3000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "CPLEP142",
-      "isin": "BRCPLE3P02K7",
+      "codigo_opcao": "CPLEN139",
+      "isin": "BRCPLE3N01I8",
       "ativo": "CPLE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10000
+      "total_posicoes": 700
     },
     {
-      "codigo_opcao": "CPLEP15",
-      "isin": "BRCPLE3P01Q6",
+      "codigo_opcao": "CPLEE102",
+      "isin": "BRCPLE3E00Z3",
       "ativo": "CPLE",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 91300,
-      "total_posicoes": 91300
+      "quantidade_coberta": 4000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4000
     },
     {
-      "codigo_opcao": "CPLEP162",
-      "isin": "BRCPLE3P02G5",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 91300,
-      "total_posicoes": 91300
-    },
-    {
-      "codigo_opcao": "CPLED122",
-      "isin": "BRCPLE3D01K5",
+      "codigo_opcao": "CPLEE137",
+      "isin": "BRCPLE3E00Y6",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 10000
+      "quantidade_descoberta": 100,
+      "total_posicoes": 13800
     },
     {
-      "codigo_opcao": "CPLED127",
-      "isin": "BRCPLE3D01L3",
+      "codigo_opcao": "CPLEE147",
+      "isin": "BRCPLE3E0109",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 1500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2700
+    },
+    {
+      "codigo_opcao": "CPLEE152",
+      "isin": "BRCPLE3E00T6",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 10000,
+      "quantidade_descoberta": 64700,
+      "total_posicoes": 222300
+    },
+    {
+      "codigo_opcao": "CPLEE157",
+      "isin": "BRCPLE3E0117",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 30800,
+      "quantidade_descoberta": 6700,
+      "total_posicoes": 71200
+    },
+    {
+      "codigo_opcao": "CPLEE162",
+      "isin": "BRCPLE3E00U4",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 58300,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 1778500
+    },
+    {
+      "codigo_opcao": "CPLEE167",
+      "isin": "BRCPLE3E0158",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 43700,
+      "quantidade_descoberta": 15800,
+      "total_posicoes": 2788600
+    },
+    {
+      "codigo_opcao": "CPLEE172",
+      "isin": "BRCPLE3E01C0",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 37600,
+      "quantidade_descoberta": 1300,
+      "total_posicoes": 2240100
+    },
+    {
+      "codigo_opcao": "CPLEE177",
+      "isin": "BRCPLE3E00W0",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 104100,
+      "quantidade_descoberta": 50800,
+      "total_posicoes": 170600
+    },
+    {
+      "codigo_opcao": "CPLEE182",
+      "isin": "BRCPLE3E00X8",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 35000,
+      "total_posicoes": 48100
+    },
+    {
+      "codigo_opcao": "CPLEE187",
+      "isin": "BRCPLE3E0125",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 9000,
+      "quantidade_descoberta": 6500,
+      "total_posicoes": 15600
+    },
+    {
+      "codigo_opcao": "CPLEE192",
+      "isin": "BRCPLE3E0166",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
+      "quantidade_descoberta": 3800,
+      "total_posicoes": 3900
+    },
+    {
+      "codigo_opcao": "CPLEE202",
+      "isin": "BRCPLE3E01D8",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CPLEQ137",
+      "isin": "BRCPLE3Q00V6",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "CPLEQ147",
+      "isin": "BRCPLE3Q00W4",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 67200,
+      "total_posicoes": 79600
+    },
+    {
+      "codigo_opcao": "CPLEQ152",
+      "isin": "BRCPLE3Q0113",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 79800,
+      "total_posicoes": 94500
+    },
+    {
+      "codigo_opcao": "CPLEQ157",
+      "isin": "BRCPLE3Q00X2",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1703400,
+      "total_posicoes": 1717000
+    },
+    {
+      "codigo_opcao": "CPLEQ162",
+      "isin": "BRCPLE3Q0139",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 16700,
+      "total_posicoes": 42500
+    },
+    {
+      "codigo_opcao": "CPLEQ167",
+      "isin": "BRCPLE3Q00Y0",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 24700,
+      "total_posicoes": 2567200
+    },
+    {
+      "codigo_opcao": "CPLEQ177",
+      "isin": "BRCPLE3Q0121",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CPLEQ182",
+      "isin": "BRCPLE3Q00U8",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CPLEQ227",
+      "isin": "BRCPLE3Q01B6",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "CPLEN160",
+      "isin": "BRCPLE3N01M0",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
       "total_posicoes": 1500
     },
     {
-      "codigo_opcao": "CPLED13",
-      "isin": "BRCPLE3D01J7",
+      "codigo_opcao": "CPLEL137",
+      "isin": "BRCPLE3L01B7",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 13800,
-      "total_posicoes": 15300
-    },
-    {
-      "codigo_opcao": "CPLED182",
-      "isin": "BRCPLE3D01I9",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 9500,
-      "quantidade_descoberta": 31300,
-      "total_posicoes": 42300
-    },
-    {
-      "codigo_opcao": "CPLEP122",
-      "isin": "BRCPLE3P01K9",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 16300,
       "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "CPLEP13",
-      "isin": "BRCPLE3P01J1",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 30400,
-      "total_posicoes": 38200
-    },
-    {
-      "codigo_opcao": "CPLED170",
-      "isin": "BRCPLE3D01O7",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 24900,
-      "total_posicoes": 24900
+      "total_posicoes": 16700
     },
     {
       "codigo_opcao": "CPLEJ175",
@@ -1327,17 +1173,6 @@
       "quantidade_coberta": 7700,
       "quantidade_descoberta": 0,
       "total_posicoes": 7700
-    },
-    {
-      "codigo_opcao": "CPLEP170",
-      "isin": "BRCPLE3P01O1",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12100,
-      "total_posicoes": 12200
     },
     {
       "codigo_opcao": "CPLEV142",
@@ -1384,323 +1219,15 @@
       "total_posicoes": 3000
     },
     {
-      "codigo_opcao": "CPLED134",
-      "isin": "BRCPLE3D00N1",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 48700,
-      "total_posicoes": 50600
-    },
-    {
-      "codigo_opcao": "CPLED139",
-      "isin": "BRCPLE3D00O9",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 1600,
-      "quantidade_descoberta": 10400,
-      "total_posicoes": 16500
-    },
-    {
-      "codigo_opcao": "CPLEL135",
-      "isin": "BRCPLE3L0142",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3100
-    },
-    {
-      "codigo_opcao": "CPLEL177",
-      "isin": "BRCPLE3L0159",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 5700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2273300
-    },
-    {
-      "codigo_opcao": "CPLEP134",
-      "isin": "BRCPLE3P00O3",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000700,
-      "total_posicoes": 1094800
-    },
-    {
-      "codigo_opcao": "CPLEP139",
-      "isin": "BRCPLE3P00N5",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 70400,
-      "total_posicoes": 104600
-    },
-    {
-      "codigo_opcao": "CPLEX135",
-      "isin": "BRCPLE3X0148",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2260000,
-      "total_posicoes": 2289700
-    },
-    {
-      "codigo_opcao": "CPLED160",
-      "isin": "BRCPLE3D00Z5",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 12800,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 46900
-    },
-    {
-      "codigo_opcao": "CPLEP160",
-      "isin": "BRCPLE3P00Z9",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 55900,
-      "total_posicoes": 65500
-    },
-    {
-      "codigo_opcao": "CPLED164",
-      "isin": "BRCPLE3D01M1",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 4200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 425900
-    },
-    {
-      "codigo_opcao": "CPLEP164",
-      "isin": "BRCPLE3P01M5",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1400,
-      "total_posicoes": 4700
-    },
-    {
-      "codigo_opcao": "CPLED165",
-      "isin": "BRCPLE3D01N9",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 20200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 523900
-    },
-    {
-      "codigo_opcao": "CPLEH145",
-      "isin": "BRCPLE3H01A7",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "CPLEP165",
-      "isin": "BRCPLE3P01N3",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27100,
-      "total_posicoes": 27700
-    },
-    {
-      "codigo_opcao": "CPLEF708",
-      "isin": "BRCPLE3F00Y3",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 64700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 64700
-    },
-    {
-      "codigo_opcao": "CPLEP127",
-      "isin": "BRCPLE3P01L7",
+      "codigo_opcao": "CPLEV175",
+      "isin": "BRCPLE3V00T0",
       "ativo": "CPLE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "CPLEC190",
-      "isin": "BRCPLE3C0119",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "CPLEK190",
-      "isin": "BRCPLE3K00V9",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CPLES172",
-      "isin": "BRCPLE3S00X8",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CPLEL137",
-      "isin": "BRCPLE3L01B7",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 16300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16700
-    },
-    {
-      "codigo_opcao": "CPLED132",
-      "isin": "BRCPLE3D00L5",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 152,
-      "quantidade_coberta": 17000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 17000
-    },
-    {
-      "codigo_opcao": "CPLED137",
-      "isin": "BRCPLE3D00M3",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 152,
-      "quantidade_coberta": 6600,
-      "quantidade_descoberta": 1700,
-      "total_posicoes": 29100
-    },
-    {
-      "codigo_opcao": "CPLEP132",
-      "isin": "BRCPLE3P00L9",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 152,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 137400,
-      "total_posicoes": 156500
-    },
-    {
-      "codigo_opcao": "CPLEP137",
-      "isin": "BRCPLE3P00M7",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 152,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10100,
-      "total_posicoes": 26100
-    },
-    {
-      "codigo_opcao": "CPLEN160",
-      "isin": "BRCPLE3N01M0",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "CPLEE134",
-      "isin": "BRCPLE3E00I9",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 6400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 35900
-    },
-    {
-      "codigo_opcao": "CPLEE142",
-      "isin": "BRCPLE3E00J7",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 9300,
-      "quantidade_descoberta": 6700,
-      "total_posicoes": 512500
-    },
-    {
-      "codigo_opcao": "CPLEQ134",
-      "isin": "BRCPLE3Q00I3",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 395100,
-      "total_posicoes": 497800
-    },
-    {
-      "codigo_opcao": "CPLEQ142",
-      "isin": "BRCPLE3Q00J1",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 20300
+      "total_posicoes": 800
     },
     {
       "codigo_opcao": "CPLEA90",
@@ -1725,17 +1252,6 @@
       "total_posicoes": 2700
     },
     {
-      "codigo_opcao": "CPLED900",
-      "isin": "BRCPLE1D0003",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 9800
-    },
-    {
       "codigo_opcao": "CPLEE900",
       "isin": "BRCPLE1E0002",
       "ativo": "CPLE",
@@ -1743,7 +1259,7 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 700,
       "total_posicoes": 6500
     },
     {
@@ -1766,7 +1282,7 @@
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "total_posicoes": 900
     },
     {
       "codigo_opcao": "CPLEF139",
@@ -1775,7 +1291,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 1600,
       "quantidade_descoberta": 0,
       "total_posicoes": 1600
     },
@@ -1921,17 +1437,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "CPLEP900",
-      "isin": "BRCPLE1P0009",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11300
     },
     {
       "codigo_opcao": "CPLEQ900",
@@ -2088,74 +1593,107 @@
       "total_posicoes": 500
     },
     {
-      "codigo_opcao": "CPLEX115",
-      "isin": "BRCPLE3X0130",
+      "codigo_opcao": "CPLEE135",
+      "isin": "BRCPLE3E00O7",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 2500
+    },
+    {
+      "codigo_opcao": "CPLEE145",
+      "isin": "BRCPLE3E00P4",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 3400,
+      "quantidade_descoberta": 20500,
+      "total_posicoes": 31300
+    },
+    {
+      "codigo_opcao": "CPLEE150",
+      "isin": "BRCPLE3E00Q2",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 3700,
+      "quantidade_descoberta": 36200,
+      "total_posicoes": 41800
+    },
+    {
+      "codigo_opcao": "CPLEQ135",
+      "isin": "BRCPLE3Q00P8",
       "ativo": "CPLE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2260000,
-      "total_posicoes": 2260700
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1300
     },
     {
-      "codigo_opcao": "CPLED104",
-      "isin": "BRCPLE3D00S0",
+      "codigo_opcao": "CPLEQ145",
+      "isin": "BRCPLE3Q00O1",
       "ativo": "CPLE",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 4400
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1702000,
+      "total_posicoes": 1727800
     },
     {
-      "codigo_opcao": "CPLED109",
-      "isin": "BRCPLE3D00V4",
+      "codigo_opcao": "CPLEQ150",
+      "isin": "BRCPLE3Q00Q6",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4500,
+      "total_posicoes": 11200
+    },
+    {
+      "codigo_opcao": "CPLEH145",
+      "isin": "BRCPLE3H01A7",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "CPLED120",
+      "isin": "BRCPLE3D01X8",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
       "total_posicoes": 700
     },
     {
-      "codigo_opcao": "CPLED145",
-      "isin": "BRCPLE3D00U6",
+      "codigo_opcao": "CPLED167",
+      "isin": "BRCPLE3D02B2",
       "ativo": "CPLE",
       "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 9400,
-      "quantidade_descoberta": 64700,
-      "total_posicoes": 205800
-    },
-    {
-      "codigo_opcao": "CPLEP145",
-      "isin": "BRCPLE3P00R6",
-      "ativo": "CPLE",
-      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 46000,
-      "total_posicoes": 201100
-    },
-    {
-      "codigo_opcao": "CPLEI127",
-      "isin": "BRCPLE3I00M2",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 10000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10000
+      "total_posicoes": 200
     },
     {
-      "codigo_opcao": "CPLEF142",
-      "isin": "BRCPLE3F01L8",
+      "codigo_opcao": "CPLED17",
+      "isin": "BRCPLE3D0266",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
@@ -2165,136 +1703,70 @@
       "total_posicoes": 500
     },
     {
-      "codigo_opcao": "CPLEF152",
-      "isin": "BRCPLE3F0173",
+      "codigo_opcao": "CPLED195",
+      "isin": "BRCPLE3D01W0",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 63600,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2000
+      "total_posicoes": 91300
     },
     {
-      "codigo_opcao": "CPLEF157",
-      "isin": "BRCPLE3F01M6",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "CPLEF162",
-      "isin": "BRCPLE3F0132",
+      "codigo_opcao": "CPLEJ185",
+      "isin": "BRCPLE3J01F2",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 3000,
-      "quantidade_descoberta": 9000,
-      "total_posicoes": 17100
-    },
-    {
-      "codigo_opcao": "CPLEF167",
-      "isin": "BRCPLE3F0165",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1400,
-      "total_posicoes": 31500
-    },
-    {
-      "codigo_opcao": "CPLEF172",
-      "isin": "BRCPLE3F00Z0",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 3100000,
-      "total_posicoes": 3101900
-    },
-    {
-      "codigo_opcao": "CPLEF177",
-      "isin": "BRCPLE3F01G8",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7600
+      "total_posicoes": 3000
     },
     {
-      "codigo_opcao": "CPLEF182",
-      "isin": "BRCPLE3F01N4",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 2800,
-      "quantidade_descoberta": 30300,
-      "total_posicoes": 33100
-    },
-    {
-      "codigo_opcao": "CPLEF187",
-      "isin": "BRCPLE3F01Q7",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3100000,
-      "total_posicoes": 3100000
-    },
-    {
-      "codigo_opcao": "CPLEF202",
-      "isin": "BRCPLE3F0140",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CPLEF222",
-      "isin": "BRCPLE3F01F0",
-      "ativo": "CPLE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "CPLER157",
-      "isin": "BRCPLE3R01B4",
+      "codigo_opcao": "CPLEP142",
+      "isin": "BRCPLE3P02K7",
       "ativo": "CPLE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 200
+      "total_posicoes": 10000
     },
     {
-      "codigo_opcao": "CPLER167",
-      "isin": "BRCPLE3R01N9",
+      "codigo_opcao": "CPLEP15",
+      "isin": "BRCPLE3P01Q6",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 91400,
+      "total_posicoes": 91400
+    },
+    {
+      "codigo_opcao": "CPLEP159",
+      "isin": "BRCPLE3P0288",
       "ativo": "CPLE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "CPLEP162",
+      "isin": "BRCPLE3P02G5",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 91300,
+      "total_posicoes": 91300
     },
     {
       "codigo_opcao": "CPLEH750",
@@ -2336,7 +1808,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 200,
       "quantidade_descoberta": 0,
       "total_posicoes": 500
     },
@@ -2363,70 +1835,59 @@
       "total_posicoes": 700
     },
     {
-      "codigo_opcao": "CPLEE135",
-      "isin": "BRCPLE3E00O7",
+      "codigo_opcao": "CPLEE155",
+      "isin": "BRCPLE3E00R0",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 2500
+      "quantidade_coberta": 10200,
+      "quantidade_descoberta": 56000,
+      "total_posicoes": 76300
     },
     {
-      "codigo_opcao": "CPLEE145",
-      "isin": "BRCPLE3E00P4",
+      "codigo_opcao": "CPLEI152",
+      "isin": "BRCPLE3I00L4",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 24300,
-      "total_posicoes": 31300
+      "quantidade_coberta": 8000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8100
     },
     {
-      "codigo_opcao": "CPLEE150",
-      "isin": "BRCPLE3E00Q2",
+      "codigo_opcao": "CPLEQ155",
+      "isin": "BRCPLE3Q00R4",
       "ativo": "CPLE",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 3700,
-      "quantidade_descoberta": 36200,
-      "total_posicoes": 41800
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 55500,
+      "total_posicoes": 92100
     },
     {
-      "codigo_opcao": "CPLEQ135",
-      "isin": "BRCPLE3Q00P8",
+      "codigo_opcao": "CPLEU145",
+      "isin": "BRCPLE3U00J3",
       "ativo": "CPLE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1300
+      "total_posicoes": 400
     },
     {
-      "codigo_opcao": "CPLEQ145",
-      "isin": "BRCPLE3Q00O1",
+      "codigo_opcao": "CPLEU147",
+      "isin": "BRCPLE3U00I5",
       "ativo": "CPLE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1702000,
-      "total_posicoes": 1727700
-    },
-    {
-      "codigo_opcao": "CPLEQ150",
-      "isin": "BRCPLE3Q00Q6",
-      "ativo": "CPLE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 153,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4300,
-      "total_posicoes": 10600
+      "quantidade_descoberta": 100,
+      "total_posicoes": 9900
     },
     {
       "codigo_opcao": "CPLEU152",
@@ -2440,26 +1901,213 @@
       "total_posicoes": 4000
     },
     {
-      "codigo_opcao": "CPLEE149",
-      "isin": "BRCPLE3E00N9",
+      "codigo_opcao": "CPLEL135",
+      "isin": "BRCPLE3L0142",
       "ativo": "CPLE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 153,
-      "quantidade_coberta": 26100,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 56500
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3100
     },
     {
-      "codigo_opcao": "CPLEQ149",
-      "isin": "BRCPLE3Q00N3",
+      "codigo_opcao": "CPLEL177",
+      "isin": "BRCPLE3L0159",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 5700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2273300
+    },
+    {
+      "codigo_opcao": "CPLEX135",
+      "isin": "BRCPLE3X0148",
       "ativo": "CPLE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 153,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 5300,
+      "quantidade_descoberta": 2260000,
+      "total_posicoes": 2289700
+    },
+    {
+      "codigo_opcao": "CPLEI127",
+      "isin": "BRCPLE3I00M2",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 10000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "CPLEF142",
+      "isin": "BRCPLE3F01L8",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "CPLEF152",
+      "isin": "BRCPLE3F0173",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 4300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4300
+    },
+    {
+      "codigo_opcao": "CPLEF157",
+      "isin": "BRCPLE3F01M6",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "CPLEF162",
+      "isin": "BRCPLE3F0132",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 9000,
       "total_posicoes": 17100
+    },
+    {
+      "codigo_opcao": "CPLEF167",
+      "isin": "BRCPLE3F0165",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1400,
+      "total_posicoes": 33500
+    },
+    {
+      "codigo_opcao": "CPLEF172",
+      "isin": "BRCPLE3F00Z0",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 900,
+      "quantidade_descoberta": 3100000,
+      "total_posicoes": 3102900
+    },
+    {
+      "codigo_opcao": "CPLEF177",
+      "isin": "BRCPLE3F01G8",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 18900
+    },
+    {
+      "codigo_opcao": "CPLEF182",
+      "isin": "BRCPLE3F01N4",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 2800,
+      "quantidade_descoberta": 30300,
+      "total_posicoes": 33100
+    },
+    {
+      "codigo_opcao": "CPLEF187",
+      "isin": "BRCPLE3F01Q7",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3100200,
+      "total_posicoes": 3100200
+    },
+    {
+      "codigo_opcao": "CPLEF202",
+      "isin": "BRCPLE3F0140",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "CPLEF222",
+      "isin": "BRCPLE3F01F0",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "CPLER157",
+      "isin": "BRCPLE3R01B4",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 18700,
+      "total_posicoes": 34400
+    },
+    {
+      "codigo_opcao": "CPLER167",
+      "isin": "BRCPLE3R01N9",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "CPLEE169",
+      "isin": "BRCPLE3E01F3",
+      "ativo": "CPLE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 16500,
+      "quantidade_descoberta": 198200,
+      "total_posicoes": 17010500
+    },
+    {
+      "codigo_opcao": "CPLEQ169",
+      "isin": "BRCPLE3Q01F7",
+      "ativo": "CPLE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 153,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4800,
+      "total_posicoes": 17012800
     }
   ]
 }
