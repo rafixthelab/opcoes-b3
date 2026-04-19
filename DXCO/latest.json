@@ -1,106 +1,18 @@
 {
   "ticker": "DXCO",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 87,
-  "calls": 42,
-  "puts": 45,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 59,
+  "calls": 30,
+  "puts": 29,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "DXCOD580",
-      "isin": "BRDXCO3D04R2",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 652,
-      "quantidade_descoberta": 448,
-      "total_posicoes": 113100
-    },
-    {
-      "codigo_opcao": "DXCOP560",
-      "isin": "BRDXCO3P04R6",
+      "codigo_opcao": "DXCOQ265",
+      "isin": "BRDXCO3Q04L7",
       "ativo": "DXCO",
       "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 28600,
-      "total_posicoes": 28600
-    },
-    {
-      "codigo_opcao": "DXCOE500",
-      "isin": "BRDXCO3E04U4",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 2400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2800
-    },
-    {
-      "codigo_opcao": "DXCOF529",
-      "isin": "BRDXCO3F0520",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 31634,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 31634
-    },
-    {
-      "codigo_opcao": "DXCOR529",
-      "isin": "BRDXCO3R0526",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "DXCOD429",
-      "isin": "BRDXCO3D04L5",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "DXCOD539",
-      "isin": "BRDXCO3D04M3",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "DXCOP539",
-      "isin": "BRDXCO3P04L9",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "DXCOD450",
-      "isin": "BRDXCO3D05B3",
-      "ativo": "DXCO",
-      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
@@ -108,235 +20,37 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "DXCOD460",
-      "isin": "BRDXCO3D0514",
+      "codigo_opcao": "DXCOQ765",
+      "isin": "BRDXCO3Q04J1",
       "ativo": "DXCO",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
+      "quantidade_descoberta": 0,
       "total_posicoes": 1200
     },
     {
-      "codigo_opcao": "DXCOD470",
-      "isin": "BRDXCO3D04U6",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 12200,
-      "total_posicoes": 13200
-    },
-    {
-      "codigo_opcao": "DXCOD480",
-      "isin": "BRDXCO3D05A5",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8500,
-      "total_posicoes": 8500
-    },
-    {
-      "codigo_opcao": "DXCOD490",
-      "isin": "BRDXCO3D05P3",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "DXCOD515",
-      "isin": "BRDXCO3D05I8",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9000
-    },
-    {
-      "codigo_opcao": "DXCOD595",
-      "isin": "BRDXCO3D0555",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 13200
-    },
-    {
-      "codigo_opcao": "DXCOP410",
-      "isin": "BRDXCO3P04Y2",
+      "codigo_opcao": "DXCOQ865",
+      "isin": "BRDXCO3Q04I3",
       "ativo": "DXCO",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 32400
     },
     {
-      "codigo_opcao": "DXCOP420",
-      "isin": "BRDXCO3P05K8",
+      "codigo_opcao": "DXCOQ965",
+      "isin": "BRDXCO3Q04M5",
       "ativo": "DXCO",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "DXCOP440",
-      "isin": "BRDXCO3P05D3",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12400,
-      "total_posicoes": 12600
-    },
-    {
-      "codigo_opcao": "DXCOP450",
-      "isin": "BRDXCO3P05F8",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20300,
-      "total_posicoes": 20500
-    },
-    {
-      "codigo_opcao": "DXCOP460",
-      "isin": "BRDXCO3P05A9",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20700,
-      "total_posicoes": 20900
-    },
-    {
-      "codigo_opcao": "DXCOP470",
-      "isin": "BRDXCO3P05I2",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "DXCOP480",
-      "isin": "BRDXCO3P05G6",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6000,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "DXCOP490",
-      "isin": "BRDXCO3P0510",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7800,
-      "total_posicoes": 9000
-    },
-    {
-      "codigo_opcao": "DXCOP515",
-      "isin": "BRDXCO3P0593",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 18000,
-      "total_posicoes": 18000
-    },
-    {
-      "codigo_opcao": "DXCOP595",
-      "isin": "BRDXCO3P05S1",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6000,
-      "total_posicoes": 7000
-    },
-    {
-      "codigo_opcao": "DXCOP835",
-      "isin": "BRDXCO3P05J0",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8500,
-      "total_posicoes": 8500
-    },
-    {
-      "codigo_opcao": "DXCOP935",
-      "isin": "BRDXCO3P05T9",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6600,
-      "total_posicoes": 6600
-    },
-    {
-      "codigo_opcao": "DXCOP955",
-      "isin": "BRDXCO3P0536",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6500,
-      "total_posicoes": 6500
-    },
-    {
-      "codigo_opcao": "DXCOQ595",
-      "isin": "BRDXCO3Q05I0",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "DXCOQ895",
-      "isin": "BRDXCO3Q0543",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "quantidade_descoberta": 4000,
+      "total_posicoes": 34600
     },
     {
       "codigo_opcao": "DXCOE580",
@@ -369,7 +83,7 @@
       "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 200
+      "total_posicoes": 300
     },
     {
       "codigo_opcao": "DXCOH635",
@@ -392,6 +106,50 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 51000
+    },
+    {
+      "codigo_opcao": "DXCOE595",
+      "isin": "BRDXCO3E05G0",
+      "ativo": "DXCO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3000,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "DXCOQ595",
+      "isin": "BRDXCO3Q05I0",
+      "ativo": "DXCO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1200,
+      "total_posicoes": 3200
+    },
+    {
+      "codigo_opcao": "DXCOQ895",
+      "isin": "BRDXCO3Q0543",
+      "ativo": "DXCO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "DXCOE500",
+      "isin": "BRDXCO3E04U4",
+      "ativo": "DXCO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 2400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2800
     },
     {
       "codigo_opcao": "DXCOA140",
@@ -422,7 +180,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 224,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 448
     },
@@ -455,20 +213,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 4224,
+      "quantidade_coberta": 4000,
       "quantidade_descoberta": 0,
       "total_posicoes": 13944
-    },
-    {
-      "codigo_opcao": "DXCOD600",
-      "isin": "BRDXCO3D03B8",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 2736,
-      "quantidade_descoberta": 22875,
-      "total_posicoes": 87211
     },
     {
       "codigo_opcao": "DXCOE600",
@@ -581,17 +328,6 @@
       "total_posicoes": 27341
     },
     {
-      "codigo_opcao": "DXCOP600",
-      "isin": "BRDXCO3P0387",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4500,
-      "total_posicoes": 6000
-    },
-    {
       "codigo_opcao": "DXCOQ600",
       "isin": "BRDXCO3Q03L9",
       "ativo": "DXCO",
@@ -599,7 +335,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 8964,
+      "quantidade_descoberta": 13964,
       "total_posicoes": 13984
     },
     {
@@ -625,50 +361,6 @@
       "total_posicoes": 12100
     },
     {
-      "codigo_opcao": "DXCOD560",
-      "isin": "BRDXCO3D04S0",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 7328,
-      "total_posicoes": 39900
-    },
-    {
-      "codigo_opcao": "DXCOP580",
-      "isin": "BRDXCO3P04P0",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20000,
-      "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "DXCOF655",
-      "isin": "BRDXCO3F0538",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "DXCOQ435",
-      "isin": "BRDXCO3Q04G7",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1200
-    },
-    {
       "codigo_opcao": "DXCOE635",
       "isin": "BRDXCO3E04F5",
       "ativo": "DXCO",
@@ -676,8 +368,8 @@
       "semanal": false,
       "contratos_em_aberto": 108,
       "quantidade_coberta": 8600,
-      "quantidade_descoberta": 14500,
-      "total_posicoes": 46700
+      "quantidade_descoberta": 12500,
+      "total_posicoes": 44700
     },
     {
       "codigo_opcao": "DXCOQ425",
@@ -702,41 +394,8 @@
       "total_posicoes": 12500
     },
     {
-      "codigo_opcao": "DXCOD500",
-      "isin": "BRDXCO3D05Y5",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 3800,
-      "quantidade_descoberta": 16100,
-      "total_posicoes": 25500
-    },
-    {
-      "codigo_opcao": "DXCOP500",
-      "isin": "BRDXCO3P05X1",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 26500,
-      "total_posicoes": 26500
-    },
-    {
-      "codigo_opcao": "DXCOQ265",
-      "isin": "BRDXCO3Q04L7",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "DXCOQ765",
-      "isin": "BRDXCO3Q04J1",
+      "codigo_opcao": "DXCOQ435",
+      "isin": "BRDXCO3Q04G7",
       "ativo": "DXCO",
       "tipo": "Put",
       "semanal": false,
@@ -746,74 +405,8 @@
       "total_posicoes": 1200
     },
     {
-      "codigo_opcao": "DXCOQ865",
-      "isin": "BRDXCO3Q04I3",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 34100
-    },
-    {
-      "codigo_opcao": "DXCOQ965",
-      "isin": "BRDXCO3Q04M5",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 37100
-    },
-    {
-      "codigo_opcao": "DXCOG465",
-      "isin": "BRDXCO3G05O9",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "DXCOE560",
-      "isin": "BRDXCO3E04V2",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10200
-    },
-    {
-      "codigo_opcao": "DXCOF595",
-      "isin": "BRDXCO3F05D4",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "DXCOF615",
-      "isin": "BRDXCO3F05M5",
-      "ativo": "DXCO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "DXCOF635",
-      "isin": "BRDXCO3F05U8",
+      "codigo_opcao": "DXCOF655",
+      "isin": "BRDXCO3F0538",
       "ativo": "DXCO",
       "tipo": "Call",
       "semanal": false,
@@ -823,59 +416,15 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "DXCOQ560",
-      "isin": "BRDXCO3Q04V6",
+      "codigo_opcao": "DXCOR655",
+      "isin": "BRDXCO3R0534",
       "ativo": "DXCO",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 50000
-    },
-    {
-      "codigo_opcao": "DXCOR492",
-      "isin": "BRDXCO3R05I8",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "DXCOR555",
-      "isin": "BRDXCO3R05M0",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "DXCOR635",
-      "isin": "BRDXCO3R05C1",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "DXCOR895",
-      "isin": "BRDXCO3R05V1",
-      "ativo": "DXCO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1500
+      "quantidade_descoberta": 2300,
+      "total_posicoes": 24200
     },
     {
       "codigo_opcao": "DXCOE450",
@@ -933,6 +482,17 @@
       "total_posicoes": 100
     },
     {
+      "codigo_opcao": "DXCOQ460",
+      "isin": "BRDXCO3Q04Q6",
+      "ativo": "DXCO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6000,
+      "total_posicoes": 6000
+    },
+    {
       "codigo_opcao": "DXCOQ480",
       "isin": "BRDXCO3Q04S2",
       "ativo": "DXCO",
@@ -955,6 +515,39 @@
       "total_posicoes": 31000
     },
     {
+      "codigo_opcao": "DXCOG465",
+      "isin": "BRDXCO3G05O9",
+      "ativo": "DXCO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "DXCOF529",
+      "isin": "BRDXCO3F0520",
+      "ativo": "DXCO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 31634,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 31634
+    },
+    {
+      "codigo_opcao": "DXCOR529",
+      "isin": "BRDXCO3R0526",
+      "ativo": "DXCO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
       "codigo_opcao": "DXCOQ440",
       "isin": "BRDXCO3Q04T0",
       "ativo": "DXCO",
@@ -962,8 +555,107 @@
       "semanal": false,
       "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 6000,
       "total_posicoes": 6300
+    },
+    {
+      "codigo_opcao": "DXCOE560",
+      "isin": "BRDXCO3E04V2",
+      "ativo": "DXCO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10200
+    },
+    {
+      "codigo_opcao": "DXCOF595",
+      "isin": "BRDXCO3F05D4",
+      "ativo": "DXCO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2100
+    },
+    {
+      "codigo_opcao": "DXCOF615",
+      "isin": "BRDXCO3F05M5",
+      "ativo": "DXCO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 2300,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "DXCOF635",
+      "isin": "BRDXCO3F05U8",
+      "ativo": "DXCO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "DXCOQ560",
+      "isin": "BRDXCO3Q04V6",
+      "ativo": "DXCO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 50100
+    },
+    {
+      "codigo_opcao": "DXCOR492",
+      "isin": "BRDXCO3R05I8",
+      "ativo": "DXCO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "DXCOR555",
+      "isin": "BRDXCO3R05M0",
+      "ativo": "DXCO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "DXCOR635",
+      "isin": "BRDXCO3R05C1",
+      "ativo": "DXCO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "DXCOR895",
+      "isin": "BRDXCO3R05V1",
+      "ativo": "DXCO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5500
     }
   ]
 }
