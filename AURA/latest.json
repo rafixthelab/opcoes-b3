@@ -1,67 +1,45 @@
 {
   "ticker": "AURA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 34,
-  "calls": 23,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 33,
+  "calls": 22,
   "puts": 11,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "AURAG161",
-      "isin": "BRAURA9G0043",
-      "ativo": "AURA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 40,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 27460
-    },
-    {
-      "codigo_opcao": "AURAS106",
-      "isin": "BRAURA9S0056",
-      "ativo": "AURA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27000,
-      "total_posicoes": 27000
-    },
-    {
-      "codigo_opcao": "AURAS120",
-      "isin": "BRAURA9S0031",
-      "ativo": "AURA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27000,
-      "total_posicoes": 31000
-    },
-    {
-      "codigo_opcao": "AURAF165",
-      "isin": "BRAURA9F00C9",
+      "codigo_opcao": "AURAK123",
+      "isin": "BRAURA9K0005",
       "ativo": "AURA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 117,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2900
+      "quantidade_descoberta": 8000,
+      "total_posicoes": 8000
     },
     {
-      "codigo_opcao": "AURAD165",
-      "isin": "BRAURA9D00S0",
+      "codigo_opcao": "AURAK185",
+      "isin": "BRAURA9K0013",
       "ativo": "AURA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 117,
+      "quantidade_coberta": 10,
+      "quantidade_descoberta": 8000,
+      "total_posicoes": 8510
+    },
+    {
+      "codigo_opcao": "AURAW990",
+      "isin": "BRAURA9W0027",
+      "ativo": "AURA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 117,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 6070
+      "total_posicoes": 8000
     },
     {
       "codigo_opcao": "AURAL205",
@@ -130,6 +108,61 @@
       "total_posicoes": 43200
     },
     {
+      "codigo_opcao": "AURAG161",
+      "isin": "BRAURA9G0043",
+      "ativo": "AURA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 116,
+      "quantidade_coberta": 40,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 27460
+    },
+    {
+      "codigo_opcao": "AURAS106",
+      "isin": "BRAURA9S0056",
+      "ativo": "AURA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 116,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 27000,
+      "total_posicoes": 27000
+    },
+    {
+      "codigo_opcao": "AURAS120",
+      "isin": "BRAURA9S0031",
+      "ativo": "AURA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 116,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 27000,
+      "total_posicoes": 31000
+    },
+    {
+      "codigo_opcao": "AURAF165",
+      "isin": "BRAURA9F00C9",
+      "ativo": "AURA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2900
+    },
+    {
+      "codigo_opcao": "AURAD165",
+      "isin": "BRAURA9D00S0",
+      "ativo": "AURA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6070
+    },
+    {
       "codigo_opcao": "AURAI660",
       "isin": "BRAURA9I0025",
       "ativo": "AURA",
@@ -139,6 +172,105 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 10
+    },
+    {
+      "codigo_opcao": "AURAF151",
+      "isin": "BRAURA9F0069",
+      "ativo": "AURA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 116,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 21000,
+      "total_posicoes": 21000
+    },
+    {
+      "codigo_opcao": "AURAF181",
+      "isin": "BRAURA9F0077",
+      "ativo": "AURA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 116,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 21000,
+      "total_posicoes": 21200
+    },
+    {
+      "codigo_opcao": "AURAR136",
+      "isin": "BRAURA9R0057",
+      "ativo": "AURA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 116,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 21000
+    },
+    {
+      "codigo_opcao": "AURAR151",
+      "isin": "BRAURA9R0065",
+      "ativo": "AURA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 116,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 90
+    },
+    {
+      "codigo_opcao": "AURAJ740",
+      "isin": "BRAURA9J0008",
+      "ativo": "AURA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 10,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 20610
+    },
+    {
+      "codigo_opcao": "AURAA120",
+      "isin": "BRAURA9A0015",
+      "ativo": "AURA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 116,
+      "quantidade_coberta": 10,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8320
+    },
+    {
+      "codigo_opcao": "AURAL118",
+      "isin": "BRAURA9L00H6",
+      "ativo": "AURA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 116,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "AURAF130",
+      "isin": "BRAURA9F00B1",
+      "ativo": "AURA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 117,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 50000,
+      "total_posicoes": 250000
+    },
+    {
+      "codigo_opcao": "AURAG745",
+      "isin": "BRAURA9G0068",
+      "ativo": "AURA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 116,
+      "quantidade_coberta": 2200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2200
     },
     {
       "codigo_opcao": "AURAF155",
@@ -196,127 +328,6 @@
       "total_posicoes": 4950
     },
     {
-      "codigo_opcao": "AURAF151",
-      "isin": "BRAURA9F0069",
-      "ativo": "AURA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 21000,
-      "total_posicoes": 21000
-    },
-    {
-      "codigo_opcao": "AURAF181",
-      "isin": "BRAURA9F0077",
-      "ativo": "AURA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 21000,
-      "total_posicoes": 21200
-    },
-    {
-      "codigo_opcao": "AURAR136",
-      "isin": "BRAURA9R0057",
-      "ativo": "AURA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 21000
-    },
-    {
-      "codigo_opcao": "AURAR151",
-      "isin": "BRAURA9R0065",
-      "ativo": "AURA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 90
-    },
-    {
-      "codigo_opcao": "AURAK123",
-      "isin": "BRAURA9K0005",
-      "ativo": "AURA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8000,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "AURAK185",
-      "isin": "BRAURA9K0013",
-      "ativo": "AURA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 10,
-      "quantidade_descoberta": 8000,
-      "total_posicoes": 8510
-    },
-    {
-      "codigo_opcao": "AURAW990",
-      "isin": "BRAURA9W0027",
-      "ativo": "AURA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "AURAJ740",
-      "isin": "BRAURA9J0008",
-      "ativo": "AURA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 10,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 20610
-    },
-    {
-      "codigo_opcao": "AURAG745",
-      "isin": "BRAURA9G0068",
-      "ativo": "AURA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 2200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "AURAD520",
-      "isin": "BRAURA9D00M3",
-      "ativo": "AURA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 29900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 29900
-    },
-    {
-      "codigo_opcao": "AURAA120",
-      "isin": "BRAURA9A0015",
-      "ativo": "AURA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 10,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8320
-    },
-    {
       "codigo_opcao": "AURAC157",
       "isin": "BRAURA9C00V6",
       "ativo": "AURA",
@@ -359,28 +370,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 50000
-    },
-    {
-      "codigo_opcao": "AURAL118",
-      "isin": "BRAURA9L00H6",
-      "ativo": "AURA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 116,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "AURAF130",
-      "isin": "BRAURA9F00B1",
-      "ativo": "AURA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 117,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 50000,
-      "total_posicoes": 250000
     }
   ]
 }
