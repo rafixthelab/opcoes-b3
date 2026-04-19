@@ -1,24 +1,13 @@
 {
   "ticker": "IFCM",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 8,
-  "calls": 5,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 7,
+  "calls": 4,
   "puts": 3,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "IFCMM250",
-      "isin": "BRIFCM3M00W0",
-      "ativo": "IFCM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
     {
       "codigo_opcao": "IFCMA10",
       "isin": "BRIFCM3A00F0",
@@ -86,15 +75,15 @@
       "total_posicoes": 500
     },
     {
-      "codigo_opcao": "IFCMD900",
-      "isin": "BRIFCM3D00U3",
+      "codigo_opcao": "IFCMM250",
+      "isin": "BRIFCM3M00W0",
       "ativo": "IFCM",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 106,
+      "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10000
+      "total_posicoes": 5000
     }
   ]
 }
