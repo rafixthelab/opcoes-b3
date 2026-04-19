@@ -1,24 +1,13 @@
 {
   "ticker": "MYPK",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 94,
-  "calls": 42,
-  "puts": 52,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 76,
+  "calls": 32,
+  "puts": 44,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "MYPKD100",
-      "isin": "BRMYPK3D03R1",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6200
-    },
     {
       "codigo_opcao": "MYPKE105",
       "isin": "BRMYPK3E04J4",
@@ -26,31 +15,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 158,
-      "quantidade_coberta": 11600,
+      "quantidade_coberta": 16900,
       "quantidade_descoberta": 0,
-      "total_posicoes": 30200
-    },
-    {
-      "codigo_opcao": "MYPKP100",
-      "isin": "BRMYPK3P03R5",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 22700,
-      "total_posicoes": 22700
-    },
-    {
-      "codigo_opcao": "MYPKP123",
-      "isin": "BRMYPK3P03S3",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100000
+      "total_posicoes": 30700
     },
     {
       "codigo_opcao": "MYPKQ105",
@@ -61,172 +28,7 @@
       "contratos_em_aberto": 158,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 24800
-    },
-    {
-      "codigo_opcao": "MYPKI143",
-      "isin": "BRMYPK3I03G3",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 8600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8600
-    },
-    {
-      "codigo_opcao": "MYPKD930",
-      "isin": "BRMYPK3D03P5",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 15700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 19200
-    },
-    {
-      "codigo_opcao": "MYPKD940",
-      "isin": "BRMYPK3D03O8",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 29100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 29200
-    },
-    {
-      "codigo_opcao": "MYPKD950",
-      "isin": "BRMYPK3D03N0",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 20200,
-      "quantidade_descoberta": 7500,
-      "total_posicoes": 63900
-    },
-    {
-      "codigo_opcao": "MYPKP930",
-      "isin": "BRMYPK3P03O2",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 85700
-    },
-    {
-      "codigo_opcao": "MYPKP940",
-      "isin": "BRMYPK3P03N4",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "MYPKP950",
-      "isin": "BRMYPK3P03P9",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5300
-    },
-    {
-      "codigo_opcao": "MYPKE100",
-      "isin": "BRMYPK3E04K2",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 1900,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 16400
-    },
-    {
-      "codigo_opcao": "MYPKQ100",
-      "isin": "BRMYPK3Q04J8",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9000,
-      "total_posicoes": 13400
-    },
-    {
-      "codigo_opcao": "MYPKL138",
-      "isin": "BRMYPK3L0463",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "MYPKL143",
-      "isin": "BRMYPK3L0455",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "MYPKD105",
-      "isin": "BRMYPK3D03L4",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 2200,
-      "quantidade_descoberta": 24300,
-      "total_posicoes": 27800
-    },
-    {
-      "codigo_opcao": "MYPKD115",
-      "isin": "BRMYPK3D03K6",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 51200,
-      "total_posicoes": 52000
-    },
-    {
-      "codigo_opcao": "MYPKP105",
-      "isin": "BRMYPK3P03K0",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 24500,
-      "total_posicoes": 25400
-    },
-    {
-      "codigo_opcao": "MYPKP115",
-      "isin": "BRMYPK3P03L8",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
+      "total_posicoes": 26800
     },
     {
       "codigo_opcao": "MYPKE885",
@@ -236,7 +38,7 @@
       "semanal": false,
       "contratos_em_aberto": 158,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 16000,
+      "quantidade_descoberta": 17900,
       "total_posicoes": 60000
     },
     {
@@ -301,7 +103,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 158,
-      "quantidade_coberta": 3600,
+      "quantidade_coberta": 3000,
       "quantidade_descoberta": 0,
       "total_posicoes": 4300
     },
@@ -346,7 +148,7 @@
       "semanal": false,
       "contratos_em_aberto": 158,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
+      "quantidade_descoberta": 10200,
       "total_posicoes": 11300
     },
     {
@@ -357,7 +159,7 @@
       "semanal": false,
       "contratos_em_aberto": 158,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
+      "quantidade_descoberta": 1000,
       "total_posicoes": 8400
     },
     {
@@ -389,7 +191,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 158,
-      "quantidade_coberta": 3100,
+      "quantidade_coberta": 3000,
       "quantidade_descoberta": 0,
       "total_posicoes": 3800
     },
@@ -445,7 +247,7 @@
       "semanal": false,
       "contratos_em_aberto": 158,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 100
     },
     {
@@ -478,7 +280,7 @@
       "semanal": false,
       "contratos_em_aberto": 158,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 10100
     },
     {
@@ -511,8 +313,8 @@
       "semanal": false,
       "contratos_em_aberto": 158,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000
+      "quantidade_descoberta": 100,
+      "total_posicoes": 3600
     },
     {
       "codigo_opcao": "MYPKQ915",
@@ -598,9 +400,42 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 158,
-      "quantidade_coberta": 8400,
+      "quantidade_coberta": 8700,
       "quantidade_descoberta": 5500,
-      "total_posicoes": 13900
+      "total_posicoes": 16300
+    },
+    {
+      "codigo_opcao": "MYPKF995",
+      "isin": "BRMYPK3F04S2",
+      "ativo": "MYPK",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "MYPKQ123",
+      "isin": "BRMYPK3Q05F3",
+      "ativo": "MYPK",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100000
+    },
+    {
+      "codigo_opcao": "MYPKR105",
+      "isin": "BRMYPK3R04T5",
+      "ativo": "MYPK",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3000,
+      "total_posicoes": 3000
     },
     {
       "codigo_opcao": "MYPKA13",
@@ -625,17 +460,6 @@
       "total_posicoes": 22800
     },
     {
-      "codigo_opcao": "MYPKD130",
-      "isin": "BRMYPK3D0372",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 156,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6100,
-      "total_posicoes": 6100
-    },
-    {
       "codigo_opcao": "MYPKE13",
       "isin": "BRMYPK3E0488",
       "ativo": "MYPK",
@@ -644,7 +468,18 @@
       "contratos_em_aberto": 156,
       "quantidade_coberta": 300,
       "quantidade_descoberta": 29500,
-      "total_posicoes": 31400
+      "total_posicoes": 30900
+    },
+    {
+      "codigo_opcao": "MYPKF108",
+      "isin": "BRMYPK3F04T0",
+      "ativo": "MYPK",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 11800
     },
     {
       "codigo_opcao": "MYPKF13",
@@ -686,7 +521,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 156,
-      "quantidade_coberta": 2000,
+      "quantidade_coberta": 1000,
       "quantidade_descoberta": 1500,
       "total_posicoes": 3600
     },
@@ -743,18 +578,7 @@
       "contratos_em_aberto": 156,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 8500
-    },
-    {
-      "codigo_opcao": "MYPKP130",
-      "isin": "BRMYPK3P0378",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 156,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9900,
-      "total_posicoes": 9900
+      "total_posicoes": 7000
     },
     {
       "codigo_opcao": "MYPKQ13",
@@ -764,8 +588,19 @@
       "semanal": false,
       "contratos_em_aberto": 156,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 5100
+    },
+    {
+      "codigo_opcao": "MYPKR108",
+      "isin": "BRMYPK3R04U3",
+      "ativo": "MYPK",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3100,
+      "total_posicoes": 3100
     },
     {
       "codigo_opcao": "MYPKR13",
@@ -787,7 +622,7 @@
       "contratos_em_aberto": 156,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1500
+      "total_posicoes": 1400
     },
     {
       "codigo_opcao": "MYPKU13",
@@ -834,81 +669,26 @@
       "total_posicoes": 34000
     },
     {
-      "codigo_opcao": "MYPKP830",
-      "isin": "BRMYPK3P03Q7",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5600
-    },
-    {
-      "codigo_opcao": "MYPKD960",
-      "isin": "BRMYPK3D03M2",
+      "codigo_opcao": "MYPKE100",
+      "isin": "BRMYPK3E04K2",
       "ativo": "MYPK",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 158,
-      "quantidade_coberta": 2900,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 9800
-    },
-    {
-      "codigo_opcao": "MYPKP960",
-      "isin": "BRMYPK3P03M6",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 19000,
-      "total_posicoes": 74000
-    },
-    {
-      "codigo_opcao": "MYPKD890",
-      "isin": "BRMYPK3D03V3",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 7700,
       "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "total_posicoes": 16400
     },
     {
-      "codigo_opcao": "MYPKD910",
-      "isin": "BRMYPK3D03X9",
+      "codigo_opcao": "MYPKQ100",
+      "isin": "BRMYPK3Q04J8",
       "ativo": "MYPK",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 158,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "MYPKD970",
-      "isin": "BRMYPK3D03Z4",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2600
-    },
-    {
-      "codigo_opcao": "MYPKD990",
-      "isin": "BRMYPK3D03T7",
-      "ativo": "MYPK",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 2400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2700
+      "quantidade_descoberta": 12800,
+      "total_posicoes": 17200
     },
     {
       "codigo_opcao": "MYPKF100",
@@ -942,39 +722,6 @@
       "quantidade_coberta": 1300,
       "quantidade_descoberta": 0,
       "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "MYPKP890",
-      "isin": "BRMYPK3P03Y1",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 23600
-    },
-    {
-      "codigo_opcao": "MYPKP910",
-      "isin": "BRMYPK3P03V7",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 29300
-    },
-    {
-      "codigo_opcao": "MYPKP970",
-      "isin": "BRMYPK3P03X3",
-      "ativo": "MYPK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 158,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20600,
-      "total_posicoes": 20600
     },
     {
       "codigo_opcao": "MYPKR100",
@@ -1029,7 +776,18 @@
       "contratos_em_aberto": 158,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3900
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "MYPKR945",
+      "isin": "BRMYPK3R04G2",
+      "ativo": "MYPK",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
     },
     {
       "codigo_opcao": "MYPKR965",
@@ -1041,6 +799,50 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
       "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "MYPKR985",
+      "isin": "BRMYPK3R04J6",
+      "ativo": "MYPK",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4200,
+      "total_posicoes": 4200
+    },
+    {
+      "codigo_opcao": "MYPKL138",
+      "isin": "BRMYPK3L0463",
+      "ativo": "MYPK",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "MYPKL143",
+      "isin": "BRMYPK3L0455",
+      "ativo": "MYPK",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "MYPKI143",
+      "isin": "BRMYPK3I03G3",
+      "ativo": "MYPK",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 5600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 14200
     }
   ]
 }
