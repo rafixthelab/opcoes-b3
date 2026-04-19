@@ -1,0 +1,45 @@
+{
+  "ticker": "LOGN",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 3,
+  "calls": 2,
+  "puts": 1,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "LOGNF332",
+      "isin": "BRLOGN3F0269",
+      "ativo": "LOGN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 41700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 41700
+    },
+    {
+      "codigo_opcao": "LOGNF422",
+      "isin": "BRLOGN3F01V3",
+      "ativo": "LOGN",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 3700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3700
+    },
+    {
+      "codigo_opcao": "LOGNR400",
+      "isin": "BRLOGN3R01U0",
+      "ativo": "LOGN",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3700
+    }
+  ]
+}
