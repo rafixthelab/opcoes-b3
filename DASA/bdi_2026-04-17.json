@@ -1,0 +1,166 @@
+{
+  "ticker": "DASA",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 14,
+  "calls": 6,
+  "puts": 8,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "DASAF330",
+      "isin": "BRDASA3F03S2",
+      "ativo": "DASA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "DASAB130",
+      "isin": "BRDASA3B02J2",
+      "ativo": "DASA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "DASAB199",
+      "isin": "BRDASA3B02I4",
+      "ativo": "DASA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 1200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "DASAE20",
+      "isin": "BRDASA3E03N6",
+      "ativo": "DASA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 800
+    },
+    {
+      "codigo_opcao": "DASAK100",
+      "isin": "BRDASA3K03G7",
+      "ativo": "DASA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 700
+    },
+    {
+      "codigo_opcao": "DASAL180",
+      "isin": "BRDASA3L03K7",
+      "ativo": "DASA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "DASAN199",
+      "isin": "BRDASA3N02I9",
+      "ativo": "DASA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "DASAQ20",
+      "isin": "BRDASA3Q03N0",
+      "ativo": "DASA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 6100
+    },
+    {
+      "codigo_opcao": "DASAR20",
+      "isin": "BRDASA3R03G2",
+      "ativo": "DASA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "DASAS20",
+      "isin": "BRDASA3S04G8",
+      "ativo": "DASA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "DASAT20",
+      "isin": "BRDASA3T03X3",
+      "ativo": "DASA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "DASAU20",
+      "isin": "BRDASA3U04P5",
+      "ativo": "DASA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "DASAV20",
+      "isin": "BRDASA3V0549",
+      "ativo": "DASA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "DASAX180",
+      "isin": "BRDASA3X03K2",
+      "ativo": "DASA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    }
+  ]
+}
