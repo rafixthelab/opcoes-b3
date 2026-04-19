@@ -1,78 +1,34 @@
 {
   "ticker": "SIMH",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 192,
-  "calls": 99,
-  "puts": 93,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 132,
+  "calls": 70,
+  "puts": 62,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "SIMHE550",
-      "isin": "BRSIMH3E05K1",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26700
-    },
-    {
-      "codigo_opcao": "SIMHE870",
-      "isin": "BRSIMH3E05Q8",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8200
-    },
-    {
-      "codigo_opcao": "SIMHQ51",
-      "isin": "BRSIMH3Q05F5",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SIMHQ870",
-      "isin": "BRSIMH3Q05J7",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2300
-    },
-    {
-      "codigo_opcao": "SIMHL500",
-      "isin": "BRSIMH3L06V1",
+      "codigo_opcao": "SIMHI655",
+      "isin": "BRSIMH3I0743",
       "ativo": "SIMH",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 250
+      "total_posicoes": 1300
     },
     {
-      "codigo_opcao": "SIMHL550",
-      "isin": "BRSIMH3L06X7",
+      "codigo_opcao": "SIMHU655",
+      "isin": "BRSIMH3U0747",
       "ativo": "SIMH",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1250
+      "total_posicoes": 2000
     },
     {
       "codigo_opcao": "SIMHE123",
@@ -81,9 +37,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 111,
-      "quantidade_coberta": 35700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 62200
+      "quantidade_coberta": 47700,
+      "quantidade_descoberta": 700,
+      "total_posicoes": 94600
     },
     {
       "codigo_opcao": "SIMHE128",
@@ -92,9 +48,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 111,
-      "quantidade_coberta": 23400,
-      "quantidade_descoberta": 225000,
-      "total_posicoes": 252900
+      "quantidade_coberta": 4000,
+      "quantidade_descoberta": 105900,
+      "total_posicoes": 125400
     },
     {
       "codigo_opcao": "SIMHE133",
@@ -103,9 +59,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 111,
-      "quantidade_coberta": 900,
-      "quantidade_descoberta": 5800,
-      "total_posicoes": 72100
+      "quantidade_coberta": 30500,
+      "quantidade_descoberta": 29300,
+      "total_posicoes": 97600
     },
     {
       "codigo_opcao": "SIMHE138",
@@ -114,9 +70,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 111,
-      "quantidade_coberta": 5400,
+      "quantidade_coberta": 5100,
       "quantidade_descoberta": 100,
-      "total_posicoes": 6000
+      "total_posicoes": 13000
     },
     {
       "codigo_opcao": "SIMHE143",
@@ -174,17 +130,6 @@
       "total_posicoes": 25000
     },
     {
-      "codigo_opcao": "SIMHP16",
-      "isin": "BRSIMH3P05Z5",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 125000
-    },
-    {
       "codigo_opcao": "SIMHQ103",
       "isin": "BRSIMH3Q04E1",
       "ativo": "SIMH",
@@ -192,7 +137,7 @@
       "semanal": false,
       "contratos_em_aberto": 111,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 75300,
+      "quantidade_descoberta": 75500,
       "total_posicoes": 78100
     },
     {
@@ -203,8 +148,8 @@
       "semanal": false,
       "contratos_em_aberto": 111,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8200
+      "quantidade_descoberta": 128300,
+      "total_posicoes": 134600
     },
     {
       "codigo_opcao": "SIMHQ128",
@@ -229,39 +174,6 @@
       "total_posicoes": 5500
     },
     {
-      "codigo_opcao": "SIMHL108",
-      "isin": "BRSIMH3L0714",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 10200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11200
-    },
-    {
-      "codigo_opcao": "SIMHL653",
-      "isin": "BRSIMH3L0706",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4730
-    },
-    {
-      "codigo_opcao": "SIMHX653",
-      "isin": "BRSIMH3X0702",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 4300
-    },
-    {
       "codigo_opcao": "SIMHQ148",
       "isin": "BRSIMH3Q0545",
       "ativo": "SIMH",
@@ -284,17 +196,6 @@
       "total_posicoes": 1600
     },
     {
-      "codigo_opcao": "SIMHQ880",
-      "isin": "BRSIMH3Q0511",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
       "codigo_opcao": "SIMHQ900",
       "isin": "BRSIMH3Q04B7",
       "ativo": "SIMH",
@@ -303,7 +204,7 @@
       "contratos_em_aberto": 111,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 55400
+      "total_posicoes": 55200
     },
     {
       "codigo_opcao": "SIMHQ940",
@@ -324,7 +225,7 @@
       "semanal": false,
       "contratos_em_aberto": 111,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 53400,
+      "quantidade_descoberta": 53500,
       "total_posicoes": 83500
     },
     {
@@ -337,17 +238,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 600,
       "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "SIMHR364",
-      "isin": "BRSIMH3R03B7",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 25000
     },
     {
       "codigo_opcao": "SIMHA30",
@@ -392,17 +282,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "SIMHD300",
-      "isin": "BRSIMH3D01R7",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 50,
-      "total_posicoes": 50
     },
     {
       "codigo_opcao": "SIMHE510",
@@ -457,7 +336,7 @@
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 8000
+      "total_posicoes": 9000
     },
     {
       "codigo_opcao": "SIMHE710",
@@ -467,7 +346,7 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 200,
-      "quantidade_descoberta": 17900,
+      "quantidade_descoberta": 50809,
       "total_posicoes": 109650
     },
     {
@@ -478,8 +357,8 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 1050,
-      "quantidade_descoberta": 24750,
-      "total_posicoes": 545400
+      "quantidade_descoberta": 426950,
+      "total_posicoes": 546300
     },
     {
       "codigo_opcao": "SIMHE730",
@@ -543,9 +422,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3750
+      "quantidade_coberta": 3000,
+      "quantidade_descoberta": 1200,
+      "total_posicoes": 5350
     },
     {
       "codigo_opcao": "SIMHF720",
@@ -653,7 +532,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
-      "quantidade_coberta": 99,
+      "quantidade_coberta": 1,
       "quantidade_descoberta": 0,
       "total_posicoes": 350
     },
@@ -801,17 +680,6 @@
       "total_posicoes": 5000
     },
     {
-      "codigo_opcao": "SIMHP300",
-      "isin": "BRSIMH3P01R1",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7550,
-      "total_posicoes": 7700
-    },
-    {
       "codigo_opcao": "SIMHQ510",
       "isin": "BRSIMH3Q02U1",
       "ativo": "SIMH",
@@ -819,7 +687,7 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 15200,
+      "quantidade_descoberta": 17000,
       "total_posicoes": 28800
     },
     {
@@ -830,7 +698,7 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 9400,
+      "quantidade_descoberta": 9600,
       "total_posicoes": 9600
     },
     {
@@ -864,7 +732,7 @@
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 19374
+      "total_posicoes": 16374
     },
     {
       "codigo_opcao": "SIMHQ710",
@@ -985,7 +853,7 @@
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 8500
+      "total_posicoes": 9500
     },
     {
       "codigo_opcao": "SIMHS540",
@@ -1109,6 +977,72 @@
       "total_posicoes": 8000
     },
     {
+      "codigo_opcao": "SIMHL653",
+      "isin": "BRSIMH3L0706",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4730
+    },
+    {
+      "codigo_opcao": "SIMHX653",
+      "isin": "BRSIMH3X0702",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4100,
+      "total_posicoes": 4300
+    },
+    {
+      "codigo_opcao": "SIMHE550",
+      "isin": "BRSIMH3E05K1",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 1200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26700
+    },
+    {
+      "codigo_opcao": "SIMHE870",
+      "isin": "BRSIMH3E05Q8",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8200
+    },
+    {
+      "codigo_opcao": "SIMHQ51",
+      "isin": "BRSIMH3Q05F5",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "SIMHQ870",
+      "isin": "BRSIMH3Q05J7",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2300
+    },
+    {
       "codigo_opcao": "SIMHE125",
       "isin": "BRSIMH3E0499",
       "ativo": "SIMH",
@@ -1116,8 +1050,8 @@
       "semanal": false,
       "contratos_em_aberto": 111,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4700
+      "quantidade_descoberta": 5600,
+      "total_posicoes": 10700
     },
     {
       "codigo_opcao": "SIMHQ125",
@@ -1131,70 +1065,92 @@
       "total_posicoes": 9200
     },
     {
-      "codigo_opcao": "SIMHG500",
-      "isin": "BRSIMH3G0596",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2950
-    },
-    {
-      "codigo_opcao": "SIMHG60",
-      "isin": "BRSIMH3G05A7",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 102400
-    },
-    {
-      "codigo_opcao": "SIMHG700",
-      "isin": "BRSIMH3G0588",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26400
-    },
-    {
-      "codigo_opcao": "SIMHS500",
-      "isin": "BRSIMH3S0592",
+      "codigo_opcao": "SIMHQ168",
+      "isin": "BRSIMH3Q05U4",
       "ativo": "SIMH",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 109,
+      "contratos_em_aberto": 111,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2500,
-      "total_posicoes": 3000
+      "quantidade_descoberta": 0,
+      "total_posicoes": 125000
     },
     {
-      "codigo_opcao": "SIMHS60",
-      "isin": "BRSIMH3S05A2",
+      "codigo_opcao": "SIMHE11",
+      "isin": "BRSIMH3E0481",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 15200,
+      "quantidade_descoberta": 6000,
+      "total_posicoes": 39200
+    },
+    {
+      "codigo_opcao": "SIMHE115",
+      "isin": "BRSIMH3E0473",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 6400,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 131900
+    },
+    {
+      "codigo_opcao": "SIMHE120",
+      "isin": "BRSIMH3E0465",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 19400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 266800
+    },
+    {
+      "codigo_opcao": "SIMHQ11",
+      "isin": "BRSIMH3Q0487",
       "ativo": "SIMH",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 109,
+      "contratos_em_aberto": 111,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100000,
-      "total_posicoes": 100000
+      "quantidade_descoberta": 0,
+      "total_posicoes": 30000
     },
     {
-      "codigo_opcao": "SIMHS700",
-      "isin": "BRSIMH3S0584",
+      "codigo_opcao": "SIMHQ115",
+      "isin": "BRSIMH3Q0461",
       "ativo": "SIMH",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 109,
+      "contratos_em_aberto": 111,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2500,
-      "total_posicoes": 4050
+      "quantidade_descoberta": 3600,
+      "total_posicoes": 260500
+    },
+    {
+      "codigo_opcao": "SIMHQ120",
+      "isin": "BRSIMH3Q0479",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 22000
+    },
+    {
+      "codigo_opcao": "SIMHR364",
+      "isin": "BRSIMH3R03B7",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 25000
     },
     {
       "codigo_opcao": "SIMHL398",
@@ -1241,6 +1197,204 @@
       "total_posicoes": 1250
     },
     {
+      "codigo_opcao": "SIMHC10",
+      "isin": "BRSIMH3C07C8",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1500
+    },
+    {
+      "codigo_opcao": "SIMHC105",
+      "isin": "BRSIMH3C07E4",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1700
+    },
+    {
+      "codigo_opcao": "SIMHS113",
+      "isin": "BRSIMH3S05L9",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "SIMHG500",
+      "isin": "BRSIMH3G0596",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2950
+    },
+    {
+      "codigo_opcao": "SIMHG60",
+      "isin": "BRSIMH3G05A7",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 102400
+    },
+    {
+      "codigo_opcao": "SIMHG700",
+      "isin": "BRSIMH3G0588",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26400
+    },
+    {
+      "codigo_opcao": "SIMHS500",
+      "isin": "BRSIMH3S0592",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2500,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "SIMHS60",
+      "isin": "BRSIMH3S05A2",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100000,
+      "total_posicoes": 100000
+    },
+    {
+      "codigo_opcao": "SIMHS700",
+      "isin": "BRSIMH3S0584",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2500,
+      "total_posicoes": 4050
+    },
+    {
+      "codigo_opcao": "SIMHF126",
+      "isin": "BRSIMH3F0399",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "SIMHF131",
+      "isin": "BRSIMH3F03A4",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10600
+    },
+    {
+      "codigo_opcao": "SIMHR126",
+      "isin": "BRSIMH3R0395",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8000
+    },
+    {
+      "codigo_opcao": "SIMHL500",
+      "isin": "BRSIMH3L06V1",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 250
+    },
+    {
+      "codigo_opcao": "SIMHL550",
+      "isin": "BRSIMH3L06X7",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1250
+    },
+    {
+      "codigo_opcao": "SIMHR115",
+      "isin": "BRSIMH3R03C5",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SIMHL108",
+      "isin": "BRSIMH3L0714",
+      "ativo": "SIMH",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 10200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 11200
+    },
+    {
+      "codigo_opcao": "SIMHQ478",
+      "isin": "BRSIMH3Q0412",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9950
+    },
+    {
+      "codigo_opcao": "SIMHQ193",
+      "isin": "BRSIMH3Q05T6",
+      "ativo": "SIMH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 111,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 22000
+    },
+    {
       "codigo_opcao": "SIMHI845",
       "isin": "BRSIMH3I0750",
       "ativo": "SIMH",
@@ -1258,7 +1412,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 50,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 22550
     },
@@ -1305,820 +1459,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1000,
       "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "SIMHR115",
-      "isin": "BRSIMH3R03C5",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SIMHS113",
-      "isin": "BRSIMH3S05L9",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "SIMHF126",
-      "isin": "BRSIMH3F0399",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "SIMHF131",
-      "isin": "BRSIMH3F03A4",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11600
-    },
-    {
-      "codigo_opcao": "SIMHR126",
-      "isin": "BRSIMH3R0395",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "SIMHD125",
-      "isin": "BRSIMH3D05H9",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 151300
-    },
-    {
-      "codigo_opcao": "SIMHD936",
-      "isin": "BRSIMH3D05V0",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4500,
-      "total_posicoes": 4500
-    },
-    {
-      "codigo_opcao": "SIMHP10",
-      "isin": "BRSIMH3P05J9",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 78500
-    },
-    {
-      "codigo_opcao": "SIMHP11",
-      "isin": "BRSIMH3P0520",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3400
-    },
-    {
-      "codigo_opcao": "SIMHP846",
-      "isin": "BRSIMH3P05L5",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SIMHI655",
-      "isin": "BRSIMH3I0743",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "SIMHU655",
-      "isin": "BRSIMH3U0747",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "SIMHC10",
-      "isin": "BRSIMH3C07C8",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "SIMHC105",
-      "isin": "BRSIMH3C07E4",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1700
-    },
-    {
-      "codigo_opcao": "SIMHD158",
-      "isin": "BRSIMH3D0516",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SIMHD178",
-      "isin": "BRSIMH3D04S9",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "SIMHP163",
-      "isin": "BRSIMH3P04I4",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SIMHP173",
-      "isin": "BRSIMH3P0470",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SIMHP178",
-      "isin": "BRSIMH3P04O2",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SIMHP183",
-      "isin": "BRSIMH3P04D5",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SIMHP203",
-      "isin": "BRSIMH3P0504",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SIMHP208",
-      "isin": "BRSIMH3P04F0",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SIMHP836",
-      "isin": "BRSIMH3P04A1",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6100
-    },
-    {
-      "codigo_opcao": "SIMHP856",
-      "isin": "BRSIMH3P0488",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "SIMHD10",
-      "isin": "BRSIMH3D05O5",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "SIMHD11",
-      "isin": "BRSIMH3D0565",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14800
-    },
-    {
-      "codigo_opcao": "SIMHD113",
-      "isin": "BRSIMH3D0532",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 35800
-    },
-    {
-      "codigo_opcao": "SIMHD115",
-      "isin": "BRSIMH3D0599",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 201400
-    },
-    {
-      "codigo_opcao": "SIMHD118",
-      "isin": "BRSIMH3D05X6",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 19700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 32000
-    },
-    {
-      "codigo_opcao": "SIMHD123",
-      "isin": "BRSIMH3D05R8",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 3700,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 44800
-    },
-    {
-      "codigo_opcao": "SIMHD128",
-      "isin": "BRSIMH3D05T4",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 169838,
-      "total_posicoes": 300700
-    },
-    {
-      "codigo_opcao": "SIMHD130",
-      "isin": "BRSIMH3D05I7",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 10900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 45500
-    },
-    {
-      "codigo_opcao": "SIMHD133",
-      "isin": "BRSIMH3D05W8",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 42300
-    },
-    {
-      "codigo_opcao": "SIMHD138",
-      "isin": "BRSIMH3D05A4",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6200
-    },
-    {
-      "codigo_opcao": "SIMHD143",
-      "isin": "BRSIMH3D0573",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 2200,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 36000
-    },
-    {
-      "codigo_opcao": "SIMHP103",
-      "isin": "BRSIMH3P05T8",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 6500
-    },
-    {
-      "codigo_opcao": "SIMHP108",
-      "isin": "BRSIMH3P05H3",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1900
-    },
-    {
-      "codigo_opcao": "SIMHP113",
-      "isin": "BRSIMH3P05V4",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14200
-    },
-    {
-      "codigo_opcao": "SIMHP115",
-      "isin": "BRSIMH3P05I1",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SIMHP130",
-      "isin": "BRSIMH3P05F7",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4500,
-      "total_posicoes": 4500
-    },
-    {
-      "codigo_opcao": "SIMHP966",
-      "isin": "BRSIMH3P05O9",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "SIMHE11",
-      "isin": "BRSIMH3E0481",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 15200,
-      "quantidade_descoberta": 6000,
-      "total_posicoes": 33400
-    },
-    {
-      "codigo_opcao": "SIMHE115",
-      "isin": "BRSIMH3E0473",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 5700,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 81100
-    },
-    {
-      "codigo_opcao": "SIMHE120",
-      "isin": "BRSIMH3E0465",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 8900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 91800
-    },
-    {
-      "codigo_opcao": "SIMHQ11",
-      "isin": "BRSIMH3Q0487",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 42200
-    },
-    {
-      "codigo_opcao": "SIMHQ115",
-      "isin": "BRSIMH3Q0461",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 257800
-    },
-    {
-      "codigo_opcao": "SIMHQ120",
-      "isin": "BRSIMH3Q0479",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 31700
-    },
-    {
-      "codigo_opcao": "SIMHQ193",
-      "isin": "BRSIMH3Q05T6",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 111,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 22000
-    },
-    {
-      "codigo_opcao": "SIMHD523",
-      "isin": "BRSIMH3D03T9",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 15000
-    },
-    {
-      "codigo_opcao": "SIMHD563",
-      "isin": "BRSIMH3D03U7",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16000
-    },
-    {
-      "codigo_opcao": "SIMHD583",
-      "isin": "BRSIMH3D03V5",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 309100
-    },
-    {
-      "codigo_opcao": "SIMHD603",
-      "isin": "BRSIMH3D03S1",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6500,
-      "total_posicoes": 23400
-    },
-    {
-      "codigo_opcao": "SIMHD623",
-      "isin": "BRSIMH3D0409",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 21300,
-      "total_posicoes": 502200
-    },
-    {
-      "codigo_opcao": "SIMHD643",
-      "isin": "BRSIMH3D0417",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 1060,
-      "quantidade_descoberta": 294262,
-      "total_posicoes": 295662
-    },
-    {
-      "codigo_opcao": "SIMHD663",
-      "isin": "BRSIMH3D03X1",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 37300,
-      "total_posicoes": 41700
-    },
-    {
-      "codigo_opcao": "SIMHD683",
-      "isin": "BRSIMH3D03Q5",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 2600,
-      "quantidade_descoberta": 1,
-      "total_posicoes": 3900
-    },
-    {
-      "codigo_opcao": "SIMHD703",
-      "isin": "BRSIMH3D03P7",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 3000,
-      "quantidade_descoberta": 85100,
-      "total_posicoes": 99100
-    },
-    {
-      "codigo_opcao": "SIMHD723",
-      "isin": "BRSIMH3D03W3",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 82250,
-      "total_posicoes": 83450
-    },
-    {
-      "codigo_opcao": "SIMHD743",
-      "isin": "BRSIMH3D03O0",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 1600,
-      "quantidade_descoberta": 6300,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "SIMHD763",
-      "isin": "BRSIMH3D0425",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 3200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 19100
-    },
-    {
-      "codigo_opcao": "SIMHD783",
-      "isin": "BRSIMH3D03Z6",
-      "ativo": "SIMH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 2850,
-      "quantidade_descoberta": 28781,
-      "total_posicoes": 31831
-    },
-    {
-      "codigo_opcao": "SIMHP503",
-      "isin": "BRSIMH3P03R7",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 36000
-    },
-    {
-      "codigo_opcao": "SIMHP523",
-      "isin": "BRSIMH3P03Z0",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1350,
-      "total_posicoes": 35050
-    },
-    {
-      "codigo_opcao": "SIMHP543",
-      "isin": "BRSIMH3P03V9",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 16100,
-      "total_posicoes": 56900
-    },
-    {
-      "codigo_opcao": "SIMHP563",
-      "isin": "BRSIMH3P0405",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100986
-    },
-    {
-      "codigo_opcao": "SIMHP583",
-      "isin": "BRSIMH3P03S5",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 17000
-    },
-    {
-      "codigo_opcao": "SIMHP603",
-      "isin": "BRSIMH3P03U1",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1400,
-      "total_posicoes": 83400
-    },
-    {
-      "codigo_opcao": "SIMHP623",
-      "isin": "BRSIMH3P03T3",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7500,
-      "total_posicoes": 11000
-    },
-    {
-      "codigo_opcao": "SIMHP643",
-      "isin": "BRSIMH3P03P1",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "SIMHP663",
-      "isin": "BRSIMH3P03O4",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "SIMHP683",
-      "isin": "BRSIMH3P0421",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "SIMHP703",
-      "isin": "BRSIMH3P03Y3",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "SIMHP783",
-      "isin": "BRSIMH3P03Q9",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SIMHQ478",
-      "isin": "BRSIMH3Q0412",
-      "ativo": "SIMH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11750
     }
   ]
 }
