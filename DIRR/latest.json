@@ -1,269 +1,159 @@
 {
   "ticker": "DIRR",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 203,
-  "calls": 95,
-  "puts": 108,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 157,
+  "calls": 73,
+  "puts": 84,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "DIRRF145",
-      "isin": "BRDIRR3F03R8",
+      "codigo_opcao": "DIRRF180",
+      "isin": "BRDIRR3F03M9",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
-      "quantidade_coberta": 31700,
-      "quantidade_descoberta": 29600,
-      "total_posicoes": 194300
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1100
     },
     {
-      "codigo_opcao": "DIRRF150",
-      "isin": "BRDIRR3F03Q0",
+      "codigo_opcao": "DIRRF220",
+      "isin": "BRDIRR3F03L1",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3300
+    },
+    {
+      "codigo_opcao": "DIRRR220",
+      "isin": "BRDIRR3R03L6",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3500
+    },
+    {
+      "codigo_opcao": "DIRRI125",
+      "isin": "BRDIRR3I0321",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 122,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1300
+    },
+    {
+      "codigo_opcao": "DIRRI172",
+      "isin": "BRDIRR3I0313",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 122,
       "quantidade_coberta": 200,
-      "quantidade_descoberta": 10500,
-      "total_posicoes": 78500
-    },
-    {
-      "codigo_opcao": "DIRRF155",
-      "isin": "BRDIRR3F03S6",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3800,
-      "total_posicoes": 59400
-    },
-    {
-      "codigo_opcao": "DIRRF160",
-      "isin": "BRDIRR3F03O5",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 21600,
-      "total_posicoes": 202300
-    },
-    {
-      "codigo_opcao": "DIRRF165",
-      "isin": "BRDIRR3F03U2",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 24900,
-      "total_posicoes": 55400
-    },
-    {
-      "codigo_opcao": "DIRRF170",
-      "isin": "BRDIRR3F03P2",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 6200,
-      "total_posicoes": 43800
-    },
-    {
-      "codigo_opcao": "DIRRF175",
-      "isin": "BRDIRR3F03T4",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2500
+      "total_posicoes": 57800
     },
     {
-      "codigo_opcao": "DIRRR145",
-      "isin": "BRDIRR3R03U7",
+      "codigo_opcao": "DIRRU125",
+      "isin": "BRDIRR3U0325",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 123,
+      "contratos_em_aberto": 122,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 36900
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1700
     },
     {
-      "codigo_opcao": "DIRRR150",
-      "isin": "BRDIRR3R03P7",
+      "codigo_opcao": "DIRRU172",
+      "isin": "BRDIRR3U0317",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 122,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12800
+    },
+    {
+      "codigo_opcao": "DIRRR135",
+      "isin": "BRDIRR3R04P5",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 14900
+      "total_posicoes": 9300
     },
     {
-      "codigo_opcao": "DIRRR155",
-      "isin": "BRDIRR3R03Q5",
+      "codigo_opcao": "DIRRR140",
+      "isin": "BRDIRR3R04Q3",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 681100,
-      "total_posicoes": 695100
+      "quantidade_descoberta": 1700,
+      "total_posicoes": 22600
     },
     {
-      "codigo_opcao": "DIRRR170",
-      "isin": "BRDIRR3R03O0",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "DIRRB31",
-      "isin": "BRDIRR3B02O6",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 24400
-    },
-    {
-      "codigo_opcao": "DIRRN31",
-      "isin": "BRDIRR3N02O1",
+      "codigo_opcao": "DIRRS133",
+      "isin": "BRDIRR3S03L4",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3600
+      "total_posicoes": 600
     },
     {
-      "codigo_opcao": "DIRRC162",
-      "isin": "BRDIRR3C03A1",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 309000
-    },
-    {
-      "codigo_opcao": "DIRRO162",
-      "isin": "BRDIRR3O03A6",
+      "codigo_opcao": "DIRRS138",
+      "isin": "BRDIRR3S03N0",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 305500
+      "total_posicoes": 300
     },
     {
-      "codigo_opcao": "DIRRF108",
-      "isin": "BRDIRR3F03W8",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6900,
-      "total_posicoes": 6900
-    },
-    {
-      "codigo_opcao": "DIRRF113",
-      "isin": "BRDIRR3F03V0",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 7500,
-      "total_posicoes": 15200
-    },
-    {
-      "codigo_opcao": "DIRRR108",
-      "isin": "BRDIRR3R03W3",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6200,
-      "total_posicoes": 29500
-    },
-    {
-      "codigo_opcao": "DIRRR113",
-      "isin": "BRDIRR3R03V5",
+      "codigo_opcao": "DIRRS143",
+      "isin": "BRDIRR3S03O8",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 8700
+      "total_posicoes": 3700
     },
     {
-      "codigo_opcao": "DIRRL173",
-      "isin": "BRDIRR3L03E4",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 28500
-    },
-    {
-      "codigo_opcao": "DIRRL183",
-      "isin": "BRDIRR3L03C8",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "DIRRL188",
-      "isin": "BRDIRR3L03D6",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5100
-    },
-    {
-      "codigo_opcao": "DIRRX173",
-      "isin": "BRDIRR3X03E9",
+      "codigo_opcao": "DIRRT128",
+      "isin": "BRDIRR3T03E7",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 800
+      "total_posicoes": 600
     },
     {
-      "codigo_opcao": "DIRRX183",
-      "isin": "BRDIRR3X03C3",
+      "codigo_opcao": "DIRRT133",
+      "isin": "BRDIRR3T03F4",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
@@ -273,136 +163,26 @@
       "total_posicoes": 400
     },
     {
-      "codigo_opcao": "DIRRP155",
-      "isin": "BRDIRR3P0306",
+      "codigo_opcao": "DIRRT138",
+      "isin": "BRDIRR3T03C1",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 30800,
-      "total_posicoes": 41800
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1400
     },
     {
-      "codigo_opcao": "DIRRP160",
-      "isin": "BRDIRR3P0322",
+      "codigo_opcao": "DIRRP137",
+      "isin": "BRDIRR3P03Z0",
       "ativo": "DIRR",
       "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2500,
-      "total_posicoes": 4400
-    },
-    {
-      "codigo_opcao": "DIRRE13",
-      "isin": "BRDIRR3E04E7",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 5600,
-      "quantidade_descoberta": 3300,
-      "total_posicoes": 12500
-    },
-    {
-      "codigo_opcao": "DIRRE14",
-      "isin": "BRDIRR3E04G2",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 32000,
-      "total_posicoes": 54700
-    },
-    {
-      "codigo_opcao": "DIRRE144",
-      "isin": "BRDIRR3E04C1",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 8100,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 49100
-    },
-    {
-      "codigo_opcao": "DIRRE15",
-      "isin": "BRDIRR3E04D9",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 54300,
-      "quantidade_descoberta": 6300,
-      "total_posicoes": 101300
-    },
-    {
-      "codigo_opcao": "DIRRE808",
-      "isin": "BRDIRR3E04F4",
-      "ativo": "DIRR",
-      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "DIRRQ13",
-      "isin": "BRDIRR3Q04E1",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6100,
-      "total_posicoes": 98000
-    },
-    {
-      "codigo_opcao": "DIRRQ14",
-      "isin": "BRDIRR3Q04D3",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1900,
-      "total_posicoes": 82200
-    },
-    {
-      "codigo_opcao": "DIRRQ144",
-      "isin": "BRDIRR3Q04B7",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 15400,
-      "total_posicoes": 61100
-    },
-    {
-      "codigo_opcao": "DIRRQ15",
-      "isin": "BRDIRR3Q04F8",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7000,
-      "total_posicoes": 20700
-    },
-    {
-      "codigo_opcao": "DIRRQ808",
-      "isin": "BRDIRR3Q04C5",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 52600,
-      "total_posicoes": 57700
+      "total_posicoes": 1000
     },
     {
       "codigo_opcao": "DIRRC167",
@@ -468,7 +248,7 @@
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1200
+      "total_posicoes": 1500
     },
     {
       "codigo_opcao": "DIRRU137",
@@ -491,523 +271,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 5300
-    },
-    {
-      "codigo_opcao": "DIRRF148",
-      "isin": "BRDIRR3F03X6",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 314800
-    },
-    {
-      "codigo_opcao": "DIRRR148",
-      "isin": "BRDIRR3R03X1",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11000,
-      "total_posicoes": 19700
-    },
-    {
-      "codigo_opcao": "DIRRD148",
-      "isin": "BRDIRR3D02Z8",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 6400,
-      "quantidade_descoberta": 69400,
-      "total_posicoes": 101900
-    },
-    {
-      "codigo_opcao": "DIRRP148",
-      "isin": "BRDIRR3P02Z2",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 16600,
-      "total_posicoes": 224700
-    },
-    {
-      "codigo_opcao": "DIRRD118",
-      "isin": "BRDIRR3D0367",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "DIRRD123",
-      "isin": "BRDIRR3D03D3",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2700,
-      "total_posicoes": 2800
-    },
-    {
-      "codigo_opcao": "DIRRD128",
-      "isin": "BRDIRR3D03C5",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 3000,
-      "quantidade_descoberta": 19400,
-      "total_posicoes": 24400
-    },
-    {
-      "codigo_opcao": "DIRRD133",
-      "isin": "BRDIRR3D0375",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 3600,
-      "quantidade_descoberta": 55400,
-      "total_posicoes": 61600
-    },
-    {
-      "codigo_opcao": "DIRRD138",
-      "isin": "BRDIRR3D03G6",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 5200,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 12300
-    },
-    {
-      "codigo_opcao": "DIRRD143",
-      "isin": "BRDIRR3D0342",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 9700,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 95400
-    },
-    {
-      "codigo_opcao": "DIRRD153",
-      "isin": "BRDIRR3D03F8",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 36400,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 123700
-    },
-    {
-      "codigo_opcao": "DIRRD178",
-      "isin": "BRDIRR3D0359",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26000
-    },
-    {
-      "codigo_opcao": "DIRRD183",
-      "isin": "BRDIRR3D03E1",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6400
-    },
-    {
-      "codigo_opcao": "DIRRD188",
-      "isin": "BRDIRR3D03A9",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "DIRRD193",
-      "isin": "BRDIRR3D0391",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "DIRRD198",
-      "isin": "BRDIRR3D03I2",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26100
-    },
-    {
-      "codigo_opcao": "DIRRP103",
-      "isin": "BRDIRR3P03D7",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 7000
-    },
-    {
-      "codigo_opcao": "DIRRP108",
-      "isin": "BRDIRR3P03H8",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 42400,
-      "total_posicoes": 43000
-    },
-    {
-      "codigo_opcao": "DIRRP113",
-      "isin": "BRDIRR3P03B1",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9500,
-      "total_posicoes": 19900
-    },
-    {
-      "codigo_opcao": "DIRRP118",
-      "isin": "BRDIRR3P0363",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 62200,
-      "total_posicoes": 85400
-    },
-    {
-      "codigo_opcao": "DIRRP123",
-      "isin": "BRDIRR3P03E5",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5300,
-      "total_posicoes": 68100
-    },
-    {
-      "codigo_opcao": "DIRRP128",
-      "isin": "BRDIRR3P03G0",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 39400,
-      "total_posicoes": 175100
-    },
-    {
-      "codigo_opcao": "DIRRP133",
-      "isin": "BRDIRR3P03I6",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6900,
-      "total_posicoes": 88000
-    },
-    {
-      "codigo_opcao": "DIRRP138",
-      "isin": "BRDIRR3P03C9",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 117000,
-      "total_posicoes": 178800
-    },
-    {
-      "codigo_opcao": "DIRRP143",
-      "isin": "BRDIRR3P0397",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3200,
-      "total_posicoes": 23500
-    },
-    {
-      "codigo_opcao": "DIRRP153",
-      "isin": "BRDIRR3P03A3",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 69400,
-      "total_posicoes": 79200
-    },
-    {
-      "codigo_opcao": "DIRRP178",
-      "isin": "BRDIRR3P0348",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7200,
-      "total_posicoes": 7200
-    },
-    {
-      "codigo_opcao": "DIRRP188",
-      "isin": "BRDIRR3P0389",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "DIRRP193",
-      "isin": "BRDIRR3P0371",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "DIRRE134",
-      "isin": "BRDIRR3E04H0",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 2400
-    },
-    {
-      "codigo_opcao": "DIRRQ134",
-      "isin": "BRDIRR3Q04G6",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 40900
-    },
-    {
-      "codigo_opcao": "DIRRS133",
-      "isin": "BRDIRR3S03L4",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "DIRRS138",
-      "isin": "BRDIRR3S03N0",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "DIRRT128",
-      "isin": "BRDIRR3T03E7",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "DIRRT133",
-      "isin": "BRDIRR3T03F4",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "DIRRT138",
-      "isin": "BRDIRR3T03C1",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "DIRRE175",
-      "isin": "BRDIRR3E03N0",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 4800,
-      "quantidade_descoberta": 21900,
-      "total_posicoes": 85700
-    },
-    {
-      "codigo_opcao": "DIRRI17",
-      "isin": "BRDIRR3I0339",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "DIRRP998",
-      "isin": "BRDIRR3P03J4",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "DIRRW224",
-      "isin": "BRDIRR3W0349",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "DIRRX175",
-      "isin": "BRDIRR3X03F6",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "DIRRD878",
-      "isin": "BRDIRR3D02U9",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "DIRRD978",
-      "isin": "BRDIRR3D02T1",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "DIRRP828",
-      "isin": "BRDIRR3P02V1",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "DIRRP878",
-      "isin": "BRDIRR3P02T5",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 53000,
-      "total_posicoes": 53000
-    },
-    {
-      "codigo_opcao": "DIRRP928",
-      "isin": "BRDIRR3P02X7",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10400,
-      "total_posicoes": 10400
-    },
-    {
-      "codigo_opcao": "DIRRP978",
-      "isin": "BRDIRR3P02U3",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5500,
-      "total_posicoes": 5500
     },
     {
       "codigo_opcao": "DIRRA27",
@@ -1084,7 +347,7 @@
       "contratos_em_aberto": 118,
       "quantidade_coberta": 6000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 69800
+      "total_posicoes": 69700
     },
     {
       "codigo_opcao": "DIRRJ220",
@@ -1122,17 +385,6 @@
     {
       "codigo_opcao": "DIRRM27",
       "isin": "BRDIRR3M01B2",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "DIRRP270",
-      "isin": "BRDIRR3P02E7",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
@@ -1215,7 +467,7 @@
       "semanal": false,
       "contratos_em_aberto": 119,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
+      "quantidade_descoberta": 300,
       "total_posicoes": 300
     },
     {
@@ -1226,7 +478,7 @@
       "semanal": false,
       "contratos_em_aberto": 120,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 300,
       "total_posicoes": 300
     },
     {
@@ -1237,74 +489,107 @@
       "semanal": false,
       "contratos_em_aberto": 120,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "DIRRD155",
-      "isin": "BRDIRR3D0318",
+      "codigo_opcao": "DIRRL173",
+      "isin": "BRDIRR3L03E4",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
-      "quantidade_coberta": 11900,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 104100
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 28300
     },
     {
-      "codigo_opcao": "DIRRD160",
-      "isin": "BRDIRR3D0300",
+      "codigo_opcao": "DIRRL183",
+      "isin": "BRDIRR3L03C8",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
-      "quantidade_coberta": 2700,
-      "quantidade_descoberta": 22800,
-      "total_posicoes": 27500
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3200
     },
     {
-      "codigo_opcao": "DIRRD165",
-      "isin": "BRDIRR3D0326",
+      "codigo_opcao": "DIRRL188",
+      "isin": "BRDIRR3L03D6",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 7600,
-      "total_posicoes": 57200
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5100
     },
     {
-      "codigo_opcao": "DIRRD170",
-      "isin": "BRDIRR3D0334",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 3500,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 35000
-    },
-    {
-      "codigo_opcao": "DIRRP165",
-      "isin": "BRDIRR3P0314",
+      "codigo_opcao": "DIRRX173",
+      "isin": "BRDIRR3X03E9",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3400,
-      "total_posicoes": 4000
+      "quantidade_descoberta": 0,
+      "total_posicoes": 800
     },
     {
-      "codigo_opcao": "DIRRP170",
-      "isin": "BRDIRR3P0330",
+      "codigo_opcao": "DIRRX183",
+      "isin": "BRDIRR3X03C3",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 4500,
-      "total_posicoes": 8100
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "DIRRE175",
+      "isin": "BRDIRR3E03N0",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 4700,
+      "quantidade_descoberta": 5200,
+      "total_posicoes": 63700
+    },
+    {
+      "codigo_opcao": "DIRRI17",
+      "isin": "BRDIRR3I0339",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 1400
+    },
+    {
+      "codigo_opcao": "DIRRW224",
+      "isin": "BRDIRR3W0349",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "DIRRX175",
+      "isin": "BRDIRR3X03F6",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "DIRRB150",
@@ -1315,7 +600,7 @@
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 22600
+      "total_posicoes": 22700
     },
     {
       "codigo_opcao": "DIRRB180",
@@ -1373,48 +658,224 @@
       "total_posicoes": 6900
     },
     {
-      "codigo_opcao": "DIRRI125",
-      "isin": "BRDIRR3I0321",
+      "codigo_opcao": "DIRRE13",
+      "isin": "BRDIRR3E04E7",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 122,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1300
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 5600,
+      "quantidade_descoberta": 3300,
+      "total_posicoes": 12700
     },
     {
-      "codigo_opcao": "DIRRI172",
-      "isin": "BRDIRR3I0313",
+      "codigo_opcao": "DIRRE14",
+      "isin": "BRDIRR3E04G2",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 122,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 57800
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 3700,
+      "quantidade_descoberta": 39700,
+      "total_posicoes": 48900
     },
     {
-      "codigo_opcao": "DIRRU125",
-      "isin": "BRDIRR3U0325",
+      "codigo_opcao": "DIRRE144",
+      "isin": "BRDIRR3E04C1",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 3400,
+      "quantidade_descoberta": 23100,
+      "total_posicoes": 53400
+    },
+    {
+      "codigo_opcao": "DIRRE15",
+      "isin": "BRDIRR3E04D9",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 56800,
+      "quantidade_descoberta": 13700,
+      "total_posicoes": 125500
+    },
+    {
+      "codigo_opcao": "DIRRE808",
+      "isin": "BRDIRR3E04F4",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "DIRRQ13",
+      "isin": "BRDIRR3Q04E1",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 122,
+      "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1700
+      "quantidade_descoberta": 5100,
+      "total_posicoes": 84100
     },
     {
-      "codigo_opcao": "DIRRU172",
-      "isin": "BRDIRR3U0317",
+      "codigo_opcao": "DIRRQ14",
+      "isin": "BRDIRR3Q04D3",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 122,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 77800
+    },
+    {
+      "codigo_opcao": "DIRRQ144",
+      "isin": "BRDIRR3Q04B7",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 14400,
+      "total_posicoes": 59300
+    },
+    {
+      "codigo_opcao": "DIRRQ15",
+      "isin": "BRDIRR3Q04F8",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 7000,
+      "total_posicoes": 30600
+    },
+    {
+      "codigo_opcao": "DIRRQ808",
+      "isin": "BRDIRR3Q04C5",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 52600,
+      "total_posicoes": 57700
+    },
+    {
+      "codigo_opcao": "DIRRE130",
+      "isin": "BRDIRR3E03S9",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 13500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 24800
+    },
+    {
+      "codigo_opcao": "DIRRE135",
+      "isin": "BRDIRR3E03Q3",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 5500,
+      "quantidade_descoberta": 92000,
+      "total_posicoes": 104400
+    },
+    {
+      "codigo_opcao": "DIRRE140",
+      "isin": "BRDIRR3E03O8",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 64900,
+      "total_posicoes": 69000
+    },
+    {
+      "codigo_opcao": "DIRRE145",
+      "isin": "BRDIRR3E03P5",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 7600,
+      "total_posicoes": 847800
+    },
+    {
+      "codigo_opcao": "DIRRE150",
+      "isin": "BRDIRR3E03R1",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 6500,
+      "quantidade_descoberta": 68800,
+      "total_posicoes": 228400
+    },
+    {
+      "codigo_opcao": "DIRRQ130",
+      "isin": "BRDIRR3Q03Q7",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1600,
+      "total_posicoes": 71200
+    },
+    {
+      "codigo_opcao": "DIRRQ135",
+      "isin": "BRDIRR3Q03P9",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6700,
+      "total_posicoes": 145100
+    },
+    {
+      "codigo_opcao": "DIRRQ140",
+      "isin": "BRDIRR3Q03R5",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 8800
+      "total_posicoes": 47000
+    },
+    {
+      "codigo_opcao": "DIRRQ145",
+      "isin": "BRDIRR3Q03N4",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 792300,
+      "total_posicoes": 810200
+    },
+    {
+      "codigo_opcao": "DIRRQ150",
+      "isin": "BRDIRR3Q03O2",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10000,
+      "total_posicoes": 33800
     },
     {
       "codigo_opcao": "DIRRE123",
@@ -1434,7 +895,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
-      "quantidade_coberta": 200,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 5400,
       "total_posicoes": 35500
     },
@@ -1445,9 +906,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
-      "quantidade_coberta": 2500,
-      "quantidade_descoberta": 30500,
-      "total_posicoes": 137400
+      "quantidade_coberta": 2600,
+      "quantidade_descoberta": 29500,
+      "total_posicoes": 136200
     },
     {
       "codigo_opcao": "DIRRE168",
@@ -1456,9 +917,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
-      "quantidade_coberta": 7400,
-      "quantidade_descoberta": 33500,
-      "total_posicoes": 57800
+      "quantidade_coberta": 9600,
+      "quantidade_descoberta": 31100,
+      "total_posicoes": 57900
     },
     {
       "codigo_opcao": "DIRRE173",
@@ -1468,7 +929,7 @@
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 9900,
+      "quantidade_descoberta": 9800,
       "total_posicoes": 12800
     },
     {
@@ -1480,7 +941,7 @@
       "contratos_em_aberto": 123,
       "quantidade_coberta": 1200,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1400
+      "total_posicoes": 11400
     },
     {
       "codigo_opcao": "DIRRE188",
@@ -1535,7 +996,7 @@
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 37400
+      "total_posicoes": 37300
     },
     {
       "codigo_opcao": "DIRRQ118",
@@ -1546,7 +1007,7 @@
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 239300
+      "total_posicoes": 239200
     },
     {
       "codigo_opcao": "DIRRQ123",
@@ -1557,7 +1018,7 @@
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 300,
-      "total_posicoes": 67900
+      "total_posicoes": 63900
     },
     {
       "codigo_opcao": "DIRRQ128",
@@ -1567,8 +1028,8 @@
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 14100,
-      "total_posicoes": 156000
+      "quantidade_descoberta": 13100,
+      "total_posicoes": 154300
     },
     {
       "codigo_opcao": "DIRRQ163",
@@ -1579,7 +1040,7 @@
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 33100
+      "total_posicoes": 32800
     },
     {
       "codigo_opcao": "DIRRQ168",
@@ -1681,378 +1142,191 @@
       "total_posicoes": 3100
     },
     {
-      "codigo_opcao": "DIRRF123",
-      "isin": "BRDIRR3F04A2",
+      "codigo_opcao": "DIRRK205",
+      "isin": "BRDIRR3K0335",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 122,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 24300
+    },
+    {
+      "codigo_opcao": "DIRRW205",
+      "isin": "BRDIRR3W0331",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 122,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7500
+    },
+    {
+      "codigo_opcao": "DIRRE134",
+      "isin": "BRDIRR3E04H0",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5100
+    },
+    {
+      "codigo_opcao": "DIRRQ134",
+      "isin": "BRDIRR3Q04G6",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 31900
+    },
+    {
+      "codigo_opcao": "DIRRB31",
+      "isin": "BRDIRR3B02O6",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 24400
+    },
+    {
+      "codigo_opcao": "DIRRN31",
+      "isin": "BRDIRR3N02O1",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3600
+    },
+    {
+      "codigo_opcao": "DIRRF145",
+      "isin": "BRDIRR3F03R8",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 32200,
+      "quantidade_descoberta": 25700,
+      "total_posicoes": 186300
+    },
+    {
+      "codigo_opcao": "DIRRF150",
+      "isin": "BRDIRR3F03Q0",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 7700,
+      "total_posicoes": 75000
+    },
+    {
+      "codigo_opcao": "DIRRF155",
+      "isin": "BRDIRR3F03S6",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3800,
+      "total_posicoes": 58100
+    },
+    {
+      "codigo_opcao": "DIRRF160",
+      "isin": "BRDIRR3F03O5",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 21600,
+      "total_posicoes": 199800
+    },
+    {
+      "codigo_opcao": "DIRRF165",
+      "isin": "BRDIRR3F03U2",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
+      "quantidade_descoberta": 28200,
+      "total_posicoes": 55600
     },
     {
-      "codigo_opcao": "DIRRF138",
-      "isin": "BRDIRR3F0407",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2900
-    },
-    {
-      "codigo_opcao": "DIRRF143",
-      "isin": "BRDIRR3F0464",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 15300
-    },
-    {
-      "codigo_opcao": "DIRRF153",
-      "isin": "BRDIRR3F04D6",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 7500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 23300
-    },
-    {
-      "codigo_opcao": "DIRRF158",
-      "isin": "BRDIRR3F04K1",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11100
-    },
-    {
-      "codigo_opcao": "DIRRF168",
-      "isin": "BRDIRR3F0431",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "DIRRF178",
-      "isin": "BRDIRR3F04I5",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "DIRRR123",
-      "isin": "BRDIRR3R04D1",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "DIRRR128",
-      "isin": "BRDIRR3R04O8",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7800
-    },
-    {
-      "codigo_opcao": "DIRRR133",
-      "isin": "BRDIRR3R04I0",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8700
-    },
-    {
-      "codigo_opcao": "DIRRR138",
-      "isin": "BRDIRR3R04N0",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11800
-    },
-    {
-      "codigo_opcao": "DIRRR143",
-      "isin": "BRDIRR3R0486",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 446900,
-      "total_posicoes": 739100
-    },
-    {
-      "codigo_opcao": "DIRRR153",
-      "isin": "BRDIRR3R0460",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8000,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "DIRRR163",
-      "isin": "BRDIRR3R04A7",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "DIRRD125",
-      "isin": "BRDIRR3D03M4",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "DIRRD130",
-      "isin": "BRDIRR3D03K8",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 3100,
-      "quantidade_descoberta": 2200,
-      "total_posicoes": 11800
-    },
-    {
-      "codigo_opcao": "DIRRD135",
-      "isin": "BRDIRR3D03L6",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 11800,
-      "total_posicoes": 23100
-    },
-    {
-      "codigo_opcao": "DIRRD140",
-      "isin": "BRDIRR3D03N2",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 24700,
-      "total_posicoes": 40800
-    },
-    {
-      "codigo_opcao": "DIRRD145",
-      "isin": "BRDIRR3D03O0",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 23900,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 144900
-    },
-    {
-      "codigo_opcao": "DIRRP125",
-      "isin": "BRDIRR3P03K2",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5900,
-      "total_posicoes": 67200
-    },
-    {
-      "codigo_opcao": "DIRRP130",
-      "isin": "BRDIRR3P03O4",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 35600,
-      "total_posicoes": 83700
-    },
-    {
-      "codigo_opcao": "DIRRP135",
-      "isin": "BRDIRR3P03M8",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 35900
-    },
-    {
-      "codigo_opcao": "DIRRP140",
-      "isin": "BRDIRR3P03L0",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 24300,
-      "total_posicoes": 42500
-    },
-    {
-      "codigo_opcao": "DIRRP145",
-      "isin": "BRDIRR3P03N6",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 32000,
-      "total_posicoes": 33700
-    },
-    {
-      "codigo_opcao": "DIRRE130",
-      "isin": "BRDIRR3E03S9",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 13400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 25000
-    },
-    {
-      "codigo_opcao": "DIRRE135",
-      "isin": "BRDIRR3E03Q3",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 119600,
-      "total_posicoes": 127800
-    },
-    {
-      "codigo_opcao": "DIRRE140",
-      "isin": "BRDIRR3E03O8",
+      "codigo_opcao": "DIRRF170",
+      "isin": "BRDIRR3F03P2",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 600,
-      "quantidade_descoberta": 50800,
-      "total_posicoes": 69100
+      "quantidade_descoberta": 26100,
+      "total_posicoes": 61200
     },
     {
-      "codigo_opcao": "DIRRE145",
-      "isin": "BRDIRR3E03P5",
+      "codigo_opcao": "DIRRF175",
+      "isin": "BRDIRR3F03T4",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 7700,
-      "total_posicoes": 851800
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12300
     },
     {
-      "codigo_opcao": "DIRRE150",
-      "isin": "BRDIRR3E03R1",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 4700,
-      "quantidade_descoberta": 114500,
-      "total_posicoes": 267700
-    },
-    {
-      "codigo_opcao": "DIRRQ130",
-      "isin": "BRDIRR3Q03Q7",
+      "codigo_opcao": "DIRRR145",
+      "isin": "BRDIRR3R03U7",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 71700
+      "quantidade_descoberta": 500,
+      "total_posicoes": 36500
     },
     {
-      "codigo_opcao": "DIRRQ135",
-      "isin": "BRDIRR3Q03P9",
+      "codigo_opcao": "DIRRR150",
+      "isin": "BRDIRR3R03P7",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 6700,
-      "total_posicoes": 144700
+      "quantidade_descoberta": 0,
+      "total_posicoes": 20200
     },
     {
-      "codigo_opcao": "DIRRQ140",
-      "isin": "BRDIRR3Q03R5",
+      "codigo_opcao": "DIRRR155",
+      "isin": "BRDIRR3R03Q5",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 18700,
-      "total_posicoes": 73400
+      "quantidade_descoberta": 681100,
+      "total_posicoes": 697600
     },
     {
-      "codigo_opcao": "DIRRQ145",
-      "isin": "BRDIRR3Q03N4",
+      "codigo_opcao": "DIRRR170",
+      "isin": "BRDIRR3R03O0",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 793300,
-      "total_posicoes": 806400
-    },
-    {
-      "codigo_opcao": "DIRRQ150",
-      "isin": "BRDIRR3Q03O2",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 31600
+      "quantidade_descoberta": 0,
+      "total_posicoes": 700
     },
     {
       "codigo_opcao": "DIRRK142",
@@ -2062,7 +1336,7 @@
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 3700
     },
     {
@@ -2143,15 +1417,268 @@
       "total_posicoes": 22600
     },
     {
+      "codigo_opcao": "DIRRC162",
+      "isin": "BRDIRR3C03A1",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 309000
+    },
+    {
+      "codigo_opcao": "DIRRO162",
+      "isin": "BRDIRR3O03A6",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 305500
+    },
+    {
+      "codigo_opcao": "DIRRF108",
+      "isin": "BRDIRR3F03W8",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6900,
+      "total_posicoes": 6900
+    },
+    {
+      "codigo_opcao": "DIRRF113",
+      "isin": "BRDIRR3F03V0",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 12200,
+      "total_posicoes": 15200
+    },
+    {
+      "codigo_opcao": "DIRRR108",
+      "isin": "BRDIRR3R03W3",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 600,
+      "total_posicoes": 23500
+    },
+    {
+      "codigo_opcao": "DIRRR113",
+      "isin": "BRDIRR3R03V5",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5900
+    },
+    {
+      "codigo_opcao": "DIRRF123",
+      "isin": "BRDIRR3F04A2",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "DIRRF138",
+      "isin": "BRDIRR3F0407",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2900
+    },
+    {
+      "codigo_opcao": "DIRRF143",
+      "isin": "BRDIRR3F0464",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12700,
+      "total_posicoes": 13300
+    },
+    {
+      "codigo_opcao": "DIRRF153",
+      "isin": "BRDIRR3F04D6",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 8500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 25300
+    },
+    {
+      "codigo_opcao": "DIRRF158",
+      "isin": "BRDIRR3F04K1",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 14100
+    },
+    {
+      "codigo_opcao": "DIRRF163",
+      "isin": "BRDIRR3F0472",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "DIRRF168",
+      "isin": "BRDIRR3F0431",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "DIRRF178",
+      "isin": "BRDIRR3F04I5",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "DIRRF188",
+      "isin": "BRDIRR3F03Z1",
+      "ativo": "DIRR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "DIRRR123",
+      "isin": "BRDIRR3R04D1",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "DIRRR128",
+      "isin": "BRDIRR3R04O8",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5300,
+      "total_posicoes": 15000
+    },
+    {
+      "codigo_opcao": "DIRRR133",
+      "isin": "BRDIRR3R04I0",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8600
+    },
+    {
+      "codigo_opcao": "DIRRR138",
+      "isin": "BRDIRR3R04N0",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 14500
+    },
+    {
+      "codigo_opcao": "DIRRR143",
+      "isin": "BRDIRR3R0486",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 424300,
+      "total_posicoes": 738200
+    },
+    {
+      "codigo_opcao": "DIRRR153",
+      "isin": "BRDIRR3R0460",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8000,
+      "total_posicoes": 8400
+    },
+    {
+      "codigo_opcao": "DIRRR158",
+      "isin": "BRDIRR3R0494",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "DIRRR163",
+      "isin": "BRDIRR3R04A7",
+      "ativo": "DIRR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 123,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
       "codigo_opcao": "DIRRE158",
       "isin": "BRDIRR3E03M2",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
-      "quantidade_coberta": 7700,
-      "quantidade_descoberta": 22200,
-      "total_posicoes": 48100
+      "quantidade_coberta": 10800,
+      "quantidade_descoberta": 16500,
+      "total_posicoes": 46700
     },
     {
       "codigo_opcao": "DIRRQ158",
@@ -2162,7 +1689,7 @@
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 68700
+      "total_posicoes": 65000
     },
     {
       "codigo_opcao": "DIRRF130",
@@ -2171,9 +1698,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
-      "quantidade_coberta": 12300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 172900
+      "quantidade_coberta": 12500,
+      "quantidade_descoberta": 9800,
+      "total_posicoes": 164400
     },
     {
       "codigo_opcao": "DIRRR130",
@@ -2183,63 +1710,30 @@
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 25400,
-      "total_posicoes": 165900
+      "quantidade_descoberta": 32400,
+      "total_posicoes": 157600
     },
     {
-      "codigo_opcao": "DIRRF180",
-      "isin": "BRDIRR3F03M9",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "DIRRF220",
-      "isin": "BRDIRR3F03L1",
+      "codigo_opcao": "DIRRF148",
+      "isin": "BRDIRR3F03X6",
       "ativo": "DIRR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3300
+      "total_posicoes": 280900
     },
     {
-      "codigo_opcao": "DIRRR220",
-      "isin": "BRDIRR3R03L6",
+      "codigo_opcao": "DIRRR148",
+      "isin": "BRDIRR3R03X1",
       "ativo": "DIRR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 123,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3500
-    },
-    {
-      "codigo_opcao": "DIRRK205",
-      "isin": "BRDIRR3K0335",
-      "ativo": "DIRR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 122,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 24300
-    },
-    {
-      "codigo_opcao": "DIRRW205",
-      "isin": "BRDIRR3W0331",
-      "ativo": "DIRR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 122,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7500
+      "quantidade_descoberta": 10900,
+      "total_posicoes": 21700
     }
   ]
 }
