@@ -1,11 +1,11 @@
 {
   "ticker": "MEAL",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 8,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 7,
   "calls": 5,
-  "puts": 3,
+  "puts": 2,
   "semanais": 0,
   "opcoes": [
     {
@@ -84,17 +84,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "MEALP900",
-      "isin": "BRMEAL3P01R9",
-      "ativo": "MEAL",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
     }
   ]
 }
