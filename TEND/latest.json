@@ -1,13 +1,24 @@
 {
   "ticker": "TEND",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 92,
-  "calls": 50,
-  "puts": 42,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 54,
+  "calls": 28,
+  "puts": 26,
   "semanais": 0,
   "opcoes": [
+    {
+      "codigo_opcao": "TENDX280",
+      "isin": "BRTEND3X02M0",
+      "ativo": "TEND",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 106100
+    },
     {
       "codigo_opcao": "TENDL320",
       "isin": "BRTEND3L02J1",
@@ -64,140 +75,8 @@
       "total_posicoes": 300
     },
     {
-      "codigo_opcao": "TENDD260",
-      "isin": "BRTEND3D0353",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "TENDD270",
-      "isin": "BRTEND3D03E7",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "TENDD280",
-      "isin": "BRTEND3D03A5",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "TENDD290",
-      "isin": "BRTEND3D0320",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 23500,
-      "total_posicoes": 23500
-    },
-    {
-      "codigo_opcao": "TENDD310",
-      "isin": "BRTEND3D0387",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 900
-    },
-    {
-      "codigo_opcao": "TENDD320",
-      "isin": "BRTEND3D03F4",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 10000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10500
-    },
-    {
-      "codigo_opcao": "TENDD330",
-      "isin": "BRTEND3D03G2",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 4000,
-      "quantidade_descoberta": 5200,
-      "total_posicoes": 21900
-    },
-    {
-      "codigo_opcao": "TENDD340",
-      "isin": "BRTEND3D0346",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 1100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "TENDD350",
-      "isin": "BRTEND3D03D9",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "TENDD360",
-      "isin": "BRTEND3D0338",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "TENDD370",
-      "isin": "BRTEND3D0395",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "TENDD380",
-      "isin": "BRTEND3D0361",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 5400
-    },
-    {
-      "codigo_opcao": "TENDD390",
-      "isin": "BRTEND3D03B3",
+      "codigo_opcao": "TENDE312",
+      "isin": "BRTEND3E02N8",
       "ativo": "TEND",
       "tipo": "Call",
       "semanal": false,
@@ -207,217 +86,74 @@
       "total_posicoes": 300
     },
     {
-      "codigo_opcao": "TENDP270",
-      "isin": "BRTEND3P03A9",
+      "codigo_opcao": "TENDE317",
+      "isin": "BRTEND3E02M0",
       "ativo": "TEND",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7400
+      "quantidade_descoberta": 4000,
+      "total_posicoes": 11600
     },
     {
-      "codigo_opcao": "TENDP280",
-      "isin": "BRTEND3P0383",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5700,
-      "total_posicoes": 5900
-    },
-    {
-      "codigo_opcao": "TENDP290",
-      "isin": "BRTEND3P0334",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11300,
-      "total_posicoes": 11800
-    },
-    {
-      "codigo_opcao": "TENDP300",
-      "isin": "BRTEND3P0326",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "TENDP320",
-      "isin": "BRTEND3P03D3",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3700,
-      "total_posicoes": 4100
-    },
-    {
-      "codigo_opcao": "TENDP330",
-      "isin": "BRTEND3P03F8",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9000,
-      "total_posicoes": 9500
-    },
-    {
-      "codigo_opcao": "TENDP340",
-      "isin": "BRTEND3P0318",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "TENDP350",
-      "isin": "BRTEND3P0375",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "TENDA355",
-      "isin": "BRTEND3A03F0",
+      "codigo_opcao": "TENDF287",
+      "isin": "BRTEND3F02D6",
       "ativo": "TEND",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 200
+      "total_posicoes": 1100
     },
     {
-      "codigo_opcao": "TENDK355",
-      "isin": "BRTEND3K0248",
+      "codigo_opcao": "TENDF307",
+      "isin": "BRTEND3F0294",
       "ativo": "TEND",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 200
+      "total_posicoes": 1200
     },
     {
-      "codigo_opcao": "TENDE232",
-      "isin": "BRTEND3E02J6",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "TENDE245",
-      "isin": "BRTEND3E02L2",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2500
-    },
-    {
-      "codigo_opcao": "TENDQ307",
-      "isin": "BRTEND3Q02J0",
+      "codigo_opcao": "TENDQ312",
+      "isin": "BRTEND3Q02N2",
       "ativo": "TEND",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1800,
-      "total_posicoes": 1900
-    },
-    {
-      "codigo_opcao": "TENDG245",
-      "isin": "BRTEND3G0368",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 113,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "TENDS235",
-      "isin": "BRTEND3S02Z2",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 113,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7000
-    },
-    {
-      "codigo_opcao": "TENDS245",
-      "isin": "BRTEND3S0349",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 113,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 500
     },
     {
-      "codigo_opcao": "TENDE287",
-      "isin": "BRTEND3E02D9",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "TENDQ297",
-      "isin": "BRTEND3Q02E1",
+      "codigo_opcao": "TENDQ317",
+      "isin": "BRTEND3Q02M4",
       "ativo": "TEND",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 501900,
+      "total_posicoes": 507000
     },
     {
-      "codigo_opcao": "TENDF367",
-      "isin": "BRTEND3F02G9",
+      "codigo_opcao": "TENDR272",
+      "isin": "BRTEND3R0290",
       "ativo": "TEND",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 15700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 20800
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1600,
+      "total_posicoes": 1600
     },
     {
-      "codigo_opcao": "TENDR327",
-      "isin": "BRTEND3R02H2",
+      "codigo_opcao": "TENDR292",
+      "isin": "BRTEND3R02F6",
       "ativo": "TEND",
       "tipo": "Put",
       "semanal": false,
@@ -427,37 +163,15 @@
       "total_posicoes": 21400
     },
     {
-      "codigo_opcao": "TENDE400",
-      "isin": "BRTEND3E02P3",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 34000
-    },
-    {
-      "codigo_opcao": "TENDQ400",
-      "isin": "BRTEND3Q02P7",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
       "codigo_opcao": "TENDE367",
       "isin": "BRTEND3E02T5",
       "ativo": "TEND",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 315700,
       "quantidade_descoberta": 0,
-      "total_posicoes": 500000
+      "total_posicoes": 501000
     },
     {
       "codigo_opcao": "TENDQ267",
@@ -471,103 +185,26 @@
       "total_posicoes": 500000
     },
     {
-      "codigo_opcao": "TENDD332",
-      "isin": "BRTEND3D02U5",
+      "codigo_opcao": "TENDG407",
+      "isin": "BRTEND3G0392",
       "ativo": "TEND",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 3100,
-      "total_posicoes": 4100
-    },
-    {
-      "codigo_opcao": "TENDD342",
-      "isin": "BRTEND3D02S9",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 5000,
-      "quantidade_descoberta": 7100,
-      "total_posicoes": 18500
-    },
-    {
-      "codigo_opcao": "TENDD352",
-      "isin": "BRTEND3D02T7",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 4200,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 4200
+      "total_posicoes": 13200
     },
     {
-      "codigo_opcao": "TENDP332",
-      "isin": "BRTEND3P02T1",
+      "codigo_opcao": "TENDS407",
+      "isin": "BRTEND3S0398",
       "ativo": "TEND",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "TENDP352",
-      "isin": "BRTEND3P02U9",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "TENDD277",
-      "isin": "BRTEND3D02W1",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7400,
-      "total_posicoes": 7400
-    },
-    {
-      "codigo_opcao": "TENDD307",
-      "isin": "BRTEND3D02V3",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5100,
-      "total_posicoes": 5100
-    },
-    {
-      "codigo_opcao": "TENDP277",
-      "isin": "BRTEND3P02W5",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 19600,
-      "total_posicoes": 25600
-    },
-    {
-      "codigo_opcao": "TENDP307",
-      "isin": "BRTEND3P02V7",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 19400,
-      "total_posicoes": 19600
+      "quantidade_descoberta": 0,
+      "total_posicoes": 13200
     },
     {
       "codigo_opcao": "TENDE292",
@@ -636,15 +273,26 @@
       "total_posicoes": 11800
     },
     {
-      "codigo_opcao": "TENDE337",
-      "isin": "BRTEND3E02S7",
+      "codigo_opcao": "TENDE327",
+      "isin": "BRTEND3E02Q1",
       "ativo": "TEND",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3600
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "TENDE337",
+      "isin": "BRTEND3E02S7",
+      "ativo": "TEND",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 3300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12100
     },
     {
       "codigo_opcao": "TENDE347",
@@ -654,7 +302,7 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 200,
-      "quantidade_descoberta": 400,
+      "quantidade_descoberta": 900,
       "total_posicoes": 1600
     },
     {
@@ -702,98 +350,32 @@
       "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "TENDD240",
-      "isin": "BRTEND3D02R1",
+      "codigo_opcao": "TENDG230",
+      "isin": "BRTEND3G02Y0",
       "ativo": "TEND",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 3600,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 4200
+      "contratos_em_aberto": 113,
+      "quantidade_coberta": 3200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9300
     },
     {
-      "codigo_opcao": "TENDP240",
-      "isin": "BRTEND3P02R5",
+      "codigo_opcao": "TENDN12",
+      "isin": "BRTEND3N02I9",
       "ativo": "TEND",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 114,
+      "contratos_em_aberto": 112,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "TENDD297",
-      "isin": "BRTEND3D03O6",
+      "codigo_opcao": "TENDE287",
+      "isin": "BRTEND3E02D9",
       "ativo": "TEND",
       "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4900,
-      "total_posicoes": 4900
-    },
-    {
-      "codigo_opcao": "TENDD302",
-      "isin": "BRTEND3D03I8",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4700,
-      "total_posicoes": 4700
-    },
-    {
-      "codigo_opcao": "TENDD312",
-      "isin": "BRTEND3D03H0",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "TENDD317",
-      "isin": "BRTEND3D03L2",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4900,
-      "total_posicoes": 4900
-    },
-    {
-      "codigo_opcao": "TENDE312",
-      "isin": "BRTEND3E02N8",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "TENDE317",
-      "isin": "BRTEND3E02M0",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 11600
-    },
-    {
-      "codigo_opcao": "TENDP292",
-      "isin": "BRTEND3P03K8",
-      "ativo": "TEND",
-      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
@@ -801,59 +383,70 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "TENDP302",
-      "isin": "BRTEND3P03I2",
+      "codigo_opcao": "TENDQ297",
+      "isin": "BRTEND3Q02E1",
       "ativo": "TEND",
       "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "TENDE232",
+      "isin": "BRTEND3E02J6",
+      "ativo": "TEND",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1700
+      "total_posicoes": 200
     },
     {
-      "codigo_opcao": "TENDP317",
-      "isin": "BRTEND3P03O0",
+      "codigo_opcao": "TENDE245",
+      "isin": "BRTEND3E02L2",
       "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1600,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "TENDQ312",
-      "isin": "BRTEND3Q02N2",
-      "ativo": "TEND",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 500
+      "total_posicoes": 2500
     },
     {
-      "codigo_opcao": "TENDQ317",
-      "isin": "BRTEND3Q02M4",
+      "codigo_opcao": "TENDQ307",
+      "isin": "BRTEND3Q02J0",
       "ativo": "TEND",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 501900,
-      "total_posicoes": 507000
+      "quantidade_descoberta": 1800,
+      "total_posicoes": 1900
     },
     {
-      "codigo_opcao": "TENDR292",
-      "isin": "BRTEND3R02F6",
+      "codigo_opcao": "TENDA355",
+      "isin": "BRTEND3A03F0",
       "ativo": "TEND",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 21400,
-      "total_posicoes": 21400
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "TENDK355",
+      "isin": "BRTEND3K0248",
+      "ativo": "TEND",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "TENDL370",
@@ -867,92 +460,26 @@
       "total_posicoes": 105600
     },
     {
-      "codigo_opcao": "TENDX280",
-      "isin": "BRTEND3X02M0",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 106100
-    },
-    {
-      "codigo_opcao": "TENDD222",
-      "isin": "BRTEND3D0304",
+      "codigo_opcao": "TENDE400",
+      "isin": "BRTEND3E02P3",
       "ativo": "TEND",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "TENDD247",
-      "isin": "BRTEND3D02X9",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "TENDD257",
-      "isin": "BRTEND3D02Y7",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "TENDP247",
-      "isin": "BRTEND3P0300",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 54200
-    },
-    {
-      "codigo_opcao": "TENDP257",
-      "isin": "BRTEND3P02Z8",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "TENDG250",
-      "isin": "BRTEND3G0384",
-      "ativo": "TEND",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 2500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9400
-    },
-    {
-      "codigo_opcao": "TENDS250",
-      "isin": "BRTEND3S0380",
-      "ativo": "TEND",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 200,
       "quantidade_descoberta": 2800,
-      "total_posicoes": 2800
+      "total_posicoes": 34100
+    },
+    {
+      "codigo_opcao": "TENDQ400",
+      "isin": "BRTEND3Q02P7",
+      "ativo": "TEND",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "TENDE262",
@@ -999,26 +526,81 @@
       "total_posicoes": 10800
     },
     {
-      "codigo_opcao": "TENDG230",
-      "isin": "BRTEND3G02Y0",
+      "codigo_opcao": "TENDF367",
+      "isin": "BRTEND3F02G9",
+      "ativo": "TEND",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 15700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 22300
+    },
+    {
+      "codigo_opcao": "TENDR327",
+      "isin": "BRTEND3R02H2",
+      "ativo": "TEND",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 21400,
+      "total_posicoes": 21400
+    },
+    {
+      "codigo_opcao": "TENDG245",
+      "isin": "BRTEND3G0368",
       "ativo": "TEND",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 113,
-      "quantidade_coberta": 3200,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 9300
+      "total_posicoes": 800
     },
     {
-      "codigo_opcao": "TENDN12",
-      "isin": "BRTEND3N02I9",
+      "codigo_opcao": "TENDS235",
+      "isin": "BRTEND3S02Z2",
       "ativo": "TEND",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 112,
+      "contratos_em_aberto": 113,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "total_posicoes": 7000
+    },
+    {
+      "codigo_opcao": "TENDS245",
+      "isin": "BRTEND3S0349",
+      "ativo": "TEND",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 113,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "TENDG250",
+      "isin": "BRTEND3G0384",
+      "ativo": "TEND",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 2500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9400
+    },
+    {
+      "codigo_opcao": "TENDS250",
+      "isin": "BRTEND3S0380",
+      "ativo": "TEND",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2800,
+      "total_posicoes": 2800
     }
   ]
 }
