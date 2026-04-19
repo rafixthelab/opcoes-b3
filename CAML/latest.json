@@ -1,13 +1,46 @@
 {
   "ticker": "CAML",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 18,
-  "calls": 12,
-  "puts": 6,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 11,
+  "calls": 7,
+  "puts": 4,
   "semanais": 0,
   "opcoes": [
+    {
+      "codigo_opcao": "CAMLB50",
+      "isin": "BRCAML3B00R3",
+      "ativo": "CAML",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 130,
+      "quantidade_coberta": 6100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9400
+    },
+    {
+      "codigo_opcao": "CAMLL50",
+      "isin": "BRCAML3L00O9",
+      "ativo": "CAML",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 130,
+      "quantidade_coberta": 500,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "CAMLN50",
+      "isin": "BRCAML3N00R8",
+      "ativo": "CAML",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 130,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
     {
       "codigo_opcao": "CAMLL56",
       "isin": "BRCAML3L0105",
@@ -16,28 +49,6 @@
       "semanal": false,
       "contratos_em_aberto": 133,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "CAMLD634",
-      "isin": "BRCAML3D0139",
-      "ativo": "CAML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 135,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "CAMLD674",
-      "isin": "BRCAML3D01A3",
-      "ativo": "CAML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 135,
-      "quantidade_coberta": 2000,
       "quantidade_descoberta": 0,
       "total_posicoes": 2000
     },
@@ -59,20 +70,20 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 135,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1100
+      "total_posicoes": 1200
     },
     {
-      "codigo_opcao": "CAMLP674",
-      "isin": "BRCAML3P0143",
+      "codigo_opcao": "CAMLQ619",
+      "isin": "BRCAML3Q01B3",
       "ativo": "CAML",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 135,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "CAMLQ679",
@@ -108,103 +119,15 @@
       "total_posicoes": 2100
     },
     {
-      "codigo_opcao": "CAMLB50",
-      "isin": "BRCAML3B00R3",
-      "ativo": "CAML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 6100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9400
-    },
-    {
-      "codigo_opcao": "CAMLL50",
-      "isin": "BRCAML3L00O9",
-      "ativo": "CAML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "CAMLN50",
-      "isin": "BRCAML3N00R8",
-      "ativo": "CAML",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "CAMLP500",
-      "isin": "BRCAML3P00M4",
-      "ativo": "CAML",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
       "codigo_opcao": "CAMLE829",
       "isin": "BRCAML3E01E3",
       "ativo": "CAML",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 135,
-      "quantidade_coberta": 6400,
+      "quantidade_coberta": 7700,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7600
-    },
-    {
-      "codigo_opcao": "CAMLD594",
-      "isin": "BRCAML3D00Z2",
-      "ativo": "CAML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 135,
-      "quantidade_coberta": 13400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 13400
-    },
-    {
-      "codigo_opcao": "CAMLD694",
-      "isin": "BRCAML3D0113",
-      "ativo": "CAML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 135,
-      "quantidade_coberta": 24700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 25100
-    },
-    {
-      "codigo_opcao": "CAMLD794",
-      "isin": "BRCAML3D0105",
-      "ativo": "CAML",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 135,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "CAMLP594",
-      "isin": "BRCAML3P00Z6",
-      "ativo": "CAML",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 135,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2700
+      "total_posicoes": 7700
     }
   ]
 }
