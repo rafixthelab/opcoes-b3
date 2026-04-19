@@ -1,67 +1,23 @@
 {
   "ticker": "CMIG",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 348,
-  "calls": 183,
-  "puts": 165,
-  "semanais": 41,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 290,
+  "calls": 155,
+  "puts": 135,
+  "semanais": 45,
   "opcoes": [
     {
-      "codigo_opcao": "CMIGE115",
-      "isin": "BRCMIG4E0GX4",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 49100,
-      "quantidade_descoberta": 106000,
-      "total_posicoes": 340400
-    },
-    {
-      "codigo_opcao": "CMIGQ115",
-      "isin": "BRCMIG4Q0H06",
+      "codigo_opcao": "CMIGN12",
+      "isin": "BRCMIG4N0K65",
       "ativo": "CMIG",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 5800,
-      "total_posicoes": 205100
-    },
-    {
-      "codigo_opcao": "CMIGQ125",
-      "isin": "BRCMIG4Q0H14",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 87200,
-      "total_posicoes": 1454200
-    },
-    {
-      "codigo_opcao": "CMIGJ126",
-      "isin": "BRCMIG4J0JE3",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 7600,
-      "quantidade_descoberta": 313200,
-      "total_posicoes": 563000
-    },
-    {
-      "codigo_opcao": "CMIGV126",
-      "isin": "BRCMIG4V0JE7",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9800,
-      "total_posicoes": 16000
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10500
     },
     {
       "codigo_opcao": "CMIGB12",
@@ -94,172 +50,51 @@
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 129500
+      "total_posicoes": 131400
     },
     {
-      "codigo_opcao": "CMIGC11",
-      "isin": "BRCMIG4C0HC8",
+      "codigo_opcao": "CMIGE125",
+      "isin": "BRCMIG4E0GY2",
       "ativo": "CMIG",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 249,
-      "quantidade_coberta": 7200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 326100
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 558000,
+      "quantidade_descoberta": 87100,
+      "total_posicoes": 1045200
     },
     {
-      "codigo_opcao": "CMIGO11",
-      "isin": "BRCMIG4O0HC4",
+      "codigo_opcao": "CMIGE115",
+      "isin": "BRCMIG4E0GX4",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 80800,
+      "quantidade_descoberta": 103500,
+      "total_posicoes": 337700
+    },
+    {
+      "codigo_opcao": "CMIGQ115",
+      "isin": "BRCMIG4Q0H06",
       "ativo": "CMIG",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 249,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 118800
-    },
-    {
-      "codigo_opcao": "CMIGD120W4",
-      "isin": "BRCMIG4D0J10",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
+      "quantidade_descoberta": 3300,
+      "total_posicoes": 203100
     },
     {
-      "codigo_opcao": "CMIGD125W4",
-      "isin": "BRCMIG4D0J36",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "CMIGD130W4",
-      "isin": "BRCMIG4D0J02",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 3000,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 13300
-    },
-    {
-      "codigo_opcao": "CMIGD135W4",
-      "isin": "BRCMIG4D0IW3",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4700
-    },
-    {
-      "codigo_opcao": "CMIGD140W4",
-      "isin": "BRCMIG4D0IP7",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 4000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11100
-    },
-    {
-      "codigo_opcao": "CMIGP120W4",
-      "isin": "BRCMIG4P0IT5",
+      "codigo_opcao": "CMIGQ125",
+      "isin": "BRCMIG4Q0H14",
       "ativo": "CMIG",
       "tipo": "Put",
-      "semanal": true,
+      "semanal": false,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "CMIGP125W4",
-      "isin": "BRCMIG4P0IQ1",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3500,
-      "total_posicoes": 22300
-    },
-    {
-      "codigo_opcao": "CMIGP130W4",
-      "isin": "BRCMIG4P0IW9",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7400,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "CMIGP135W4",
-      "isin": "BRCMIG4P0J63",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 106300
-    },
-    {
-      "codigo_opcao": "CMIGP145W4",
-      "isin": "BRCMIG4P0J14",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "CMIGE123W4",
-      "isin": "BRCMIG4E0IZ5",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 253,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "CMIGQ123W4",
-      "isin": "BRCMIG4Q0IS6",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 253,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CMIGQ133W4",
-      "isin": "BRCMIG4Q0IY4",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 253,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 200
+      "quantidade_descoberta": 111500,
+      "total_posicoes": 1543300
     },
     {
       "codigo_opcao": "CMIGA10",
@@ -268,7 +103,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 246,
-      "quantidade_coberta": 3500,
+      "quantidade_coberta": 3000,
       "quantidade_descoberta": 0,
       "total_posicoes": 8600
     },
@@ -282,336 +117,6 @@
       "quantidade_coberta": 3500,
       "quantidade_descoberta": 0,
       "total_posicoes": 375800
-    },
-    {
-      "codigo_opcao": "CMIGD1",
-      "isin": "BRCMIG4D0H79",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 55600,
-      "quantidade_descoberta": 495800,
-      "total_posicoes": 661900
-    },
-    {
-      "codigo_opcao": "CMIGD10",
-      "isin": "BRCMIG4D0GG0",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 40400,
-      "total_posicoes": 40900
-    },
-    {
-      "codigo_opcao": "CMIGD105",
-      "isin": "BRCMIG4D0GJ4",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 3600
-    },
-    {
-      "codigo_opcao": "CMIGD107",
-      "isin": "BRCMIG4D0FN8",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "CMIGD110",
-      "isin": "BRCMIG4D0GE5",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CMIGD112",
-      "isin": "BRCMIG4D0H61",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 4800,
-      "quantidade_descoberta": 7000,
-      "total_posicoes": 11800
-    },
-    {
-      "codigo_opcao": "CMIGD115",
-      "isin": "BRCMIG4D0H04",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "CMIGD117",
-      "isin": "BRCMIG4D0GP1",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 3900,
-      "total_posicoes": 40500
-    },
-    {
-      "codigo_opcao": "CMIGD120",
-      "isin": "BRCMIG4D0G21",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 3700,
-      "quantidade_descoberta": 94100,
-      "total_posicoes": 113800
-    },
-    {
-      "codigo_opcao": "CMIGD122",
-      "isin": "BRCMIG4D0GU1",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 19800,
-      "quantidade_descoberta": 93300,
-      "total_posicoes": 120500
-    },
-    {
-      "codigo_opcao": "CMIGD125",
-      "isin": "BRCMIG4D0GO4",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 18000,
-      "quantidade_descoberta": 180700,
-      "total_posicoes": 299500
-    },
-    {
-      "codigo_opcao": "CMIGD127",
-      "isin": "BRCMIG4D0FK4",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 39500,
-      "quantidade_descoberta": 83600,
-      "total_posicoes": 162100
-    },
-    {
-      "codigo_opcao": "CMIGD129",
-      "isin": "BRCMIG4D0HD5",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 89400,
-      "quantidade_descoberta": 102700,
-      "total_posicoes": 257700
-    },
-    {
-      "codigo_opcao": "CMIGD132",
-      "isin": "BRCMIG4D0GA3",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 41400,
-      "quantidade_descoberta": 382100,
-      "total_posicoes": 562400
-    },
-    {
-      "codigo_opcao": "CMIGD137",
-      "isin": "BRCMIG4D0GC9",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 164100,
-      "quantidade_descoberta": 346900,
-      "total_posicoes": 625700
-    },
-    {
-      "codigo_opcao": "CMIGD142",
-      "isin": "BRCMIG4D0G88",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 106400,
-      "quantidade_descoberta": 350400,
-      "total_posicoes": 545700
-    },
-    {
-      "codigo_opcao": "CMIGD144",
-      "isin": "BRCMIG4D0H87",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 98700,
-      "quantidade_descoberta": 74400,
-      "total_posicoes": 260600
-    },
-    {
-      "codigo_opcao": "CMIGD147",
-      "isin": "BRCMIG4D0GV9",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 42400,
-      "quantidade_descoberta": 286000,
-      "total_posicoes": 1351700
-    },
-    {
-      "codigo_opcao": "CMIGD152",
-      "isin": "BRCMIG4D0FZ2",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 61700,
-      "quantidade_descoberta": 251000,
-      "total_posicoes": 414100
-    },
-    {
-      "codigo_opcao": "CMIGD157",
-      "isin": "BRCMIG4D0GR7",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 5800,
-      "quantidade_descoberta": 111200,
-      "total_posicoes": 162300
-    },
-    {
-      "codigo_opcao": "CMIGD180",
-      "isin": "BRCMIG4D0HC7",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CMIGD2",
-      "isin": "BRCMIG4D0G70",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 77100,
-      "quantidade_descoberta": 399000,
-      "total_posicoes": 569300
-    },
-    {
-      "codigo_opcao": "CMIGD3",
-      "isin": "BRCMIG4D0H53",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 282600,
-      "quantidade_descoberta": 11800,
-      "total_posicoes": 363100
-    },
-    {
-      "codigo_opcao": "CMIGD4",
-      "isin": "BRCMIG4D0GQ9",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 145900,
-      "total_posicoes": 179800
-    },
-    {
-      "codigo_opcao": "CMIGD5",
-      "isin": "BRCMIG4D0FM0",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 130000,
-      "quantidade_descoberta": 10800,
-      "total_posicoes": 160000
-    },
-    {
-      "codigo_opcao": "CMIGD554",
-      "isin": "BRCMIG4D0GY3",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5700,
-      "total_posicoes": 5700
-    },
-    {
-      "codigo_opcao": "CMIGD804",
-      "isin": "BRCMIG4D0G05",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "CMIGD824",
-      "isin": "BRCMIG4D0FR9",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2600,
-      "total_posicoes": 2600
-    },
-    {
-      "codigo_opcao": "CMIGD874",
-      "isin": "BRCMIG4D0GZ0",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "CMIGD954",
-      "isin": "BRCMIG4D0G47",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 1100
     },
     {
       "codigo_opcao": "CMIGE10",
@@ -753,7 +258,7 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 50400,
-      "quantidade_descoberta": 6300,
+      "quantidade_descoberta": 4500,
       "total_posicoes": 96200
     },
     {
@@ -790,13 +295,24 @@
       "total_posicoes": 32100
     },
     {
+      "codigo_opcao": "CMIGF11",
+      "isin": "BRCMIG4F0J98",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 247,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4300
+    },
+    {
       "codigo_opcao": "CMIGF110",
       "isin": "BRCMIG4F0I16",
       "ativo": "CMIG",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 3700,
       "quantidade_descoberta": 0,
       "total_posicoes": 3700
     },
@@ -819,7 +335,7 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 11400,
-      "quantidade_descoberta": 3000,
+      "quantidade_descoberta": 3100,
       "total_posicoes": 37100
     },
     {
@@ -829,7 +345,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 54200,
+      "quantidade_coberta": 53900,
       "quantidade_descoberta": 0,
       "total_posicoes": 59400
     },
@@ -840,9 +356,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 64400,
+      "quantidade_coberta": 40400,
       "quantidade_descoberta": 1500,
-      "total_posicoes": 407900
+      "total_posicoes": 409700
     },
     {
       "codigo_opcao": "CMIGF125",
@@ -851,7 +367,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 4200,
+      "quantidade_coberta": 4000,
       "quantidade_descoberta": 600,
       "total_posicoes": 37500
     },
@@ -862,9 +378,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 65500,
+      "quantidade_coberta": 75600,
       "quantidade_descoberta": 0,
-      "total_posicoes": 117200
+      "total_posicoes": 118100
     },
     {
       "codigo_opcao": "CMIGF129",
@@ -873,9 +389,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 400,
+      "quantidade_coberta": 900,
       "quantidade_descoberta": 0,
-      "total_posicoes": 22600
+      "total_posicoes": 22800
     },
     {
       "codigo_opcao": "CMIGF132",
@@ -884,9 +400,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 14200,
+      "quantidade_coberta": 7400,
       "quantidade_descoberta": 0,
-      "total_posicoes": 48500
+      "total_posicoes": 48700
     },
     {
       "codigo_opcao": "CMIGF135",
@@ -906,8 +422,8 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 75000,
-      "quantidade_descoberta": 22000,
+      "quantidade_coberta": 74700,
+      "quantidade_descoberta": 20800,
       "total_posicoes": 170900
     },
     {
@@ -917,7 +433,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 1300,
+      "quantidade_coberta": 2600,
       "quantidade_descoberta": 16900,
       "total_posicoes": 23900
     },
@@ -928,9 +444,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 44900,
+      "quantidade_coberta": 57500,
       "quantidade_descoberta": 1200,
-      "total_posicoes": 122600
+      "total_posicoes": 125800
     },
     {
       "codigo_opcao": "CMIGF144",
@@ -940,8 +456,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 2400,
-      "quantidade_descoberta": 36300,
-      "total_posicoes": 54200
+      "quantidade_descoberta": 50000,
+      "total_posicoes": 69600
     },
     {
       "codigo_opcao": "CMIGF147",
@@ -950,9 +466,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 28600,
+      "quantidade_coberta": 30300,
       "quantidade_descoberta": 0,
-      "total_posicoes": 82500
+      "total_posicoes": 91800
     },
     {
       "codigo_opcao": "CMIGF152",
@@ -961,9 +477,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 23600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 86300
+      "quantidade_coberta": 26000,
+      "quantidade_descoberta": 17300,
+      "total_posicoes": 107500
     },
     {
       "codigo_opcao": "CMIGF156",
@@ -972,9 +488,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 3200,
-      "quantidade_descoberta": 7200,
-      "total_posicoes": 64900
+      "quantidade_coberta": 16100,
+      "quantidade_descoberta": 6800,
+      "total_posicoes": 79300
     },
     {
       "codigo_opcao": "CMIGF159",
@@ -984,8 +500,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
+      "quantidade_descoberta": 500,
+      "total_posicoes": 1600
     },
     {
       "codigo_opcao": "CMIGF161",
@@ -994,9 +510,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 2300,
-      "quantidade_descoberta": 2400,
-      "total_posicoes": 13500
+      "quantidade_coberta": 7800,
+      "quantidade_descoberta": 3700,
+      "total_posicoes": 18100
     },
     {
       "codigo_opcao": "CMIGF166",
@@ -1007,7 +523,7 @@
       "contratos_em_aberto": 247,
       "quantidade_coberta": 400,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7300
+      "total_posicoes": 11700
     },
     {
       "codigo_opcao": "CMIGF174",
@@ -1028,8 +544,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "quantidade_descoberta": 8900,
+      "total_posicoes": 9900
     },
     {
       "codigo_opcao": "CMIGF2",
@@ -1038,8 +554,8 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 4900,
-      "quantidade_descoberta": 108000,
+      "quantidade_coberta": 4800,
+      "quantidade_descoberta": 104000,
       "total_posicoes": 181700
     },
     {
@@ -1049,9 +565,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 35800
+      "quantidade_coberta": 3200,
+      "quantidade_descoberta": 6000,
+      "total_posicoes": 37100
     },
     {
       "codigo_opcao": "CMIGF4",
@@ -1060,9 +576,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 3700,
-      "total_posicoes": 12600
+      "quantidade_coberta": 1500,
+      "quantidade_descoberta": 13400,
+      "total_posicoes": 37500
     },
     {
       "codigo_opcao": "CMIGF654",
@@ -1164,6 +680,248 @@
       "total_posicoes": 3500
     },
     {
+      "codigo_opcao": "CMIGG111",
+      "isin": "BRCMIG4G0IJ7",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 247,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1200,
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "CMIGG116",
+      "isin": "BRCMIG4G0J62",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 247,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 6100,
+      "total_posicoes": 11300
+    },
+    {
+      "codigo_opcao": "CMIGG12",
+      "isin": "BRCMIG4G0HN1",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 247,
+      "quantidade_coberta": 2500,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 9400
+    },
+    {
+      "codigo_opcao": "CMIGG122",
+      "isin": "BRCMIG4G0HG5",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 247,
+      "quantidade_coberta": 22300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 39700
+    },
+    {
+      "codigo_opcao": "CMIGG125",
+      "isin": "BRCMIG4G0IX8",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 247,
+      "quantidade_coberta": 13000,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 21700
+    },
+    {
+      "codigo_opcao": "CMIGG127",
+      "isin": "BRCMIG4G0HZ5",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 247,
+      "quantidade_coberta": 120000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 155200
+    },
+    {
+      "codigo_opcao": "CMIGD119W5",
+      "isin": "BRCMIG4D0JV3",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "CMIGD12W5",
+      "isin": "BRCMIG4D0JW1",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 7800,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9700
+    },
+    {
+      "codigo_opcao": "CMIGD13W5",
+      "isin": "BRCMIG4D0JU5",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 4300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6700
+    },
+    {
+      "codigo_opcao": "CMIGE111",
+      "isin": "BRCMIG4E0IL5",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 67900,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 220200
+    },
+    {
+      "codigo_opcao": "CMIGF968",
+      "isin": "BRCMIG4F0JG2",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CMIGP119W5",
+      "isin": "BRCMIG4P0JU1",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "CMIGP12W5",
+      "isin": "BRCMIG4P0JW7",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "CMIGP13W5",
+      "isin": "BRCMIG4P0JV9",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 2200
+    },
+    {
+      "codigo_opcao": "CMIGQ111",
+      "isin": "BRCMIG4Q0IO5",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8600,
+      "total_posicoes": 8800
+    },
+    {
+      "codigo_opcao": "CMIGE123W4",
+      "isin": "BRCMIG4E0IZ5",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "CMIGE128W4",
+      "isin": "BRCMIG4E0IM3",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CMIGE138W4",
+      "isin": "BRCMIG4E0IW2",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CMIGQ123W4",
+      "isin": "BRCMIG4Q0IS6",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CMIGQ133W4",
+      "isin": "BRCMIG4Q0IY4",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "CMIGJ126",
+      "isin": "BRCMIG4J0JE3",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 7600,
+      "quantidade_descoberta": 313300,
+      "total_posicoes": 563000
+    },
+    {
+      "codigo_opcao": "CMIGV126",
+      "isin": "BRCMIG4V0JE7",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 9800,
+      "total_posicoes": 16000
+    },
+    {
       "codigo_opcao": "CMIGH120",
       "isin": "BRCMIG4H0JC9",
       "ativo": "CMIG",
@@ -1197,48 +955,26 @@
       "total_posicoes": 43000
     },
     {
-      "codigo_opcao": "CMIGE997",
-      "isin": "BRCMIG4E0GW6",
+      "codigo_opcao": "CMIGJ119",
+      "isin": "BRCMIG4J0JD5",
       "ativo": "CMIG",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 50300,
-      "quantidade_descoberta": 23700,
-      "total_posicoes": 184400
+      "contratos_em_aberto": 250,
+      "quantidade_coberta": 3700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 239400
     },
     {
-      "codigo_opcao": "CMIGQ997",
-      "isin": "BRCMIG4Q0GZ5",
+      "codigo_opcao": "CMIGV119",
+      "isin": "BRCMIG4V0JD9",
       "ativo": "CMIG",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 252,
+      "contratos_em_aberto": 250,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 900
-    },
-    {
-      "codigo_opcao": "CMIGH123",
-      "isin": "BRCMIG4H0JE5",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10800
-    },
-    {
-      "codigo_opcao": "CMIGT123",
-      "isin": "BRCMIG4T0JE1",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
+      "quantidade_descoberta": 1500,
+      "total_posicoes": 75600
     },
     {
       "codigo_opcao": "CMIGE118W2",
@@ -1303,7 +1039,7 @@
       "semanal": true,
       "contratos_em_aberto": 253,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
+      "quantidade_descoberta": 0,
       "total_posicoes": 300
     },
     {
@@ -1318,244 +1054,13 @@
       "total_posicoes": 700
     },
     {
-      "codigo_opcao": "CMIGE118W5",
-      "isin": "BRCMIG4E0JK5",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 253,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CMIGD145W4",
-      "isin": "BRCMIG4D0J69",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 6300
-    },
-    {
-      "codigo_opcao": "CMIGP140W4",
-      "isin": "BRCMIG4P0J22",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "CMIGD119W5",
-      "isin": "BRCMIG4D0JV3",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 253,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "CMIGD12W5",
-      "isin": "BRCMIG4D0JW1",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 253,
-      "quantidade_coberta": 7800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9700
-    },
-    {
-      "codigo_opcao": "CMIGD13W5",
-      "isin": "BRCMIG4D0JU5",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 253,
-      "quantidade_coberta": 4300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6700
-    },
-    {
-      "codigo_opcao": "CMIGE111",
-      "isin": "BRCMIG4E0IL5",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 253,
-      "quantidade_coberta": 37200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 177300
-    },
-    {
-      "codigo_opcao": "CMIGP13W5",
-      "isin": "BRCMIG4P0JV9",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 253,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "CMIGQ111",
-      "isin": "BRCMIG4Q0IO5",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 253,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8600,
-      "total_posicoes": 8800
-    },
-    {
-      "codigo_opcao": "CMIGE98",
-      "isin": "BRCMIG4E0GV8",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 250,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 40700,
-      "total_posicoes": 41200
-    },
-    {
-      "codigo_opcao": "CMIGQ98",
-      "isin": "BRCMIG4Q0GY8",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 250,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4100
-    },
-    {
-      "codigo_opcao": "CMIGJ119",
-      "isin": "BRCMIG4J0JD5",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 250,
-      "quantidade_coberta": 3700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 239400
-    },
-    {
-      "codigo_opcao": "CMIGV119",
-      "isin": "BRCMIG4V0JD9",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 250,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 75200
-    },
-    {
-      "codigo_opcao": "CMIGD14",
-      "isin": "BRCMIG3D01E4",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 251,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CMIGD154",
-      "isin": "BRCMIG3D01F1",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 251,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CMIGG111",
-      "isin": "BRCMIG4G0IJ7",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "CMIGG116",
-      "isin": "BRCMIG4G0J62",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 6100,
-      "total_posicoes": 11300
-    },
-    {
-      "codigo_opcao": "CMIGG12",
-      "isin": "BRCMIG4G0HN1",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 2500,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 9400
-    },
-    {
-      "codigo_opcao": "CMIGG122",
-      "isin": "BRCMIG4G0HG5",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 23400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 39700
-    },
-    {
-      "codigo_opcao": "CMIGG125",
-      "isin": "BRCMIG4G0IX8",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 13100,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 21700
-    },
-    {
-      "codigo_opcao": "CMIGG127",
-      "isin": "BRCMIG4G0HZ5",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 120000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 155200
-    },
-    {
       "codigo_opcao": "CMIGG13",
       "isin": "BRCMIG4G0I22",
       "ativo": "CMIG",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 5000,
+      "quantidade_coberta": 5100,
       "quantidade_descoberta": 800,
       "total_posicoes": 6200
     },
@@ -1568,7 +1073,7 @@
       "contratos_em_aberto": 247,
       "quantidade_coberta": 1100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 91200
+      "total_posicoes": 94800
     },
     {
       "codigo_opcao": "CMIGG135",
@@ -1590,7 +1095,7 @@
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 9200
+      "total_posicoes": 16400
     },
     {
       "codigo_opcao": "CMIGG139",
@@ -1610,7 +1115,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 40700,
+      "quantidade_coberta": 38700,
       "quantidade_descoberta": 0,
       "total_posicoes": 75800
     },
@@ -1621,7 +1126,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 500,
+      "quantidade_coberta": 400,
       "quantidade_descoberta": 0,
       "total_posicoes": 4300
     },
@@ -1632,9 +1137,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 1600,
+      "quantidade_coberta": 1500,
       "quantidade_descoberta": 0,
-      "total_posicoes": 6100
+      "total_posicoes": 10100
     },
     {
       "codigo_opcao": "CMIGG151",
@@ -1643,9 +1148,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 600,
+      "quantidade_coberta": 400,
       "quantidade_descoberta": 300,
-      "total_posicoes": 25600
+      "total_posicoes": 25800
     },
     {
       "codigo_opcao": "CMIGG156",
@@ -1656,7 +1161,7 @@
       "contratos_em_aberto": 247,
       "quantidade_coberta": 200,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1700
+      "total_posicoes": 1800
     },
     {
       "codigo_opcao": "CMIGG16",
@@ -1667,7 +1172,7 @@
       "contratos_em_aberto": 247,
       "quantidade_coberta": 200,
       "quantidade_descoberta": 200,
-      "total_posicoes": 4100
+      "total_posicoes": 8000
     },
     {
       "codigo_opcao": "CMIGG162",
@@ -1676,9 +1181,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 247,
-      "quantidade_coberta": 9100,
+      "quantidade_coberta": 9400,
       "quantidade_descoberta": 0,
-      "total_posicoes": 12400
+      "total_posicoes": 18400
     },
     {
       "codigo_opcao": "CMIGG17",
@@ -1721,7 +1226,7 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 6000,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 106100
     },
     {
@@ -1863,7 +1368,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 500,
+      "quantidade_coberta": 1500,
       "quantidade_descoberta": 0,
       "total_posicoes": 7100
     },
@@ -1908,393 +1413,8 @@
       "semanal": false,
       "contratos_em_aberto": 246,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 8800,
+      "quantidade_descoberta": 19800,
       "total_posicoes": 33300
-    },
-    {
-      "codigo_opcao": "CMIGP1",
-      "isin": "BRCMIG4P0GE1",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 90200,
-      "total_posicoes": 385500
-    },
-    {
-      "codigo_opcao": "CMIGP10",
-      "isin": "BRCMIG4P0GX1",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2100,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "CMIGP100",
-      "isin": "BRCMIG4P0FJ2",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 246,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 195600,
-      "total_posicoes": 200600
-    },
-    {
-      "codigo_opcao": "CMIGP102",
-      "isin": "BRCMIG4P0HE9",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "CMIGP105",
-      "isin": "BRCMIG4P0FU9",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 900
-    },
-    {
-      "codigo_opcao": "CMIGP107",
-      "isin": "BRCMIG4P0H81",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 43300,
-      "total_posicoes": 46000
-    },
-    {
-      "codigo_opcao": "CMIGP110",
-      "isin": "BRCMIG4P0GR3",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5300,
-      "total_posicoes": 16700
-    },
-    {
-      "codigo_opcao": "CMIGP112",
-      "isin": "BRCMIG4P0H73",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 24000,
-      "total_posicoes": 143200
-    },
-    {
-      "codigo_opcao": "CMIGP115",
-      "isin": "BRCMIG4P0GY9",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 57400,
-      "total_posicoes": 118100
-    },
-    {
-      "codigo_opcao": "CMIGP117",
-      "isin": "BRCMIG4P0GS1",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 140500,
-      "total_posicoes": 214700
-    },
-    {
-      "codigo_opcao": "CMIGP120",
-      "isin": "BRCMIG4P0GB7",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 74700,
-      "total_posicoes": 290600
-    },
-    {
-      "codigo_opcao": "CMIGP122",
-      "isin": "BRCMIG4P0HD1",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9300,
-      "total_posicoes": 234000
-    },
-    {
-      "codigo_opcao": "CMIGP125",
-      "isin": "BRCMIG4P0GQ5",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 165400,
-      "total_posicoes": 327700
-    },
-    {
-      "codigo_opcao": "CMIGP127",
-      "isin": "BRCMIG4P0FL8",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 252100,
-      "total_posicoes": 376000
-    },
-    {
-      "codigo_opcao": "CMIGP129",
-      "isin": "BRCMIG4P0H65",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 246800,
-      "total_posicoes": 472100
-    },
-    {
-      "codigo_opcao": "CMIGP132",
-      "isin": "BRCMIG4P0G66",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 192700,
-      "total_posicoes": 407100
-    },
-    {
-      "codigo_opcao": "CMIGP137",
-      "isin": "BRCMIG4P0FQ7",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 157600,
-      "total_posicoes": 393300
-    },
-    {
-      "codigo_opcao": "CMIGP142",
-      "isin": "BRCMIG4P0FV7",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 237800,
-      "total_posicoes": 746400
-    },
-    {
-      "codigo_opcao": "CMIGP144",
-      "isin": "BRCMIG4P0GO0",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 187600,
-      "total_posicoes": 191400
-    },
-    {
-      "codigo_opcao": "CMIGP147",
-      "isin": "BRCMIG4P0GV5",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000100,
-      "total_posicoes": 1009100
-    },
-    {
-      "codigo_opcao": "CMIGP152",
-      "isin": "BRCMIG4P0FT1",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 155400,
-      "total_posicoes": 165300
-    },
-    {
-      "codigo_opcao": "CMIGP157",
-      "isin": "BRCMIG4P0FX3",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27200,
-      "total_posicoes": 27200
-    },
-    {
-      "codigo_opcao": "CMIGP17",
-      "isin": "BRCMIG4P0FM6",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12800,
-      "total_posicoes": 12800
-    },
-    {
-      "codigo_opcao": "CMIGP180",
-      "isin": "BRCMIG4P0HB5",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5400,
-      "total_posicoes": 5500
-    },
-    {
-      "codigo_opcao": "CMIGP195",
-      "isin": "BRCMIG4P0G82",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2500,
-      "total_posicoes": 2500
-    },
-    {
-      "codigo_opcao": "CMIGP2",
-      "isin": "BRCMIG4P0H57",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 142700,
-      "total_posicoes": 536900
-    },
-    {
-      "codigo_opcao": "CMIGP215",
-      "isin": "BRCMIG4P0H24",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1600,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "CMIGP3",
-      "isin": "BRCMIG4P0HG4",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 123700,
-      "total_posicoes": 168100
-    },
-    {
-      "codigo_opcao": "CMIGP4",
-      "isin": "BRCMIG4P0GT9",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 46400,
-      "total_posicoes": 47100
-    },
-    {
-      "codigo_opcao": "CMIGP5",
-      "isin": "BRCMIG4P0GL6",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "CMIGP654",
-      "isin": "BRCMIG4P0H16",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "CMIGP704",
-      "isin": "BRCMIG4P0HF6",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5700,
-      "total_posicoes": 5700
-    },
-    {
-      "codigo_opcao": "CMIGP874",
-      "isin": "BRCMIG4P0H40",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "CMIGP954",
-      "isin": "BRCMIG4P0GF8",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CMIGP974",
-      "isin": "BRCMIG4P0G25",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 247,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
     },
     {
       "codigo_opcao": "CMIGQ10",
@@ -2370,8 +1490,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 5700
+      "quantidade_descoberta": 17200,
+      "total_posicoes": 22900
     },
     {
       "codigo_opcao": "CMIGR10",
@@ -2513,7 +1633,7 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3800,
+      "quantidade_descoberta": 1200,
       "total_posicoes": 41000
     },
     {
@@ -2524,8 +1644,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 16700
+      "quantidade_descoberta": 2500,
+      "total_posicoes": 16000
     },
     {
       "codigo_opcao": "CMIGR132",
@@ -2536,7 +1656,7 @@
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "CMIGR136",
@@ -2546,8 +1666,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 17000,
-      "total_posicoes": 37600
+      "quantidade_descoberta": 0,
+      "total_posicoes": 39300
     },
     {
       "codigo_opcao": "CMIGR139",
@@ -2557,8 +1677,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 5600,
-      "total_posicoes": 16400
+      "quantidade_descoberta": 0,
+      "total_posicoes": 16600
     },
     {
       "codigo_opcao": "CMIGR142",
@@ -2569,7 +1689,7 @@
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 5000,
-      "total_posicoes": 51900
+      "total_posicoes": 61600
     },
     {
       "codigo_opcao": "CMIGR144",
@@ -2579,8 +1699,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 24700,
-      "total_posicoes": 47700
+      "quantidade_descoberta": 0,
+      "total_posicoes": 51700
     },
     {
       "codigo_opcao": "CMIGR147",
@@ -2590,8 +1710,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 176800
+      "quantidade_descoberta": 27400,
+      "total_posicoes": 150600
     },
     {
       "codigo_opcao": "CMIGR152",
@@ -2601,8 +1721,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 5300,
-      "total_posicoes": 18100
+      "quantidade_descoberta": 22000,
+      "total_posicoes": 41000
     },
     {
       "codigo_opcao": "CMIGR156",
@@ -2612,8 +1732,19 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 3100
+      "quantidade_descoberta": 12100,
+      "total_posicoes": 15100
+    },
+    {
+      "codigo_opcao": "CMIGR159",
+      "isin": "BRCMIG4R0IF2",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 247,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 16800,
+      "total_posicoes": 16800
     },
     {
       "codigo_opcao": "CMIGR161",
@@ -2623,8 +1754,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 7800,
+      "total_posicoes": 7800
     },
     {
       "codigo_opcao": "CMIGR166",
@@ -2634,8 +1765,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 18100,
+      "total_posicoes": 18100
     },
     {
       "codigo_opcao": "CMIGR174",
@@ -2647,6 +1778,17 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 1600
+    },
+    {
+      "codigo_opcao": "CMIGR184",
+      "isin": "BRCMIG4R0HT5",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 247,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9500
     },
     {
       "codigo_opcao": "CMIGR194",
@@ -2667,8 +1809,8 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 78700,
-      "total_posicoes": 97200
+      "quantidade_descoberta": 76700,
+      "total_posicoes": 97600
     },
     {
       "codigo_opcao": "CMIGR217",
@@ -2689,8 +1831,19 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 6100,
-      "total_posicoes": 6100
+      "quantidade_descoberta": 9400,
+      "total_posicoes": 12100
+    },
+    {
+      "codigo_opcao": "CMIGR4",
+      "isin": "BRCMIG4R0I94",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 247,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 7000,
+      "total_posicoes": 7000
     },
     {
       "codigo_opcao": "CMIGR449",
@@ -2745,7 +1898,7 @@
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
+      "total_posicoes": 4000
     },
     {
       "codigo_opcao": "CMIGS10",
@@ -2800,7 +1953,7 @@
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 6400
+      "total_posicoes": 6300
     },
     {
       "codigo_opcao": "CMIGS114",
@@ -2920,7 +2073,7 @@
       "semanal": false,
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 22700,
+      "quantidade_descoberta": 23800,
       "total_posicoes": 25500
     },
     {
@@ -2943,7 +2096,7 @@
       "contratos_em_aberto": 247,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 700
+      "total_posicoes": 800
     },
     {
       "codigo_opcao": "CMIGS146",
@@ -3199,37 +2352,158 @@
       "total_posicoes": 6800
     },
     {
-      "codigo_opcao": "CMIGE130",
-      "isin": "BRCMIG4E0GZ9",
+      "codigo_opcao": "CMIGD120W5",
+      "isin": "BRCMIG4D0JC3",
       "ativo": "CMIG",
       "tipo": "Call",
-      "semanal": false,
+      "semanal": true,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 213100,
-      "quantidade_descoberta": 67200,
-      "total_posicoes": 3732200
+      "quantidade_coberta": 1100,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1200
     },
     {
-      "codigo_opcao": "CMIGQ130",
-      "isin": "BRCMIG4Q0H22",
+      "codigo_opcao": "CMIGD125W5",
+      "isin": "BRCMIG4D0JB5",
       "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": false,
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 5700,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 6300
+    },
+    {
+      "codigo_opcao": "CMIGD130W5",
+      "isin": "BRCMIG4D0JK6",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 48400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 64600
+    },
+    {
+      "codigo_opcao": "CMIGD135W5",
+      "isin": "BRCMIG4D0JN0",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1844600,
-      "total_posicoes": 4726100
+      "quantidade_descoberta": 800,
+      "total_posicoes": 3800
     },
     {
-      "codigo_opcao": "CMIGE125",
-      "isin": "BRCMIG4E0GY2",
+      "codigo_opcao": "CMIGD140W5",
+      "isin": "BRCMIG4D0JF6",
       "ativo": "CMIG",
       "tipo": "Call",
-      "semanal": false,
+      "semanal": true,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 486600,
-      "quantidade_descoberta": 70900,
-      "total_posicoes": 1016100
+      "quantidade_coberta": 3500,
+      "quantidade_descoberta": 4500,
+      "total_posicoes": 16000
+    },
+    {
+      "codigo_opcao": "CMIGD145W5",
+      "isin": "BRCMIG4D0JO8",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 5400,
+      "quantidade_descoberta": 25900,
+      "total_posicoes": 32100
+    },
+    {
+      "codigo_opcao": "CMIGD150W5",
+      "isin": "BRCMIG4D0JM2",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "CMIGD160W5",
+      "isin": "BRCMIG4D0JG4",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5000,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "CMIGP120W5",
+      "isin": "BRCMIG4P0JD7",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 19900,
+      "total_posicoes": 20000
+    },
+    {
+      "codigo_opcao": "CMIGP125W5",
+      "isin": "BRCMIG4P0JL0",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 2100
+    },
+    {
+      "codigo_opcao": "CMIGP130W5",
+      "isin": "BRCMIG4P0JO4",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1600,
+      "total_posicoes": 4100
+    },
+    {
+      "codigo_opcao": "CMIGP135W5",
+      "isin": "BRCMIG4P0JS5",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 21100,
+      "total_posicoes": 27200
+    },
+    {
+      "codigo_opcao": "CMIGP140W5",
+      "isin": "BRCMIG4P0JM8",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 7200,
+      "total_posicoes": 7200
+    },
+    {
+      "codigo_opcao": "CMIGP145W5",
+      "isin": "BRCMIG4P0JF2",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6300,
+      "total_posicoes": 6300
     },
     {
       "codigo_opcao": "CMIGE144",
@@ -3265,6 +2539,193 @@
       "total_posicoes": 300
     },
     {
+      "codigo_opcao": "CMIGH123",
+      "isin": "BRCMIG4H0JE5",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10800
+    },
+    {
+      "codigo_opcao": "CMIGT123",
+      "isin": "BRCMIG4T0JE1",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "CMIGC11",
+      "isin": "BRCMIG4C0HC8",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 249,
+      "quantidade_coberta": 7200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 326100
+    },
+    {
+      "codigo_opcao": "CMIGO11",
+      "isin": "BRCMIG4O0HC4",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 249,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 118800
+    },
+    {
+      "codigo_opcao": "CMIGD120W4",
+      "isin": "BRCMIG4D0J10",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1300
+    },
+    {
+      "codigo_opcao": "CMIGD125W4",
+      "isin": "BRCMIG4D0J36",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8500
+    },
+    {
+      "codigo_opcao": "CMIGD130W4",
+      "isin": "BRCMIG4D0J02",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 3000,
+      "quantidade_descoberta": 2500,
+      "total_posicoes": 29900
+    },
+    {
+      "codigo_opcao": "CMIGD135W4",
+      "isin": "BRCMIG4D0IW3",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 3400,
+      "total_posicoes": 8600
+    },
+    {
+      "codigo_opcao": "CMIGD140W4",
+      "isin": "BRCMIG4D0IP7",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 4100,
+      "quantidade_descoberta": 1500,
+      "total_posicoes": 20500
+    },
+    {
+      "codigo_opcao": "CMIGP120W4",
+      "isin": "BRCMIG4P0IT5",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "CMIGP125W4",
+      "isin": "BRCMIG4P0IQ1",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 21500,
+      "total_posicoes": 22500
+    },
+    {
+      "codigo_opcao": "CMIGP130W4",
+      "isin": "BRCMIG4P0IW9",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8400,
+      "total_posicoes": 9000
+    },
+    {
+      "codigo_opcao": "CMIGP135W4",
+      "isin": "BRCMIG4P0J63",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1200,
+      "total_posicoes": 108000
+    },
+    {
+      "codigo_opcao": "CMIGP145W4",
+      "isin": "BRCMIG4P0J14",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "CMIGE118W5",
+      "isin": "BRCMIG4E0JK5",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 253,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CMIGE130",
+      "isin": "BRCMIG4E0GZ9",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 233600,
+      "quantidade_descoberta": 81800,
+      "total_posicoes": 3729100
+    },
+    {
+      "codigo_opcao": "CMIGQ130",
+      "isin": "BRCMIG4Q0H22",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1837500,
+      "total_posicoes": 4941500
+    },
+    {
       "codigo_opcao": "CMIGE100",
       "isin": "BRCMIG4E0HA0",
       "ativo": "CMIG",
@@ -3282,7 +2743,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 24400,
+      "quantidade_coberta": 27200,
       "quantidade_descoberta": 6700,
       "total_posicoes": 48600
     },
@@ -3293,8 +2754,8 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 48900,
-      "quantidade_descoberta": 247200,
+      "quantidade_coberta": 53800,
+      "quantidade_descoberta": 247100,
       "total_posicoes": 342100
     },
     {
@@ -3304,9 +2765,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 142300,
-      "quantidade_descoberta": 675800,
-      "total_posicoes": 4040200
+      "quantidade_coberta": 144000,
+      "quantidade_descoberta": 659400,
+      "total_posicoes": 4048400
     },
     {
       "codigo_opcao": "CMIGE135",
@@ -3315,9 +2776,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 160300,
-      "quantidade_descoberta": 28700,
-      "total_posicoes": 4511300
+      "quantidade_coberta": 209200,
+      "quantidade_descoberta": 91400,
+      "total_posicoes": 4630300
     },
     {
       "codigo_opcao": "CMIGE140",
@@ -3326,9 +2787,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 178300,
-      "quantidade_descoberta": 93200,
-      "total_posicoes": 7302100
+      "quantidade_coberta": 264400,
+      "quantidade_descoberta": 132600,
+      "total_posicoes": 7441900
     },
     {
       "codigo_opcao": "CMIGE145",
@@ -3337,9 +2798,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 74100,
-      "quantidade_descoberta": 123300,
-      "total_posicoes": 6928500
+      "quantidade_coberta": 91000,
+      "quantidade_descoberta": 875500,
+      "total_posicoes": 7950100
     },
     {
       "codigo_opcao": "CMIGE150",
@@ -3348,9 +2809,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 94900,
-      "quantidade_descoberta": 8400,
-      "total_posicoes": 2735200
+      "quantidade_coberta": 96000,
+      "quantidade_descoberta": 7600,
+      "total_posicoes": 2725200
     },
     {
       "codigo_opcao": "CMIGE155",
@@ -3361,7 +2822,7 @@
       "contratos_em_aberto": 252,
       "quantidade_coberta": 23100,
       "quantidade_descoberta": 103500,
-      "total_posicoes": 6749700
+      "total_posicoes": 6756700
     },
     {
       "codigo_opcao": "CMIGE160",
@@ -3404,8 +2865,8 @@
       "semanal": false,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 20000,
-      "total_posicoes": 20000
+      "quantidade_descoberta": 30000,
+      "total_posicoes": 30000
     },
     {
       "codigo_opcao": "CMIGE180",
@@ -3458,7 +2919,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 2200,
       "quantidade_descoberta": 0,
       "total_posicoes": 2200
     },
@@ -3537,7 +2998,7 @@
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 6500,
-      "total_posicoes": 44900
+      "total_posicoes": 39600
     },
     {
       "codigo_opcao": "CMIGQ110",
@@ -3547,8 +3008,8 @@
       "semanal": false,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2800,
-      "total_posicoes": 250200
+      "quantidade_descoberta": 16800,
+      "total_posicoes": 238200
     },
     {
       "codigo_opcao": "CMIGQ120",
@@ -3558,8 +3019,8 @@
       "semanal": false,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 35500,
-      "total_posicoes": 3500500
+      "quantidade_descoberta": 35100,
+      "total_posicoes": 3499900
     },
     {
       "codigo_opcao": "CMIGQ135",
@@ -3569,8 +3030,8 @@
       "semanal": false,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 213400,
-      "total_posicoes": 4433200
+      "quantidade_descoberta": 213200,
+      "total_posicoes": 4388800
     },
     {
       "codigo_opcao": "CMIGQ140",
@@ -3580,8 +3041,8 @@
       "semanal": false,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 83600,
-      "total_posicoes": 6813500
+      "quantidade_descoberta": 102700,
+      "total_posicoes": 6832400
     },
     {
       "codigo_opcao": "CMIGQ145",
@@ -3591,8 +3052,8 @@
       "semanal": false,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 105800,
-      "total_posicoes": 6714400
+      "quantidade_descoberta": 117300,
+      "total_posicoes": 6725900
     },
     {
       "codigo_opcao": "CMIGQ150",
@@ -3646,8 +3107,8 @@
       "semanal": false,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3011300
+      "quantidade_descoberta": 5500,
+      "total_posicoes": 3007800
     },
     {
       "codigo_opcao": "CMIGQ967",
@@ -3672,169 +3133,70 @@
       "total_posicoes": 500
     },
     {
-      "codigo_opcao": "CMIGD120W5",
-      "isin": "BRCMIG4D0JC3",
+      "codigo_opcao": "CMIGE997",
+      "isin": "BRCMIG4E0GW6",
       "ativo": "CMIG",
       "tipo": "Call",
-      "semanal": true,
+      "semanal": false,
       "contratos_em_aberto": 252,
-      "quantidade_coberta": 1100,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 1200
+      "quantidade_coberta": 50300,
+      "quantidade_descoberta": 28000,
+      "total_posicoes": 180000
     },
     {
-      "codigo_opcao": "CMIGD125W5",
-      "isin": "BRCMIG4D0JB5",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 5700,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 6200
-    },
-    {
-      "codigo_opcao": "CMIGD130W5",
-      "isin": "BRCMIG4D0JK6",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 44900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 64600
-    },
-    {
-      "codigo_opcao": "CMIGD135W5",
-      "isin": "BRCMIG4D0JN0",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "CMIGD140W5",
-      "isin": "BRCMIG4D0JF6",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3600
-    },
-    {
-      "codigo_opcao": "CMIGD145W5",
-      "isin": "BRCMIG4D0JO8",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 16100,
-      "total_posicoes": 17300
-    },
-    {
-      "codigo_opcao": "CMIGD150W5",
-      "isin": "BRCMIG4D0JM2",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "CMIGD160W5",
-      "isin": "BRCMIG4D0JG4",
-      "ativo": "CMIG",
-      "tipo": "Call",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "CMIGP120W5",
-      "isin": "BRCMIG4P0JD7",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9900,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "CMIGP125W5",
-      "isin": "BRCMIG4P0JL0",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "CMIGP130W5",
-      "isin": "BRCMIG4P0JO4",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1600,
-      "total_posicoes": 4100
-    },
-    {
-      "codigo_opcao": "CMIGP135W5",
-      "isin": "BRCMIG4P0JS5",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 26900,
-      "total_posicoes": 27000
-    },
-    {
-      "codigo_opcao": "CMIGP140W5",
-      "isin": "BRCMIG4P0JM8",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7200,
-      "total_posicoes": 7200
-    },
-    {
-      "codigo_opcao": "CMIGP145W5",
-      "isin": "BRCMIG4P0JF2",
-      "ativo": "CMIG",
-      "tipo": "Put",
-      "semanal": true,
-      "contratos_em_aberto": 252,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6300,
-      "total_posicoes": 6300
-    },
-    {
-      "codigo_opcao": "CMIGN12",
-      "isin": "BRCMIG4N0K65",
+      "codigo_opcao": "CMIGQ997",
+      "isin": "BRCMIG4Q0GZ5",
       "ativo": "CMIG",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 252,
       "quantidade_coberta": 0,
+      "quantidade_descoberta": 700,
+      "total_posicoes": 900
+    },
+    {
+      "codigo_opcao": "CMIGD145W4",
+      "isin": "BRCMIG4D0J69",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 6300
+    },
+    {
+      "codigo_opcao": "CMIGP140W4",
+      "isin": "BRCMIG4P0J22",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": true,
+      "contratos_em_aberto": 252,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 8200
+    },
+    {
+      "codigo_opcao": "CMIGE98",
+      "isin": "BRCMIG4E0GV8",
+      "ativo": "CMIG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 250,
+      "quantidade_coberta": 500,
+      "quantidade_descoberta": 40700,
+      "total_posicoes": 41200
+    },
+    {
+      "codigo_opcao": "CMIGQ98",
+      "isin": "BRCMIG4Q0GY8",
+      "ativo": "CMIG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 250,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10500
+      "total_posicoes": 4100
     }
   ]
 }
