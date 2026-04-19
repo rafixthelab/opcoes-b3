@@ -1,0 +1,34 @@
+{
+  "ticker": "MCDC",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 2,
+  "calls": 1,
+  "puts": 1,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "MCDCQ753",
+      "isin": "BRMCDC9Q00L9",
+      "ativo": "MCDC",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 163,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 15330
+    },
+    {
+      "codigo_opcao": "MCDCL85",
+      "isin": "BRMCDC9L00H8",
+      "ativo": "MCDC",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 158,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2200
+    }
+  ]
+}
