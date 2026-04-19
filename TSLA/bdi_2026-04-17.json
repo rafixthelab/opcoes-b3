@@ -1,0 +1,122 @@
+{
+  "ticker": "TSLA",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 10,
+  "calls": 8,
+  "puts": 2,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "TSLAE560",
+      "isin": "BRTSLA9E0257",
+      "ativo": "TSLA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "TSLAE570",
+      "isin": "BRTSLA9E0216",
+      "ativo": "TSLA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10070
+    },
+    {
+      "codigo_opcao": "TSLAE760",
+      "isin": "BRTSLA9E0182",
+      "ativo": "TSLA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "TSLAF620",
+      "isin": "BRTSLA9F01Y0",
+      "ativo": "TSLA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "TSLAD65",
+      "isin": "BRTSLA9D0274",
+      "ativo": "TSLA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 25000
+    },
+    {
+      "codigo_opcao": "TSLAF55",
+      "isin": "BRTSLA9F01Q6",
+      "ativo": "TSLA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "TSLAF870",
+      "isin": "BRTSLA9F01R4",
+      "ativo": "TSLA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 10000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "TSLAR43",
+      "isin": "BRTSLA9R01P3",
+      "ativo": "TSLA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10000,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "TSLAR55",
+      "isin": "BRTSLA9R01Q1",
+      "ativo": "TSLA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10000,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "TSLAL700",
+      "isin": "BRTSLA9L01W2",
+      "ativo": "TSLA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 1700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1700
+    }
+  ]
+}
