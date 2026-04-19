@@ -1,0 +1,23 @@
+{
+  "ticker": "M1TA",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 1,
+  "calls": 0,
+  "puts": 1,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "M1TAS118",
+      "isin": "BRM1TA9S00U7",
+      "ativo": "M1TA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1300
+    }
+  ]
+}
