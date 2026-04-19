@@ -1,11 +1,11 @@
 {
   "ticker": "DASA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 19,
-  "calls": 8,
-  "puts": 11,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 14,
+  "calls": 6,
+  "puts": 8,
   "semanais": 0,
   "opcoes": [
     {
@@ -18,28 +18,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "DASAD320",
-      "isin": "BRDASA3D02Y7",
-      "ativo": "DASA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 8800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11000
-    },
-    {
-      "codigo_opcao": "DASAP320",
-      "isin": "BRDASA3P0307",
-      "ativo": "DASA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 43500
     },
     {
       "codigo_opcao": "DASAB130",
@@ -64,24 +42,13 @@
       "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "DASAD200",
-      "isin": "BRDASA3D02M2",
-      "ativo": "DASA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
       "codigo_opcao": "DASAE20",
       "isin": "BRDASA3E03N6",
       "ativo": "DASA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 123,
-      "quantidade_coberta": 800,
+      "quantidade_coberta": 300,
       "quantidade_descoberta": 0,
       "total_posicoes": 800
     },
@@ -117,17 +84,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "DASAP200",
-      "isin": "BRDASA3P02M6",
-      "ativo": "DASA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 6000
     },
     {
       "codigo_opcao": "DASAQ20",
@@ -205,17 +161,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "DASAP250",
-      "isin": "BRDASA3P0315",
-      "ativo": "DASA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 123,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 1600
     }
   ]
 }
