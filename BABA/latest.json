@@ -1,8 +1,8 @@
 {
   "ticker": "BABA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
   "total_registros": 1,
   "calls": 0,
   "puts": 1,
