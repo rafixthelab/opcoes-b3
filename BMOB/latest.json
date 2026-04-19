@@ -1,188 +1,23 @@
 {
   "ticker": "BMOB",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 28,
-  "calls": 14,
-  "puts": 14,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 18,
+  "calls": 12,
+  "puts": 6,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "BMOBP224",
-      "isin": "BRBMOB3P01E6",
-      "ativo": "BMOB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "BMOBE229",
-      "isin": "BRBMOB3E0157",
-      "ativo": "BMOB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9500
-    },
-    {
-      "codigo_opcao": "BMOBP219",
-      "isin": "BRBMOB3P01G1",
-      "ativo": "BMOB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "BMOBQ239",
-      "isin": "BRBMOB3Q0146",
-      "ativo": "BMOB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6700
-    },
-    {
-      "codigo_opcao": "BMOBB129",
-      "isin": "BRBMOB3B00W0",
-      "ativo": "BMOB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "BMOBP130",
-      "isin": "BRBMOB3P00U4",
-      "ativo": "BMOB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "BMOBE249",
-      "isin": "BRBMOB3E00X2",
-      "ativo": "BMOB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "BMOBE254",
-      "isin": "BRBMOB3E00Z7",
+      "codigo_opcao": "BMOBF264",
+      "isin": "BRBMOB3F0156",
       "ativo": "BMOB",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2300
-    },
-    {
-      "codigo_opcao": "BMOBE259",
-      "isin": "BRBMOB3E00Y0",
-      "ativo": "BMOB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8100
-    },
-    {
-      "codigo_opcao": "BMOBG264",
-      "isin": "BRBMOB3G00X7",
-      "ativo": "BMOB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "BMOBE289",
-      "isin": "BRBMOB3E0173",
-      "ativo": "BMOB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5400
-    },
-    {
-      "codigo_opcao": "BMOBQ279",
-      "isin": "BRBMOB3Q0179",
-      "ativo": "BMOB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "BMOBD249",
-      "isin": "BRBMOB3D01C6",
-      "ativo": "BMOB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 5900,
-      "total_posicoes": 6200
-    },
-    {
-      "codigo_opcao": "BMOBD259",
-      "isin": "BRBMOB3D01D4",
-      "ativo": "BMOB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 12000,
-      "total_posicoes": 16800
-    },
-    {
-      "codigo_opcao": "BMOBP249",
-      "isin": "BRBMOB3P01C0",
-      "ativo": "BMOB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 13200
-    },
-    {
-      "codigo_opcao": "BMOBP259",
-      "isin": "BRBMOB3P01D8",
-      "ativo": "BMOB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 5500
+      "total_posicoes": 600
     },
     {
       "codigo_opcao": "BMOBF269",
@@ -193,7 +28,7 @@
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "total_posicoes": 700
     },
     {
       "codigo_opcao": "BMOBR254",
@@ -218,6 +53,39 @@
       "total_posicoes": 400
     },
     {
+      "codigo_opcao": "BMOBE229",
+      "isin": "BRBMOB3E0157",
+      "ativo": "BMOB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9500
+    },
+    {
+      "codigo_opcao": "BMOBQ239",
+      "isin": "BRBMOB3Q0146",
+      "ativo": "BMOB",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6700
+    },
+    {
+      "codigo_opcao": "BMOBB129",
+      "isin": "BRBMOB3B00W0",
+      "ativo": "BMOB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
       "codigo_opcao": "BMOBQ214",
       "isin": "BRBMOB3Q0112",
       "ativo": "BMOB",
@@ -225,7 +93,7 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 800
     },
     {
@@ -240,81 +108,103 @@
       "total_posicoes": 1600
     },
     {
-      "codigo_opcao": "BMOBD229",
-      "isin": "BRBMOB3D01A0",
-      "ativo": "BMOB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9300,
-      "total_posicoes": 9300
-    },
-    {
-      "codigo_opcao": "BMOBD234",
-      "isin": "BRBMOB3D0190",
-      "ativo": "BMOB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "BMOBD239",
-      "isin": "BRBMOB3D01B8",
-      "ativo": "BMOB",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6200,
-      "total_posicoes": 6200
-    },
-    {
-      "codigo_opcao": "BMOBD244",
-      "isin": "BRBMOB3D0182",
+      "codigo_opcao": "BMOBE269",
+      "isin": "BRBMOB3E0181",
       "ativo": "BMOB",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 41000
+      "total_posicoes": 1500
     },
     {
-      "codigo_opcao": "BMOBP229",
-      "isin": "BRBMOB3P0188",
+      "codigo_opcao": "BMOBE289",
+      "isin": "BRBMOB3E0173",
+      "ativo": "BMOB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6300
+    },
+    {
+      "codigo_opcao": "BMOBF279",
+      "isin": "BRBMOB3F01B3",
+      "ativo": "BMOB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5500
+    },
+    {
+      "codigo_opcao": "BMOBF289",
+      "isin": "BRBMOB3F01C1",
+      "ativo": "BMOB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "BMOBQ279",
+      "isin": "BRBMOB3Q0179",
       "ativo": "BMOB",
       "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "BMOBE249",
+      "isin": "BRBMOB3E00X2",
+      "ativo": "BMOB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 700,
+      "total_posicoes": 700
+    },
+    {
+      "codigo_opcao": "BMOBE254",
+      "isin": "BRBMOB3E00Z7",
+      "ativo": "BMOB",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1000,
-      "total_posicoes": 1300
+      "total_posicoes": 2300
     },
     {
-      "codigo_opcao": "BMOBP239",
-      "isin": "BRBMOB3P0196",
+      "codigo_opcao": "BMOBE259",
+      "isin": "BRBMOB3E00Y0",
       "ativo": "BMOB",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6000,
-      "total_posicoes": 9300
-    },
-    {
-      "codigo_opcao": "BMOBP244",
-      "isin": "BRBMOB3P01A4",
-      "ativo": "BMOB",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 24400
+      "total_posicoes": 8100
+    },
+    {
+      "codigo_opcao": "BMOBG264",
+      "isin": "BRBMOB3G00X7",
+      "ativo": "BMOB",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 107,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     }
   ]
 }
