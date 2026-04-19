@@ -1,8 +1,8 @@
 {
   "ticker": "MSFT",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
   "total_registros": 4,
   "calls": 2,
   "puts": 2,
@@ -15,20 +15,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 162,
-      "quantidade_coberta": 300,
+      "quantidade_coberta": 1000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "MSFTQ863",
-      "isin": "BRMSFT9Q00U1",
-      "ativo": "MSFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 162,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10
+      "total_posicoes": 1000
     },
     {
       "codigo_opcao": "MSFTS823",
@@ -51,6 +40,17 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "MSFTQ863",
+      "isin": "BRMSFT9Q00U1",
+      "ativo": "MSFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 162,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10
     }
   ]
 }
