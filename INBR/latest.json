@@ -1,13 +1,35 @@
 {
   "ticker": "INBR",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 46,
-  "calls": 24,
-  "puts": 22,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 28,
+  "calls": 15,
+  "puts": 13,
   "semanais": 0,
   "opcoes": [
+    {
+      "codigo_opcao": "INBRI530",
+      "isin": "BRINBR9I0195",
+      "ativo": "INBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "INBRN55",
+      "isin": "BRINBR9N02W7",
+      "ativo": "INBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 13000
+    },
     {
       "codigo_opcao": "INBRQ409",
       "isin": "BRINBR9Q01D2",
@@ -20,15 +42,26 @@
       "total_posicoes": 12200
     },
     {
-      "codigo_opcao": "INBRQ472",
-      "isin": "BRINBR9Q01B6",
+      "codigo_opcao": "INBRF470",
+      "isin": "BRINBR9F01Y1",
       "ativo": "INBR",
-      "tipo": "Put",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 250,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200650
+    },
+    {
+      "codigo_opcao": "INBRF477",
+      "isin": "BRINBR9F0206",
+      "ativo": "INBR",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 103,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
+      "quantidade_descoberta": 51100,
+      "total_posicoes": 51100
     },
     {
       "codigo_opcao": "INBRR465",
@@ -42,94 +75,6 @@
       "total_posicoes": 4500
     },
     {
-      "codigo_opcao": "INBRQ414",
-      "isin": "BRINBR9Q01F7",
-      "ativo": "INBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10900
-    },
-    {
-      "codigo_opcao": "INBRF432",
-      "isin": "BRINBR9F02H4",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 51100,
-      "total_posicoes": 51100
-    },
-    {
-      "codigo_opcao": "INBRG344",
-      "isin": "BRINBR9G01A9",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "INBRD452",
-      "isin": "BRINBR9D00T8",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 20,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 20
-    },
-    {
-      "codigo_opcao": "INBRE600",
-      "isin": "BRINBR9E01A4",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "INBRK480",
-      "isin": "BRINBR9K01K0",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "INBRL57",
-      "isin": "BRINBR9L0380",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "INBRP655",
-      "isin": "BRINBR9P00R6",
-      "ativo": "INBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3200
-    },
-    {
       "codigo_opcao": "INBRF457",
       "isin": "BRINBR9F0289",
       "ativo": "INBR",
@@ -141,81 +86,26 @@
       "total_posicoes": 11000
     },
     {
-      "codigo_opcao": "INBRD467",
-      "isin": "BRINBR9D00S0",
+      "codigo_opcao": "INBRG344",
+      "isin": "BRINBR9G01A9",
       "ativo": "INBR",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 1900,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 1000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2100
+      "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "INBRP467",
-      "isin": "BRINBR9P00S4",
+      "codigo_opcao": "INBRF432",
+      "isin": "BRINBR9F02H4",
       "ativo": "INBR",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 103,
+      "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "INBRD430",
-      "isin": "BRINBR9D00Z5",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 10,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "INBRD437",
-      "isin": "BRINBR9D00Y8",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "INBRD447",
-      "isin": "BRINBR9D00W2",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 15120,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 15120
-    },
-    {
-      "codigo_opcao": "INBRP430",
-      "isin": "BRINBR9P00Y2",
-      "ativo": "INBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "INBRP442",
-      "isin": "BRINBR9P00X4",
-      "ativo": "INBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 40000,
-      "total_posicoes": 40000
+      "quantidade_descoberta": 51100,
+      "total_posicoes": 51100
     },
     {
       "codigo_opcao": "INBRF332",
@@ -306,147 +196,81 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "INBRF470",
-      "isin": "BRINBR9F01Y1",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200650
-    },
-    {
-      "codigo_opcao": "INBRF477",
-      "isin": "BRINBR9F0206",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 51100,
-      "total_posicoes": 51100
-    },
-    {
-      "codigo_opcao": "INBRD500",
-      "isin": "BRINBR9D01M1",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 108300
-    },
-    {
-      "codigo_opcao": "INBRD505",
-      "isin": "BRINBR9D01C2",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 40600
-    },
-    {
-      "codigo_opcao": "INBRD590",
-      "isin": "BRINBR9D01J7",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 80,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "INBRP495",
-      "isin": "BRINBR9P01A0",
-      "ativo": "INBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 189500
-    },
-    {
-      "codigo_opcao": "INBRP500",
-      "isin": "BRINBR9P01E2",
-      "ativo": "INBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12000,
-      "total_posicoes": 12500
-    },
-    {
-      "codigo_opcao": "INBRP505",
-      "isin": "BRINBR9P01C6",
-      "ativo": "INBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 40000,
-      "total_posicoes": 40000
-    },
-    {
-      "codigo_opcao": "INBRP600",
-      "isin": "BRINBR9P01D4",
-      "ativo": "INBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3400
-    },
-    {
-      "codigo_opcao": "INBRI530",
-      "isin": "BRINBR9I0195",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "INBRN55",
-      "isin": "BRINBR9N02W7",
-      "ativo": "INBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 13000
-    },
-    {
-      "codigo_opcao": "INBRD469",
-      "isin": "BRINBR9D01T6",
-      "ativo": "INBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "INBRP469",
-      "isin": "BRINBR9P01T0",
+      "codigo_opcao": "INBRQ414",
+      "isin": "BRINBR9Q01F7",
       "ativo": "INBR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 700
+      "total_posicoes": 10900
+    },
+    {
+      "codigo_opcao": "INBRE600",
+      "isin": "BRINBR9E01A4",
+      "ativo": "INBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "INBRK480",
+      "isin": "BRINBR9K01K0",
+      "ativo": "INBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "INBRL57",
+      "isin": "BRINBR9L0380",
+      "ativo": "INBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "INBRE480",
+      "isin": "BRINBR9E0199",
+      "ativo": "INBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 2700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2900
+    },
+    {
+      "codigo_opcao": "INBRQ480",
+      "isin": "BRINBR9Q0195",
+      "ativo": "INBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5000,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "INBRU480",
+      "isin": "BRINBR9U01A0",
+      "ativo": "INBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 103,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5000,
+      "total_posicoes": 5000
     },
     {
       "codigo_opcao": "INBRF505",
@@ -482,37 +306,15 @@
       "total_posicoes": 12000
     },
     {
-      "codigo_opcao": "INBRE480",
-      "isin": "BRINBR9E0199",
+      "codigo_opcao": "INBRQ472",
+      "isin": "BRINBR9Q01B6",
       "ativo": "INBR",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 103,
-      "quantidade_coberta": 2700,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2900
-    },
-    {
-      "codigo_opcao": "INBRQ480",
-      "isin": "BRINBR9Q0195",
-      "ativo": "INBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "INBRU480",
-      "isin": "BRINBR9U01A0",
-      "ativo": "INBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
+      "total_posicoes": 500
     }
   ]
 }
