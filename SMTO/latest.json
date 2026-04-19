@@ -1,365 +1,13 @@
 {
   "ticker": "SMTO",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 180,
-  "calls": 99,
-  "puts": 81,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 141,
+  "calls": 77,
+  "puts": 64,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "SMTOD191",
-      "isin": "BRSMTO3D0717",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 26000,
-      "total_posicoes": 35900
-    },
-    {
-      "codigo_opcao": "SMTOD226",
-      "isin": "BRSMTO3D07E0",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 1100,
-      "quantidade_descoberta": 10800,
-      "total_posicoes": 21100
-    },
-    {
-      "codigo_opcao": "SMTOD236",
-      "isin": "BRSMTO3D07F7",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 4600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5100
-    },
-    {
-      "codigo_opcao": "SMTOD241",
-      "isin": "BRSMTO3D07G5",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11200,
-      "total_posicoes": 24800
-    },
-    {
-      "codigo_opcao": "SMTOP146",
-      "isin": "BRSMTO3P07C8",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3700
-    },
-    {
-      "codigo_opcao": "SMTOP206",
-      "isin": "BRSMTO3P07E4",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 2300
-    },
-    {
-      "codigo_opcao": "SMTOP226",
-      "isin": "BRSMTO3P07A2",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 900,
-      "total_posicoes": 900
-    },
-    {
-      "codigo_opcao": "SMTOE188",
-      "isin": "BRSMTO3E05J1",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 22900
-    },
-    {
-      "codigo_opcao": "SMTOF176",
-      "isin": "BRSMTO3F0574",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 24800
-    },
-    {
-      "codigo_opcao": "SMTOF186",
-      "isin": "BRSMTO3F0566",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 58000,
-      "total_posicoes": 190000
-    },
-    {
-      "codigo_opcao": "SMTOQ188",
-      "isin": "BRSMTO3Q05J5",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14600
-    },
-    {
-      "codigo_opcao": "SMTOR176",
-      "isin": "BRSMTO3R0570",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6600
-    },
-    {
-      "codigo_opcao": "SMTOR186",
-      "isin": "BRSMTO3R0562",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SMTOP165",
-      "isin": "BRSMTO3P06W8",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3400,
-      "total_posicoes": 7000
-    },
-    {
-      "codigo_opcao": "SMTOP170",
-      "isin": "BRSMTO3P06V0",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4200,
-      "total_posicoes": 6500
-    },
-    {
-      "codigo_opcao": "SMTOP180",
-      "isin": "BRSMTO3P06U2",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27900,
-      "total_posicoes": 29400
-    },
-    {
-      "codigo_opcao": "SMTOF161",
-      "isin": "BRSMTO3F05I0",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SMTOF171",
-      "isin": "BRSMTO3F0665",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5700
-    },
-    {
-      "codigo_opcao": "SMTOF181",
-      "isin": "BRSMTO3F05R1",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "SMTOF191",
-      "isin": "BRSMTO3F05N0",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SMTOF201",
-      "isin": "BRSMTO3F0640",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SMTOF203",
-      "isin": "BRSMTO3F05P5",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5100
-    },
-    {
-      "codigo_opcao": "SMTOF226",
-      "isin": "BRSMTO3F0616",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SMTOF231",
-      "isin": "BRSMTO3F05X9",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SMTOF301",
-      "isin": "BRSMTO3F05M2",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SMTOR131",
-      "isin": "BRSMTO3R05I5",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 900,
-      "total_posicoes": 900
-    },
-    {
-      "codigo_opcao": "SMTOR151",
-      "isin": "BRSMTO3R05S4",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SMTOR161",
-      "isin": "BRSMTO3R0638",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "SMTOR171",
-      "isin": "BRSMTO3R0604",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2700
-    },
-    {
-      "codigo_opcao": "SMTOR181",
-      "isin": "BRSMTO3R05R6",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 41200,
-      "total_posicoes": 44200
-    },
-    {
-      "codigo_opcao": "SMTOR191",
-      "isin": "BRSMTO3R05P0",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5200,
-      "total_posicoes": 5200
-    },
-    {
-      "codigo_opcao": "SMTOR201",
-      "isin": "BRSMTO3R05E4",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
     {
       "codigo_opcao": "SMTOF211",
       "isin": "BRSMTO3F0509",
@@ -427,81 +75,411 @@
       "total_posicoes": 8000
     },
     {
-      "codigo_opcao": "SMTOD141",
-      "isin": "BRSMTO3D06S2",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 19000,
-      "total_posicoes": 20100
-    },
-    {
-      "codigo_opcao": "SMTOD151",
-      "isin": "BRSMTO3D06R4",
+      "codigo_opcao": "SMTOE188",
+      "isin": "BRSMTO3E05J1",
       "ativo": "SMTO",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 7600,
-      "total_posicoes": 7600
+      "quantidade_descoberta": 15800,
+      "total_posicoes": 17400
     },
     {
-      "codigo_opcao": "SMTOD161",
-      "isin": "BRSMTO3D06Q6",
+      "codigo_opcao": "SMTOF176",
+      "isin": "BRSMTO3F0574",
       "ativo": "SMTO",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 129,
-      "quantidade_coberta": 24700,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 25100
+      "total_posicoes": 24800
     },
     {
-      "codigo_opcao": "SMTOP141",
-      "isin": "BRSMTO3P06R8",
+      "codigo_opcao": "SMTOF186",
+      "isin": "BRSMTO3F0566",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 37000,
+      "total_posicoes": 103400
+    },
+    {
+      "codigo_opcao": "SMTOQ188",
+      "isin": "BRSMTO3Q05J5",
       "ativo": "SMTO",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 14600
+    },
+    {
+      "codigo_opcao": "SMTOR176",
+      "isin": "BRSMTO3R0570",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6500
+    },
+    {
+      "codigo_opcao": "SMTOR186",
+      "isin": "BRSMTO3R0562",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SMTOB131",
+      "isin": "BRSMTO3B0693",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "SMTON131",
+      "isin": "BRSMTO3N0699",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5600
+    },
+    {
+      "codigo_opcao": "SMTOT176",
+      "isin": "BRSMTO3T05O9",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "SMTOE213",
+      "isin": "BRSMTO3E06N1",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 119100
+    },
+    {
+      "codigo_opcao": "SMTOQ213",
+      "isin": "BRSMTO3Q06N5",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200000
+    },
+    {
+      "codigo_opcao": "SMTOA220",
+      "isin": "BRSMTO3A04F0",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26800
+    },
+    {
+      "codigo_opcao": "SMTOB22",
+      "isin": "BRSMTO3B05B4",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 178200
+    },
+    {
+      "codigo_opcao": "SMTOE220",
+      "isin": "BRSMTO3E0443",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 200,
-      "total_posicoes": 3900
+      "total_posicoes": 79800
     },
     {
-      "codigo_opcao": "SMTOP151",
-      "isin": "BRSMTO3P06S6",
+      "codigo_opcao": "SMTOF220",
+      "isin": "BRSMTO3F03V8",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "SMTOF281",
+      "isin": "BRSMTO3F0608",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SMTOG220",
+      "isin": "BRSMTO3G0474",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "SMTOH220",
+      "isin": "BRSMTO3H04N9",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 55400
+    },
+    {
+      "codigo_opcao": "SMTOI220",
+      "isin": "BRSMTO3I06A9",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 53000
+    },
+    {
+      "codigo_opcao": "SMTOJ220",
+      "isin": "BRSMTO3J04B0",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "SMTOK220",
+      "isin": "BRSMTO3K0593",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "SMTOL220",
+      "isin": "BRSMTO3L05I8",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 20800
+    },
+    {
+      "codigo_opcao": "SMTOM220",
+      "isin": "BRSMTO3M04F5",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "SMTON22",
+      "isin": "BRSMTO3N05B9",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1400
+    },
+    {
+      "codigo_opcao": "SMTOQ220",
+      "isin": "BRSMTO3Q0449",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 66400,
+      "total_posicoes": 84400
+    },
+    {
+      "codigo_opcao": "SMTOR220",
+      "isin": "BRSMTO3R03V3",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "SMTOS220",
+      "isin": "BRSMTO3S0470",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "SMTOT220",
+      "isin": "BRSMTO3T04N4",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4400,
+      "total_posicoes": 184700
+    },
+    {
+      "codigo_opcao": "SMTOU220",
+      "isin": "BRSMTO3U06A4",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 143200
+    },
+    {
+      "codigo_opcao": "SMTOE170",
+      "isin": "BRSMTO3E05L7",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 23600,
+      "total_posicoes": 34200
+    },
+    {
+      "codigo_opcao": "SMTOE175",
+      "isin": "BRSMTO3E05O1",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 1300,
+      "quantidade_descoberta": 4700,
+      "total_posicoes": 24300
+    },
+    {
+      "codigo_opcao": "SMTOE180",
+      "isin": "BRSMTO3E05M5",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 900,
+      "quantidade_descoberta": 192500,
+      "total_posicoes": 430700
+    },
+    {
+      "codigo_opcao": "SMTOE185",
+      "isin": "BRSMTO3E05N3",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 2500,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 94700
+    },
+    {
+      "codigo_opcao": "SMTOQ170",
+      "isin": "BRSMTO3Q05N7",
       "ativo": "SMTO",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 9400,
-      "total_posicoes": 15000
+      "quantidade_descoberta": 11100,
+      "total_posicoes": 116000
     },
     {
-      "codigo_opcao": "SMTOP161",
-      "isin": "BRSMTO3P06Q0",
+      "codigo_opcao": "SMTOQ175",
+      "isin": "BRSMTO3Q05L1",
       "ativo": "SMTO",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 10900,
-      "total_posicoes": 17500
+      "quantidade_descoberta": 0,
+      "total_posicoes": 95900
     },
     {
-      "codigo_opcao": "SMTOQ138",
-      "isin": "BRSMTO3Q05I7",
+      "codigo_opcao": "SMTOQ180",
+      "isin": "BRSMTO3Q05O5",
       "ativo": "SMTO",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 4000
+      "quantidade_descoberta": 500,
+      "total_posicoes": 380600
+    },
+    {
+      "codigo_opcao": "SMTOQ185",
+      "isin": "BRSMTO3Q05M9",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 72900,
+      "total_posicoes": 238300
     },
     {
       "codigo_opcao": "SMTOE203",
@@ -510,7 +488,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 129,
-      "quantidade_coberta": 1200,
+      "quantidade_coberta": 1600,
       "quantidade_descoberta": 100,
       "total_posicoes": 24900
     },
@@ -544,8 +522,8 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 1500
     },
     {
       "codigo_opcao": "SMTOF236",
@@ -565,7 +543,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 129,
-      "quantidade_coberta": 6500,
+      "quantidade_coberta": 7400,
       "quantidade_descoberta": 0,
       "total_posicoes": 10100
     },
@@ -600,7 +578,7 @@
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 4400
+      "total_posicoes": 4900
     },
     {
       "codigo_opcao": "SMTOG196",
@@ -658,6 +636,17 @@
       "total_posicoes": 17700
     },
     {
+      "codigo_opcao": "SMTOS126",
+      "isin": "BRSMTO3S05B8",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
       "codigo_opcao": "SMTOS156",
       "isin": "BRSMTO3S0553",
       "ativo": "SMTO",
@@ -665,7 +654,7 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1300,
+      "quantidade_descoberta": 2000,
       "total_posicoes": 22000
     },
     {
@@ -688,7 +677,7 @@
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3200
+      "total_posicoes": 4200
     },
     {
       "codigo_opcao": "SMTOS186",
@@ -746,224 +735,158 @@
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "SMTOA220",
-      "isin": "BRSMTO3A04F0",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26400
-    },
-    {
-      "codigo_opcao": "SMTOB22",
-      "isin": "BRSMTO3B05B4",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 168600
-    },
-    {
-      "codigo_opcao": "SMTOD22",
-      "isin": "BRSMTO3D06L7",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 98100,
-      "total_posicoes": 191300
-    },
-    {
-      "codigo_opcao": "SMTOE220",
-      "isin": "BRSMTO3E0443",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 41600
-    },
-    {
-      "codigo_opcao": "SMTOF220",
-      "isin": "BRSMTO3F03V8",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "SMTOF281",
-      "isin": "BRSMTO3F0608",
+      "codigo_opcao": "SMTOE193",
+      "isin": "BRSMTO3E05K9",
       "ativo": "SMTO",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 129,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 12500,
+      "total_posicoes": 18700
     },
     {
-      "codigo_opcao": "SMTOG220",
-      "isin": "BRSMTO3G0474",
+      "codigo_opcao": "SMTOF196",
+      "isin": "BRSMTO3F0582",
       "ativo": "SMTO",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 1000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 600
+      "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "SMTOH220",
-      "isin": "BRSMTO3H04N9",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 55300
-    },
-    {
-      "codigo_opcao": "SMTOI220",
-      "isin": "BRSMTO3I06A9",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 52800
-    },
-    {
-      "codigo_opcao": "SMTOJ220",
-      "isin": "BRSMTO3J04B0",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "SMTOK220",
-      "isin": "BRSMTO3K0593",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "SMTOL220",
-      "isin": "BRSMTO3L05I8",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 20800
-    },
-    {
-      "codigo_opcao": "SMTOM220",
-      "isin": "BRSMTO3M04F5",
+      "codigo_opcao": "SMTOQ193",
+      "isin": "BRSMTO3Q05K3",
       "ativo": "SMTO",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 128,
+      "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
+      "quantidade_descoberta": 23700,
+      "total_posicoes": 23700
     },
     {
-      "codigo_opcao": "SMTON22",
-      "isin": "BRSMTO3N05B9",
+      "codigo_opcao": "SMTOR196",
+      "isin": "BRSMTO3R0588",
       "ativo": "SMTO",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "SMTOP22",
-      "isin": "BRSMTO3P06L1",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 101500,
-      "total_posicoes": 101500
-    },
-    {
-      "codigo_opcao": "SMTOQ220",
-      "isin": "BRSMTO3Q0449",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 66400,
-      "total_posicoes": 84400
-    },
-    {
-      "codigo_opcao": "SMTOR220",
-      "isin": "BRSMTO3R03V3",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "SMTOS220",
-      "isin": "BRSMTO3S0470",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
+      "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 400,
       "total_posicoes": 400
     },
     {
-      "codigo_opcao": "SMTOT220",
-      "isin": "BRSMTO3T04N4",
+      "codigo_opcao": "SMTOE153",
+      "isin": "BRSMTO3E05H5",
       "ativo": "SMTO",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 184800
-    },
-    {
-      "codigo_opcao": "SMTOU220",
-      "isin": "BRSMTO3U06A4",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
+      "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 143200
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SMTOE163",
+      "isin": "BRSMTO3E05G7",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8100,
+      "total_posicoes": 10400
+    },
+    {
+      "codigo_opcao": "SMTOE173",
+      "isin": "BRSMTO3E05F9",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 16400,
+      "total_posicoes": 23700
+    },
+    {
+      "codigo_opcao": "SMTOQ153",
+      "isin": "BRSMTO3Q05H9",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4400
+    },
+    {
+      "codigo_opcao": "SMTOQ163",
+      "isin": "BRSMTO3Q05F3",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3100,
+      "total_posicoes": 90800
+    },
+    {
+      "codigo_opcao": "SMTOQ173",
+      "isin": "BRSMTO3Q05G1",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1500,
+      "total_posicoes": 22300
+    },
+    {
+      "codigo_opcao": "SMTOG15",
+      "isin": "BRSMTO3G0524",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5900,
+      "total_posicoes": 13900
+    },
+    {
+      "codigo_opcao": "SMTOS15",
+      "isin": "BRSMTO3S0520",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 40900
+    },
+    {
+      "codigo_opcao": "SMTOJ218",
+      "isin": "BRSMTO3J05D3",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "SMTOE136",
+      "isin": "BRSMTO3E0690",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 4100
     },
     {
       "codigo_opcao": "SMTOE146",
@@ -974,7 +897,18 @@
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 40000
+      "total_posicoes": 42000
+    },
+    {
+      "codigo_opcao": "SMTOE151",
+      "isin": "BRSMTO3E06B6",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 4100
     },
     {
       "codigo_opcao": "SMTOE156",
@@ -985,7 +919,7 @@
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 10000,
-      "total_posicoes": 10000
+      "total_posicoes": 10600
     },
     {
       "codigo_opcao": "SMTOE161",
@@ -1006,8 +940,8 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 13000,
-      "total_posicoes": 26900
+      "quantidade_descoberta": 21700,
+      "total_posicoes": 42300
     },
     {
       "codigo_opcao": "SMTOE191",
@@ -1016,7 +950,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 129,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 3100,
       "quantidade_descoberta": 100,
       "total_posicoes": 14300
     },
@@ -1029,7 +963,7 @@
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 17100
+      "total_posicoes": 24700
     },
     {
       "codigo_opcao": "SMTOE201",
@@ -1040,7 +974,7 @@
       "contratos_em_aberto": 129,
       "quantidade_coberta": 800,
       "quantidade_descoberta": 1000,
-      "total_posicoes": 43400
+      "total_posicoes": 43900
     },
     {
       "codigo_opcao": "SMTOE206",
@@ -1060,9 +994,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 129,
-      "quantidade_coberta": 300,
+      "quantidade_coberta": 100,
       "quantidade_descoberta": 11200,
-      "total_posicoes": 12700
+      "total_posicoes": 12600
     },
     {
       "codigo_opcao": "SMTOE221",
@@ -1072,8 +1006,8 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 700,
-      "quantidade_descoberta": 6200,
-      "total_posicoes": 26300
+      "quantidade_descoberta": 11500,
+      "total_posicoes": 46700
     },
     {
       "codigo_opcao": "SMTOE226",
@@ -1104,7 +1038,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 129,
-      "quantidade_coberta": 500,
+      "quantidade_coberta": 600,
       "quantidade_descoberta": 0,
       "total_posicoes": 3500
     },
@@ -1116,7 +1050,7 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 300,
-      "quantidade_descoberta": 2800,
+      "quantidade_descoberta": 36100,
       "total_posicoes": 50600
     },
     {
@@ -1159,8 +1093,8 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 129,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 0,
+      "quantidade_coberta": 7600,
+      "quantidade_descoberta": 900,
       "total_posicoes": 8500
     },
     {
@@ -1183,7 +1117,7 @@
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 10200,
-      "total_posicoes": 10500
+      "total_posicoes": 14500
     },
     {
       "codigo_opcao": "SMTOQ141",
@@ -1193,8 +1127,8 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2400,
-      "total_posicoes": 2500
+      "quantidade_descoberta": 400,
+      "total_posicoes": 30900
     },
     {
       "codigo_opcao": "SMTOQ146",
@@ -1205,7 +1139,7 @@
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 5600
+      "total_posicoes": 20600
     },
     {
       "codigo_opcao": "SMTOQ151",
@@ -1215,8 +1149,8 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 3300
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9800
     },
     {
       "codigo_opcao": "SMTOQ156",
@@ -1226,8 +1160,8 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 21500,
-      "total_posicoes": 22300
+      "quantidade_descoberta": 19100,
+      "total_posicoes": 29900
     },
     {
       "codigo_opcao": "SMTOQ161",
@@ -1237,8 +1171,8 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 8800,
-      "total_posicoes": 20500
+      "quantidade_descoberta": 7400,
+      "total_posicoes": 23800
     },
     {
       "codigo_opcao": "SMTOQ166",
@@ -1249,7 +1183,7 @@
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 10000,
-      "total_posicoes": 111800
+      "total_posicoes": 122400
     },
     {
       "codigo_opcao": "SMTOQ191",
@@ -1259,7 +1193,7 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 15800,
+      "quantidade_descoberta": 15300,
       "total_posicoes": 16800
     },
     {
@@ -1303,8 +1237,8 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 5500,
-      "total_posicoes": 18200
+      "quantidade_descoberta": 4000,
+      "total_posicoes": 18300
     },
     {
       "codigo_opcao": "SMTOQ221",
@@ -1340,8 +1274,41 @@
       "total_posicoes": 1100
     },
     {
-      "codigo_opcao": "SMTOJ218",
-      "isin": "BRSMTO3J05D3",
+      "codigo_opcao": "SMTOF161",
+      "isin": "BRSMTO3F05I0",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "SMTOF171",
+      "isin": "BRSMTO3F0665",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6200
+    },
+    {
+      "codigo_opcao": "SMTOF181",
+      "isin": "BRSMTO3F05R1",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "SMTOF191",
+      "isin": "BRSMTO3F05N0",
       "ativo": "SMTO",
       "tipo": "Call",
       "semanal": false,
@@ -1351,15 +1318,191 @@
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "SMTOE213",
-      "isin": "BRSMTO3E06N1",
+      "codigo_opcao": "SMTOF201",
+      "isin": "BRSMTO3F0640",
       "ativo": "SMTO",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1800,
-      "total_posicoes": 2400
+      "quantidade_descoberta": 24700,
+      "total_posicoes": 30100
+    },
+    {
+      "codigo_opcao": "SMTOF203",
+      "isin": "BRSMTO3F05P5",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5100
+    },
+    {
+      "codigo_opcao": "SMTOF226",
+      "isin": "BRSMTO3F0616",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SMTOF231",
+      "isin": "BRSMTO3F05X9",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "SMTOF301",
+      "isin": "BRSMTO3F05M2",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SMTOR121",
+      "isin": "BRSMTO3R05J3",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SMTOR131",
+      "isin": "BRSMTO3R05I5",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 900,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "SMTOR151",
+      "isin": "BRSMTO3R05S4",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "SMTOR161",
+      "isin": "BRSMTO3R0638",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "SMTOR171",
+      "isin": "BRSMTO3R0604",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3900,
+      "total_posicoes": 7600
+    },
+    {
+      "codigo_opcao": "SMTOR181",
+      "isin": "BRSMTO3R05R6",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 41200,
+      "total_posicoes": 44200
+    },
+    {
+      "codigo_opcao": "SMTOR191",
+      "isin": "BRSMTO3R05P0",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5200,
+      "total_posicoes": 5200
+    },
+    {
+      "codigo_opcao": "SMTOR201",
+      "isin": "BRSMTO3R05E4",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "SMTOE143",
+      "isin": "BRSMTO3E05E2",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 3700,
+      "quantidade_descoberta": 15500,
+      "total_posicoes": 20100
+    },
+    {
+      "codigo_opcao": "SMTOQ143",
+      "isin": "BRSMTO3Q05E6",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12300
+    },
+    {
+      "codigo_opcao": "SMTOE138",
+      "isin": "BRSMTO3E05I3",
+      "ativo": "SMTO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5200
+    },
+    {
+      "codigo_opcao": "SMTOQ138",
+      "isin": "BRSMTO3Q05I7",
+      "ativo": "SMTO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 129,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 9100,
+      "total_posicoes": 9200
     },
     {
       "codigo_opcao": "SMTOF146",
@@ -1402,8 +1545,8 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2600,
-      "total_posicoes": 2600
+      "quantidade_descoberta": 4400,
+      "total_posicoes": 10300
     },
     {
       "codigo_opcao": "SMTOR166",
@@ -1413,580 +1556,8 @@
       "semanal": false,
       "contratos_em_aberto": 129,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1700,
-      "total_posicoes": 7200
-    },
-    {
-      "codigo_opcao": "SMTOD213",
-      "isin": "BRSMTO3D07J9",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 34000,
-      "total_posicoes": 42900
-    },
-    {
-      "codigo_opcao": "SMTOP213",
-      "isin": "BRSMTO3P07J3",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200000
-    },
-    {
-      "codigo_opcao": "SMTOT176",
-      "isin": "BRSMTO3T05O9",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "SMTOG15",
-      "isin": "BRSMTO3G0524",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5600,
-      "total_posicoes": 13300
-    },
-    {
-      "codigo_opcao": "SMTOS15",
-      "isin": "BRSMTO3S0520",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 39900
-    },
-    {
-      "codigo_opcao": "SMTOE193",
-      "isin": "BRSMTO3E05K9",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 18300
-    },
-    {
-      "codigo_opcao": "SMTOF196",
-      "isin": "BRSMTO3F0582",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "SMTOQ193",
-      "isin": "BRSMTO3Q05K3",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 23700,
-      "total_posicoes": 23700
-    },
-    {
-      "codigo_opcao": "SMTOR196",
-      "isin": "BRSMTO3R0588",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "SMTOD165",
-      "isin": "BRSMTO3D06V6",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12800,
-      "total_posicoes": 12900
-    },
-    {
-      "codigo_opcao": "SMTOD170",
-      "isin": "BRSMTO3D06W4",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 7800,
-      "total_posicoes": 8300
-    },
-    {
-      "codigo_opcao": "SMTOD180",
-      "isin": "BRSMTO3D06U8",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 50200,
-      "total_posicoes": 52500
-    },
-    {
-      "codigo_opcao": "SMTOD111",
-      "isin": "BRSMTO3D0766",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SMTOD126",
-      "isin": "BRSMTO3D07B6",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SMTOD136",
-      "isin": "BRSMTO3D07H3",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SMTOD146",
-      "isin": "BRSMTO3D0741",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SMTOD186",
-      "isin": "BRSMTO3D06Z7",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 7200,
-      "total_posicoes": 12400
-    },
-    {
-      "codigo_opcao": "SMTOD196",
-      "isin": "BRSMTO3D06Y0",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 4600,
-      "quantidade_descoberta": 13900,
-      "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "SMTOD201",
-      "isin": "BRSMTO3D07I1",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 27600,
-      "total_posicoes": 70300
-    },
-    {
-      "codigo_opcao": "SMTOD206",
-      "isin": "BRSMTO3D0774",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 45000,
-      "total_posicoes": 57600
-    },
-    {
-      "codigo_opcao": "SMTOD211",
-      "isin": "BRSMTO3D0758",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 16100,
-      "total_posicoes": 146900
-    },
-    {
-      "codigo_opcao": "SMTOD221",
-      "isin": "BRSMTO3D07A8",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 83100,
-      "total_posicoes": 90600
-    },
-    {
-      "codigo_opcao": "SMTOD231",
-      "isin": "BRSMTO3D07D2",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 7700,
-      "total_posicoes": 8300
-    },
-    {
-      "codigo_opcao": "SMTOD246",
-      "isin": "BRSMTO3D0725",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 800,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 10400
-    },
-    {
-      "codigo_opcao": "SMTOP121",
-      "isin": "BRSMTO3P06Y4",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "SMTOP186",
-      "isin": "BRSMTO3P07F1",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 99000,
-      "total_posicoes": 105400
-    },
-    {
-      "codigo_opcao": "SMTOP191",
-      "isin": "BRSMTO3P07D6",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 70800,
-      "total_posicoes": 77300
-    },
-    {
-      "codigo_opcao": "SMTOP196",
-      "isin": "BRSMTO3P07I5",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 25000,
-      "total_posicoes": 35400
-    },
-    {
-      "codigo_opcao": "SMTOP201",
-      "isin": "BRSMTO3P06Z1",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 102800
-    },
-    {
-      "codigo_opcao": "SMTOP211",
-      "isin": "BRSMTO3P0762",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14600,
-      "total_posicoes": 14600
-    },
-    {
-      "codigo_opcao": "SMTOP241",
-      "isin": "BRSMTO3P07H7",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "SMTOD176",
-      "isin": "BRSMTO3D06T0",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 8100,
-      "quantidade_descoberta": 26100,
-      "total_posicoes": 34800
-    },
-    {
-      "codigo_opcao": "SMTOE163",
-      "isin": "BRSMTO3E05G7",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2400,
-      "total_posicoes": 2400
-    },
-    {
-      "codigo_opcao": "SMTOE173",
-      "isin": "BRSMTO3E05F9",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14700,
-      "total_posicoes": 25900
-    },
-    {
-      "codigo_opcao": "SMTOP176",
-      "isin": "BRSMTO3P06T4",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 51300
-    },
-    {
-      "codigo_opcao": "SMTOQ153",
-      "isin": "BRSMTO3Q05H9",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3700
-    },
-    {
-      "codigo_opcao": "SMTOQ163",
-      "isin": "BRSMTO3Q05F3",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 64800
-    },
-    {
-      "codigo_opcao": "SMTOQ173",
-      "isin": "BRSMTO3Q05G1",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 17300
-    },
-    {
-      "codigo_opcao": "SMTOD155",
-      "isin": "BRSMTO3D06X2",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7300,
-      "total_posicoes": 7300
-    },
-    {
-      "codigo_opcao": "SMTOP155",
-      "isin": "BRSMTO3P06X6",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3100
-    },
-    {
-      "codigo_opcao": "SMTOE170",
-      "isin": "BRSMTO3E05L7",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "SMTOE175",
-      "isin": "BRSMTO3E05O1",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 900,
-      "quantidade_descoberta": 12900,
-      "total_posicoes": 15400
-    },
-    {
-      "codigo_opcao": "SMTOE180",
-      "isin": "BRSMTO3E05M5",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 129600,
-      "total_posicoes": 150200
-    },
-    {
-      "codigo_opcao": "SMTOE185",
-      "isin": "BRSMTO3E05N3",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 2500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16400
-    },
-    {
-      "codigo_opcao": "SMTOQ170",
-      "isin": "BRSMTO3Q05N7",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6600,
-      "total_posicoes": 86300
-    },
-    {
-      "codigo_opcao": "SMTOQ175",
-      "isin": "BRSMTO3Q05L1",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 67000
-    },
-    {
-      "codigo_opcao": "SMTOQ180",
-      "isin": "BRSMTO3Q05O5",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 227300
-    },
-    {
-      "codigo_opcao": "SMTOQ185",
-      "isin": "BRSMTO3Q05M9",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 72900,
-      "total_posicoes": 188900
-    },
-    {
-      "codigo_opcao": "SMTOE143",
-      "isin": "BRSMTO3E05E2",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 3700,
-      "quantidade_descoberta": 16300,
-      "total_posicoes": 20100
-    },
-    {
-      "codigo_opcao": "SMTOQ143",
-      "isin": "BRSMTO3Q05E6",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8900
-    },
-    {
-      "codigo_opcao": "SMTOB131",
-      "isin": "BRSMTO3B0693",
-      "ativo": "SMTO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "SMTON131",
-      "isin": "BRSMTO3N0699",
-      "ativo": "SMTO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 129,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2400
+      "quantidade_descoberta": 4800,
+      "total_posicoes": 13700
     }
   ]
 }
