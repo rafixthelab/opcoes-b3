@@ -1,0 +1,34 @@
+{
+  "ticker": "ENJU",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 2,
+  "calls": 2,
+  "puts": 0,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "ENJUD500",
+      "isin": "BRENJU3D0168",
+      "ativo": "ENJU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "ENJUD99",
+      "isin": "BRENJU3D0176",
+      "ativo": "ENJU",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    }
+  ]
+}
