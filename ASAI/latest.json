@@ -1,871 +1,13 @@
 {
   "ticker": "ASAI",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 230,
-  "calls": 106,
-  "puts": 124,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 165,
+  "calls": 77,
+  "puts": 88,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "ASAIL12",
-      "isin": "BRASAI3L05O9",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 56900
-    },
-    {
-      "codigo_opcao": "ASAIL140",
-      "isin": "BRASAI3L05P6",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1400
-    },
-    {
-      "codigo_opcao": "ASAIX12",
-      "isin": "BRASAI3X05O4",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 13000
-    },
-    {
-      "codigo_opcao": "ASAIX13",
-      "isin": "BRASAI3X05P1",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "ASAIP659",
-      "isin": "BRASAI3P04A2",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7300,
-      "total_posicoes": 17700
-    },
-    {
-      "codigo_opcao": "ASAID659",
-      "isin": "BRASAI3D04A8",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 26300,
-      "total_posicoes": 27300
-    },
-    {
-      "codigo_opcao": "ASAIQ367",
-      "isin": "BRASAI3Q0461",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7100,
-      "total_posicoes": 15800
-    },
-    {
-      "codigo_opcao": "ASAIE970",
-      "isin": "BRASAI3E0473",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 143900,
-      "total_posicoes": 245100
-    },
-    {
-      "codigo_opcao": "ASAIQ970",
-      "isin": "BRASAI3Q0479",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 15900,
-      "total_posicoes": 1048900
-    },
-    {
-      "codigo_opcao": "ASAIP960",
-      "isin": "BRASAI3P04G9",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 92700,
-      "total_posicoes": 93700
-    },
-    {
-      "codigo_opcao": "ASAIF102",
-      "isin": "BRASAI3F04Z0",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 2505900
-    },
-    {
-      "codigo_opcao": "ASAIF112",
-      "isin": "BRASAI3F04I6",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "ASAIF970",
-      "isin": "BRASAI3F0514",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2600,
-      "total_posicoes": 32300
-    },
-    {
-      "codigo_opcao": "ASAIF990",
-      "isin": "BRASAI3F0506",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1900,
-      "total_posicoes": 60400
-    },
-    {
-      "codigo_opcao": "ASAIP900",
-      "isin": "BRASAI3P0652",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "ASAIR102",
-      "isin": "BRASAI3R0551",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 18800,
-      "total_posicoes": 2522400
-    },
-    {
-      "codigo_opcao": "ASAIE160",
-      "isin": "BRASAI3E0424",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "ASAIQ160",
-      "isin": "BRASAI3Q0420",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 32900,
-      "total_posicoes": 165900
-    },
-    {
-      "codigo_opcao": "ASAID719",
-      "isin": "BRASAI3D0458",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "ASAID819",
-      "isin": "BRASAI3D0466",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 2900,
-      "quantidade_descoberta": 92100,
-      "total_posicoes": 453800
-    },
-    {
-      "codigo_opcao": "ASAIP719",
-      "isin": "BRASAI3P0447",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 55500,
-      "total_posicoes": 127700
-    },
-    {
-      "codigo_opcao": "ASAIP819",
-      "isin": "BRASAI3P0462",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 85500,
-      "total_posicoes": 131600
-    },
-    {
-      "codigo_opcao": "ASAIP919",
-      "isin": "BRASAI3P0454",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 341000,
-      "total_posicoes": 367700
-    },
-    {
-      "codigo_opcao": "ASAID919",
-      "isin": "BRASAI3D0441",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 31100,
-      "quantidade_descoberta": 49600,
-      "total_posicoes": 208700
-    },
-    {
-      "codigo_opcao": "ASAID799",
-      "isin": "BRASAI3D0474",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 900,
-      "quantidade_descoberta": 45600,
-      "total_posicoes": 69000
-    },
-    {
-      "codigo_opcao": "ASAID899",
-      "isin": "BRASAI3D0490",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 15100,
-      "quantidade_descoberta": 167600,
-      "total_posicoes": 335800
-    },
-    {
-      "codigo_opcao": "ASAIP699",
-      "isin": "BRASAI3P0496",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27700,
-      "total_posicoes": 139700
-    },
-    {
-      "codigo_opcao": "ASAIP799",
-      "isin": "BRASAI3P0470",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 272900,
-      "total_posicoes": 310700
-    },
-    {
-      "codigo_opcao": "ASAIP899",
-      "isin": "BRASAI3P0488",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 750200,
-      "total_posicoes": 772200
-    },
-    {
-      "codigo_opcao": "ASAID130",
-      "isin": "BRASAI3D04T8",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 25100,
-      "total_posicoes": 25100
-    },
-    {
-      "codigo_opcao": "ASAIP130",
-      "isin": "BRASAI3P04T2",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11700,
-      "total_posicoes": 11700
-    },
-    {
-      "codigo_opcao": "ASAID800",
-      "isin": "BRASAI3D05Y5",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 27600,
-      "total_posicoes": 28600
-    },
-    {
-      "codigo_opcao": "ASAIE102",
-      "isin": "BRASAI3E04W0",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 19400,
-      "quantidade_descoberta": 19300,
-      "total_posicoes": 105000
-    },
-    {
-      "codigo_opcao": "ASAIE107",
-      "isin": "BRASAI3E04G3",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2100,
-      "total_posicoes": 41700
-    },
-    {
-      "codigo_opcao": "ASAIE112",
-      "isin": "BRASAI3E04P4",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 19100
-    },
-    {
-      "codigo_opcao": "ASAIE117",
-      "isin": "BRASAI3E04U4",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 3000,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 64900
-    },
-    {
-      "codigo_opcao": "ASAIE122",
-      "isin": "BRASAI3E04J7",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 20800
-    },
-    {
-      "codigo_opcao": "ASAIE127",
-      "isin": "BRASAI3E0580",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "ASAIE137",
-      "isin": "BRASAI3E04R0",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "ASAIE550",
-      "isin": "BRASAI3E04N9",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12000
-    },
-    {
-      "codigo_opcao": "ASAIE610",
-      "isin": "BRASAI3E04V2",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9300
-    },
-    {
-      "codigo_opcao": "ASAIE730",
-      "isin": "BRASAI3E04K5",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 23600,
-      "total_posicoes": 23600
-    },
-    {
-      "codigo_opcao": "ASAIE740",
-      "isin": "BRASAI3E04M1",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7000
-    },
-    {
-      "codigo_opcao": "ASAIE770",
-      "isin": "BRASAI3E04H1",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3600
-    },
-    {
-      "codigo_opcao": "ASAIE80",
-      "isin": "BRASAI3E04S8",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 6200
-    },
-    {
-      "codigo_opcao": "ASAIE880",
-      "isin": "BRASAI3E0598",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 3200,
-      "quantidade_descoberta": 15600,
-      "total_posicoes": 22600
-    },
-    {
-      "codigo_opcao": "ASAIE890",
-      "isin": "BRASAI3E04L3",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 5100,
-      "quantidade_descoberta": 135600,
-      "total_posicoes": 141000
-    },
-    {
-      "codigo_opcao": "ASAIE910",
-      "isin": "BRASAI3E04Y6",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 43600,
-      "total_posicoes": 52600
-    },
-    {
-      "codigo_opcao": "ASAIE930",
-      "isin": "BRASAI3E04I9",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 97300,
-      "total_posicoes": 129100
-    },
-    {
-      "codigo_opcao": "ASAIE950",
-      "isin": "BRASAI3E04T6",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 6000,
-      "quantidade_descoberta": 2200,
-      "total_posicoes": 826400
-    },
-    {
-      "codigo_opcao": "ASAIE980",
-      "isin": "BRASAI3E04Q2",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 40700,
-      "total_posicoes": 53000
-    },
-    {
-      "codigo_opcao": "ASAIE990",
-      "isin": "BRASAI3E04Z3",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 7300,
-      "quantidade_descoberta": 25800,
-      "total_posicoes": 122300
-    },
-    {
-      "codigo_opcao": "ASAIF115",
-      "isin": "BRASAI3F04A3",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 13700
-    },
-    {
-      "codigo_opcao": "ASAIP800",
-      "isin": "BRASAI3P0611",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10600,
-      "total_posicoes": 23900
-    },
-    {
-      "codigo_opcao": "ASAIQ102",
-      "isin": "BRASAI3Q04V6",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11600,
-      "total_posicoes": 17100
-    },
-    {
-      "codigo_opcao": "ASAIQ107",
-      "isin": "BRASAI3Q0578",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 36500,
-      "total_posicoes": 37500
-    },
-    {
-      "codigo_opcao": "ASAIQ112",
-      "isin": "BRASAI3Q0537",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 16500,
-      "total_posicoes": 25500
-    },
-    {
-      "codigo_opcao": "ASAIQ117",
-      "isin": "BRASAI3Q0552",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4300,
-      "total_posicoes": 7300
-    },
-    {
-      "codigo_opcao": "ASAIQ530",
-      "isin": "BRASAI3Q04I3",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "ASAIQ550",
-      "isin": "BRASAI3Q04Y0",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7000
-    },
-    {
-      "codigo_opcao": "ASAIQ610",
-      "isin": "BRASAI3Q05A7",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ASAIQ620",
-      "isin": "BRASAI3Q04R4",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "ASAIQ630",
-      "isin": "BRASAI3Q04T0",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "ASAIQ690",
-      "isin": "BRASAI3Q04Q6",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3300
-    },
-    {
-      "codigo_opcao": "ASAIQ710",
-      "isin": "BRASAI3Q04X2",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8200
-    },
-    {
-      "codigo_opcao": "ASAIQ730",
-      "isin": "BRASAI3Q04G7",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1700,
-      "total_posicoes": 1700
-    },
-    {
-      "codigo_opcao": "ASAIQ740",
-      "isin": "BRASAI3Q04O1",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 195800,
-      "total_posicoes": 206100
-    },
-    {
-      "codigo_opcao": "ASAIQ770",
-      "isin": "BRASAI3Q0511",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11800,
-      "total_posicoes": 12000
-    },
-    {
-      "codigo_opcao": "ASAIQ80",
-      "isin": "BRASAI3Q04P8",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 153400,
-      "total_posicoes": 159700
-    },
-    {
-      "codigo_opcao": "ASAIQ880",
-      "isin": "BRASAI3Q04N3",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27400,
-      "total_posicoes": 53400
-    },
-    {
-      "codigo_opcao": "ASAIQ890",
-      "isin": "BRASAI3Q04S2",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12000,
-      "total_posicoes": 38400
-    },
-    {
-      "codigo_opcao": "ASAIQ910",
-      "isin": "BRASAI3Q04J1",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 87700,
-      "total_posicoes": 241800
-    },
-    {
-      "codigo_opcao": "ASAIQ930",
-      "isin": "BRASAI3Q0503",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 184200,
-      "total_posicoes": 225100
-    },
-    {
-      "codigo_opcao": "ASAIQ950",
-      "isin": "BRASAI3Q04U8",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17800,
-      "total_posicoes": 29200
-    },
-    {
-      "codigo_opcao": "ASAIQ980",
-      "isin": "BRASAI3Q04L7",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 47000,
-      "total_posicoes": 53500
-    },
-    {
-      "codigo_opcao": "ASAIQ990",
-      "isin": "BRASAI3Q04H5",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1400,
-      "total_posicoes": 46600
-    },
-    {
-      "codigo_opcao": "ASAIR115",
-      "isin": "BRASAI3R0460",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ASAIS690",
-      "isin": "BRASAI3S04V2",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
     {
       "codigo_opcao": "ASAIA60",
       "isin": "BRASAI3A03H1",
@@ -889,17 +31,6 @@
       "total_posicoes": 10800
     },
     {
-      "codigo_opcao": "ASAID600",
-      "isin": "BRASAI3D03L7",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
       "codigo_opcao": "ASAIE110",
       "isin": "BRASAI3E0416",
       "ativo": "ASAI",
@@ -908,7 +39,7 @@
       "contratos_em_aberto": 108,
       "quantidade_coberta": 200,
       "quantidade_descoberta": 29700,
-      "total_posicoes": 109100
+      "total_posicoes": 144200
     },
     {
       "codigo_opcao": "ASAIE600",
@@ -952,7 +83,7 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "total_posicoes": 10100
     },
     {
       "codigo_opcao": "ASAIF600",
@@ -995,8 +126,30 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "ASAIF870",
+      "isin": "BRASAI3F04V9",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 1200
+    },
+    {
+      "codigo_opcao": "ASAIF910",
+      "isin": "BRASAI3F0548",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 19600,
+      "total_posicoes": 20600
     },
     {
       "codigo_opcao": "ASAIF930",
@@ -1006,8 +159,19 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 20800,
+      "total_posicoes": 20800
+    },
+    {
+      "codigo_opcao": "ASAIF950",
+      "isin": "BRASAI3F03Y5",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12100,
+      "total_posicoes": 12100
     },
     {
       "codigo_opcao": "ASAIF960",
@@ -1051,7 +215,7 @@
       "contratos_em_aberto": 108,
       "quantidade_coberta": 12500,
       "quantidade_descoberta": 7800,
-      "total_posicoes": 49700
+      "total_posicoes": 48800
     },
     {
       "codigo_opcao": "ASAIG940",
@@ -1128,7 +292,7 @@
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 200,
-      "total_posicoes": 3300
+      "total_posicoes": 2300
     },
     {
       "codigo_opcao": "ASAIL60",
@@ -1164,17 +328,6 @@
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "ASAIP600",
-      "isin": "BRASAI3P03L1",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 107,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20500,
-      "total_posicoes": 205400
-    },
-    {
       "codigo_opcao": "ASAIQ110",
       "isin": "BRASAI3Q0412",
       "ativo": "ASAI",
@@ -1182,8 +335,8 @@
       "semanal": false,
       "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 19000,
-      "total_posicoes": 42900
+      "quantidade_descoberta": 22000,
+      "total_posicoes": 45900
     },
     {
       "codigo_opcao": "ASAIQ600",
@@ -1193,7 +346,7 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
+      "quantidade_descoberta": 2200,
       "total_posicoes": 3300
     },
     {
@@ -1248,7 +401,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
+      "quantidade_descoberta": 0,
       "total_posicoes": 300
     },
     {
@@ -1314,7 +467,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
+      "quantidade_descoberta": 0,
       "total_posicoes": 100
     },
     {
@@ -1325,7 +478,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 16800,
+      "quantidade_descoberta": 0,
       "total_posicoes": 21900
     },
     {
@@ -1336,8 +489,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 27300,
-      "total_posicoes": 28300
+      "quantidade_descoberta": 6500,
+      "total_posicoes": 28500
     },
     {
       "codigo_opcao": "ASAIR890",
@@ -1347,8 +500,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 50400,
-      "total_posicoes": 50800
+      "quantidade_descoberta": 0,
+      "total_posicoes": 59600
     },
     {
       "codigo_opcao": "ASAIR910",
@@ -1358,8 +511,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 400
+      "quantidade_descoberta": 3800,
+      "total_posicoes": 13100
     },
     {
       "codigo_opcao": "ASAIR930",
@@ -1369,8 +522,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 5600,
-      "total_posicoes": 18400
+      "quantidade_descoberta": 9700,
+      "total_posicoes": 23400
     },
     {
       "codigo_opcao": "ASAIR940",
@@ -1402,8 +555,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 7100,
-      "total_posicoes": 7100
+      "quantidade_descoberta": 9700,
+      "total_posicoes": 10700
     },
     {
       "codigo_opcao": "ASAIR980",
@@ -1501,7 +654,7 @@
       "semanal": false,
       "contratos_em_aberto": 107,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 100
     },
     {
@@ -1516,17 +669,6 @@
       "total_posicoes": 300
     },
     {
-      "codigo_opcao": "ASAIT172",
-      "isin": "BRASAI3T0492",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 260000
-    },
-    {
       "codigo_opcao": "ASAIC150",
       "isin": "BRASAI3C03D6",
       "ativo": "ASAI",
@@ -1535,7 +677,7 @@
       "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 400,
-      "total_posicoes": 96600
+      "total_posicoes": 96500
     },
     {
       "codigo_opcao": "ASAIC155",
@@ -1571,30 +713,118 @@
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "ASAID173",
-      "isin": "BRASAI3D0425",
+      "codigo_opcao": "ASAIE160",
+      "isin": "BRASAI3E0424",
       "ativo": "ASAI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 2181200
+      "quantidade_descoberta": 1100,
+      "total_posicoes": 1100
     },
     {
-      "codigo_opcao": "ASAIP173",
-      "isin": "BRASAI3P0421",
+      "codigo_opcao": "ASAIQ160",
+      "isin": "BRASAI3Q0420",
       "ativo": "ASAI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 4413200,
-      "total_posicoes": 4413200
+      "quantidade_descoberta": 32900,
+      "total_posicoes": 165900
     },
     {
-      "codigo_opcao": "ASAID610",
-      "isin": "BRASAI3D0540",
+      "codigo_opcao": "ASAIT172",
+      "isin": "BRASAI3T0492",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 260000
+    },
+    {
+      "codigo_opcao": "ASAIS690",
+      "isin": "BRASAI3S04V2",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ASAIQ367",
+      "isin": "BRASAI3Q0461",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 7100,
+      "total_posicoes": 15800
+    },
+    {
+      "codigo_opcao": "ASAIE970",
+      "isin": "BRASAI3E0473",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 212400,
+      "total_posicoes": 223200
+    },
+    {
+      "codigo_opcao": "ASAIQ970",
+      "isin": "BRASAI3Q0479",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 25400,
+      "total_posicoes": 1058400
+    },
+    {
+      "codigo_opcao": "ASAIA700",
+      "isin": "BRASAI3A04Y4",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ASAIE870",
+      "isin": "BRASAI3E0481",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 20600,
+      "quantidade_descoberta": 20400,
+      "total_posicoes": 115700
+    },
+    {
+      "codigo_opcao": "ASAII500",
+      "isin": "BRASAI3I03Y9",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 15800
+    },
+    {
+      "codigo_opcao": "ASAIK610",
+      "isin": "BRASAI3K04I6",
       "ativo": "ASAI",
       "tipo": "Call",
       "semanal": false,
@@ -1604,246 +834,70 @@
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "ASAID630",
-      "isin": "BRASAI3D05O6",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "ASAID670",
-      "isin": "BRASAI3D05L2",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "ASAID730",
-      "isin": "BRASAI3D05J6",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 87800,
-      "total_posicoes": 87800
-    },
-    {
-      "codigo_opcao": "ASAID750",
-      "isin": "BRASAI3D05H0",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 141200,
-      "total_posicoes": 142400
-    },
-    {
-      "codigo_opcao": "ASAID830",
-      "isin": "BRASAI3D05N8",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 262400,
-      "total_posicoes": 302300
-    },
-    {
-      "codigo_opcao": "ASAID850",
-      "isin": "BRASAI3D05E7",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 434200,
-      "total_posicoes": 462100
-    },
-    {
-      "codigo_opcao": "ASAID870",
-      "isin": "BRASAI3D0599",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 2200,
-      "quantidade_descoberta": 176900,
-      "total_posicoes": 328300
-    },
-    {
-      "codigo_opcao": "ASAIP152",
-      "isin": "BRASAI3P0587",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 29600,
-      "total_posicoes": 29600
-    },
-    {
-      "codigo_opcao": "ASAIP530",
-      "isin": "BRASAI3P05E1",
+      "codigo_opcao": "ASAIM700",
+      "isin": "BRASAI3M04Y9",
       "ativo": "ASAI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 60000
+      "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "ASAIP550",
-      "isin": "BRASAI3P05G6",
+      "codigo_opcao": "ASAIQ870",
+      "isin": "BRASAI3Q0487",
       "ativo": "ASAI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100500
+      "quantidade_descoberta": 14700,
+      "total_posicoes": 56100
     },
     {
-      "codigo_opcao": "ASAIP570",
-      "isin": "BRASAI3P05A9",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100000
-    },
-    {
-      "codigo_opcao": "ASAIP610",
-      "isin": "BRASAI3P0579",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 39400,
-      "total_posicoes": 273300
-    },
-    {
-      "codigo_opcao": "ASAIP630",
-      "isin": "BRASAI3P0538",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 26300
-    },
-    {
-      "codigo_opcao": "ASAIP670",
-      "isin": "BRASAI3P04W6",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20300,
-      "total_posicoes": 85900
-    },
-    {
-      "codigo_opcao": "ASAIP730",
-      "isin": "BRASAI3P04Y2",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000100,
-      "total_posicoes": 11012500
-    },
-    {
-      "codigo_opcao": "ASAIP750",
-      "isin": "BRASAI3P05P7",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 59300,
-      "total_posicoes": 95000
-    },
-    {
-      "codigo_opcao": "ASAIP830",
-      "isin": "BRASAI3P05H4",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10068400,
-      "total_posicoes": 10308300
-    },
-    {
-      "codigo_opcao": "ASAIP850",
-      "isin": "BRASAI3P0561",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11700,
-      "total_posicoes": 245800
-    },
-    {
-      "codigo_opcao": "ASAIP870",
-      "isin": "BRASAI3P0504",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 169500,
-      "total_posicoes": 197800
-    },
-    {
-      "codigo_opcao": "ASAIT207",
-      "isin": "BRASAI3T0484",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4225000
-    },
-    {
-      "codigo_opcao": "ASAIB940",
-      "isin": "BRASAI3B04L9",
+      "codigo_opcao": "ASAIE850",
+      "isin": "BRASAI3E0440",
       "ativo": "ASAI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "quantidade_coberta": 7700,
+      "quantidade_descoberta": 75000,
+      "total_posicoes": 100400
     },
     {
-      "codigo_opcao": "ASAIN940",
-      "isin": "BRASAI3N04L4",
+      "codigo_opcao": "ASAIQ650",
+      "isin": "BRASAI3Q0438",
       "ativo": "ASAI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "total_posicoes": 16100
+    },
+    {
+      "codigo_opcao": "ASAIQ750",
+      "isin": "BRASAI3Q0446",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 13400,
+      "total_posicoes": 13700
+    },
+    {
+      "codigo_opcao": "ASAIQ850",
+      "isin": "BRASAI3Q0453",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 34700,
+      "total_posicoes": 84300
     },
     {
       "codigo_opcao": "ASAIE340",
@@ -1930,7 +984,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 45700,
+      "quantidade_descoberta": 45600,
       "total_posicoes": 52600
     },
     {
@@ -1942,249 +996,62 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 200000,
-      "total_posicoes": 202900
+      "total_posicoes": 203000
     },
     {
-      "codigo_opcao": "ASAID135",
-      "isin": "BRASAI3D0433",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 55600,
-      "total_posicoes": 61600
-    },
-    {
-      "codigo_opcao": "ASAIP135",
-      "isin": "BRASAI3P0439",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 108,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 86300,
-      "total_posicoes": 86300
-    },
-    {
-      "codigo_opcao": "ASAIA700",
-      "isin": "BRASAI3A04Y4",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ASAID94",
-      "isin": "BRASAI3D04U6",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 29300,
-      "total_posicoes": 35000
-    },
-    {
-      "codigo_opcao": "ASAIE870",
-      "isin": "BRASAI3E0481",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 20600,
-      "quantidade_descoberta": 20400,
-      "total_posicoes": 115700
-    },
-    {
-      "codigo_opcao": "ASAII500",
-      "isin": "BRASAI3I03Y9",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 15800
-    },
-    {
-      "codigo_opcao": "ASAIK610",
-      "isin": "BRASAI3K04I6",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ASAIM700",
-      "isin": "BRASAI3M04Y9",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "ASAIP94",
-      "isin": "BRASAI3P04U0",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 63000,
-      "total_posicoes": 65000
-    },
-    {
-      "codigo_opcao": "ASAIQ870",
-      "isin": "BRASAI3Q0487",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14700,
-      "total_posicoes": 55100
-    },
-    {
-      "codigo_opcao": "ASAIE650",
-      "isin": "BRASAI3E0457",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7800,
-      "total_posicoes": 7800
-    },
-    {
-      "codigo_opcao": "ASAIE750",
-      "isin": "BRASAI3E0432",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 66200
-    },
-    {
-      "codigo_opcao": "ASAIE850",
-      "isin": "BRASAI3E0440",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 7700,
-      "quantidade_descoberta": 75000,
-      "total_posicoes": 100600
-    },
-    {
-      "codigo_opcao": "ASAIQ650",
-      "isin": "BRASAI3Q0438",
+      "codigo_opcao": "ASAIS670",
+      "isin": "BRASAI3S04T6",
       "ativo": "ASAI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 16100
+      "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "ASAIQ750",
-      "isin": "BRASAI3Q0446",
+      "codigo_opcao": "ASAIS770",
+      "isin": "BRASAI3S04U4",
       "ativo": "ASAI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 12800,
-      "total_posicoes": 13700
+      "quantidade_descoberta": 400,
+      "total_posicoes": 400
     },
     {
-      "codigo_opcao": "ASAIQ850",
-      "isin": "BRASAI3Q0453",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 69200,
-      "total_posicoes": 83800
-    },
-    {
-      "codigo_opcao": "ASAID110",
-      "isin": "BRASAI3D04D2",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 780300,
-      "quantidade_descoberta": 1112700,
-      "total_posicoes": 27724500
-    },
-    {
-      "codigo_opcao": "ASAID770",
-      "isin": "BRASAI3D04B6",
+      "codigo_opcao": "ASAIG117",
+      "isin": "BRASAI3G04Z8",
       "ativo": "ASAI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 29400,
-      "total_posicoes": 33300
+      "quantidade_descoberta": 0,
+      "total_posicoes": 46000
     },
     {
-      "codigo_opcao": "ASAID980",
-      "isin": "BRASAI3D04C4",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 6830300,
-      "total_posicoes": 6963300
-    },
-    {
-      "codigo_opcao": "ASAIP110",
-      "isin": "BRASAI3P04D6",
+      "codigo_opcao": "ASAIS117",
+      "isin": "BRASAI3S04Z3",
       "ativo": "ASAI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3800,
-      "total_posicoes": 3800
+      "quantidade_descoberta": 0,
+      "total_posicoes": 46000
     },
     {
-      "codigo_opcao": "ASAIP770",
-      "isin": "BRASAI3P04B0",
+      "codigo_opcao": "ASAIT207",
+      "isin": "BRASAI3T0484",
       "ativo": "ASAI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3670500,
-      "total_posicoes": 6334200
-    },
-    {
-      "codigo_opcao": "ASAIP980",
-      "isin": "BRASAI3P04C8",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 169500,
-      "total_posicoes": 179100
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4225000
     },
     {
       "codigo_opcao": "ASAIC15",
@@ -2209,26 +1076,15 @@
       "total_posicoes": 6800
     },
     {
-      "codigo_opcao": "ASAID96",
-      "isin": "BRASAI3D05U3",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 9700,
-      "quantidade_descoberta": 8400,
-      "total_posicoes": 18500
-    },
-    {
       "codigo_opcao": "ASAIE105",
       "isin": "BRASAI3E04A6",
       "ativo": "ASAI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 3900,
+      "quantidade_coberta": 4800,
       "quantidade_descoberta": 1200,
-      "total_posicoes": 259600
+      "total_posicoes": 262400
     },
     {
       "codigo_opcao": "ASAIE820",
@@ -2286,17 +1142,6 @@
       "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "ASAIP96",
-      "isin": "BRASAI3P05U7",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8700,
-      "total_posicoes": 10100
-    },
-    {
       "codigo_opcao": "ASAIQ105",
       "isin": "BRASAI3Q04A0",
       "ativo": "ASAI",
@@ -2304,8 +1149,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 16000,
-      "total_posicoes": 25100
+      "quantidade_descoberta": 17200,
+      "total_posicoes": 26200
     },
     {
       "codigo_opcao": "ASAIQ820",
@@ -2315,8 +1160,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 21000,
-      "total_posicoes": 33000
+      "quantidade_descoberta": 22000,
+      "total_posicoes": 34400
     },
     {
       "codigo_opcao": "ASAIR105",
@@ -2330,184 +1175,63 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ASAID940",
-      "isin": "BRASAI3D04G5",
+      "codigo_opcao": "ASAIL12",
+      "isin": "BRASAI3L05O9",
       "ativo": "ASAI",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 62200,
-      "quantidade_descoberta": 186300,
-      "total_posicoes": 519200
-    },
-    {
-      "codigo_opcao": "ASAID960",
-      "isin": "BRASAI3D04F7",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 6100,
-      "quantidade_descoberta": 354900,
-      "total_posicoes": 535000
-    },
-    {
-      "codigo_opcao": "ASAID98",
-      "isin": "BRASAI3D04E0",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 86100,
-      "total_posicoes": 232000
-    },
-    {
-      "codigo_opcao": "ASAIP940",
-      "isin": "BRASAI3P04F1",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 138800,
-      "total_posicoes": 150200
-    },
-    {
-      "codigo_opcao": "ASAIP98",
-      "isin": "BRASAI3P04E4",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100100,
-      "total_posicoes": 101200
-    },
-    {
-      "codigo_opcao": "ASAIS670",
-      "isin": "BRASAI3S04T6",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 100,
       "quantidade_descoberta": 100,
-      "total_posicoes": 1000
+      "total_posicoes": 57900
     },
     {
-      "codigo_opcao": "ASAIS770",
-      "isin": "BRASAI3S04U4",
+      "codigo_opcao": "ASAIL140",
+      "isin": "BRASAI3L05P6",
       "ativo": "ASAI",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 109,
+      "contratos_em_aberto": 108,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "ASAID102",
-      "isin": "BRASAI3D04P6",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 7000,
-      "quantidade_descoberta": 167000,
-      "total_posicoes": 354200
-    },
-    {
-      "codigo_opcao": "ASAID107",
-      "isin": "BRASAI3D04N1",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 130500,
-      "total_posicoes": 138500
-    },
-    {
-      "codigo_opcao": "ASAID112",
-      "isin": "BRASAI3D04O9",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3500,
-      "total_posicoes": 3600
-    },
-    {
-      "codigo_opcao": "ASAID117",
-      "isin": "BRASAI3D04I1",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 11200,
-      "quantidade_descoberta": 30000,
-      "total_posicoes": 68600
-    },
-    {
-      "codigo_opcao": "ASAID122",
-      "isin": "BRASAI3D04R2",
-      "ativo": "ASAI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 11100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 11100
+      "total_posicoes": 1400
     },
     {
-      "codigo_opcao": "ASAID990",
-      "isin": "BRASAI3D04L5",
+      "codigo_opcao": "ASAIX12",
+      "isin": "BRASAI3X05O4",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 13000
+    },
+    {
+      "codigo_opcao": "ASAIX13",
+      "isin": "BRASAI3X05P1",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 108,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 800
+    },
+    {
+      "codigo_opcao": "ASAIB940",
+      "isin": "BRASAI3B04L9",
       "ativo": "ASAI",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 100900,
-      "total_posicoes": 182300
-    },
-    {
-      "codigo_opcao": "ASAIP102",
-      "isin": "BRASAI3P04P0",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 118100,
-      "total_posicoes": 118200
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ASAIP107",
-      "isin": "BRASAI3P04M7",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 49300,
-      "total_posicoes": 49300
-    },
-    {
-      "codigo_opcao": "ASAIP112",
-      "isin": "BRASAI3P04R6",
-      "ativo": "ASAI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 196700,
-      "total_posicoes": 199800
-    },
-    {
-      "codigo_opcao": "ASAIP117",
-      "isin": "BRASAI3P04J3",
+      "codigo_opcao": "ASAIN940",
+      "isin": "BRASAI3N04L4",
       "ativo": "ASAI",
       "tipo": "Put",
       "semanal": false,
@@ -2517,8 +1241,305 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ASAIP122",
-      "isin": "BRASAI3P04O3",
+      "codigo_opcao": "ASAIE650",
+      "isin": "BRASAI3E0457",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 7800,
+      "total_posicoes": 7800
+    },
+    {
+      "codigo_opcao": "ASAIE750",
+      "isin": "BRASAI3E0432",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 1500,
+      "total_posicoes": 66200
+    },
+    {
+      "codigo_opcao": "ASAIE102",
+      "isin": "BRASAI3E04W0",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 14100,
+      "quantidade_descoberta": 23300,
+      "total_posicoes": 70100
+    },
+    {
+      "codigo_opcao": "ASAIE107",
+      "isin": "BRASAI3E04G3",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 28100,
+      "total_posicoes": 43700
+    },
+    {
+      "codigo_opcao": "ASAIE112",
+      "isin": "BRASAI3E04P4",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 5200,
+      "quantidade_descoberta": 13700,
+      "total_posicoes": 19100
+    },
+    {
+      "codigo_opcao": "ASAIE117",
+      "isin": "BRASAI3E04U4",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 3000,
+      "quantidade_descoberta": 63600,
+      "total_posicoes": 66900
+    },
+    {
+      "codigo_opcao": "ASAIE122",
+      "isin": "BRASAI3E04J7",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 20700,
+      "total_posicoes": 20800
+    },
+    {
+      "codigo_opcao": "ASAIE127",
+      "isin": "BRASAI3E0580",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "ASAIE137",
+      "isin": "BRASAI3E04R0",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4000,
+      "total_posicoes": 4000
+    },
+    {
+      "codigo_opcao": "ASAIE550",
+      "isin": "BRASAI3E04N9",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12000
+    },
+    {
+      "codigo_opcao": "ASAIE610",
+      "isin": "BRASAI3E04V2",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 9300
+    },
+    {
+      "codigo_opcao": "ASAIE730",
+      "isin": "BRASAI3E04K5",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 23600,
+      "total_posicoes": 23600
+    },
+    {
+      "codigo_opcao": "ASAIE740",
+      "isin": "BRASAI3E04M1",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7000
+    },
+    {
+      "codigo_opcao": "ASAIE770",
+      "isin": "BRASAI3E04H1",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3600
+    },
+    {
+      "codigo_opcao": "ASAIE80",
+      "isin": "BRASAI3E04S8",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 2000,
+      "quantidade_descoberta": 4100,
+      "total_posicoes": 6200
+    },
+    {
+      "codigo_opcao": "ASAIE880",
+      "isin": "BRASAI3E0598",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 3200,
+      "quantidade_descoberta": 17600,
+      "total_posicoes": 22600
+    },
+    {
+      "codigo_opcao": "ASAIE890",
+      "isin": "BRASAI3E04L3",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 5100,
+      "quantidade_descoberta": 135600,
+      "total_posicoes": 141000
+    },
+    {
+      "codigo_opcao": "ASAIE910",
+      "isin": "BRASAI3E04Y6",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 43600,
+      "total_posicoes": 52600
+    },
+    {
+      "codigo_opcao": "ASAIE930",
+      "isin": "BRASAI3E04I9",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 93800,
+      "total_posicoes": 125500
+    },
+    {
+      "codigo_opcao": "ASAIE950",
+      "isin": "BRASAI3E04T6",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 11100,
+      "quantidade_descoberta": 2200,
+      "total_posicoes": 5143600
+    },
+    {
+      "codigo_opcao": "ASAIE980",
+      "isin": "BRASAI3E04Q2",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 2500,
+      "quantidade_descoberta": 40700,
+      "total_posicoes": 53000
+    },
+    {
+      "codigo_opcao": "ASAIE990",
+      "isin": "BRASAI3E04Z3",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 13200,
+      "quantidade_descoberta": 60600,
+      "total_posicoes": 126800
+    },
+    {
+      "codigo_opcao": "ASAIF115",
+      "isin": "BRASAI3F04A3",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 13700
+    },
+    {
+      "codigo_opcao": "ASAIQ102",
+      "isin": "BRASAI3Q04V6",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 11600,
+      "total_posicoes": 19100
+    },
+    {
+      "codigo_opcao": "ASAIQ107",
+      "isin": "BRASAI3Q0578",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 36500,
+      "total_posicoes": 37500
+    },
+    {
+      "codigo_opcao": "ASAIQ112",
+      "isin": "BRASAI3Q0537",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 16500,
+      "total_posicoes": 25500
+    },
+    {
+      "codigo_opcao": "ASAIQ117",
+      "isin": "BRASAI3Q0552",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4600,
+      "total_posicoes": 5600
+    },
+    {
+      "codigo_opcao": "ASAIQ122",
+      "isin": "BRASAI3Q0560",
       "ativo": "ASAI",
       "tipo": "Put",
       "semanal": false,
@@ -2528,15 +1549,279 @@
       "total_posicoes": 100000
     },
     {
-      "codigo_opcao": "ASAIP990",
-      "isin": "BRASAI3P04I5",
+      "codigo_opcao": "ASAIQ530",
+      "isin": "BRASAI3Q04I3",
       "ativo": "ASAI",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 69600,
-      "total_posicoes": 70600
+      "quantidade_descoberta": 14000,
+      "total_posicoes": 20000
+    },
+    {
+      "codigo_opcao": "ASAIQ550",
+      "isin": "BRASAI3Q04Y0",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7000
+    },
+    {
+      "codigo_opcao": "ASAIQ610",
+      "isin": "BRASAI3Q05A7",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ASAIQ620",
+      "isin": "BRASAI3Q04R4",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6000
+    },
+    {
+      "codigo_opcao": "ASAIQ630",
+      "isin": "BRASAI3Q04T0",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4000,
+      "total_posicoes": 4000
+    },
+    {
+      "codigo_opcao": "ASAIQ690",
+      "isin": "BRASAI3Q04Q6",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 3300
+    },
+    {
+      "codigo_opcao": "ASAIQ710",
+      "isin": "BRASAI3Q04X2",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8200
+    },
+    {
+      "codigo_opcao": "ASAIQ730",
+      "isin": "BRASAI3Q04G7",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1700
+    },
+    {
+      "codigo_opcao": "ASAIQ740",
+      "isin": "BRASAI3Q04O1",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 42100,
+      "total_posicoes": 206100
+    },
+    {
+      "codigo_opcao": "ASAIQ770",
+      "isin": "BRASAI3Q0511",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 11800,
+      "total_posicoes": 12000
+    },
+    {
+      "codigo_opcao": "ASAIQ80",
+      "isin": "BRASAI3Q04P8",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 156300,
+      "total_posicoes": 159700
+    },
+    {
+      "codigo_opcao": "ASAIQ880",
+      "isin": "BRASAI3Q04N3",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 7500,
+      "total_posicoes": 61600
+    },
+    {
+      "codigo_opcao": "ASAIQ890",
+      "isin": "BRASAI3Q04S2",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8600,
+      "total_posicoes": 25900
+    },
+    {
+      "codigo_opcao": "ASAIQ910",
+      "isin": "BRASAI3Q04J1",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 58500,
+      "total_posicoes": 242500
+    },
+    {
+      "codigo_opcao": "ASAIQ930",
+      "isin": "BRASAI3Q0503",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 182900,
+      "total_posicoes": 225300
+    },
+    {
+      "codigo_opcao": "ASAIQ950",
+      "isin": "BRASAI3Q04U8",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4317000,
+      "total_posicoes": 4328200
+    },
+    {
+      "codigo_opcao": "ASAIQ980",
+      "isin": "BRASAI3Q04L7",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 47000,
+      "total_posicoes": 53500
+    },
+    {
+      "codigo_opcao": "ASAIQ990",
+      "isin": "BRASAI3Q04H5",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1400,
+      "total_posicoes": 46600
+    },
+    {
+      "codigo_opcao": "ASAIR115",
+      "isin": "BRASAI3R0460",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ASAIF102",
+      "isin": "BRASAI3F04Z0",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 700,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 2505900
+    },
+    {
+      "codigo_opcao": "ASAIF112",
+      "isin": "BRASAI3F04I6",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "ASAIF970",
+      "isin": "BRASAI3F0514",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 32000,
+      "total_posicoes": 32300
+    },
+    {
+      "codigo_opcao": "ASAIF990",
+      "isin": "BRASAI3F0506",
+      "ativo": "ASAI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12300,
+      "total_posicoes": 60400
+    },
+    {
+      "codigo_opcao": "ASAIP900",
+      "isin": "BRASAI3P0652",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "ASAIR102",
+      "isin": "BRASAI3R0551",
+      "ativo": "ASAI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 18800,
+      "total_posicoes": 2522400
     }
   ]
 }
