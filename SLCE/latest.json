@@ -1,497 +1,13 @@
 {
   "ticker": "SLCE",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 148,
-  "calls": 74,
-  "puts": 74,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 126,
+  "calls": 63,
+  "puts": 63,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "SLCED201",
-      "isin": "BRSLCE3D05Q0",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 2100,
-      "quantidade_descoberta": 26900,
-      "total_posicoes": 36800
-    },
-    {
-      "codigo_opcao": "SLCED211",
-      "isin": "BRSLCE3D0641",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 78100,
-      "total_posicoes": 78200
-    },
-    {
-      "codigo_opcao": "SLCED216",
-      "isin": "BRSLCE3D05R8",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "SLCEP136",
-      "isin": "BRSLCE3P05Q4",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "SLCEP146",
-      "isin": "BRSLCE3P05P6",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 28300
-    },
-    {
-      "codigo_opcao": "SLCEP181",
-      "isin": "BRSLCE3P0670",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 45300,
-      "total_posicoes": 53200
-    },
-    {
-      "codigo_opcao": "SLCEP191",
-      "isin": "BRSLCE3P05Y8",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "SLCEP196",
-      "isin": "BRSLCE3P0639",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "SLCEE149",
-      "isin": "BRSLCE3E04S7",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5600
-    },
-    {
-      "codigo_opcao": "SLCEE154",
-      "isin": "BRSLCE3E04T5",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SLCEE164",
-      "isin": "BRSLCE3E04Q1",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 34400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 34400
-    },
-    {
-      "codigo_opcao": "SLCEE17",
-      "isin": "BRSLCE3E04L2",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 5800
-    },
-    {
-      "codigo_opcao": "SLCEE177",
-      "isin": "BRSLCE3E04N8",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 1300,
-      "quantidade_descoberta": 3500,
-      "total_posicoes": 9700
-    },
-    {
-      "codigo_opcao": "SLCEE182",
-      "isin": "BRSLCE3E04R9",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 1200,
-      "quantidade_descoberta": 7500,
-      "total_posicoes": 30300
-    },
-    {
-      "codigo_opcao": "SLCEE192",
-      "isin": "BRSLCE3E04P3",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 12100,
-      "quantidade_descoberta": 11200,
-      "total_posicoes": 107000
-    },
-    {
-      "codigo_opcao": "SLCEE194",
-      "isin": "BRSLCE3E04O6",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 2100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 37700
-    },
-    {
-      "codigo_opcao": "SLCEE197",
-      "isin": "BRSLCE3E04M0",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 2700,
-      "total_posicoes": 21400
-    },
-    {
-      "codigo_opcao": "SLCEF134",
-      "isin": "BRSLCE3F0458",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 9000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9000
-    },
-    {
-      "codigo_opcao": "SLCEF174",
-      "isin": "BRSLCE3F0466",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "SLCEP158",
-      "isin": "BRSLCE3P0696",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SLCEQ149",
-      "isin": "BRSLCE3Q04N2",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "SLCEQ154",
-      "isin": "BRSLCE3Q04P7",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1900
-    },
-    {
-      "codigo_opcao": "SLCEQ164",
-      "isin": "BRSLCE3Q04R3",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 4100
-    },
-    {
-      "codigo_opcao": "SLCEQ17",
-      "isin": "BRSLCE3Q04M4",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2400,
-      "total_posicoes": 58300
-    },
-    {
-      "codigo_opcao": "SLCEQ177",
-      "isin": "BRSLCE3Q04L6",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8800,
-      "total_posicoes": 50100
-    },
-    {
-      "codigo_opcao": "SLCEQ182",
-      "isin": "BRSLCE3Q04O0",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 21900,
-      "total_posicoes": 36200
-    },
-    {
-      "codigo_opcao": "SLCEQ192",
-      "isin": "BRSLCE3Q04S1",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 38421,
-      "total_posicoes": 67900
-    },
-    {
-      "codigo_opcao": "SLCEQ194",
-      "isin": "BRSLCE3Q04T9",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27100,
-      "total_posicoes": 27300
-    },
-    {
-      "codigo_opcao": "SLCEQ197",
-      "isin": "BRSLCE3Q04Q5",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9000,
-      "total_posicoes": 9700
-    },
-    {
-      "codigo_opcao": "SLCEH167",
-      "isin": "BRSLCE3H03Z7",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SLCEH182",
-      "isin": "BRSLCE3H03Y0",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 2100,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "SLCET162",
-      "isin": "BRSLCE3T0411",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SLCET172",
-      "isin": "BRSLCE3T0403",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5200
-    },
-    {
-      "codigo_opcao": "SLCED160",
-      "isin": "BRSLCE3D05N7",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6500,
-      "total_posicoes": 56700
-    },
-    {
-      "codigo_opcao": "SLCEP160",
-      "isin": "BRSLCE3P05K7",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 59900,
-      "total_posicoes": 83100
-    },
-    {
-      "codigo_opcao": "SLCEP165",
-      "isin": "BRSLCE3P05L5",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 11400
-    },
-    {
-      "codigo_opcao": "SLCEP170",
-      "isin": "BRSLCE3P05M3",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 60000
-    },
-    {
-      "codigo_opcao": "SLCED175",
-      "isin": "BRSLCE3D05H9",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 35300
-    },
-    {
-      "codigo_opcao": "SLCEP155",
-      "isin": "BRSLCE3P05I1",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SLCEP175",
-      "isin": "BRSLCE3P05H3",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3800,
-      "total_posicoes": 13400
-    },
-    {
-      "codigo_opcao": "SLCEF189",
-      "isin": "BRSLCE3F04A2",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "SLCEG187",
-      "isin": "BRSLCE3G0481",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "SLCER189",
-      "isin": "BRSLCE3R04A7",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3700
-    },
-    {
-      "codigo_opcao": "SLCES187",
-      "isin": "BRSLCE3S04A5",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7400
-    },
     {
       "codigo_opcao": "SLCEA18",
       "isin": "BRSLCE3A03O6",
@@ -515,17 +31,6 @@
       "total_posicoes": 12027
     },
     {
-      "codigo_opcao": "SLCED18",
-      "isin": "BRSLCE3D05F3",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 125,
-      "quantidade_coberta": 337,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 837
-    },
-    {
       "codigo_opcao": "SLCEE180",
       "isin": "BRSLCE3E0392",
       "ativo": "SLCE",
@@ -543,7 +48,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 5500,
       "quantidade_descoberta": 0,
       "total_posicoes": 5500
     },
@@ -554,7 +59,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 128,
-      "quantidade_coberta": 2400,
+      "quantidade_coberta": 100,
       "quantidade_descoberta": 0,
       "total_posicoes": 2400
     },
@@ -611,7 +116,7 @@
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 15200
+      "total_posicoes": 15600
     },
     {
       "codigo_opcao": "SLCEF202",
@@ -634,6 +139,50 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "SLCEF237",
+      "isin": "BRSLCE3F04H7",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 14300
+    },
+    {
+      "codigo_opcao": "SLCEF242",
+      "isin": "BRSLCE3F0524",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SLCEF247",
+      "isin": "BRSLCE3F04Q8",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SLCEF252",
+      "isin": "BRSLCE3F04O3",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "SLCEG162",
@@ -719,7 +268,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 125,
-      "quantidade_coberta": 3077,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 5500
     },
@@ -730,7 +279,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 125,
-      "quantidade_coberta": 1125,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 87,
       "total_posicoes": 1212
     },
@@ -768,17 +317,6 @@
       "total_posicoes": 12249
     },
     {
-      "codigo_opcao": "SLCEP18",
-      "isin": "BRSLCE3P05F7",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 125,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1674,
-      "total_posicoes": 7949
-    },
-    {
       "codigo_opcao": "SLCEQ180",
       "isin": "BRSLCE3Q0398",
       "ativo": "SLCE",
@@ -786,8 +324,19 @@
       "semanal": false,
       "contratos_em_aberto": 125,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 3341,
       "total_posicoes": 3941
+    },
+    {
+      "codigo_opcao": "SLCER157",
+      "isin": "BRSLCE3R0413",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "SLCER162",
@@ -797,8 +346,228 @@
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 9800
+      "quantidade_descoberta": 6200,
+      "total_posicoes": 9500
+    },
+    {
+      "codigo_opcao": "SLCEE259",
+      "isin": "BRSLCE3E04D9",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 126,
+      "quantidade_coberta": 2210,
+      "quantidade_descoberta": 18733,
+      "total_posicoes": 37000
+    },
+    {
+      "codigo_opcao": "SLCEQ259",
+      "isin": "BRSLCE3Q04D3",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 126,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "SLCEE169",
+      "isin": "BRSLCE3E04F4",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 2200,
+      "quantidade_descoberta": 3000,
+      "total_posicoes": 6100
+    },
+    {
+      "codigo_opcao": "SLCEQ169",
+      "isin": "BRSLCE3Q04F8",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 7400,
+      "total_posicoes": 67500
+    },
+    {
+      "codigo_opcao": "SLCES157",
+      "isin": "BRSLCE3S0479",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2500
+    },
+    {
+      "codigo_opcao": "SLCES172",
+      "isin": "BRSLCE3S04C1",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "SLCEQ172",
+      "isin": "BRSLCE3Q04C5",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 126,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 121,
+      "total_posicoes": 421
+    },
+    {
+      "codigo_opcao": "SLCEE202",
+      "isin": "BRSLCE3E0558",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 8900,
+      "quantidade_descoberta": 36600,
+      "total_posicoes": 118000
+    },
+    {
+      "codigo_opcao": "SLCEE207",
+      "isin": "BRSLCE3E0509",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 49100,
+      "total_posicoes": 67700
+    },
+    {
+      "codigo_opcao": "SLCEE212",
+      "isin": "BRSLCE3E0533",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 26100,
+      "total_posicoes": 51100
+    },
+    {
+      "codigo_opcao": "SLCEE217",
+      "isin": "BRSLCE3E0525",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 500,
+      "quantidade_descoberta": 53500,
+      "total_posicoes": 73900
+    },
+    {
+      "codigo_opcao": "SLCEE222",
+      "isin": "BRSLCE3E0541",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 1100,
+      "quantidade_descoberta": 10800,
+      "total_posicoes": 11900
+    },
+    {
+      "codigo_opcao": "SLCEE232",
+      "isin": "BRSLCE3E04X7",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "SLCEE237",
+      "isin": "BRSLCE3E04V1",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SLCEE242",
+      "isin": "BRSLCE3E0517",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 14400,
+      "total_posicoes": 41000
+    },
+    {
+      "codigo_opcao": "SLCEE272",
+      "isin": "BRSLCE3E0574",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4000
+    },
+    {
+      "codigo_opcao": "SLCEF184",
+      "isin": "BRSLCE3F0490",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "SLCEQ152",
+      "isin": "BRSLCE3Q05B4",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "SLCEQ202",
+      "isin": "BRSLCE3Q04Y9",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 9900,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "SLCEH197",
+      "isin": "BRSLCE3H0449",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "SLCER167",
@@ -809,7 +578,7 @@
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1200
+      "total_posicoes": 1300
     },
     {
       "codigo_opcao": "SLCER172",
@@ -819,8 +588,8 @@
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2300,
-      "total_posicoes": 3700
+      "quantidade_descoberta": 2200,
+      "total_posicoes": 16200
     },
     {
       "codigo_opcao": "SLCER177",
@@ -831,7 +600,7 @@
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 200
+      "total_posicoes": 1200
     },
     {
       "codigo_opcao": "SLCER180",
@@ -842,7 +611,7 @@
       "contratos_em_aberto": 125,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 200
+      "total_posicoes": 300
     },
     {
       "codigo_opcao": "SLCER182",
@@ -852,8 +621,19 @@
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 3100
+    },
+    {
+      "codigo_opcao": "SLCER187",
+      "isin": "BRSLCE3R05A4",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
     },
     {
       "codigo_opcao": "SLCER192",
@@ -863,7 +643,7 @@
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 100
     },
     {
@@ -874,8 +654,19 @@
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 4300,
+      "quantidade_descoberta": 10300,
       "total_posicoes": 11300
+    },
+    {
+      "codigo_opcao": "SLCES152",
+      "isin": "BRSLCE3S0461",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "SLCES162",
@@ -896,7 +687,7 @@
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 908,
+      "quantidade_descoberta": 12529,
       "total_posicoes": 217900
     },
     {
@@ -955,6 +746,17 @@
       "total_posicoes": 200
     },
     {
+      "codigo_opcao": "SLCET18",
+      "isin": "BRSLCE3T0304",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 125,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
       "codigo_opcao": "SLCEU169",
       "isin": "BRSLCE3U02N8",
       "ativo": "SLCE",
@@ -984,8 +786,8 @@
       "semanal": false,
       "contratos_em_aberto": 125,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4762
+      "quantidade_descoberta": 3383,
+      "total_posicoes": 6112
     },
     {
       "codigo_opcao": "SLCEX18",
@@ -999,98 +801,428 @@
       "total_posicoes": 20000
     },
     {
-      "codigo_opcao": "SLCEE202",
-      "isin": "BRSLCE3E0558",
+      "codigo_opcao": "SLCEE185",
+      "isin": "BRSLCE3E04U3",
       "ativo": "SLCE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 128,
-      "quantidade_coberta": 9500,
-      "quantidade_descoberta": 16500,
-      "total_posicoes": 98300
+      "quantidade_coberta": 11300,
+      "quantidade_descoberta": 17720,
+      "total_posicoes": 118100
     },
     {
-      "codigo_opcao": "SLCEE207",
-      "isin": "BRSLCE3E0509",
+      "codigo_opcao": "SLCEQ185",
+      "isin": "BRSLCE3Q04U7",
       "ativo": "SLCE",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 128,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 19500,
-      "total_posicoes": 28200
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 17300,
+      "total_posicoes": 22600
     },
     {
-      "codigo_opcao": "SLCEE212",
-      "isin": "BRSLCE3E0533",
+      "codigo_opcao": "SLCEF189",
+      "isin": "BRSLCE3F04A2",
       "ativo": "SLCE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 25100,
-      "total_posicoes": 50100
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3200
     },
     {
-      "codigo_opcao": "SLCEE217",
-      "isin": "BRSLCE3E0525",
+      "codigo_opcao": "SLCEG187",
+      "isin": "BRSLCE3G0481",
       "ativo": "SLCE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 128,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 41433,
-      "total_posicoes": 73800
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
     },
     {
-      "codigo_opcao": "SLCEE222",
-      "isin": "BRSLCE3E0541",
+      "codigo_opcao": "SLCER189",
+      "isin": "BRSLCE3R04A7",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 4700
+    },
+    {
+      "codigo_opcao": "SLCES187",
+      "isin": "BRSLCE3S04A5",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7400
+    },
+    {
+      "codigo_opcao": "SLCEE157",
+      "isin": "BRSLCE3E04I8",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 23200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 28100
+    },
+    {
+      "codigo_opcao": "SLCEE162",
+      "isin": "BRSLCE3E04H0",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SLCEE167",
+      "isin": "BRSLCE3E04J6",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2500
+    },
+    {
+      "codigo_opcao": "SLCEQ157",
+      "isin": "BRSLCE3Q04I2",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1900,
+      "total_posicoes": 3100
+    },
+    {
+      "codigo_opcao": "SLCEQ162",
+      "isin": "BRSLCE3Q04J0",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 34600
+    },
+    {
+      "codigo_opcao": "SLCEQ167",
+      "isin": "BRSLCE3Q04H4",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1300,
+      "total_posicoes": 32800
+    },
+    {
+      "codigo_opcao": "SLCER159",
+      "isin": "BRSLCE3R0439",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6500
+    },
+    {
+      "codigo_opcao": "SLCER164",
+      "isin": "BRSLCE3R0447",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 1500
+    },
+    {
+      "codigo_opcao": "SLCEE184",
+      "isin": "BRSLCE3E04K4",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 2100,
+      "quantidade_descoberta": 6000,
+      "total_posicoes": 81000
+    },
+    {
+      "codigo_opcao": "SLCEQ184",
+      "isin": "BRSLCE3Q04K8",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 25500,
+      "total_posicoes": 33200
+    },
+    {
+      "codigo_opcao": "SLCEE174",
+      "isin": "BRSLCE3E04G2",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 3200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 16700
+    },
+    {
+      "codigo_opcao": "SLCEQ174",
+      "isin": "BRSLCE3Q04G6",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 62000
+    },
+    {
+      "codigo_opcao": "SLCEE149",
+      "isin": "BRSLCE3E04S7",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5600
+    },
+    {
+      "codigo_opcao": "SLCEE154",
+      "isin": "BRSLCE3E04T5",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SLCEE164",
+      "isin": "BRSLCE3E04Q1",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 34400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 34400
+    },
+    {
+      "codigo_opcao": "SLCEE17",
+      "isin": "BRSLCE3E04L2",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 5800
+    },
+    {
+      "codigo_opcao": "SLCEE177",
+      "isin": "BRSLCE3E04N8",
       "ativo": "SLCE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 1000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6900
+      "quantidade_descoberta": 2900,
+      "total_posicoes": 11400
     },
     {
-      "codigo_opcao": "SLCEE232",
-      "isin": "BRSLCE3E04X7",
+      "codigo_opcao": "SLCEE182",
+      "isin": "BRSLCE3E04R9",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 1300,
+      "quantidade_descoberta": 7500,
+      "total_posicoes": 30700
+    },
+    {
+      "codigo_opcao": "SLCEE192",
+      "isin": "BRSLCE3E04P3",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 24300,
+      "quantidade_descoberta": 14400,
+      "total_posicoes": 115400
+    },
+    {
+      "codigo_opcao": "SLCEE194",
+      "isin": "BRSLCE3E04O6",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 1700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 37600
+    },
+    {
+      "codigo_opcao": "SLCEE197",
+      "isin": "BRSLCE3E04M0",
+      "ativo": "SLCE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 3900,
+      "quantidade_descoberta": 3700,
+      "total_posicoes": 22400
+    },
+    {
+      "codigo_opcao": "SLCEF134",
+      "isin": "BRSLCE3F0458",
       "ativo": "SLCE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 9000
     },
     {
-      "codigo_opcao": "SLCEE242",
-      "isin": "BRSLCE3E0517",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 41000
-    },
-    {
-      "codigo_opcao": "SLCEE272",
-      "isin": "BRSLCE3E0574",
+      "codigo_opcao": "SLCEF174",
+      "isin": "BRSLCE3F0466",
       "ativo": "SLCE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 4000
+      "total_posicoes": 700
     },
     {
-      "codigo_opcao": "SLCEF184",
-      "isin": "BRSLCE3F0490",
+      "codigo_opcao": "SLCEQ149",
+      "isin": "BRSLCE3Q04N2",
       "ativo": "SLCE",
-      "tipo": "Call",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "SLCEQ154",
+      "isin": "BRSLCE3Q04P7",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1300,
+      "total_posicoes": 1900
+    },
+    {
+      "codigo_opcao": "SLCEQ164",
+      "isin": "BRSLCE3Q04R3",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 11900
+    },
+    {
+      "codigo_opcao": "SLCEQ17",
+      "isin": "BRSLCE3Q04M4",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2400,
+      "total_posicoes": 78600
+    },
+    {
+      "codigo_opcao": "SLCEQ177",
+      "isin": "BRSLCE3Q04L6",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 14000,
+      "total_posicoes": 49800
+    },
+    {
+      "codigo_opcao": "SLCEQ182",
+      "isin": "BRSLCE3Q04O0",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 24400,
+      "total_posicoes": 38900
+    },
+    {
+      "codigo_opcao": "SLCEQ192",
+      "isin": "BRSLCE3Q04S1",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 59000,
+      "total_posicoes": 67900
+    },
+    {
+      "codigo_opcao": "SLCEQ194",
+      "isin": "BRSLCE3Q04T9",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 27100,
+      "total_posicoes": 27300
+    },
+    {
+      "codigo_opcao": "SLCEQ197",
+      "isin": "BRSLCE3Q04Q5",
+      "ativo": "SLCE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 128,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 9000,
+      "total_posicoes": 9700
+    },
+    {
+      "codigo_opcao": "SLCER154",
+      "isin": "BRSLCE3R0470",
+      "ativo": "SLCE",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
@@ -1098,26 +1230,15 @@
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "SLCEQ152",
-      "isin": "BRSLCE3Q05B4",
+      "codigo_opcao": "SLCER174",
+      "isin": "BRSLCE3R0454",
       "ativo": "SLCE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "SLCEQ202",
-      "isin": "BRSLCE3Q04Y9",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9900,
-      "total_posicoes": 10000
+      "quantidade_descoberta": 3000,
+      "total_posicoes": 5500
     },
     {
       "codigo_opcao": "SLCEQ207",
@@ -1149,8 +1270,8 @@
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
+      "quantidade_descoberta": 0,
+      "total_posicoes": 45000
     },
     {
       "codigo_opcao": "SLCER184",
@@ -1160,151 +1281,8 @@
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5700
-    },
-    {
-      "codigo_opcao": "SLCES172",
-      "isin": "BRSLCE3S04C1",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SLCEH197",
-      "isin": "BRSLCE3H0449",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SLCEE159",
-      "isin": "BRSLCE3E04E7",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "SLCEQ159",
-      "isin": "BRSLCE3Q04E1",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8800
-    },
-    {
-      "codigo_opcao": "SLCEE157",
-      "isin": "BRSLCE3E04I8",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 23200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 28100
-    },
-    {
-      "codigo_opcao": "SLCEE162",
-      "isin": "BRSLCE3E04H0",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SLCEQ157",
-      "isin": "BRSLCE3Q04I2",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1900,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "SLCEQ162",
-      "isin": "BRSLCE3Q04J0",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 34500
-    },
-    {
-      "codigo_opcao": "SLCEQ167",
-      "isin": "BRSLCE3Q04H4",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10900
-    },
-    {
-      "codigo_opcao": "SLCER159",
-      "isin": "BRSLCE3R0439",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5200
-    },
-    {
-      "codigo_opcao": "SLCER164",
-      "isin": "BRSLCE3R0447",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "SLCEE184",
-      "isin": "BRSLCE3E04K4",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 2100,
       "quantidade_descoberta": 400,
-      "total_posicoes": 74200
-    },
-    {
-      "codigo_opcao": "SLCEQ184",
-      "isin": "BRSLCE3Q04K8",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5500,
-      "total_posicoes": 33200
+      "total_posicoes": 5700
     },
     {
       "codigo_opcao": "SLCEK154",
@@ -1336,8 +1314,8 @@
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
+      "quantidade_descoberta": 6000,
+      "total_posicoes": 6200
     },
     {
       "codigo_opcao": "SLCEW169",
@@ -1351,217 +1329,30 @@
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "SLCED269",
-      "isin": "BRSLCE3D05G1",
+      "codigo_opcao": "SLCEH167",
+      "isin": "BRSLCE3H03Z7",
       "ativo": "SLCE",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 126,
+      "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 6100,
-      "total_posicoes": 31412
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "SLCED165",
-      "isin": "BRSLCE3D05L1",
+      "codigo_opcao": "SLCEH182",
+      "isin": "BRSLCE3H03Y0",
       "ativo": "SLCE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 100,
-      "quantidade_descoberta": 15000,
-      "total_posicoes": 43000
-    },
-    {
-      "codigo_opcao": "SLCED168",
-      "isin": "BRSLCE3D05J5",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "SLCED17",
-      "isin": "BRSLCE3D05K3",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 3300,
-      "quantidade_descoberta": 10400,
-      "total_posicoes": 15100
-    },
-    {
-      "codigo_opcao": "SLCED170",
-      "isin": "BRSLCE3D05M9",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
       "quantidade_descoberta": 2100,
-      "total_posicoes": 12700
+      "total_posicoes": 2200
     },
     {
-      "codigo_opcao": "SLCEE169",
-      "isin": "BRSLCE3E04F4",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 6100
-    },
-    {
-      "codigo_opcao": "SLCEP168",
-      "isin": "BRSLCE3P05N1",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 19600,
-      "total_posicoes": 31000
-    },
-    {
-      "codigo_opcao": "SLCEP17",
-      "isin": "BRSLCE3P05J9",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 32900,
-      "total_posicoes": 82700
-    },
-    {
-      "codigo_opcao": "SLCEQ169",
-      "isin": "BRSLCE3Q04F8",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5700,
-      "total_posicoes": 59800
-    },
-    {
-      "codigo_opcao": "SLCED151",
-      "isin": "BRSLCE3D0617",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "SLCED181",
-      "isin": "BRSLCE3D05W8",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 24300,
-      "total_posicoes": 53700
-    },
-    {
-      "codigo_opcao": "SLCED186",
-      "isin": "BRSLCE3D05S6",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 36600,
-      "quantidade_descoberta": 7100,
-      "total_posicoes": 58700
-    },
-    {
-      "codigo_opcao": "SLCED191",
-      "isin": "BRSLCE3D0609",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 21500,
-      "quantidade_descoberta": 151412,
-      "total_posicoes": 175800
-    },
-    {
-      "codigo_opcao": "SLCED196",
-      "isin": "BRSLCE3D05P2",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 46000,
-      "total_posicoes": 54700
-    },
-    {
-      "codigo_opcao": "SLCED206",
-      "isin": "BRSLCE3D0682",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 900,
-      "quantidade_descoberta": 11700,
-      "total_posicoes": 14600
-    },
-    {
-      "codigo_opcao": "SLCEP151",
-      "isin": "BRSLCE3P05X0",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17300,
-      "total_posicoes": 62000
-    },
-    {
-      "codigo_opcao": "SLCEP186",
-      "isin": "BRSLCE3P0621",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8100,
-      "total_posicoes": 11500
-    },
-    {
-      "codigo_opcao": "SLCEE174",
-      "isin": "BRSLCE3E04G2",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 3200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14900
-    },
-    {
-      "codigo_opcao": "SLCEQ174",
-      "isin": "BRSLCE3Q04G6",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 128,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11200
-    },
-    {
-      "codigo_opcao": "SLCER154",
-      "isin": "BRSLCE3R0470",
+      "codigo_opcao": "SLCET162",
+      "isin": "BRSLCE3T0411",
       "ativo": "SLCE",
       "tipo": "Put",
       "semanal": false,
@@ -1571,70 +1362,37 @@
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "SLCER174",
-      "isin": "BRSLCE3R0454",
+      "codigo_opcao": "SLCET172",
+      "isin": "BRSLCE3T0403",
       "ativo": "SLCE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 5500
-    },
-    {
-      "codigo_opcao": "SLCEE259",
-      "isin": "BRSLCE3E04D9",
-      "ativo": "SLCE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 126,
-      "quantidade_coberta": 50,
       "quantidade_descoberta": 0,
-      "total_posicoes": 37000
+      "total_posicoes": 5200
     },
     {
-      "codigo_opcao": "SLCEQ259",
-      "isin": "BRSLCE3Q04D3",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 126,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "SLCEE185",
-      "isin": "BRSLCE3E04U3",
+      "codigo_opcao": "SLCEE159",
+      "isin": "BRSLCE3E04E7",
       "ativo": "SLCE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 128,
-      "quantidade_coberta": 11000,
-      "quantidade_descoberta": 14420,
-      "total_posicoes": 98200
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 800
     },
     {
-      "codigo_opcao": "SLCEQ185",
-      "isin": "BRSLCE3Q04U7",
+      "codigo_opcao": "SLCEQ159",
+      "isin": "BRSLCE3Q04E1",
       "ativo": "SLCE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 128,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 11100,
-      "total_posicoes": 22600
-    },
-    {
-      "codigo_opcao": "SLCEQ172",
-      "isin": "BRSLCE3Q04C5",
-      "ativo": "SLCE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 126,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 121,
-      "total_posicoes": 421
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8800
     }
   ]
 }
