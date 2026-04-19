@@ -1,11 +1,11 @@
 {
   "ticker": "MDIA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 90,
-  "calls": 44,
-  "puts": 46,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 60,
+  "calls": 29,
+  "puts": 31,
   "semanais": 0,
   "opcoes": [
     {
@@ -15,7 +15,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 3900,
       "quantidade_descoberta": 0,
       "total_posicoes": 4400
     },
@@ -26,9 +26,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 151,
-      "quantidade_coberta": 3900,
+      "quantidade_coberta": 13100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 39000
+      "total_posicoes": 39400
     },
     {
       "codigo_opcao": "MDIAE246",
@@ -59,9 +59,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 151,
-      "quantidade_coberta": 1700,
+      "quantidade_coberta": 2300,
       "quantidade_descoberta": 0,
-      "total_posicoes": 204000
+      "total_posicoes": 204300
     },
     {
       "codigo_opcao": "MDIAE261",
@@ -72,7 +72,7 @@
       "contratos_em_aberto": 151,
       "quantidade_coberta": 2100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 31300
+      "total_posicoes": 31800
     },
     {
       "codigo_opcao": "MDIAE266",
@@ -81,20 +81,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 151,
-      "quantidade_coberta": 200,
+      "quantidade_coberta": 300,
       "quantidade_descoberta": 5200,
       "total_posicoes": 6300
-    },
-    {
-      "codigo_opcao": "MDIAP316",
-      "isin": "BRMDIA3P04G2",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 50000
     },
     {
       "codigo_opcao": "MDIAQ191",
@@ -127,7 +116,7 @@
       "contratos_em_aberto": 151,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 5000,
-      "total_posicoes": 34000
+      "total_posicoes": 34400
     },
     {
       "codigo_opcao": "MDIAQ206",
@@ -148,8 +137,8 @@
       "semanal": false,
       "contratos_em_aberto": 151,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 204200,
-      "total_posicoes": 503200
+      "quantidade_descoberta": 268900,
+      "total_posicoes": 506100
     },
     {
       "codigo_opcao": "MDIAQ241",
@@ -159,8 +148,8 @@
       "semanal": false,
       "contratos_em_aberto": 151,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1900,
-      "total_posicoes": 2600
+      "quantidade_descoberta": 0,
+      "total_posicoes": 25700
     },
     {
       "codigo_opcao": "MDIAQ246",
@@ -185,158 +174,202 @@
       "total_posicoes": 200000
     },
     {
-      "codigo_opcao": "MDIAD211",
-      "isin": "BRMDIA3D0406",
+      "codigo_opcao": "MDIAE220",
+      "isin": "BRMDIA3E03N4",
       "ativo": "MDIA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 150,
+      "contratos_em_aberto": 151,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
+      "quantidade_descoberta": 4000,
+      "total_posicoes": 5000
     },
     {
-      "codigo_opcao": "MDIAD221",
-      "isin": "BRMDIA3D0430",
+      "codigo_opcao": "MDIAE225",
+      "isin": "BRMDIA3E03Q7",
       "ativo": "MDIA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 150,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8200,
+      "total_posicoes": 8200
+    },
+    {
+      "codigo_opcao": "MDIAE230",
+      "isin": "BRMDIA3E03O2",
+      "ativo": "MDIA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 6900,
+      "total_posicoes": 9200
+    },
+    {
+      "codigo_opcao": "MDIAQ210",
+      "isin": "BRMDIA3Q03N8",
+      "ativo": "MDIA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 28300,
+      "total_posicoes": 33300
+    },
+    {
+      "codigo_opcao": "MDIAQ215",
+      "isin": "BRMDIA3Q03P3",
+      "ativo": "MDIA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 16900,
+      "total_posicoes": 30400
+    },
+    {
+      "codigo_opcao": "MDIAQ220",
+      "isin": "BRMDIA3Q03R9",
+      "ativo": "MDIA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 58200
+    },
+    {
+      "codigo_opcao": "MDIAQ225",
+      "isin": "BRMDIA3Q03Q1",
+      "ativo": "MDIA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 12600,
+      "total_posicoes": 22300
+    },
+    {
+      "codigo_opcao": "MDIAQ230",
+      "isin": "BRMDIA3Q03O6",
+      "ativo": "MDIA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 151,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12700
+    },
+    {
+      "codigo_opcao": "MDIAQ316",
+      "isin": "BRMDIA3Q0468",
+      "ativo": "MDIA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 152,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 50000
+    },
+    {
+      "codigo_opcao": "MDIAF240",
+      "isin": "BRMDIA3F03R2",
+      "ativo": "MDIA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 152,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1900,
-      "total_posicoes": 2000
+      "total_posicoes": 1900
     },
     {
-      "codigo_opcao": "MDIAD226",
-      "isin": "BRMDIA3D03Z0",
+      "codigo_opcao": "MDIAF245",
+      "isin": "BRMDIA3F03H3",
       "ativo": "MDIA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 150,
+      "contratos_em_aberto": 152,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 5800,
-      "total_posicoes": 6000
+      "quantidade_descoberta": 1900,
+      "total_posicoes": 1900
     },
     {
-      "codigo_opcao": "MDIAD236",
-      "isin": "BRMDIA3D04B9",
+      "codigo_opcao": "MDIAF250",
+      "isin": "BRMDIA3F03P6",
       "ativo": "MDIA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 11500
-    },
-    {
-      "codigo_opcao": "MDIAD286",
-      "isin": "BRMDIA3D0497",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 900,
-      "total_posicoes": 1200
-    },
-    {
-      "codigo_opcao": "MDIAD296",
-      "isin": "BRMDIA3D0422",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 2400
-    },
-    {
-      "codigo_opcao": "MDIAP196",
-      "isin": "BRMDIA3P04E7",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 38300,
-      "total_posicoes": 38400
-    },
-    {
-      "codigo_opcao": "MDIAP226",
-      "isin": "BRMDIA3P04F4",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17400,
-      "total_posicoes": 26600
-    },
-    {
-      "codigo_opcao": "MDIAP231",
-      "isin": "BRMDIA3P0477",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 2300
-    },
-    {
-      "codigo_opcao": "MDIAP236",
-      "isin": "BRMDIA3P0451",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
+      "contratos_em_aberto": 152,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 2000,
       "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "MDIAD265",
-      "isin": "BRMDIA3D03U1",
+      "codigo_opcao": "MDIAF270",
+      "isin": "BRMDIA3F0438",
       "ativo": "MDIA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 16500,
-      "total_posicoes": 16500
+      "contratos_em_aberto": 152,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "MDIAP245",
-      "isin": "BRMDIA3P03X9",
+      "codigo_opcao": "MDIAR210",
+      "isin": "BRMDIA3R03V9",
       "ativo": "MDIA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 150,
+      "contratos_em_aberto": 152,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
     },
     {
-      "codigo_opcao": "MDIAP250",
-      "isin": "BRMDIA3P03W1",
+      "codigo_opcao": "MDIAR225",
+      "isin": "BRMDIA3R0442",
       "ativo": "MDIA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 150,
+      "contratos_em_aberto": 152,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 12600,
-      "total_posicoes": 13100
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3800
     },
     {
-      "codigo_opcao": "MDIAP260",
-      "isin": "BRMDIA3P03T7",
+      "codigo_opcao": "MDIAR23",
+      "isin": "BRMDIA3R03Z0",
       "ativo": "MDIA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 150,
+      "contratos_em_aberto": 152,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 7700,
-      "total_posicoes": 8500
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2500
+    },
+    {
+      "codigo_opcao": "MDIAR235",
+      "isin": "BRMDIA3R0475",
+      "ativo": "MDIA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 152,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4100,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "MDIAR245",
+      "isin": "BRMDIA3R0426",
+      "ativo": "MDIA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 152,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5000,
+      "total_posicoes": 5000
     },
     {
       "codigo_opcao": "MDIAA176",
@@ -548,17 +581,6 @@
       "total_posicoes": 700
     },
     {
-      "codigo_opcao": "MDIAP200",
-      "isin": "BRMDIA3P0386",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 137,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 700
-    },
-    {
       "codigo_opcao": "MDIAQ200",
       "isin": "BRMDIA3Q0369",
       "ativo": "MDIA",
@@ -645,358 +667,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 5900
-    },
-    {
-      "codigo_opcao": "MDIAE220",
-      "isin": "BRMDIA3E03N4",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "MDIAE225",
-      "isin": "BRMDIA3E03Q7",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8200,
-      "total_posicoes": 8200
-    },
-    {
-      "codigo_opcao": "MDIAE230",
-      "isin": "BRMDIA3E03O2",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6900,
-      "total_posicoes": 9200
-    },
-    {
-      "codigo_opcao": "MDIAQ210",
-      "isin": "BRMDIA3Q03N8",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 28300,
-      "total_posicoes": 32700
-    },
-    {
-      "codigo_opcao": "MDIAQ215",
-      "isin": "BRMDIA3Q03P3",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 16900,
-      "total_posicoes": 29400
-    },
-    {
-      "codigo_opcao": "MDIAQ220",
-      "isin": "BRMDIA3Q03R9",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 31200
-    },
-    {
-      "codigo_opcao": "MDIAQ225",
-      "isin": "BRMDIA3Q03Q1",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 13600,
-      "total_posicoes": 22300
-    },
-    {
-      "codigo_opcao": "MDIAQ230",
-      "isin": "BRMDIA3Q03O6",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 151,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12700
-    },
-    {
-      "codigo_opcao": "MDIAD245",
-      "isin": "BRMDIA3D03W7",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 41500,
-      "total_posicoes": 41800
-    },
-    {
-      "codigo_opcao": "MDIAD250",
-      "isin": "BRMDIA3D03S5",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 4300,
-      "total_posicoes": 5500
-    },
-    {
-      "codigo_opcao": "MDIAD255",
-      "isin": "BRMDIA3D03V9",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 33600,
-      "total_posicoes": 33600
-    },
-    {
-      "codigo_opcao": "MDIAD260",
-      "isin": "BRMDIA3D03T3",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 36700,
-      "total_posicoes": 36800
-    },
-    {
-      "codigo_opcao": "MDIAP255",
-      "isin": "BRMDIA3P03U5",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10700,
-      "total_posicoes": 14200
-    },
-    {
-      "codigo_opcao": "MDIAD206",
-      "isin": "BRMDIA3D03Y3",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MDIAD231",
-      "isin": "BRMDIA3D0471",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 20500,
-      "total_posicoes": 22800
-    },
-    {
-      "codigo_opcao": "MDIAD271",
-      "isin": "BRMDIA3D0489",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "MDIAD276",
-      "isin": "BRMDIA3D0455",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8000,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "MDIAP181",
-      "isin": "BRMDIA3P0436",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "MDIAP201",
-      "isin": "BRMDIA3P0402",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 30800,
-      "total_posicoes": 32000
-    },
-    {
-      "codigo_opcao": "MDIAP206",
-      "isin": "BRMDIA3P04B3",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10500,
-      "total_posicoes": 12000
-    },
-    {
-      "codigo_opcao": "MDIAP211",
-      "isin": "BRMDIA3P0485",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12700,
-      "total_posicoes": 21200
-    },
-    {
-      "codigo_opcao": "MDIAP216",
-      "isin": "BRMDIA3P04C1",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 21300,
-      "total_posicoes": 23700
-    },
-    {
-      "codigo_opcao": "MDIAP221",
-      "isin": "BRMDIA3P03Z4",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 18100
-    },
-    {
-      "codigo_opcao": "MDIAP281",
-      "isin": "BRMDIA3P0493",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MDIAD240",
-      "isin": "BRMDIA3D03X5",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 3800,
-      "quantidade_descoberta": 7000,
-      "total_posicoes": 11600
-    },
-    {
-      "codigo_opcao": "MDIAP240",
-      "isin": "BRMDIA3P03Y7",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 150,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 50000
-    },
-    {
-      "codigo_opcao": "MDIAF240",
-      "isin": "BRMDIA3F03R2",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 152,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1900,
-      "total_posicoes": 1900
-    },
-    {
-      "codigo_opcao": "MDIAF245",
-      "isin": "BRMDIA3F03H3",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 152,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1900,
-      "total_posicoes": 1900
-    },
-    {
-      "codigo_opcao": "MDIAF250",
-      "isin": "BRMDIA3F03P6",
-      "ativo": "MDIA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 152,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "MDIAR23",
-      "isin": "BRMDIA3R03Z0",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 152,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1900
-    },
-    {
-      "codigo_opcao": "MDIAR235",
-      "isin": "BRMDIA3R0475",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 152,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "MDIAR245",
-      "isin": "BRMDIA3R0426",
-      "ativo": "MDIA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 152,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
     }
   ]
 }
