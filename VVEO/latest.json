@@ -1,13 +1,35 @@
 {
   "ticker": "VVEO",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 11,
-  "calls": 9,
-  "puts": 2,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 9,
+  "calls": 8,
+  "puts": 1,
   "semanais": 0,
   "opcoes": [
+    {
+      "codigo_opcao": "VVEOR100",
+      "isin": "BRVVEO3R0056",
+      "ativo": "VVEO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6200
+    },
+    {
+      "codigo_opcao": "VVEOE140",
+      "isin": "BRVVEO3E00E4",
+      "ativo": "VVEO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
     {
       "codigo_opcao": "VVEOA20",
       "isin": "BRVVEO3A0014",
@@ -18,17 +40,6 @@
       "quantidade_coberta": 104000,
       "quantidade_descoberta": 0,
       "total_posicoes": 104000
-    },
-    {
-      "codigo_opcao": "VVEOD200",
-      "isin": "BRVVEO3D0003",
-      "ativo": "VVEO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 900,
-      "total_posicoes": 1000
     },
     {
       "codigo_opcao": "VVEOE20",
@@ -95,39 +106,6 @@
       "quantidade_coberta": 100,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VVEOR100",
-      "isin": "BRVVEO3R0056",
-      "ativo": "VVEO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6200
-    },
-    {
-      "codigo_opcao": "VVEOE140",
-      "isin": "BRVVEO3E00E4",
-      "ativo": "VVEO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "VVEOP130",
-      "isin": "BRVVEO3P00F7",
-      "ativo": "VVEO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 700
     }
   ]
 }
