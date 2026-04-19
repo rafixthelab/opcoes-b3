@@ -1,16 +1,38 @@
 {
   "ticker": "ROXO",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 105,
-  "calls": 57,
-  "puts": 48,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 92,
+  "calls": 50,
+  "puts": 42,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "ROXOF157",
-      "isin": "BRROXO9F00E0",
+      "codigo_opcao": "ROXOI14",
+      "isin": "BRROXO9I00G9",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 41960
+    },
+    {
+      "codigo_opcao": "ROXOU14",
+      "isin": "BRROXO9U00G4",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 15130
+    },
+    {
+      "codigo_opcao": "ROXOE110",
+      "isin": "BRROXO9E00O2",
       "ativo": "ROXO",
       "tipo": "Call",
       "semanal": false,
@@ -20,59 +42,433 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "ROXOR157",
-      "isin": "BRROXO9R00E5",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 21000
-    },
-    {
-      "codigo_opcao": "ROXOI130",
-      "isin": "BRROXO9I00U0",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 1990,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "ROXOU135",
-      "isin": "BRROXO9U00T7",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "ROXOI170",
-      "isin": "BRROXO9I00J3",
+      "codigo_opcao": "ROXOF105",
+      "isin": "BRROXO9F00J9",
       "ativo": "ROXO",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 10,
       "total_posicoes": 10
     },
     {
-      "codigo_opcao": "ROXOJ160",
-      "isin": "BRROXO9J00N3",
+      "codigo_opcao": "ROXOF115",
+      "isin": "BRROXO9F00H3",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10,
+      "total_posicoes": 20
+    },
+    {
+      "codigo_opcao": "ROXOF125",
+      "isin": "BRROXO9F00N1",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 27200,
+      "total_posicoes": 41350
+    },
+    {
+      "codigo_opcao": "ROXOF130",
+      "isin": "BRROXO9F00G5",
       "ativo": "ROXO",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
+      "total_posicoes": 7120
+    },
+    {
+      "codigo_opcao": "ROXOF135",
+      "isin": "BRROXO9F00O9",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8450
+    },
+    {
+      "codigo_opcao": "ROXOF140",
+      "isin": "BRROXO9F00K7",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 27560
+    },
+    {
+      "codigo_opcao": "ROXOQ100",
+      "isin": "BRROXO9Q00M0",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 23500
+    },
+    {
+      "codigo_opcao": "ROXOQ105",
+      "isin": "BRROXO9Q00O6",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12800
+    },
+    {
+      "codigo_opcao": "ROXOQ110",
+      "isin": "BRROXO9Q00N8",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 71330
+    },
+    {
+      "codigo_opcao": "ROXOQ980",
+      "isin": "BRROXO9Q00P3",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 73000
+    },
+    {
+      "codigo_opcao": "ROXOR105",
+      "isin": "BRROXO9R00O4",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ROXOR115",
+      "isin": "BRROXO9R00H8",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2700
+    },
+    {
+      "codigo_opcao": "ROXOR125",
+      "isin": "BRROXO9R00I6",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26800
+    },
+    {
+      "codigo_opcao": "ROXOR130",
+      "isin": "BRROXO9R00N6",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 11920,
+      "total_posicoes": 38210
+    },
+    {
+      "codigo_opcao": "ROXOR135",
+      "isin": "BRROXO9R00K2",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 20,
       "total_posicoes": 20
+    },
+    {
+      "codigo_opcao": "ROXOR980",
+      "isin": "BRROXO9R00L0",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "ROXOG140",
+      "isin": "BRROXO9G00F5",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1800,
+      "total_posicoes": 364320
+    },
+    {
+      "codigo_opcao": "ROXOA12",
+      "isin": "BRROXO9A00B7",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 60
+    },
+    {
+      "codigo_opcao": "ROXOB120",
+      "isin": "BRROXO9B0036",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1540
+    },
+    {
+      "codigo_opcao": "ROXOE120",
+      "isin": "BRROXO9E0025",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 25750,
+      "quantidade_descoberta": 33150,
+      "total_posicoes": 294970
+    },
+    {
+      "codigo_opcao": "ROXOF120",
+      "isin": "BRROXO9F0024",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 20860,
+      "total_posicoes": 27200
+    },
+    {
+      "codigo_opcao": "ROXOG12",
+      "isin": "BRROXO9G0049",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5280
+    },
+    {
+      "codigo_opcao": "ROXOJ122",
+      "isin": "BRROXO9J00C6",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 12600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12620
+    },
+    {
+      "codigo_opcao": "ROXOK12",
+      "isin": "BRROXO9K00D2",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 60
+    },
+    {
+      "codigo_opcao": "ROXOL12",
+      "isin": "BRROXO9L00B4",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 101410
+    },
+    {
+      "codigo_opcao": "ROXOM12",
+      "isin": "BRROXO9M00B2",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 69740
+    },
+    {
+      "codigo_opcao": "ROXON120",
+      "isin": "BRROXO9N0032",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 31960
+    },
+    {
+      "codigo_opcao": "ROXOQ120",
+      "isin": "BRROXO9Q0021",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 109120,
+      "total_posicoes": 223000
+    },
+    {
+      "codigo_opcao": "ROXOR120",
+      "isin": "BRROXO9R0020",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 17110
+    },
+    {
+      "codigo_opcao": "ROXOS12",
+      "isin": "BRROXO9S0045",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1910
+    },
+    {
+      "codigo_opcao": "ROXOS125",
+      "isin": "BRROXO9S00E3",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 350600
+    },
+    {
+      "codigo_opcao": "ROXOT12",
+      "isin": "BRROXO9T0028",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 11270
+    },
+    {
+      "codigo_opcao": "ROXOU120",
+      "isin": "BRROXO9U0025",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1110
+    },
+    {
+      "codigo_opcao": "ROXOV12",
+      "isin": "BRROXO9V00B3",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2890,
+      "total_posicoes": 2890
+    },
+    {
+      "codigo_opcao": "ROXOV122",
+      "isin": "BRROXO9V00C1",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 30
+    },
+    {
+      "codigo_opcao": "ROXOW12",
+      "isin": "BRROXO9W00D7",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 96070,
+      "total_posicoes": 96170
+    },
+    {
+      "codigo_opcao": "ROXOX12",
+      "isin": "BRROXO9X00B9",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2640,
+      "total_posicoes": 9950
+    },
+    {
+      "codigo_opcao": "ROXOW132",
+      "isin": "BRROXO9W00Y3",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5070
+    },
+    {
+      "codigo_opcao": "ROXOQ115",
+      "isin": "BRROXO9Q00L2",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 8000,
+      "total_posicoes": 468120
     },
     {
       "codigo_opcao": "ROXOJ170",
@@ -127,7 +523,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 25480
+      "total_posicoes": 25490
     },
     {
       "codigo_opcao": "ROXOK170",
@@ -138,7 +534,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 390
+      "total_posicoes": 5860
     },
     {
       "codigo_opcao": "ROXOK180",
@@ -149,7 +545,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 131550
+      "total_posicoes": 178410
     },
     {
       "codigo_opcao": "ROXOW150",
@@ -170,8 +566,8 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6330
+      "quantidade_descoberta": 10,
+      "total_posicoes": 6340
     },
     {
       "codigo_opcao": "ROXOR142",
@@ -191,7 +587,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
     },
@@ -259,7 +655,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10
+      "total_posicoes": 20
     },
     {
       "codigo_opcao": "ROXOK157",
@@ -281,7 +677,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 170
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "ROXOW137",
@@ -292,304 +688,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10
-    },
-    {
-      "codigo_opcao": "ROXOA12",
-      "isin": "BRROXO9A00B7",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 60
-    },
-    {
-      "codigo_opcao": "ROXOB120",
-      "isin": "BRROXO9B0036",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1540
-    },
-    {
-      "codigo_opcao": "ROXOD120",
-      "isin": "BRROXO9D0026",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 36900,
-      "total_posicoes": 36910
-    },
-    {
-      "codigo_opcao": "ROXOE120",
-      "isin": "BRROXO9E0025",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 25750,
-      "quantidade_descoberta": 45780,
-      "total_posicoes": 294970
-    },
-    {
-      "codigo_opcao": "ROXOF120",
-      "isin": "BRROXO9F0024",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20450,
-      "total_posicoes": 27200
-    },
-    {
-      "codigo_opcao": "ROXOG12",
-      "isin": "BRROXO9G0049",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4280
-    },
-    {
-      "codigo_opcao": "ROXOJ122",
-      "isin": "BRROXO9J00C6",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 12600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12620
-    },
-    {
-      "codigo_opcao": "ROXOK12",
-      "isin": "BRROXO9K00D2",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 60
-    },
-    {
-      "codigo_opcao": "ROXOL12",
-      "isin": "BRROXO9L00B4",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 101410
-    },
-    {
-      "codigo_opcao": "ROXOM12",
-      "isin": "BRROXO9M00B2",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 69740
-    },
-    {
-      "codigo_opcao": "ROXON120",
-      "isin": "BRROXO9N0032",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 31960
-    },
-    {
-      "codigo_opcao": "ROXOP120",
-      "isin": "BRROXO9P0022",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 35520,
-      "total_posicoes": 75050
-    },
-    {
-      "codigo_opcao": "ROXOQ120",
-      "isin": "BRROXO9Q0021",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 109100,
-      "total_posicoes": 222760
-    },
-    {
-      "codigo_opcao": "ROXOR120",
-      "isin": "BRROXO9R0020",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6930
-    },
-    {
-      "codigo_opcao": "ROXOS12",
-      "isin": "BRROXO9S0045",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1910
-    },
-    {
-      "codigo_opcao": "ROXOS125",
-      "isin": "BRROXO9S00E3",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 216500
-    },
-    {
-      "codigo_opcao": "ROXOT12",
-      "isin": "BRROXO9T0028",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11270
-    },
-    {
-      "codigo_opcao": "ROXOU120",
-      "isin": "BRROXO9U0025",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1110
-    },
-    {
-      "codigo_opcao": "ROXOV12",
-      "isin": "BRROXO9V00B3",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2890,
-      "total_posicoes": 2890
-    },
-    {
-      "codigo_opcao": "ROXOV122",
-      "isin": "BRROXO9V00C1",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 30
-    },
-    {
-      "codigo_opcao": "ROXOW12",
-      "isin": "BRROXO9W00D7",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 96050,
-      "total_posicoes": 96150
-    },
-    {
-      "codigo_opcao": "ROXOX12",
-      "isin": "BRROXO9X00B9",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2660,
-      "total_posicoes": 9950
-    },
-    {
-      "codigo_opcao": "ROXOD110",
-      "isin": "BRROXO9D00H8",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "ROXOP110",
-      "isin": "BRROXO9P00H2",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 104490,
-      "total_posicoes": 125170
-    },
-    {
-      "codigo_opcao": "ROXOG140",
-      "isin": "BRROXO9G00F5",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 216500
-    },
-    {
-      "codigo_opcao": "ROXOD140",
-      "isin": "BRROXO9D00F2",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 14600,
-      "quantidade_descoberta": 126800,
-      "total_posicoes": 157000
-    },
-    {
-      "codigo_opcao": "ROXOD150",
-      "isin": "BRROXO9D00E5",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 58150,
-      "total_posicoes": 62400
+      "total_posicoes": 20
     },
     {
       "codigo_opcao": "ROXOE125",
@@ -598,7 +697,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
-      "quantidade_coberta": 1600,
+      "quantidade_coberta": 16000,
       "quantidade_descoberta": 0,
       "total_posicoes": 142460
     },
@@ -609,9 +708,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
-      "quantidade_coberta": 3700,
+      "quantidade_coberta": 10040,
       "quantidade_descoberta": 0,
-      "total_posicoes": 225930
+      "total_posicoes": 235590
     },
     {
       "codigo_opcao": "ROXOE135",
@@ -620,9 +719,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
-      "quantidade_coberta": 1400,
+      "quantidade_coberta": 1900,
       "quantidade_descoberta": 0,
-      "total_posicoes": 177310
+      "total_posicoes": 177330
     },
     {
       "codigo_opcao": "ROXOE140",
@@ -631,9 +730,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
-      "quantidade_coberta": 2800,
-      "quantidade_descoberta": 730,
-      "total_posicoes": 160440
+      "quantidade_coberta": 3100,
+      "quantidade_descoberta": 740,
+      "total_posicoes": 164450
     },
     {
       "codigo_opcao": "ROXOE145",
@@ -642,9 +741,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
-      "quantidade_coberta": 62720,
+      "quantidade_coberta": 77110,
       "quantidade_descoberta": 10,
-      "total_posicoes": 273560
+      "total_posicoes": 274310
     },
     {
       "codigo_opcao": "ROXOE150",
@@ -653,9 +752,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 10,
-      "total_posicoes": 7930
+      "quantidade_coberta": 1300,
+      "quantidade_descoberta": 1010,
+      "total_posicoes": 9230
     },
     {
       "codigo_opcao": "ROXOE155",
@@ -665,7 +764,7 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 700,
-      "quantidade_descoberta": 2610,
+      "quantidade_descoberta": 2620,
       "total_posicoes": 26330
     },
     {
@@ -675,31 +774,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
-      "quantidade_coberta": 800,
+      "quantidade_coberta": 1100,
       "quantidade_descoberta": 5000,
-      "total_posicoes": 7110
-    },
-    {
-      "codigo_opcao": "ROXOP140",
-      "isin": "BRROXO9P00F6",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 98450,
-      "total_posicoes": 155050
-    },
-    {
-      "codigo_opcao": "ROXOP150",
-      "isin": "BRROXO9P00E9",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 46850,
-      "total_posicoes": 97050
+      "total_posicoes": 7410
     },
     {
       "codigo_opcao": "ROXOQ125",
@@ -709,8 +786,8 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 158330
+      "quantidade_descoberta": 3400,
+      "total_posicoes": 158830
     },
     {
       "codigo_opcao": "ROXOQ130",
@@ -720,8 +797,140 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 25120,
-      "total_posicoes": 59830
+      "quantidade_descoberta": 45620,
+      "total_posicoes": 86960
+    },
+    {
+      "codigo_opcao": "ROXOJ145",
+      "isin": "BRROXO9J0103",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10
+    },
+    {
+      "codigo_opcao": "ROXOV150",
+      "isin": "BRROXO9V00M0",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 16500
+    },
+    {
+      "codigo_opcao": "ROXOI130",
+      "isin": "BRROXO9I00U0",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 1990,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "ROXOU135",
+      "isin": "BRROXO9U00T7",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4000
+    },
+    {
+      "codigo_opcao": "ROXOF157",
+      "isin": "BRROXO9F00E0",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 10,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "ROXOR157",
+      "isin": "BRROXO9R00E5",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 21000
+    },
+    {
+      "codigo_opcao": "ROXOH147",
+      "isin": "BRROXO9H00C0",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ROXOT147",
+      "isin": "BRROXO9T00C5",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12000
+    },
+    {
+      "codigo_opcao": "ROXOK130",
+      "isin": "BRROXO9K0134",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "ROXOW130",
+      "isin": "BRROXO9W0171",
+      "ativo": "ROXO",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10550
+    },
+    {
+      "codigo_opcao": "ROXOI170",
+      "isin": "BRROXO9I00J3",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10
+    },
+    {
+      "codigo_opcao": "ROXOJ160",
+      "isin": "BRROXO9J00N3",
+      "ativo": "ROXO",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 20
     },
     {
       "codigo_opcao": "ROXOQ135",
@@ -731,8 +940,8 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 11830,
-      "total_posicoes": 122400
+      "quantidade_descoberta": 14940,
+      "total_posicoes": 133500
     },
     {
       "codigo_opcao": "ROXOQ140",
@@ -742,8 +951,8 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 31350,
-      "total_posicoes": 210450
+      "quantidade_descoberta": 61350,
+      "total_posicoes": 243250
     },
     {
       "codigo_opcao": "ROXOQ145",
@@ -754,7 +963,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 4100,
-      "total_posicoes": 12600
+      "total_posicoes": 10600
     },
     {
       "codigo_opcao": "ROXOQ150",
@@ -765,7 +974,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 11800
+      "total_posicoes": 11700
     },
     {
       "codigo_opcao": "ROXOQ155",
@@ -801,367 +1010,15 @@
       "total_posicoes": 11510
     },
     {
-      "codigo_opcao": "ROXOQ115",
-      "isin": "BRROXO9Q00L2",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8000,
-      "total_posicoes": 460920
-    },
-    {
-      "codigo_opcao": "ROXOD132",
-      "isin": "BRROXO9D00I6",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 11000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 123320
-    },
-    {
-      "codigo_opcao": "ROXOP132",
-      "isin": "BRROXO9P00I0",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "ROXOJ145",
-      "isin": "BRROXO9J0103",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10
-    },
-    {
-      "codigo_opcao": "ROXOV150",
-      "isin": "BRROXO9V00M0",
+      "codigo_opcao": "ROXOR145",
+      "isin": "BRROXO9R00D7",
       "ativo": "ROXO",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 16500
-    },
-    {
-      "codigo_opcao": "ROXOD125",
-      "isin": "BRROXO9D00J4",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 50,
-      "quantidade_descoberta": 80,
-      "total_posicoes": 230
-    },
-    {
-      "codigo_opcao": "ROXOE110",
-      "isin": "BRROXO9E00O2",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ROXOF105",
-      "isin": "BRROXO9F00J9",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10,
-      "total_posicoes": 10
-    },
-    {
-      "codigo_opcao": "ROXOF115",
-      "isin": "BRROXO9F00H3",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10,
-      "total_posicoes": 20
-    },
-    {
-      "codigo_opcao": "ROXOF125",
-      "isin": "BRROXO9F00N1",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27200,
-      "total_posicoes": 41350
-    },
-    {
-      "codigo_opcao": "ROXOF130",
-      "isin": "BRROXO9F00G5",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7120
-    },
-    {
-      "codigo_opcao": "ROXOF135",
-      "isin": "BRROXO9F00O9",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7840
-    },
-    {
-      "codigo_opcao": "ROXOF140",
-      "isin": "BRROXO9F00K7",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3130
-    },
-    {
-      "codigo_opcao": "ROXOP105",
-      "isin": "BRROXO9P00L4",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 28200,
-      "total_posicoes": 28200
-    },
-    {
-      "codigo_opcao": "ROXOP115",
-      "isin": "BRROXO9P00J8",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 47170,
-      "total_posicoes": 50870
-    },
-    {
-      "codigo_opcao": "ROXOQ100",
-      "isin": "BRROXO9Q00M0",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 23500
-    },
-    {
-      "codigo_opcao": "ROXOQ105",
-      "isin": "BRROXO9Q00O6",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12800
-    },
-    {
-      "codigo_opcao": "ROXOQ110",
-      "isin": "BRROXO9Q00N8",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12330
-    },
-    {
-      "codigo_opcao": "ROXOQ980",
-      "isin": "BRROXO9Q00P3",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 73000
-    },
-    {
-      "codigo_opcao": "ROXOR115",
-      "isin": "BRROXO9R00H8",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "ROXOR125",
-      "isin": "BRROXO9R00I6",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26800
-    },
-    {
-      "codigo_opcao": "ROXOR130",
-      "isin": "BRROXO9R00N6",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 330,
-      "total_posicoes": 37510
-    },
-    {
-      "codigo_opcao": "ROXOR135",
-      "isin": "BRROXO9R00K2",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20,
-      "total_posicoes": 20
-    },
-    {
-      "codigo_opcao": "ROXOK130",
-      "isin": "BRROXO9K0134",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "ROXOW130",
-      "isin": "BRROXO9W0171",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10550
-    },
-    {
-      "codigo_opcao": "ROXOW132",
-      "isin": "BRROXO9W00Y3",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5070
-    },
-    {
-      "codigo_opcao": "ROXOD157",
-      "isin": "BRROXO9D00D7",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 176520
-    },
-    {
-      "codigo_opcao": "ROXOP157",
-      "isin": "BRROXO9P00D1",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10,
-      "total_posicoes": 1210
-    },
-    {
-      "codigo_opcao": "ROXOI14",
-      "isin": "BRROXO9I00G9",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1800,
-      "total_posicoes": 41960
-    },
-    {
-      "codigo_opcao": "ROXOU14",
-      "isin": "BRROXO9U00G4",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 15130
-    },
-    {
-      "codigo_opcao": "ROXOT147",
-      "isin": "BRROXO9T00C5",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12000
-    },
-    {
-      "codigo_opcao": "ROXOD130",
-      "isin": "BRROXO9D00G0",
-      "ativo": "ROXO",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 4900,
-      "quantidade_descoberta": 34910,
-      "total_posicoes": 44200
-    },
-    {
-      "codigo_opcao": "ROXOP130",
-      "isin": "BRROXO9P00G4",
-      "ativo": "ROXO",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 101160,
-      "total_posicoes": 102170
+      "total_posicoes": 2000
     }
   ]
 }
