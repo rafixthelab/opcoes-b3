@@ -1,177 +1,100 @@
 {
   "ticker": "HASH",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 81,
-  "calls": 41,
-  "puts": 40,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 42,
+  "calls": 21,
+  "puts": 21,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "HASHD450",
-      "isin": "BRHASH9D0046",
+      "codigo_opcao": "HASHW495",
+      "isin": "BRHASH9W0001",
       "ativo": "HASH",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 100,
-      "quantidade_coberta": 276,
-      "quantidade_descoberta": 2972,
-      "total_posicoes": 3248
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 392
     },
     {
-      "codigo_opcao": "HASHD455",
-      "isin": "BRHASH9D0087",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 40,
-      "quantidade_descoberta": 1010,
-      "total_posicoes": 1050
-    },
-    {
-      "codigo_opcao": "HASHD465",
-      "isin": "BRHASH9D00C3",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 159,
-      "quantidade_descoberta": 2867,
-      "total_posicoes": 3026
-    },
-    {
-      "codigo_opcao": "HASHD475",
-      "isin": "BRHASH9D0061",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 1,
-      "quantidade_descoberta": 1169,
-      "total_posicoes": 2793
-    },
-    {
-      "codigo_opcao": "HASHD480",
-      "isin": "BRHASH9D0038",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 333,
-      "quantidade_descoberta": 2514,
-      "total_posicoes": 2847
-    },
-    {
-      "codigo_opcao": "HASHD490",
-      "isin": "BRHASH9D0079",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 1287,
-      "quantidade_descoberta": 1663,
-      "total_posicoes": 3825
-    },
-    {
-      "codigo_opcao": "HASHD495",
-      "isin": "BRHASH9D0012",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 295,
-      "quantidade_descoberta": 982,
-      "total_posicoes": 1277
-    },
-    {
-      "codigo_opcao": "HASHD500",
-      "isin": "BRHASH9D00G4",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 28,
-      "quantidade_descoberta": 3972,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "HASHD510",
-      "isin": "BRHASH9D00D1",
+      "codigo_opcao": "HASHE580",
+      "isin": "BRHASH9E00G2",
       "ativo": "HASH",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3974,
-      "total_posicoes": 3974
+      "quantidade_descoberta": 0,
+      "total_posicoes": 210
     },
     {
-      "codigo_opcao": "HASHD520",
-      "isin": "BRHASH9D0004",
+      "codigo_opcao": "HASHQ460",
+      "isin": "BRHASH9Q0082",
       "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 133,
-      "quantidade_descoberta": 1916,
-      "total_posicoes": 2049
-    },
-    {
-      "codigo_opcao": "HASHD530",
-      "isin": "BRHASH9D0053",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 4543,
-      "total_posicoes": 5177
-    },
-    {
-      "codigo_opcao": "HASHD550",
-      "isin": "BRHASH9D0020",
-      "ativo": "HASH",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2243,
-      "total_posicoes": 3510
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1108
     },
     {
-      "codigo_opcao": "HASHD560",
-      "isin": "BRHASH9D00A7",
+      "codigo_opcao": "HASHQ470",
+      "isin": "BRHASH9Q0058",
       "ativo": "HASH",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1136,
-      "total_posicoes": 3485
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1924
     },
     {
-      "codigo_opcao": "HASHD570",
-      "isin": "BRHASH9D00F6",
+      "codigo_opcao": "HASHQ480",
+      "isin": "BRHASH9Q0017",
       "ativo": "HASH",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 98,
-      "total_posicoes": 3791
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4667
     },
     {
-      "codigo_opcao": "HASHD580",
-      "isin": "BRHASH9D00B5",
+      "codigo_opcao": "HASHQ490",
+      "isin": "BRHASH9Q0033",
       "ativo": "HASH",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 1232
+      "quantidade_descoberta": 0,
+      "total_posicoes": 747
+    },
+    {
+      "codigo_opcao": "HASHQ540",
+      "isin": "BRHASH9Q00E1",
+      "ativo": "HASH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 763,
+      "total_posicoes": 763
+    },
+    {
+      "codigo_opcao": "HASHQ560",
+      "isin": "BRHASH9Q0090",
+      "ativo": "HASH",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 100,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1850,
+      "total_posicoes": 1850
     },
     {
       "codigo_opcao": "HASHE445",
@@ -237,7 +160,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 4467
+      "total_posicoes": 4667
     },
     {
       "codigo_opcao": "HASHE490",
@@ -270,7 +193,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 5500,
       "quantidade_descoberta": 0,
-      "total_posicoes": 9358
+      "total_posicoes": 9696
     },
     {
       "codigo_opcao": "HASHE540",
@@ -279,9 +202,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 100,
-      "quantidade_coberta": 410,
+      "quantidade_coberta": 610,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1174
+      "total_posicoes": 1388
     },
     {
       "codigo_opcao": "HASHE550",
@@ -292,7 +215,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 970
+      "total_posicoes": 976
     },
     {
       "codigo_opcao": "HASHE560",
@@ -328,215 +251,6 @@
       "total_posicoes": 1
     },
     {
-      "codigo_opcao": "HASHP450",
-      "isin": "BRHASH9P00H6",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1613,
-      "total_posicoes": 4239
-    },
-    {
-      "codigo_opcao": "HASHP455",
-      "isin": "BRHASH9P00I4",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1050,
-      "total_posicoes": 1051
-    },
-    {
-      "codigo_opcao": "HASHP460",
-      "isin": "BRHASH9P00D5",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 69,
-      "total_posicoes": 169
-    },
-    {
-      "codigo_opcao": "HASHP465",
-      "isin": "BRHASH9P0083",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2907,
-      "total_posicoes": 3024
-    },
-    {
-      "codigo_opcao": "HASHP470",
-      "isin": "BRHASH9P0034",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2287,
-      "total_posicoes": 3217
-    },
-    {
-      "codigo_opcao": "HASHP475",
-      "isin": "BRHASH9P0075",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2792,
-      "total_posicoes": 2792
-    },
-    {
-      "codigo_opcao": "HASHP480",
-      "isin": "BRHASH9P0059",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2847,
-      "total_posicoes": 2847
-    },
-    {
-      "codigo_opcao": "HASHP485",
-      "isin": "BRHASH9P0026",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2559,
-      "total_posicoes": 2559
-    },
-    {
-      "codigo_opcao": "HASHP490",
-      "isin": "BRHASH9P0067",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3823,
-      "total_posicoes": 3823
-    },
-    {
-      "codigo_opcao": "HASHP495",
-      "isin": "BRHASH9P00F0",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1174,
-      "total_posicoes": 1174
-    },
-    {
-      "codigo_opcao": "HASHP500",
-      "isin": "BRHASH9P0018",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3169,
-      "total_posicoes": 3169
-    },
-    {
-      "codigo_opcao": "HASHP510",
-      "isin": "BRHASH9P00E3",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2969,
-      "total_posicoes": 2969
-    },
-    {
-      "codigo_opcao": "HASHP520",
-      "isin": "BRHASH9P00A1",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1106,
-      "total_posicoes": 1106
-    },
-    {
-      "codigo_opcao": "HASHP530",
-      "isin": "BRHASH9P0000",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2661,
-      "total_posicoes": 2661
-    },
-    {
-      "codigo_opcao": "HASHP540",
-      "isin": "BRHASH9P0042",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2607,
-      "total_posicoes": 2607
-    },
-    {
-      "codigo_opcao": "HASHP550",
-      "isin": "BRHASH9P00G8",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2458,
-      "total_posicoes": 2458
-    },
-    {
-      "codigo_opcao": "HASHP570",
-      "isin": "BRHASH9P00B9",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2333,
-      "total_posicoes": 2333
-    },
-    {
-      "codigo_opcao": "HASHP580",
-      "isin": "BRHASH9P00C7",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 689,
-      "total_posicoes": 689
-    },
-    {
-      "codigo_opcao": "HASHP590",
-      "isin": "BRHASH9P0091",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2415,
-      "total_posicoes": 2415
-    },
-    {
       "codigo_opcao": "HASHQ445",
       "isin": "BRHASH9Q00B7",
       "ativo": "HASH",
@@ -545,7 +259,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 13400
+      "total_posicoes": 16331
     },
     {
       "codigo_opcao": "HASHQ450",
@@ -610,7 +324,7 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 1979,
       "total_posicoes": 3814
     },
     {
@@ -621,7 +335,7 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 779,
+      "quantidade_descoberta": 1027,
       "total_posicoes": 1127
     },
     {
@@ -632,8 +346,8 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3859,
-      "total_posicoes": 3859
+      "quantidade_descoberta": 3863,
+      "total_posicoes": 3863
     },
     {
       "codigo_opcao": "HASHQ520",
@@ -643,8 +357,8 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 951,
-      "total_posicoes": 951
+      "quantidade_descoberta": 1451,
+      "total_posicoes": 1451
     },
     {
       "codigo_opcao": "HASHQ530",
@@ -654,8 +368,8 @@
       "semanal": false,
       "contratos_em_aberto": 100,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2007,
-      "total_posicoes": 2007
+      "quantidade_descoberta": 2207,
+      "total_posicoes": 2207
     },
     {
       "codigo_opcao": "HASHQ550",
@@ -689,61 +403,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1051,
       "total_posicoes": 1051
-    },
-    {
-      "codigo_opcao": "HASHD460",
-      "isin": "BRHASH9D00E9",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 57,
-      "quantidade_descoberta": 123,
-      "total_posicoes": 180
-    },
-    {
-      "codigo_opcao": "HASHD470",
-      "isin": "BRHASH9D00I0",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 216,
-      "quantidade_descoberta": 3001,
-      "total_posicoes": 3217
-    },
-    {
-      "codigo_opcao": "HASHD485",
-      "isin": "BRHASH9D00J8",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 552,
-      "quantidade_descoberta": 2007,
-      "total_posicoes": 2559
-    },
-    {
-      "codigo_opcao": "HASHD540",
-      "isin": "BRHASH9D00H2",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4914,
-      "total_posicoes": 4914
-    },
-    {
-      "codigo_opcao": "HASHD590",
-      "isin": "BRHASH9D0095",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 600
     },
     {
       "codigo_opcao": "HASHE460",
@@ -798,7 +457,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 6100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7351
+      "total_posicoes": 7851
     },
     {
       "codigo_opcao": "HASHE530",
@@ -809,95 +468,7 @@
       "contratos_em_aberto": 100,
       "quantidade_coberta": 5460,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7467
-    },
-    {
-      "codigo_opcao": "HASHE580",
-      "isin": "BRHASH9E00G2",
-      "ativo": "HASH",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 110
-    },
-    {
-      "codigo_opcao": "HASHP560",
-      "isin": "BRHASH9P00J2",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2735,
-      "total_posicoes": 2735
-    },
-    {
-      "codigo_opcao": "HASHQ460",
-      "isin": "BRHASH9Q0082",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1108
-    },
-    {
-      "codigo_opcao": "HASHQ470",
-      "isin": "BRHASH9Q0058",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1924
-    },
-    {
-      "codigo_opcao": "HASHQ480",
-      "isin": "BRHASH9Q0017",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4467
-    },
-    {
-      "codigo_opcao": "HASHQ490",
-      "isin": "BRHASH9Q0033",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 747
-    },
-    {
-      "codigo_opcao": "HASHQ540",
-      "isin": "BRHASH9Q00E1",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 763,
-      "total_posicoes": 763
-    },
-    {
-      "codigo_opcao": "HASHQ560",
-      "isin": "BRHASH9Q0090",
-      "ativo": "HASH",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 100,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1850,
-      "total_posicoes": 1850
+      "total_posicoes": 7967
     }
   ]
 }
