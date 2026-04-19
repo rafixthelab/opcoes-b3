@@ -1,56 +1,56 @@
 {
   "ticker": "LWSA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 158,
-  "calls": 85,
-  "puts": 73,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 110,
+  "calls": 61,
+  "puts": 49,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "LWSAD345",
-      "isin": "BRLWSA3D0514",
+      "codigo_opcao": "LWSAI700",
+      "isin": "BRLWSA3I04W0",
       "ativo": "LWSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 105,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 82200,
-      "total_posicoes": 83600
-    },
-    {
-      "codigo_opcao": "LWSAP345",
-      "isin": "BRLWSA3P0510",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 105,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 93800,
-      "total_posicoes": 115400
+      "quantidade_descoberta": 200,
+      "total_posicoes": 589500
     },
     {
-      "codigo_opcao": "LWSAB450",
-      "isin": "BRLWSA3B05Y8",
+      "codigo_opcao": "LWSAI710",
+      "isin": "BRLWSA3I04U4",
       "ativo": "LWSA",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 106,
+      "contratos_em_aberto": 105,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 16100
+      "total_posicoes": 300
     },
     {
-      "codigo_opcao": "LWSAN450",
-      "isin": "BRLWSA3N05Y3",
+      "codigo_opcao": "LWSAI730",
+      "isin": "BRLWSA3I0568",
       "ativo": "LWSA",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 106,
+      "contratos_em_aberto": 105,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 4000
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "LWSAI830",
+      "isin": "BRLWSA3I04Q2",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "LWSAG470",
@@ -86,15 +86,257 @@
       "total_posicoes": 200
     },
     {
+      "codigo_opcao": "LWSAI740",
+      "isin": "BRLWSA3I0592",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "LWSAI750",
+      "isin": "BRLWSA3I04Y6",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10100,
+      "total_posicoes": 135000
+    },
+    {
+      "codigo_opcao": "LWSAI770",
+      "isin": "BRLWSA3I04O7",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "LWSAI890",
+      "isin": "BRLWSA3I0550",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "LWSAI900",
+      "isin": "BRLWSA3I04V2",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "LWSAU700",
+      "isin": "BRLWSA3U05D2",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3600
+    },
+    {
+      "codigo_opcao": "LWSAE350",
+      "isin": "BRLWSA3E04J6",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 89300,
+      "quantidade_descoberta": 22700,
+      "total_posicoes": 133400
+    },
+    {
+      "codigo_opcao": "LWSAE550",
+      "isin": "BRLWSA3E04K4",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 6000,
+      "quantidade_descoberta": 7000,
+      "total_posicoes": 55000
+    },
+    {
+      "codigo_opcao": "LWSAQ350",
+      "isin": "BRLWSA3Q04K8",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6800,
+      "total_posicoes": 7200
+    },
+    {
+      "codigo_opcao": "LWSAQ550",
+      "isin": "BRLWSA3Q04J0",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "LWSAF570",
+      "isin": "BRLWSA3F0504",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "LWSAE360",
+      "isin": "BRLWSA3E04R9",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 51500,
+      "quantidade_descoberta": 33800,
+      "total_posicoes": 95400
+    },
+    {
+      "codigo_opcao": "LWSAE370",
+      "isin": "BRLWSA3E04S7",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 80100,
+      "quantidade_descoberta": 70200,
+      "total_posicoes": 152400
+    },
+    {
+      "codigo_opcao": "LWSAE380",
+      "isin": "BRLWSA3E04V1",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 35100,
+      "quantidade_descoberta": 31000,
+      "total_posicoes": 79700
+    },
+    {
+      "codigo_opcao": "LWSAE390",
+      "isin": "BRLWSA3E04U3",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 78900,
+      "quantidade_descoberta": 6200,
+      "total_posicoes": 91800
+    },
+    {
+      "codigo_opcao": "LWSAE400",
+      "isin": "BRLWSA3E04T5",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 63100,
+      "quantidade_descoberta": 102200,
+      "total_posicoes": 171000
+    },
+    {
+      "codigo_opcao": "LWSAQ360",
+      "isin": "BRLWSA3Q04S1",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 15100,
+      "total_posicoes": 15100
+    },
+    {
+      "codigo_opcao": "LWSAQ370",
+      "isin": "BRLWSA3Q04T9",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4500,
+      "total_posicoes": 34100
+    },
+    {
+      "codigo_opcao": "LWSAQ380",
+      "isin": "BRLWSA3Q04V5",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5400,
+      "total_posicoes": 10700
+    },
+    {
+      "codigo_opcao": "LWSAQ390",
+      "isin": "BRLWSA3Q04U7",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4700,
+      "total_posicoes": 22800
+    },
+    {
+      "codigo_opcao": "LWSAQ400",
+      "isin": "BRLWSA3Q04R3",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6200,
+      "total_posicoes": 16400
+    },
+    {
+      "codigo_opcao": "LWSAR710",
+      "isin": "BRLWSA3R0666",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 20000
+    },
+    {
       "codigo_opcao": "LWSAE485",
       "isin": "BRLWSA3E04I8",
       "ativo": "LWSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 105,
-      "quantidade_coberta": 9800,
-      "quantidade_descoberta": 352800,
-      "total_posicoes": 402400
+      "quantidade_coberta": 7100,
+      "quantidade_descoberta": 339900,
+      "total_posicoes": 402200
     },
     {
       "codigo_opcao": "LWSAQ485",
@@ -108,48 +350,70 @@
       "total_posicoes": 19000
     },
     {
-      "codigo_opcao": "LWSAE550",
-      "isin": "BRLWSA3E04K4",
+      "codigo_opcao": "LWSAF360",
+      "isin": "BRLWSA3F04X4",
       "ativo": "LWSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 6000,
-      "quantidade_descoberta": 7000,
-      "total_posicoes": 45000
+      "quantidade_coberta": 7200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7400
     },
     {
-      "codigo_opcao": "LWSAP430",
-      "isin": "BRLWSA3P0544",
+      "codigo_opcao": "LWSAF460",
+      "isin": "BRLWSA3F04W6",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4300
+    },
+    {
+      "codigo_opcao": "LWSAR360",
+      "isin": "BRLWSA3R04X9",
       "ativo": "LWSA",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 51900,
-      "total_posicoes": 52200
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
     },
     {
-      "codigo_opcao": "LWSAQ350",
-      "isin": "BRLWSA3Q04K8",
+      "codigo_opcao": "LWSAR460",
+      "isin": "BRLWSA3R04W1",
       "ativo": "LWSA",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 6800,
-      "total_posicoes": 12300
+      "quantidade_descoberta": 700,
+      "total_posicoes": 3100
     },
     {
-      "codigo_opcao": "LWSAQ550",
-      "isin": "BRLWSA3Q04J0",
+      "codigo_opcao": "LWSAE435",
+      "isin": "BRLWSA3E04H0",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 11000,
+      "quantidade_descoberta": 100000,
+      "total_posicoes": 112300
+    },
+    {
+      "codigo_opcao": "LWSAQ435",
+      "isin": "BRLWSA3Q04H4",
       "ativo": "LWSA",
       "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 106,
+      "contratos_em_aberto": 105,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 250700,
+      "total_posicoes": 300200
     },
     {
       "codigo_opcao": "LWSAE220",
@@ -191,7 +455,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 36300,
+      "quantidade_coberta": 28300,
       "quantidade_descoberta": 0,
       "total_posicoes": 90300
     },
@@ -268,7 +532,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 90300,
+      "quantidade_coberta": 89900,
       "quantidade_descoberta": 0,
       "total_posicoes": 133100
     },
@@ -279,7 +543,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 95100,
+      "quantidade_coberta": 91600,
       "quantidade_descoberta": 5000,
       "total_posicoes": 131200
     },
@@ -291,8 +555,8 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 11900,
-      "quantidade_descoberta": 13600,
-      "total_posicoes": 28200
+      "quantidade_descoberta": 100000,
+      "total_posicoes": 116600
     },
     {
       "codigo_opcao": "LWSAE430",
@@ -303,7 +567,7 @@
       "contratos_em_aberto": 106,
       "quantidade_coberta": 600,
       "quantidade_descoberta": 0,
-      "total_posicoes": 38700
+      "total_posicoes": 39000
     },
     {
       "codigo_opcao": "LWSAE440",
@@ -313,8 +577,8 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 5100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8500
+      "quantidade_descoberta": 100,
+      "total_posicoes": 8600
     },
     {
       "codigo_opcao": "LWSAE450",
@@ -325,7 +589,7 @@
       "contratos_em_aberto": 106,
       "quantidade_coberta": 5300,
       "quantidade_descoberta": 1000,
-      "total_posicoes": 10100
+      "total_posicoes": 10600
     },
     {
       "codigo_opcao": "LWSAQ290",
@@ -335,7 +599,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 28600,
       "total_posicoes": 34600
     },
     {
@@ -346,7 +610,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
+      "quantidade_descoberta": 22000,
       "total_posicoes": 22000
     },
     {
@@ -368,7 +632,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3400,
+      "quantidade_descoberta": 6600,
       "total_posicoes": 8100
     },
     {
@@ -427,224 +691,26 @@
       "total_posicoes": 302100
     },
     {
-      "codigo_opcao": "LWSAA300",
-      "isin": "BRLWSA3A0541",
+      "codigo_opcao": "LWSAL850",
+      "isin": "BRLWSA3L05S9",
       "ativo": "LWSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 18200
+      "total_posicoes": 28500
     },
     {
-      "codigo_opcao": "LWSAB299",
-      "isin": "BRLWSA3B0516",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 662800
-    },
-    {
-      "codigo_opcao": "LWSAD300",
-      "isin": "BRLWSA3D03Y9",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 8200,
-      "quantidade_descoberta": 113500,
-      "total_posicoes": 126800
-    },
-    {
-      "codigo_opcao": "LWSAE30",
-      "isin": "BRLWSA3E03H2",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 60000
-    },
-    {
-      "codigo_opcao": "LWSAF330",
-      "isin": "BRLWSA3F0561",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "LWSAG300",
-      "isin": "BRLWSA3G03F1",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "LWSAJ30",
-      "isin": "BRLWSA3J0435",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 230600
-    },
-    {
-      "codigo_opcao": "LWSAK30",
-      "isin": "BRLWSA3K03Y4",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "LWSAL30",
-      "isin": "BRLWSA3L05Q3",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 101100
-    },
-    {
-      "codigo_opcao": "LWSAM300",
-      "isin": "BRLWSA3M0547",
+      "codigo_opcao": "LWSAX850",
+      "isin": "BRLWSA3X05S4",
       "ativo": "LWSA",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "LWSAN299",
-      "isin": "BRLWSA3N0512",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26300
-    },
-    {
-      "codigo_opcao": "LWSAP300",
-      "isin": "BRLWSA3P03X5",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11400,
-      "total_posicoes": 17100
-    },
-    {
-      "codigo_opcao": "LWSAQ30",
-      "isin": "BRLWSA3Q03H6",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "LWSAR300",
-      "isin": "BRLWSA3R0302",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "LWSAS300",
-      "isin": "BRLWSA3S03F6",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LWSAT300",
-      "isin": "BRLWSA3T03S7",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LWSAU30",
-      "isin": "BRLWSA3U03T3",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LWSAX30",
-      "isin": "BRLWSA3X05Q8",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "LWSAD445",
-      "isin": "BRLWSA3D0506",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 42300,
-      "total_posicoes": 62400
-    },
-    {
-      "codigo_opcao": "LWSAP445",
-      "isin": "BRLWSA3P0502",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 19900,
-      "total_posicoes": 19900
+      "total_posicoes": 100000
     },
     {
       "codigo_opcao": "LWSAB680",
@@ -653,7 +719,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 105,
-      "quantidade_coberta": 1100,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 15100
     },
@@ -669,633 +735,6 @@
       "total_posicoes": 700
     },
     {
-      "codigo_opcao": "LWSAR710",
-      "isin": "BRLWSA3R0666",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "LWSAF360",
-      "isin": "BRLWSA3F04X4",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 7200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7400
-    },
-    {
-      "codigo_opcao": "LWSAR360",
-      "isin": "BRLWSA3R04X9",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "LWSAR460",
-      "isin": "BRLWSA3R04W1",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 3100
-    },
-    {
-      "codigo_opcao": "LWSAE360",
-      "isin": "BRLWSA3E04R9",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 51300,
-      "quantidade_descoberta": 63800,
-      "total_posicoes": 115400
-    },
-    {
-      "codigo_opcao": "LWSAE370",
-      "isin": "BRLWSA3E04S7",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 80100,
-      "quantidade_descoberta": 70200,
-      "total_posicoes": 152400
-    },
-    {
-      "codigo_opcao": "LWSAE380",
-      "isin": "BRLWSA3E04V1",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 35100,
-      "quantidade_descoberta": 31000,
-      "total_posicoes": 79700
-    },
-    {
-      "codigo_opcao": "LWSAE390",
-      "isin": "BRLWSA3E04U3",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 75600,
-      "quantidade_descoberta": 6200,
-      "total_posicoes": 91800
-    },
-    {
-      "codigo_opcao": "LWSAE400",
-      "isin": "BRLWSA3E04T5",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 49600,
-      "quantidade_descoberta": 102200,
-      "total_posicoes": 170300
-    },
-    {
-      "codigo_opcao": "LWSAQ360",
-      "isin": "BRLWSA3Q04S1",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10100,
-      "total_posicoes": 20100
-    },
-    {
-      "codigo_opcao": "LWSAQ370",
-      "isin": "BRLWSA3Q04T9",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4500,
-      "total_posicoes": 34100
-    },
-    {
-      "codigo_opcao": "LWSAQ380",
-      "isin": "BRLWSA3Q04V5",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5400,
-      "total_posicoes": 10700
-    },
-    {
-      "codigo_opcao": "LWSAQ390",
-      "isin": "BRLWSA3Q04U7",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4700,
-      "total_posicoes": 22800
-    },
-    {
-      "codigo_opcao": "LWSAQ400",
-      "isin": "BRLWSA3Q04R3",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16400
-    },
-    {
-      "codigo_opcao": "LWSAI740",
-      "isin": "BRLWSA3I0592",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LWSAI750",
-      "isin": "BRLWSA3I04Y6",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 135000
-    },
-    {
-      "codigo_opcao": "LWSAI770",
-      "isin": "BRLWSA3I04O7",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LWSAI890",
-      "isin": "BRLWSA3I0550",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LWSAI900",
-      "isin": "BRLWSA3I04V2",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LWSAU700",
-      "isin": "BRLWSA3U05D2",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3600
-    },
-    {
-      "codigo_opcao": "LWSAI700",
-      "isin": "BRLWSA3I04W0",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 589600
-    },
-    {
-      "codigo_opcao": "LWSAI710",
-      "isin": "BRLWSA3I04U4",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "LWSAI730",
-      "isin": "BRLWSA3I0568",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LWSAI830",
-      "isin": "BRLWSA3I04Q2",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "LWSAD420",
-      "isin": "BRLWSA3D0522",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 32200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 65200
-    },
-    {
-      "codigo_opcao": "LWSAP420",
-      "isin": "BRLWSA3P0528",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3800,
-      "total_posicoes": 5600
-    },
-    {
-      "codigo_opcao": "LWSAD240",
-      "isin": "BRLWSA3D0621",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 30000,
-      "total_posicoes": 30000
-    },
-    {
-      "codigo_opcao": "LWSAD290",
-      "isin": "BRLWSA3D05N7",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "LWSAD30",
-      "isin": "BRLWSA3D0613",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "LWSAD440",
-      "isin": "BRLWSA3D05Y4",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 5000,
-      "quantidade_descoberta": 10900,
-      "total_posicoes": 17000
-    },
-    {
-      "codigo_opcao": "LWSAD450",
-      "isin": "BRLWSA3D05X6",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 13000,
-      "quantidade_descoberta": 134500,
-      "total_posicoes": 159500
-    },
-    {
-      "codigo_opcao": "LWSAD460",
-      "isin": "BRLWSA3D05V0",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 130200,
-      "total_posicoes": 130200
-    },
-    {
-      "codigo_opcao": "LWSAD470",
-      "isin": "BRLWSA3D05P2",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 8000,
-      "quantidade_descoberta": 12600,
-      "total_posicoes": 34600
-    },
-    {
-      "codigo_opcao": "LWSAD480",
-      "isin": "BRLWSA3D05O5",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2500
-    },
-    {
-      "codigo_opcao": "LWSAD490",
-      "isin": "BRLWSA3D05W8",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 4000,
-      "quantidade_descoberta": 125000,
-      "total_posicoes": 129500
-    },
-    {
-      "codigo_opcao": "LWSAP280",
-      "isin": "BRLWSA3P0627",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 23600
-    },
-    {
-      "codigo_opcao": "LWSAP310",
-      "isin": "BRLWSA3P05W2",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 14300
-    },
-    {
-      "codigo_opcao": "LWSAP440",
-      "isin": "BRLWSA3P05X0",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4600,
-      "total_posicoes": 4600
-    },
-    {
-      "codigo_opcao": "LWSAP450",
-      "isin": "BRLWSA3P05Z5",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 406000,
-      "total_posicoes": 406000
-    },
-    {
-      "codigo_opcao": "LWSAP460",
-      "isin": "BRLWSA3P05L5",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17700,
-      "total_posicoes": 17700
-    },
-    {
-      "codigo_opcao": "LWSAD400",
-      "isin": "BRLWSA3D0548",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 20400,
-      "quantidade_descoberta": 41100,
-      "total_posicoes": 158100
-    },
-    {
-      "codigo_opcao": "LWSAD410",
-      "isin": "BRLWSA3D0530",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 11100,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 366900
-    },
-    {
-      "codigo_opcao": "LWSAD430",
-      "isin": "BRLWSA3D0555",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 2800,
-      "quantidade_descoberta": 9500,
-      "total_posicoes": 48300
-    },
-    {
-      "codigo_opcao": "LWSAE350",
-      "isin": "BRLWSA3E04J6",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 89300,
-      "quantidade_descoberta": 22700,
-      "total_posicoes": 133400
-    },
-    {
-      "codigo_opcao": "LWSAP400",
-      "isin": "BRLWSA3P0551",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 10200
-    },
-    {
-      "codigo_opcao": "LWSAP410",
-      "isin": "BRLWSA3P0536",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400200,
-      "total_posicoes": 400200
-    },
-    {
-      "codigo_opcao": "LWSAD350",
-      "isin": "BRLWSA3D05C0",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 126600,
-      "total_posicoes": 132900
-    },
-    {
-      "codigo_opcao": "LWSAD360",
-      "isin": "BRLWSA3D05B2",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 45400,
-      "quantidade_descoberta": 26900,
-      "total_posicoes": 72900
-    },
-    {
-      "codigo_opcao": "LWSAP350",
-      "isin": "BRLWSA3P05C4",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 71800,
-      "total_posicoes": 72000
-    },
-    {
-      "codigo_opcao": "LWSAP360",
-      "isin": "BRLWSA3P05B6",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 16100,
-      "total_posicoes": 70100
-    },
-    {
-      "codigo_opcao": "LWSAE435",
-      "isin": "BRLWSA3E04H0",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 11100,
-      "quantidade_descoberta": 100000,
-      "total_posicoes": 112400
-    },
-    {
-      "codigo_opcao": "LWSAQ435",
-      "isin": "BRLWSA3Q04H4",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 216300,
-      "total_posicoes": 300200
-    },
-    {
-      "codigo_opcao": "LWSAD250",
-      "isin": "BRLWSA3D05R8",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8200,
-      "total_posicoes": 8200
-    },
-    {
-      "codigo_opcao": "LWSAD310",
-      "isin": "BRLWSA3D05Z1",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14600,
-      "total_posicoes": 14600
-    },
-    {
-      "codigo_opcao": "LWSAD500",
-      "isin": "BRLWSA3D05Q0",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 6000,
-      "quantidade_descoberta": 11500,
-      "total_posicoes": 19000
-    },
-    {
-      "codigo_opcao": "LWSAP290",
-      "isin": "BRLWSA3P05N1",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "LWSAP30",
-      "isin": "BRLWSA3P05O9",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6000,
-      "total_posicoes": 6000
-    },
-    {
       "codigo_opcao": "LWSAB705",
       "isin": "BRLWSA3B05X0",
       "ativo": "LWSA",
@@ -1303,151 +742,30 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 400,
       "total_posicoes": 1200
     },
     {
-      "codigo_opcao": "LWSAD370",
-      "isin": "BRLWSA3D0589",
+      "codigo_opcao": "LWSAB450",
+      "isin": "BRLWSA3B05Y8",
       "ativo": "LWSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 21100,
-      "quantidade_descoberta": 55300,
-      "total_posicoes": 77800
-    },
-    {
-      "codigo_opcao": "LWSAD380",
-      "isin": "BRLWSA3D0563",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 57000,
-      "quantidade_descoberta": 2400,
-      "total_posicoes": 92600
-    },
-    {
-      "codigo_opcao": "LWSAD390",
-      "isin": "BRLWSA3D05A4",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 63300,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 316600
+      "total_posicoes": 16100
     },
     {
-      "codigo_opcao": "LWSAP370",
-      "isin": "BRLWSA3P0585",
+      "codigo_opcao": "LWSAN450",
+      "isin": "BRLWSA3N05Y3",
       "ativo": "LWSA",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 43300,
-      "total_posicoes": 64800
-    },
-    {
-      "codigo_opcao": "LWSAP380",
-      "isin": "BRLWSA3P05A8",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6100,
-      "total_posicoes": 9800
-    },
-    {
-      "codigo_opcao": "LWSAP390",
-      "isin": "BRLWSA3P0577",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10600,
-      "total_posicoes": 44100
-    },
-    {
-      "codigo_opcao": "LWSAP710",
-      "isin": "BRLWSA3P0593",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20000,
-      "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "LWSAD340",
-      "isin": "BRLWSA3D05D8",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 3200,
-      "quantidade_descoberta": 36400,
-      "total_posicoes": 39700
-    },
-    {
-      "codigo_opcao": "LWSAP340",
-      "isin": "BRLWSA3P05D2",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17500,
-      "total_posicoes": 17800
-    },
-    {
-      "codigo_opcao": "LWSAD330",
-      "isin": "BRLWSA3D05G1",
-      "ativo": "LWSA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "LWSAP160",
-      "isin": "BRLWSA3P05H3",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "LWSAP330",
-      "isin": "BRLWSA3P05E0",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17200,
-      "total_posicoes": 45600
-    },
-    {
-      "codigo_opcao": "LWSAP570",
-      "isin": "BRLWSA3P05F7",
-      "ativo": "LWSA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4000
     },
     {
       "codigo_opcao": "LWSAF340",
@@ -1513,7 +831,7 @@
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 800,
-      "total_posicoes": 3200
+      "total_posicoes": 4200
     },
     {
       "codigo_opcao": "LWSAF400",
@@ -1523,8 +841,8 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3700
+      "quantidade_descoberta": 1400,
+      "total_posicoes": 5700
     },
     {
       "codigo_opcao": "LWSAF410",
@@ -1535,7 +853,7 @@
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "total_posicoes": 5100
     },
     {
       "codigo_opcao": "LWSAF420",
@@ -1556,7 +874,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 7300
     },
     {
@@ -1568,7 +886,7 @@
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 5200
+      "total_posicoes": 9200
     },
     {
       "codigo_opcao": "LWSAR310",
@@ -1611,7 +929,7 @@
       "semanal": false,
       "contratos_em_aberto": 106,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 300,
       "total_posicoes": 20000
     },
     {
@@ -1725,26 +1043,180 @@
       "total_posicoes": 1100
     },
     {
-      "codigo_opcao": "LWSAL850",
-      "isin": "BRLWSA3L05S9",
+      "codigo_opcao": "LWSAA300",
+      "isin": "BRLWSA3A0541",
       "ativo": "LWSA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 28500
+      "total_posicoes": 18200
     },
     {
-      "codigo_opcao": "LWSAX850",
-      "isin": "BRLWSA3X05S4",
+      "codigo_opcao": "LWSAB299",
+      "isin": "BRLWSA3B0516",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 662800
+    },
+    {
+      "codigo_opcao": "LWSAE30",
+      "isin": "BRLWSA3E03H2",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 60000
+    },
+    {
+      "codigo_opcao": "LWSAF330",
+      "isin": "BRLWSA3F0561",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "LWSAG300",
+      "isin": "BRLWSA3G03F1",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "LWSAJ30",
+      "isin": "BRLWSA3J0435",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 230600
+    },
+    {
+      "codigo_opcao": "LWSAK30",
+      "isin": "BRLWSA3K03Y4",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "LWSAL30",
+      "isin": "BRLWSA3L05Q3",
+      "ativo": "LWSA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 101100
+    },
+    {
+      "codigo_opcao": "LWSAM300",
+      "isin": "BRLWSA3M0547",
       "ativo": "LWSA",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100000
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "LWSAN299",
+      "isin": "BRLWSA3N0512",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26300
+    },
+    {
+      "codigo_opcao": "LWSAQ30",
+      "isin": "BRLWSA3Q03H6",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "LWSAR300",
+      "isin": "BRLWSA3R0302",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "LWSAS300",
+      "isin": "BRLWSA3S03F6",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "LWSAT300",
+      "isin": "BRLWSA3T03S7",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "LWSAU30",
+      "isin": "BRLWSA3U03T3",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "LWSAX30",
+      "isin": "BRLWSA3X05Q8",
+      "ativo": "LWSA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
     }
   ]
 }
