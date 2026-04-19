@@ -1,57 +1,13 @@
 {
   "ticker": "CBAV",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 32,
-  "calls": 21,
-  "puts": 11,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 19,
+  "calls": 13,
+  "puts": 6,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "CBAVG930",
-      "isin": "BRCBAV3G0237",
-      "ativo": "CBAV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "CBAVD510",
-      "isin": "BRCBAV3D01X6",
-      "ativo": "CBAV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7200
-    },
-    {
-      "codigo_opcao": "CBAVE105",
-      "isin": "BRCBAV3E01U0",
-      "ativo": "CBAV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 7400
-    },
-    {
-      "codigo_opcao": "CBAVQ105",
-      "isin": "BRCBAV3Q01U4",
-      "ativo": "CBAV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10000
-    },
     {
       "codigo_opcao": "CBAVA500",
       "isin": "BRCBAV3A00X4",
@@ -61,7 +17,7 @@
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 13800
+      "total_posicoes": 10800
     },
     {
       "codigo_opcao": "CBAVB499",
@@ -75,17 +31,6 @@
       "total_posicoes": 45800
     },
     {
-      "codigo_opcao": "CBAVD500",
-      "isin": "BRCBAV3D0123",
-      "ativo": "CBAV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 16800,
-      "total_posicoes": 20400
-    },
-    {
       "codigo_opcao": "CBAVE500",
       "isin": "BRCBAV3E0171",
       "ativo": "CBAV",
@@ -93,8 +38,8 @@
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 17200
+      "quantidade_descoberta": 400,
+      "total_posicoes": 13600
     },
     {
       "codigo_opcao": "CBAVF500",
@@ -147,9 +92,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
-      "quantidade_coberta": 20300,
+      "quantidade_coberta": 11600,
       "quantidade_descoberta": 100,
-      "total_posicoes": 75300
+      "total_posicoes": 66600
     },
     {
       "codigo_opcao": "CBAVM500",
@@ -174,17 +119,6 @@
       "total_posicoes": 100
     },
     {
-      "codigo_opcao": "CBAVP500",
-      "isin": "BRCBAV3P0129",
-      "ativo": "CBAV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5500,
-      "total_posicoes": 19000
-    },
-    {
       "codigo_opcao": "CBAVQ500",
       "isin": "BRCBAV3Q0177",
       "ativo": "CBAV",
@@ -192,7 +126,7 @@
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 1000,
       "total_posicoes": 1000
     },
     {
@@ -203,118 +137,41 @@
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 4900
     },
     {
-      "codigo_opcao": "CBAVD850",
-      "isin": "BRCBAV3D01L1",
+      "codigo_opcao": "CBAVE105",
+      "isin": "BRCBAV3E01U0",
       "ativo": "CBAV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
-      "quantidade_coberta": 141000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 157500
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 5000,
+      "total_posicoes": 7400
     },
     {
-      "codigo_opcao": "CBAVP850",
-      "isin": "BRCBAV3P01L5",
+      "codigo_opcao": "CBAVQ105",
+      "isin": "BRCBAV3Q01U4",
       "ativo": "CBAV",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 400
+      "total_posicoes": 10000
     },
     {
-      "codigo_opcao": "CBAVD100",
-      "isin": "BRCBAV3D01S6",
+      "codigo_opcao": "CBAVG930",
+      "isin": "BRCBAV3G0237",
       "ativo": "CBAV",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "CBAVD105",
-      "isin": "BRCBAV3D01P2",
-      "ativo": "CBAV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 7000
-    },
-    {
-      "codigo_opcao": "CBAVD115",
-      "isin": "BRCBAV3D01T4",
-      "ativo": "CBAV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 3300,
-      "quantidade_descoberta": 1700,
-      "total_posicoes": 20700
-    },
-    {
-      "codigo_opcao": "CBAVD960",
-      "isin": "BRCBAV3D01U2",
-      "ativo": "CBAV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CBAVD980",
-      "isin": "BRCBAV3D01Q0",
-      "ativo": "CBAV",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CBAVP100",
-      "isin": "BRCBAV3P01R2",
-      "ativo": "CBAV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
       "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "CBAVP105",
-      "isin": "BRCBAV3P01M3",
-      "ativo": "CBAV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 900,
-      "total_posicoes": 6800
-    },
-    {
-      "codigo_opcao": "CBAVP900",
-      "isin": "BRCBAV3P01T8",
-      "ativo": "CBAV",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10200,
-      "total_posicoes": 11400
     },
     {
       "codigo_opcao": "CBAVA122",
@@ -336,7 +193,7 @@
       "contratos_em_aberto": 104,
       "quantidade_coberta": 100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3000
+      "total_posicoes": 3500
     },
     {
       "codigo_opcao": "CBAVQ920",
