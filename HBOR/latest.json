@@ -1,243 +1,23 @@
 {
   "ticker": "HBOR",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 63,
-  "calls": 42,
-  "puts": 21,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 44,
+  "calls": 30,
+  "puts": 14,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "HBORC312",
-      "isin": "BRHBOR3C02L6",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "HBORC32",
-      "isin": "BRHBOR3C02N2",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "HBORG312",
-      "isin": "BRHBOR3G0284",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "HBORD217",
-      "isin": "BRHBOR3D02R1",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "HBORD227",
-      "isin": "BRHBOR3D0303",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 4000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 24000
-    },
-    {
-      "codigo_opcao": "HBORD247",
-      "isin": "BRHBOR3D02Z4",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 39900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 39900
-    },
-    {
-      "codigo_opcao": "HBORD257",
-      "isin": "BRHBOR3D0311",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 30000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 30000
-    },
-    {
-      "codigo_opcao": "HBORD267",
-      "isin": "BRHBOR3D02Y7",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "HBORD277",
-      "isin": "BRHBOR3D02X9",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 68200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 68200
-    },
-    {
-      "codigo_opcao": "HBORD287",
-      "isin": "BRHBOR3D02W1",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 31300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 31300
-    },
-    {
-      "codigo_opcao": "HBORD297",
-      "isin": "BRHBOR3D02T7",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 53300,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 54400
-    },
-    {
-      "codigo_opcao": "HBORD307",
-      "isin": "BRHBOR3D02S9",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 1100,
-      "quantidade_descoberta": 2900,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "HBORD32",
-      "isin": "BRHBOR3D02V3",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "HBORP217",
-      "isin": "BRHBOR3P02Z8",
+      "codigo_opcao": "HBORS592",
+      "isin": "BRHBOR3S02A5",
       "ativo": "HBOR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 120,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 50400
-    },
-    {
-      "codigo_opcao": "HBORP227",
-      "isin": "BRHBOR3P0317",
-      "ativo": "HBOR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 96600
-    },
-    {
-      "codigo_opcao": "HBORP247",
-      "isin": "BRHBOR3P02X3",
-      "ativo": "HBOR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 30000
-    },
-    {
-      "codigo_opcao": "HBORP257",
-      "isin": "BRHBOR3P02W5",
-      "ativo": "HBOR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 37200
-    },
-    {
-      "codigo_opcao": "HBORP267",
-      "isin": "BRHBOR3P02S3",
-      "ativo": "HBOR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3700
-    },
-    {
-      "codigo_opcao": "HBORP277",
-      "isin": "BRHBOR3P02U9",
-      "ativo": "HBOR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 82000
-    },
-    {
-      "codigo_opcao": "HBORP297",
-      "isin": "BRHBOR3P0309",
-      "ativo": "HBOR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 50300
-    },
-    {
-      "codigo_opcao": "HBORE377",
-      "isin": "BRHBOR3E01Y7",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1700,
-      "total_posicoes": 5000
+      "total_posicoes": 135000
     },
     {
       "codigo_opcao": "HBORE227",
@@ -295,6 +75,17 @@
       "total_posicoes": 10000
     },
     {
+      "codigo_opcao": "HBORE277",
+      "isin": "BRHBOR3E0294",
+      "ativo": "HBOR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
       "codigo_opcao": "HBORE287",
       "isin": "BRHBOR3E0252",
       "ativo": "HBOR",
@@ -314,7 +105,7 @@
       "contratos_em_aberto": 120,
       "quantidade_coberta": 800,
       "quantidade_descoberta": 19100,
-      "total_posicoes": 19900
+      "total_posicoes": 29200
     },
     {
       "codigo_opcao": "HBORF227",
@@ -416,59 +207,48 @@
       "total_posicoes": 58000
     },
     {
-      "codigo_opcao": "HBORD580",
-      "isin": "BRHBOR3D02J8",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 119,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 95300,
-      "total_posicoes": 95400
-    },
-    {
-      "codigo_opcao": "HBORP580",
-      "isin": "BRHBOR3P02J2",
-      "ativo": "HBOR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 119,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 116900,
-      "total_posicoes": 118400
-    },
-    {
-      "codigo_opcao": "HBORD237",
-      "isin": "BRHBOR3D02K6",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 4500,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 9500
-    },
-    {
-      "codigo_opcao": "HBORD337",
-      "isin": "BRHBOR3D02M2",
-      "ativo": "HBOR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 120,
-      "quantidade_coberta": 5800,
-      "quantidade_descoberta": 52800,
-      "total_posicoes": 63700
-    },
-    {
-      "codigo_opcao": "HBORP237",
-      "isin": "BRHBOR3P02L8",
+      "codigo_opcao": "HBORQ277",
+      "isin": "BRHBOR3Q0282",
       "ativo": "HBOR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 120,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 31400
+      "total_posicoes": 50000
+    },
+    {
+      "codigo_opcao": "HBORQ297",
+      "isin": "BRHBOR3Q0225",
+      "ativo": "HBOR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 50000
+    },
+    {
+      "codigo_opcao": "HBORI430",
+      "isin": "BRHBOR3I01Q4",
+      "ativo": "HBOR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "HBORE377",
+      "isin": "BRHBOR3E01Y7",
+      "ativo": "HBOR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5000,
+      "total_posicoes": 5000
     },
     {
       "codigo_opcao": "HBORE295",
@@ -477,9 +257,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 119,
-      "quantidade_coberta": 10600,
+      "quantidade_coberta": 600,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10600
+      "total_posicoes": 10800
     },
     {
       "codigo_opcao": "HBORH395",
@@ -526,37 +306,37 @@
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "HBORS592",
-      "isin": "BRHBOR3S02A5",
+      "codigo_opcao": "HBORC312",
+      "isin": "BRHBOR3C02L6",
       "ativo": "HBOR",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 120,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 135000
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "HBORJ440",
-      "isin": "BRHBOR3J02H9",
+      "codigo_opcao": "HBORC32",
+      "isin": "BRHBOR3C02N2",
       "ativo": "HBOR",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 119,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 1604100
-    },
-    {
-      "codigo_opcao": "HBORV440",
-      "isin": "BRHBOR3V02H4",
-      "ativo": "HBOR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 119,
+      "contratos_em_aberto": 120,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1600000
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "HBORG312",
+      "isin": "BRHBOR3G0284",
+      "ativo": "HBOR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
     },
     {
       "codigo_opcao": "HBORA300",
@@ -588,8 +368,8 @@
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 2300,
-      "quantidade_descoberta": 10200,
-      "total_posicoes": 37700
+      "quantidade_descoberta": 9700,
+      "total_posicoes": 48700
     },
     {
       "codigo_opcao": "HBORF10",
@@ -691,15 +471,26 @@
       "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "HBORI430",
-      "isin": "BRHBOR3I01Q4",
+      "codigo_opcao": "HBORJ440",
+      "isin": "BRHBOR3J02H9",
       "ativo": "HBOR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 119,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 4100,
+      "total_posicoes": 1604100
+    },
+    {
+      "codigo_opcao": "HBORV440",
+      "isin": "BRHBOR3V02H4",
+      "ativo": "HBOR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1600000
     }
   ]
 }
