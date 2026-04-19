@@ -1,13 +1,134 @@
 {
   "ticker": "TUPY",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 126,
-  "calls": 68,
-  "puts": 58,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 104,
+  "calls": 58,
+  "puts": 46,
   "semanais": 0,
   "opcoes": [
+    {
+      "codigo_opcao": "TUPYB13",
+      "isin": "BRTUPY3B02E6",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "TUPYB14",
+      "isin": "BRTUPY3B02D8",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1100,
+      "total_posicoes": 2800
+    },
+    {
+      "codigo_opcao": "TUPYB15",
+      "isin": "BRTUPY3B02C0",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 7900
+    },
+    {
+      "codigo_opcao": "TUPYB139",
+      "isin": "BRTUPY3B02B2",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "TUPYN13",
+      "isin": "BRTUPY3N02D3",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3100
+    },
+    {
+      "codigo_opcao": "TUPYA13",
+      "isin": "BRTUPY3A0213",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5500
+    },
+    {
+      "codigo_opcao": "TUPYL13",
+      "isin": "BRTUPY3L0350",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6200
+    },
+    {
+      "codigo_opcao": "TUPYM13",
+      "isin": "BRTUPY3M0219",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 11700
+    },
+    {
+      "codigo_opcao": "TUPYX13",
+      "isin": "BRTUPY3X0356",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6000,
+      "total_posicoes": 52600
+    },
+    {
+      "codigo_opcao": "TUPYF217",
+      "isin": "BRTUPY3F0358",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "TUPYR217",
+      "isin": "BRTUPY3R0354",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 2500
+    },
     {
       "codigo_opcao": "TUPYA11",
       "isin": "BRTUPY3A0205",
@@ -75,118 +196,151 @@
       "total_posicoes": 23700
     },
     {
-      "codigo_opcao": "TUPYD145",
-      "isin": "BRTUPY3D03R2",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 1900,
-      "quantidade_descoberta": 4700,
-      "total_posicoes": 6800
-    },
-    {
-      "codigo_opcao": "TUPYP105",
-      "isin": "BRTUPY3P04A0",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10400,
-      "total_posicoes": 30200
-    },
-    {
-      "codigo_opcao": "TUPYP140",
-      "isin": "BRTUPY3P03W6",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9000,
-      "total_posicoes": 9000
-    },
-    {
-      "codigo_opcao": "TUPYP145",
-      "isin": "BRTUPY3P03U0",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2200,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "TUPYP150",
-      "isin": "BRTUPY3P0463",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "TUPYP920",
-      "isin": "BRTUPY3P03S4",
+      "codigo_opcao": "TUPYS150",
+      "isin": "BRTUPY3S02V4",
       "ativo": "TUPY",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 185,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 5500
+      "total_posicoes": 3000
     },
     {
-      "codigo_opcao": "TUPYD130",
-      "isin": "BRTUPY3D03H3",
+      "codigo_opcao": "TUPYA22",
+      "isin": "BRTUPY3A01E0",
       "ativo": "TUPY",
       "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 26000,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 41000
-    },
-    {
-      "codigo_opcao": "TUPYD135",
-      "isin": "BRTUPY3D03G5",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 2300,
-      "quantidade_descoberta": 6800,
-      "total_posicoes": 65200
-    },
-    {
-      "codigo_opcao": "TUPYF217",
-      "isin": "BRTUPY3F0358",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "TUPYR217",
-      "isin": "BRTUPY3R0354",
-      "ativo": "TUPY",
-      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 185,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26900
     },
     {
-      "codigo_opcao": "TUPYB139",
-      "isin": "BRTUPY3B02B2",
+      "codigo_opcao": "TUPYB22",
+      "isin": "BRTUPY3B01L3",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 153500
+    },
+    {
+      "codigo_opcao": "TUPYE220",
+      "isin": "BRTUPY3E02C4",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 4000,
+      "quantidade_descoberta": 3700,
+      "total_posicoes": 7700
+    },
+    {
+      "codigo_opcao": "TUPYF160",
+      "isin": "BRTUPY3F03R7",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 64600
+    },
+    {
+      "codigo_opcao": "TUPYF165",
+      "isin": "BRTUPY3F03S5",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 1400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 49200
+    },
+    {
+      "codigo_opcao": "TUPYF180",
+      "isin": "BRTUPY3F03M8",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 1300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1500
+    },
+    {
+      "codigo_opcao": "TUPYF22",
+      "isin": "BRTUPY3F02Q1",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "TUPYG22",
+      "isin": "BRTUPY3G0241",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "TUPYH22",
+      "isin": "BRTUPY3H0240",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7200
+    },
+    {
+      "codigo_opcao": "TUPYI22",
+      "isin": "BRTUPY3I01V7",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 21600
+    },
+    {
+      "codigo_opcao": "TUPYJ22",
+      "isin": "BRTUPY3J01S1",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "TUPYK22",
+      "isin": "BRTUPY3K01J8",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "TUPYL220",
+      "isin": "BRTUPY3L02B1",
       "ativo": "TUPY",
       "tipo": "Call",
       "semanal": false,
@@ -196,15 +350,169 @@
       "total_posicoes": 400
     },
     {
-      "codigo_opcao": "TUPYN13",
-      "isin": "BRTUPY3N02D3",
+      "codigo_opcao": "TUPYN22",
+      "isin": "BRTUPY3N01L8",
       "ativo": "TUPY",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 185,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3100
+      "total_posicoes": 4900
+    },
+    {
+      "codigo_opcao": "TUPYQ220",
+      "isin": "BRTUPY3Q02C8",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6600
+    },
+    {
+      "codigo_opcao": "TUPYR170",
+      "isin": "BRTUPY3R03Y8",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "TUPYS22",
+      "isin": "BRTUPY3S0247",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "TUPYX220",
+      "isin": "BRTUPY3X02B6",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "TUPYE115",
+      "isin": "BRTUPY3E02Z5",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "TUPYE120",
+      "isin": "BRTUPY3E0300",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 2000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4300
+    },
+    {
+      "codigo_opcao": "TUPYE125",
+      "isin": "BRTUPY3E0326",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 4100,
+      "total_posicoes": 4400
+    },
+    {
+      "codigo_opcao": "TUPYE13",
+      "isin": "BRTUPY3E0334",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 15100,
+      "quantidade_descoberta": 45300,
+      "total_posicoes": 65500
+    },
+    {
+      "codigo_opcao": "TUPYE130",
+      "isin": "BRTUPY3E0318",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 2100,
+      "quantidade_descoberta": 700,
+      "total_posicoes": 12500
+    },
+    {
+      "codigo_opcao": "TUPYQ115",
+      "isin": "BRTUPY3Q0330",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 34800
+    },
+    {
+      "codigo_opcao": "TUPYQ120",
+      "isin": "BRTUPY3Q02Z9",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 20500,
+      "total_posicoes": 31200
+    },
+    {
+      "codigo_opcao": "TUPYQ125",
+      "isin": "BRTUPY3Q0306",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 24300
+    },
+    {
+      "codigo_opcao": "TUPYQ13",
+      "isin": "BRTUPY3Q0314",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "TUPYQ130",
+      "isin": "BRTUPY3Q0322",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 34800,
+      "total_posicoes": 36000
     },
     {
       "codigo_opcao": "TUPYE14",
@@ -213,9 +521,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 5300,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 23600
+      "quantidade_coberta": 6600,
+      "quantidade_descoberta": 3400,
+      "total_posicoes": 25000
     },
     {
       "codigo_opcao": "TUPYE144",
@@ -235,9 +543,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 17100,
+      "quantidade_coberta": 17500,
       "quantidade_descoberta": 1500,
-      "total_posicoes": 20200
+      "total_posicoes": 22300
     },
     {
       "codigo_opcao": "TUPYE150",
@@ -246,9 +554,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 19900,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 48900
+      "quantidade_coberta": 25100,
+      "quantidade_descoberta": 4100,
+      "total_posicoes": 48300
     },
     {
       "codigo_opcao": "TUPYE160",
@@ -257,9 +565,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 12100,
-      "quantidade_descoberta": 1200,
-      "total_posicoes": 15200
+      "quantidade_coberta": 12700,
+      "quantidade_descoberta": 3200,
+      "total_posicoes": 19500
     },
     {
       "codigo_opcao": "TUPYE165",
@@ -268,9 +576,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 6000,
+      "quantidade_coberta": 5800,
       "quantidade_descoberta": 1100,
-      "total_posicoes": 10200
+      "total_posicoes": 13200
     },
     {
       "codigo_opcao": "TUPYE170",
@@ -279,9 +587,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 2600,
       "quantidade_descoberta": 0,
-      "total_posicoes": 600
+      "total_posicoes": 3100
     },
     {
       "codigo_opcao": "TUPYE175",
@@ -290,7 +598,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 1000,
+      "quantidade_coberta": 2000,
       "quantidade_descoberta": 100,
       "total_posicoes": 2500
     },
@@ -312,9 +620,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 300,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 1100
     },
     {
       "codigo_opcao": "TUPYE190",
@@ -324,8 +632,8 @@
       "semanal": false,
       "contratos_em_aberto": 185,
       "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6400
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 7500
     },
     {
       "codigo_opcao": "TUPYE195",
@@ -334,7 +642,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 200,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 200
     },
@@ -345,9 +653,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 200,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "TUPYQ100",
@@ -405,6 +713,17 @@
       "total_posicoes": 3100
     },
     {
+      "codigo_opcao": "TUPYQ15",
+      "isin": "BRTUPY3Q0454",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1800
+    },
+    {
       "codigo_opcao": "TUPYQ150",
       "isin": "BRTUPY3Q03X2",
       "ativo": "TUPY",
@@ -412,8 +731,8 @@
       "semanal": false,
       "contratos_em_aberto": 185,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2700,
-      "total_posicoes": 5000
+      "quantidade_descoberta": 3900,
+      "total_posicoes": 6200
     },
     {
       "codigo_opcao": "TUPYQ160",
@@ -425,6 +744,17 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 2700
+    },
+    {
+      "codigo_opcao": "TUPYQ165",
+      "isin": "BRTUPY3Q03D4",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 500
     },
     {
       "codigo_opcao": "TUPYQ170",
@@ -523,7 +853,7 @@
       "contratos_em_aberto": 185,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7500
+      "total_posicoes": 7700
     },
     {
       "codigo_opcao": "TUPYF150",
@@ -532,7 +862,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 400,
       "quantidade_descoberta": 0,
       "total_posicoes": 7400
     },
@@ -544,7 +874,7 @@
       "semanal": false,
       "contratos_em_aberto": 185,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 600,
       "total_posicoes": 600
     },
     {
@@ -557,6 +887,17 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "TUPYR139",
+      "isin": "BRTUPY3R03R2",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "TUPYR14",
@@ -590,215 +931,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "TUPYI145",
-      "isin": "BRTUPY3I02I2",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 121800
-    },
-    {
-      "codigo_opcao": "TUPYU145",
-      "isin": "BRTUPY3U02I7",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "TUPYS150",
-      "isin": "BRTUPY3S02V4",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "TUPYK130",
-      "isin": "BRTUPY3K0245",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "TUPYW130",
-      "isin": "BRTUPY3W0241",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 5200
-    },
-    {
-      "codigo_opcao": "TUPYD115",
-      "isin": "BRTUPY3D03K7",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "TUPYD120",
-      "isin": "BRTUPY3D03J9",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 6200,
-      "quantidade_descoberta": 16700,
-      "total_posicoes": 26800
-    },
-    {
-      "codigo_opcao": "TUPYD125",
-      "isin": "BRTUPY3D03I1",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 1700,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 8300
-    },
-    {
-      "codigo_opcao": "TUPYP115",
-      "isin": "BRTUPY3P03J3",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 70800
-    },
-    {
-      "codigo_opcao": "TUPYP120",
-      "isin": "BRTUPY3P03G9",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 73800
-    },
-    {
-      "codigo_opcao": "TUPYP125",
-      "isin": "BRTUPY3P03K1",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 35100,
-      "total_posicoes": 76600
-    },
-    {
-      "codigo_opcao": "TUPYP130",
-      "isin": "BRTUPY3P03H7",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 38500,
-      "total_posicoes": 49000
-    },
-    {
-      "codigo_opcao": "TUPYP135",
-      "isin": "BRTUPY3P03I5",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 19500,
-      "total_posicoes": 19500
-    },
-    {
-      "codigo_opcao": "TUPYH142",
-      "isin": "BRTUPY3H02R5",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 7000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 20300
-    },
-    {
-      "codigo_opcao": "TUPYT142",
-      "isin": "BRTUPY3T02R0",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "TUPYA13",
-      "isin": "BRTUPY3A0213",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5500
-    },
-    {
-      "codigo_opcao": "TUPYL13",
-      "isin": "BRTUPY3L0350",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6200
-    },
-    {
-      "codigo_opcao": "TUPYM13",
-      "isin": "BRTUPY3M0219",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11700
-    },
-    {
-      "codigo_opcao": "TUPYX13",
-      "isin": "BRTUPY3X0356",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2700,
-      "total_posicoes": 52600
     },
     {
       "codigo_opcao": "TUPYC13",
@@ -864,7 +996,7 @@
       "contratos_em_aberto": 185,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1500
+      "total_posicoes": 1700
     },
     {
       "codigo_opcao": "TUPYF145",
@@ -933,186 +1065,21 @@
       "total_posicoes": 100000
     },
     {
-      "codigo_opcao": "TUPYD110",
-      "isin": "BRTUPY3D03L5",
+      "codigo_opcao": "TUPYH142",
+      "isin": "BRTUPY3H02R5",
       "ativo": "TUPY",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12500,
-      "total_posicoes": 12500
-    },
-    {
-      "codigo_opcao": "TUPYP110",
-      "isin": "BRTUPY3P03L9",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 7100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 33700
+      "total_posicoes": 20300
     },
     {
-      "codigo_opcao": "TUPYE115",
-      "isin": "BRTUPY3E02Z5",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "TUPYE120",
-      "isin": "BRTUPY3E0300",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4200
-    },
-    {
-      "codigo_opcao": "TUPYE125",
-      "isin": "BRTUPY3E0326",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 4400
-    },
-    {
-      "codigo_opcao": "TUPYE13",
-      "isin": "BRTUPY3E0334",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 15100,
-      "quantidade_descoberta": 38100,
-      "total_posicoes": 65500
-    },
-    {
-      "codigo_opcao": "TUPYE130",
-      "isin": "BRTUPY3E0318",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 2100,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 12500
-    },
-    {
-      "codigo_opcao": "TUPYQ115",
-      "isin": "BRTUPY3Q0330",
+      "codigo_opcao": "TUPYT142",
+      "isin": "BRTUPY3T02R0",
       "ativo": "TUPY",
       "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 34800
-    },
-    {
-      "codigo_opcao": "TUPYQ120",
-      "isin": "BRTUPY3Q02Z9",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20300,
-      "total_posicoes": 31200
-    },
-    {
-      "codigo_opcao": "TUPYQ125",
-      "isin": "BRTUPY3Q0306",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 24300
-    },
-    {
-      "codigo_opcao": "TUPYQ13",
-      "isin": "BRTUPY3Q0314",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "TUPYQ130",
-      "isin": "BRTUPY3Q0322",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 34800,
-      "total_posicoes": 36000
-    },
-    {
-      "codigo_opcao": "TUPYD140",
-      "isin": "BRTUPY3D03T8",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 10200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 90500
-    },
-    {
-      "codigo_opcao": "TUPYD150",
-      "isin": "BRTUPY3D04A6",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 20000,
-      "total_posicoes": 29500
-    },
-    {
-      "codigo_opcao": "TUPYP100",
-      "isin": "BRTUPY3P0471",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1400,
-      "total_posicoes": 54200
-    },
-    {
-      "codigo_opcao": "TUPYP980",
-      "isin": "BRTUPY3P03Y2",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 7000
-    },
-    {
-      "codigo_opcao": "TUPYB13",
-      "isin": "BRTUPY3B02E6",
-      "ativo": "TUPY",
-      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
       "quantidade_coberta": 0,
@@ -1120,257 +1087,26 @@
       "total_posicoes": 600
     },
     {
-      "codigo_opcao": "TUPYB14",
-      "isin": "BRTUPY3B02D8",
+      "codigo_opcao": "TUPYI145",
+      "isin": "BRTUPY3I02I2",
       "ativo": "TUPY",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 2800
-    },
-    {
-      "codigo_opcao": "TUPYB15",
-      "isin": "BRTUPY3B02C0",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 7900
-    },
-    {
-      "codigo_opcao": "TUPYD160",
-      "isin": "BRTUPY3D04F5",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 15000,
-      "total_posicoes": 17200
-    },
-    {
-      "codigo_opcao": "TUPYP160",
-      "isin": "BRTUPY3P04F9",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2500,
-      "total_posicoes": 2600
-    },
-    {
-      "codigo_opcao": "TUPYA22",
-      "isin": "BRTUPY3A01E0",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 6000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 26900
+      "total_posicoes": 121800
     },
     {
-      "codigo_opcao": "TUPYB22",
-      "isin": "BRTUPY3B01L3",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 5100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 153500
-    },
-    {
-      "codigo_opcao": "TUPYE220",
-      "isin": "BRTUPY3E02C4",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 4000,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 7700
-    },
-    {
-      "codigo_opcao": "TUPYF160",
-      "isin": "BRTUPY3F03R7",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 63900
-    },
-    {
-      "codigo_opcao": "TUPYF165",
-      "isin": "BRTUPY3F03S5",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 44900
-    },
-    {
-      "codigo_opcao": "TUPYF180",
-      "isin": "BRTUPY3F03M8",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 1300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "TUPYF22",
-      "isin": "BRTUPY3F02Q1",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "TUPYG22",
-      "isin": "BRTUPY3G0241",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "TUPYH22",
-      "isin": "BRTUPY3H0240",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7200
-    },
-    {
-      "codigo_opcao": "TUPYI22",
-      "isin": "BRTUPY3I01V7",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 21600
-    },
-    {
-      "codigo_opcao": "TUPYJ22",
-      "isin": "BRTUPY3J01S1",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "TUPYK22",
-      "isin": "BRTUPY3K01J8",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "TUPYL220",
-      "isin": "BRTUPY3L02B1",
-      "ativo": "TUPY",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "TUPYN22",
-      "isin": "BRTUPY3N01L8",
+      "codigo_opcao": "TUPYU145",
+      "isin": "BRTUPY3U02I7",
       "ativo": "TUPY",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 185,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 5500
-    },
-    {
-      "codigo_opcao": "TUPYP220",
-      "isin": "BRTUPY3P0307",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2100,
-      "total_posicoes": 4200
-    },
-    {
-      "codigo_opcao": "TUPYQ220",
-      "isin": "BRTUPY3Q02C8",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "TUPYR170",
-      "isin": "BRTUPY3R03Y8",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "TUPYS22",
-      "isin": "BRTUPY3S0247",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "TUPYX220",
-      "isin": "BRTUPY3X02B6",
-      "ativo": "TUPY",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 185,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 200
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "TUPYE132",
@@ -1379,7 +1115,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 185,
-      "quantidade_coberta": 7200,
+      "quantidade_coberta": 2100,
       "quantidade_descoberta": 0,
       "total_posicoes": 25300
     },
@@ -1393,6 +1129,28 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 7700,
       "total_posicoes": 15600
+    },
+    {
+      "codigo_opcao": "TUPYK130",
+      "isin": "BRTUPY3K0245",
+      "ativo": "TUPY",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1800
+    },
+    {
+      "codigo_opcao": "TUPYW130",
+      "isin": "BRTUPY3W0241",
+      "ativo": "TUPY",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 185,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 5200
     }
   ]
 }
