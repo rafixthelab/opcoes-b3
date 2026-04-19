@@ -1,8 +1,8 @@
 {
   "ticker": "MLAS",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
   "total_registros": 2,
   "calls": 2,
   "puts": 0,
@@ -15,9 +15,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 102,
-      "quantidade_coberta": 11000,
+      "quantidade_coberta": 12000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 16000
+      "total_posicoes": 17000
     },
     {
       "codigo_opcao": "MLASF135",
