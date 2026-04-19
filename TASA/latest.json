@@ -1,67 +1,23 @@
 {
   "ticker": "TASA",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 23,
-  "calls": 13,
-  "puts": 10,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 19,
+  "calls": 10,
+  "puts": 9,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "TASAD529",
-      "isin": "BRTASA4D01K8",
+      "codigo_opcao": "TASAE504",
+      "isin": "BRTASA4E01M2",
       "ativo": "TASA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 106,
-      "quantidade_coberta": 1800,
+      "quantidade_coberta": 800,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "TASAD629",
-      "isin": "BRTASA4D01I2",
-      "ativo": "TASA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "TASAE474",
-      "isin": "BRTASA4E01G4",
-      "ativo": "TASA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "TASAQ474",
-      "isin": "BRTASA4Q01G8",
-      "ativo": "TASA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "TASAD549",
-      "isin": "BRTASA4D01Q5",
-      "ativo": "TASA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 8600,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8600
+      "total_posicoes": 800
     },
     {
       "codigo_opcao": "TASAF549",
@@ -86,28 +42,6 @@
       "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "TASAH569",
-      "isin": "BRTASA4H00X4",
-      "ativo": "TASA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 3100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 65800
-    },
-    {
-      "codigo_opcao": "TASAT569",
-      "isin": "BRTASA4T00X9",
-      "ativo": "TASA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 65400
-    },
-    {
       "codigo_opcao": "TASAA80",
       "isin": "BRTASA4A00G4",
       "ativo": "TASA",
@@ -130,26 +64,15 @@
       "total_posicoes": 18400
     },
     {
-      "codigo_opcao": "TASAD800",
-      "isin": "BRTASA4D0132",
-      "ativo": "TASA",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2600
-    },
-    {
       "codigo_opcao": "TASAF80",
       "isin": "BRTASA4F00V2",
       "ativo": "TASA",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
-      "quantidade_coberta": 14000,
+      "quantidade_coberta": 18500,
       "quantidade_descoberta": 600,
-      "total_posicoes": 22300
+      "total_posicoes": 24800
     },
     {
       "codigo_opcao": "TASAG80",
@@ -207,17 +130,6 @@
       "total_posicoes": 1200
     },
     {
-      "codigo_opcao": "TASAP800",
-      "isin": "BRTASA4P0138",
-      "ativo": "TASA",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8700
-    },
-    {
       "codigo_opcao": "TASAQ800",
       "isin": "BRTASA4Q0103",
       "ativo": "TASA",
@@ -260,6 +172,50 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "TASAE474",
+      "isin": "BRTASA4E01G4",
+      "ativo": "TASA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5100
+    },
+    {
+      "codigo_opcao": "TASAQ474",
+      "isin": "BRTASA4Q01G8",
+      "ativo": "TASA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1600
+    },
+    {
+      "codigo_opcao": "TASAH569",
+      "isin": "BRTASA4H00X4",
+      "ativo": "TASA",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 3100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 65800
+    },
+    {
+      "codigo_opcao": "TASAT569",
+      "isin": "BRTASA4T00X9",
+      "ativo": "TASA",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 106,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 65400
     }
   ]
 }
