@@ -1,386 +1,34 @@
 {
   "ticker": "CXSE",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 465,
-  "calls": 228,
-  "puts": 237,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 409,
+  "calls": 199,
+  "puts": 210,
   "semanais": 1,
   "opcoes": [
     {
-      "codigo_opcao": "CXSEF204",
-      "isin": "BRCXSE3F04E0",
+      "codigo_opcao": "CXSEE199",
+      "isin": "BRCXSE3E03L0",
       "ativo": "CXSE",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 1600,
-      "quantidade_descoberta": 44000,
-      "total_posicoes": 456000
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5300,
+      "total_posicoes": 1200000
     },
     {
-      "codigo_opcao": "CXSEE209",
-      "isin": "BRCXSE3E03J4",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 2200,
-      "quantidade_descoberta": 25600,
-      "total_posicoes": 1062500
-    },
-    {
-      "codigo_opcao": "CXSEQ209",
-      "isin": "BRCXSE3Q03J8",
+      "codigo_opcao": "CXSEQ199",
+      "isin": "BRCXSE3Q03L4",
       "ativo": "CXSE",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 1002500
-    },
-    {
-      "codigo_opcao": "CXSEA150",
-      "isin": "BRCXSE3A0151",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8300
-    },
-    {
-      "codigo_opcao": "CXSEA155",
-      "isin": "BRCXSE3A03E3",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4600
-    },
-    {
-      "codigo_opcao": "CXSEA160",
-      "isin": "BRCXSE3A03J2",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "CXSEA165",
-      "isin": "BRCXSE3A03M6",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "CXSEA175",
-      "isin": "BRCXSE3A0300",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "CXSEA180",
-      "isin": "BRCXSE3A02R7",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "CXSEA185",
-      "isin": "BRCXSE3A02X5",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 21700
-    },
-    {
-      "codigo_opcao": "CXSEA190",
-      "isin": "BRCXSE3A02U1",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 15200
-    },
-    {
-      "codigo_opcao": "CXSEA195",
-      "isin": "BRCXSE3A03P9",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEA200",
-      "isin": "BRCXSE3A02S5",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEA205",
-      "isin": "BRCXSE3A02V9",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "CXSEA220",
-      "isin": "BRCXSE3A0375",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5100
-    },
-    {
-      "codigo_opcao": "CXSEA235",
-      "isin": "BRCXSE3A03A1",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEB10",
-      "isin": "BRCXSE3B03Q5",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEB180",
-      "isin": "BRCXSE3B03E1",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "CXSEB190",
-      "isin": "BRCXSE3B03F8",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "CXSEB200",
-      "isin": "BRCXSE3B0390",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 4700,
-      "total_posicoes": 5400
-    },
-    {
-      "codigo_opcao": "CXSEB214",
-      "isin": "BRCXSE3B0366",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEB234",
-      "isin": "BRCXSE3B03U7",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "CXSEB244",
-      "isin": "BRCXSE3B03Z6",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6400
-    },
-    {
-      "codigo_opcao": "CXSEB25",
-      "isin": "BRCXSE3B03R3",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "CXSEB254",
-      "isin": "BRCXSE3B03T9",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1300,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "CXSEB294",
-      "isin": "BRCXSE3B03D3",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEC144",
-      "isin": "BRCXSE3C02Y9",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEC149",
-      "isin": "BRCXSE3C02T9",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 16300
-    },
-    {
-      "codigo_opcao": "CXSEC154",
-      "isin": "BRCXSE3C03C3",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "CXSEC169",
-      "isin": "BRCXSE3C03H2",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEC174",
-      "isin": "BRCXSE3C0308",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 3100,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 3600
-    },
-    {
-      "codigo_opcao": "CXSEC20",
-      "isin": "BRCXSE3C02X1",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "CXSEC214",
-      "isin": "BRCXSE3C03V3",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9300,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "CXSEC224",
-      "isin": "BRCXSE3C03K6",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
+      "quantidade_descoberta": 413800,
+      "total_posicoes": 1200000
     },
     {
       "codigo_opcao": "CXSEC234",
@@ -389,7 +37,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 100,
       "quantidade_descoberta": 0,
       "total_posicoes": 6500
     },
@@ -438,17 +86,6 @@
       "total_posicoes": 37200
     },
     {
-      "codigo_opcao": "CXSED101",
-      "isin": "BRCXSE3D03G2",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
       "codigo_opcao": "CXSED135",
       "isin": "BRCXSE3D04N6",
       "ativo": "CXSE",
@@ -458,28 +95,6 @@
       "quantidade_coberta": 400,
       "quantidade_descoberta": 800,
       "total_posicoes": 2300
-    },
-    {
-      "codigo_opcao": "CXSED136",
-      "isin": "BRCXSE3D01T9",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 900,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "CXSED138",
-      "isin": "BRCXSE3D0299",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 600
     },
     {
       "codigo_opcao": "CXSED140",
@@ -493,116 +108,6 @@
       "total_posicoes": 200
     },
     {
-      "codigo_opcao": "CXSED15",
-      "isin": "BRCXSE3D0273",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9100,
-      "total_posicoes": 9100
-    },
-    {
-      "codigo_opcao": "CXSED153",
-      "isin": "BRCXSE3D0216",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8400
-    },
-    {
-      "codigo_opcao": "CXSED155",
-      "isin": "BRCXSE3D01W3",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 34900,
-      "total_posicoes": 34900
-    },
-    {
-      "codigo_opcao": "CXSED158",
-      "isin": "BRCXSE3D01O0",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9900,
-      "total_posicoes": 9900
-    },
-    {
-      "codigo_opcao": "CXSED16",
-      "isin": "BRCXSE3D0281",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1700,
-      "total_posicoes": 1900
-    },
-    {
-      "codigo_opcao": "CXSED163",
-      "isin": "BRCXSE3D01S1",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1400,
-      "total_posicoes": 2300
-    },
-    {
-      "codigo_opcao": "CXSED165",
-      "isin": "BRCXSE3D0265",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 4600,
-      "total_posicoes": 4700
-    },
-    {
-      "codigo_opcao": "CXSED168",
-      "isin": "BRCXSE3D01U7",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 600,
-      "quantidade_descoberta": 3100,
-      "total_posicoes": 3700
-    },
-    {
-      "codigo_opcao": "CXSED17",
-      "isin": "BRCXSE3D01X1",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 4500,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 4800
-    },
-    {
-      "codigo_opcao": "CXSED173",
-      "isin": "BRCXSE3D01P7",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 1800,
-      "total_posicoes": 1238900
-    },
-    {
       "codigo_opcao": "CXSED174",
       "isin": "BRCXSE3D04L0",
       "ativo": "CXSE",
@@ -614,83 +119,6 @@
       "total_posicoes": 9200
     },
     {
-      "codigo_opcao": "CXSED175",
-      "isin": "BRCXSE3D02C3",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "CXSED178",
-      "isin": "BRCXSE3D01Q5",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 10100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 13000
-    },
-    {
-      "codigo_opcao": "CXSED18",
-      "isin": "BRCXSE3D0208",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 13000,
-      "total_posicoes": 15000
-    },
-    {
-      "codigo_opcao": "CXSED183",
-      "isin": "BRCXSE3D02E9",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 900,
-      "quantidade_descoberta": 12700,
-      "total_posicoes": 17900
-    },
-    {
-      "codigo_opcao": "CXSED185",
-      "isin": "BRCXSE3D01Y9",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 9100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14500
-    },
-    {
-      "codigo_opcao": "CXSED188",
-      "isin": "BRCXSE3D01R3",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 13600,
-      "quantidade_descoberta": 3700,
-      "total_posicoes": 33500
-    },
-    {
-      "codigo_opcao": "CXSED19",
-      "isin": "BRCXSE3D0240",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 28100,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 33700
-    },
-    {
       "codigo_opcao": "CXSED190",
       "isin": "BRCXSE3D0463",
       "ativo": "CXSE",
@@ -700,17 +128,6 @@
       "quantidade_coberta": 1300,
       "quantidade_descoberta": 0,
       "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "CXSED193",
-      "isin": "BRCXSE3D02F6",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 44000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 111100
     },
     {
       "codigo_opcao": "CXSED195",
@@ -735,17 +152,6 @@
       "total_posicoes": 1500
     },
     {
-      "codigo_opcao": "CXSED20",
-      "isin": "BRCXSE3D03K4",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 8000,
-      "quantidade_descoberta": 3700,
-      "total_posicoes": 62700
-    },
-    {
       "codigo_opcao": "CXSED200",
       "isin": "BRCXSE3D04G0",
       "ativo": "CXSE",
@@ -755,17 +161,6 @@
       "quantidade_coberta": 500,
       "quantidade_descoberta": 3400,
       "total_posicoes": 5200
-    },
-    {
-      "codigo_opcao": "CXSED201",
-      "isin": "BRCXSE3D02B5",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 64900,
-      "quantidade_descoberta": 254700,
-      "total_posicoes": 366700
     },
     {
       "codigo_opcao": "CXSED205",
@@ -779,28 +174,6 @@
       "total_posicoes": 1200
     },
     {
-      "codigo_opcao": "CXSED21",
-      "isin": "BRCXSE3D0331",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 1700,
-      "quantidade_descoberta": 14100,
-      "total_posicoes": 50100
-    },
-    {
-      "codigo_opcao": "CXSED210",
-      "isin": "BRCXSE3D00V7",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 26500,
-      "quantidade_descoberta": 8400,
-      "total_posicoes": 382100
-    },
-    {
       "codigo_opcao": "CXSED214",
       "isin": "BRCXSE3D03R9",
       "ativo": "CXSE",
@@ -812,28 +185,6 @@
       "total_posicoes": 800
     },
     {
-      "codigo_opcao": "CXSED215",
-      "isin": "BRCXSE3D02J8",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 67800,
-      "total_posicoes": 70800
-    },
-    {
-      "codigo_opcao": "CXSED22",
-      "isin": "BRCXSE3D0307",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 28500,
-      "total_posicoes": 33900
-    },
-    {
       "codigo_opcao": "CXSED224",
       "isin": "BRCXSE3D03N8",
       "ativo": "CXSE",
@@ -843,39 +194,6 @@
       "quantidade_coberta": 200,
       "quantidade_descoberta": 0,
       "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "CXSED225",
-      "isin": "BRCXSE3D02P5",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8900,
-      "total_posicoes": 20100
-    },
-    {
-      "codigo_opcao": "CXSED23",
-      "isin": "BRCXSE3D02V3",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 900,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "CXSED24",
-      "isin": "BRCXSE3D0315",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
     },
     {
       "codigo_opcao": "CXSED240",
@@ -896,8 +214,8 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 300,
-      "quantidade_descoberta": 7700,
-      "total_posicoes": 10000
+      "quantidade_descoberta": 6700,
+      "total_posicoes": 9500
     },
     {
       "codigo_opcao": "CXSED250",
@@ -1027,7 +345,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 2000,
       "quantidade_descoberta": 0,
       "total_posicoes": 2100
     },
@@ -1062,7 +380,7 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 200,
       "quantidade_descoberta": 0,
-      "total_posicoes": 15300
+      "total_posicoes": 15500
     },
     {
       "codigo_opcao": "CXSEE155",
@@ -1093,9 +411,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 19600,
+      "quantidade_coberta": 19000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 34800
+      "total_posicoes": 34100
     },
     {
       "codigo_opcao": "CXSEE165",
@@ -1104,7 +422,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 200,
+      "quantidade_coberta": 1000,
       "quantidade_descoberta": 0,
       "total_posicoes": 12900
     },
@@ -1126,7 +444,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 200,
+      "quantidade_coberta": 800,
       "quantidade_descoberta": 0,
       "total_posicoes": 19100
     },
@@ -1137,9 +455,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 6700,
+      "quantidade_coberta": 3600,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7400
+      "total_posicoes": 8800
     },
     {
       "codigo_opcao": "CXSEE175",
@@ -1159,7 +477,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 6300,
+      "quantidade_coberta": 8000,
       "quantidade_descoberta": 3400,
       "total_posicoes": 20400
     },
@@ -1181,9 +499,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 3200,
+      "quantidade_coberta": 4200,
       "quantidade_descoberta": 24400,
-      "total_posicoes": 43200
+      "total_posicoes": 46100
     },
     {
       "codigo_opcao": "CXSEE185",
@@ -1192,9 +510,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 18100,
-      "quantidade_descoberta": 108200,
-      "total_posicoes": 2636100
+      "quantidade_coberta": 18200,
+      "quantidade_descoberta": 109200,
+      "total_posicoes": 2637100
     },
     {
       "codigo_opcao": "CXSEE187",
@@ -1203,9 +521,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 3900,
+      "quantidade_coberta": 6900,
       "quantidade_descoberta": 0,
-      "total_posicoes": 56900
+      "total_posicoes": 58300
     },
     {
       "codigo_opcao": "CXSEE190",
@@ -1214,9 +532,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 60900,
-      "total_posicoes": 2076200
+      "quantidade_coberta": 7800,
+      "quantidade_descoberta": 63200,
+      "total_posicoes": 2079800
     },
     {
       "codigo_opcao": "CXSEE195",
@@ -1225,9 +543,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 96900,
-      "quantidade_descoberta": 21700,
-      "total_posicoes": 2178500
+      "quantidade_coberta": 87000,
+      "quantidade_descoberta": 21800,
+      "total_posicoes": 2179900
     },
     {
       "codigo_opcao": "CXSEE200",
@@ -1236,9 +554,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 52300,
-      "quantidade_descoberta": 41700,
-      "total_posicoes": 2225900
+      "quantidade_coberta": 52400,
+      "quantidade_descoberta": 46300,
+      "total_posicoes": 2235700
     },
     {
       "codigo_opcao": "CXSEE205",
@@ -1247,9 +565,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 86700,
-      "quantidade_descoberta": 65100,
-      "total_posicoes": 2247400
+      "quantidade_coberta": 64900,
+      "quantidade_descoberta": 59600,
+      "total_posicoes": 3460700
     },
     {
       "codigo_opcao": "CXSEE210",
@@ -1258,9 +576,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 37500,
-      "quantidade_descoberta": 101700,
-      "total_posicoes": 3810400
+      "quantidade_coberta": 41300,
+      "quantidade_descoberta": 109300,
+      "total_posicoes": 3825400
     },
     {
       "codigo_opcao": "CXSEE215",
@@ -1269,9 +587,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 30000,
+      "quantidade_coberta": 49000,
       "quantidade_descoberta": 14100,
-      "total_posicoes": 3788900
+      "total_posicoes": 3812600
     },
     {
       "codigo_opcao": "CXSEE220",
@@ -1280,9 +598,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 30800,
-      "quantidade_descoberta": 45600,
-      "total_posicoes": 2082700
+      "quantidade_coberta": 31000,
+      "quantidade_descoberta": 59600,
+      "total_posicoes": 2096700
     },
     {
       "codigo_opcao": "CXSEE225",
@@ -1313,9 +631,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 3000,
       "quantidade_descoberta": 400,
-      "total_posicoes": 8600
+      "total_posicoes": 11600
     },
     {
       "codigo_opcao": "CXSEE240",
@@ -1326,7 +644,7 @@
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2100
+      "total_posicoes": 2200
     },
     {
       "codigo_opcao": "CXSEE245",
@@ -1392,7 +710,7 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 700
+      "total_posicoes": 1400
     },
     {
       "codigo_opcao": "CXSEF160",
@@ -1401,7 +719,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 2000,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 5500
     },
@@ -1423,9 +741,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 200,
       "quantidade_descoberta": 0,
-      "total_posicoes": 300
+      "total_posicoes": 3400
     },
     {
       "codigo_opcao": "CXSEF177",
@@ -1456,7 +774,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 1300,
       "quantidade_descoberta": 0,
       "total_posicoes": 6200
     },
@@ -1480,7 +798,7 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 700,
       "quantidade_descoberta": 4600,
-      "total_posicoes": 5300
+      "total_posicoes": 6000
     },
     {
       "codigo_opcao": "CXSEF187",
@@ -1501,8 +819,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 31100
+      "quantidade_descoberta": 700,
+      "total_posicoes": 32100
     },
     {
       "codigo_opcao": "CXSEF195",
@@ -1511,9 +829,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4900,
-      "total_posicoes": 7900
+      "quantidade_coberta": 1200,
+      "quantidade_descoberta": 4200,
+      "total_posicoes": 8200
     },
     {
       "codigo_opcao": "CXSEF200",
@@ -1523,8 +841,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 1200,
-      "quantidade_descoberta": 8100,
-      "total_posicoes": 12700
+      "quantidade_descoberta": 17600,
+      "total_posicoes": 22200
     },
     {
       "codigo_opcao": "CXSEF205",
@@ -1533,9 +851,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 7200,
-      "quantidade_descoberta": 1600,
-      "total_posicoes": 11400
+      "quantidade_coberta": 9200,
+      "quantidade_descoberta": 11500,
+      "total_posicoes": 31200
     },
     {
       "codigo_opcao": "CXSEF210",
@@ -1544,9 +862,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 2700,
-      "quantidade_descoberta": 9200,
-      "total_posicoes": 17900
+      "quantidade_coberta": 3600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 38200
     },
     {
       "codigo_opcao": "CXSEF215",
@@ -1556,7 +874,7 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 2500,
-      "quantidade_descoberta": 10300,
+      "quantidade_descoberta": 9700,
       "total_posicoes": 108200
     },
     {
@@ -1577,9 +895,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2600
+      "quantidade_coberta": 200,
+      "quantidade_descoberta": 2900,
+      "total_posicoes": 3600
     },
     {
       "codigo_opcao": "CXSEF230",
@@ -1588,9 +906,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 700,
+      "quantidade_coberta": 800,
       "quantidade_descoberta": 19400,
-      "total_posicoes": 21100
+      "total_posicoes": 21200
     },
     {
       "codigo_opcao": "CXSEF240",
@@ -1600,8 +918,8 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 11600,
-      "total_posicoes": 11600
+      "quantidade_descoberta": 12100,
+      "total_posicoes": 12100
     },
     {
       "codigo_opcao": "CXSEF245",
@@ -1754,7 +1072,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1300,
+      "quantidade_descoberta": 1500,
       "total_posicoes": 13900
     },
     {
@@ -1787,8 +1105,8 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
+      "quantidade_descoberta": 300,
+      "total_posicoes": 600
     },
     {
       "codigo_opcao": "CXSEG21",
@@ -1799,7 +1117,7 @@
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 300
+      "total_posicoes": 500
     },
     {
       "codigo_opcao": "CXSEG22",
@@ -1952,7 +1270,7 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
+      "quantidade_descoberta": 0,
       "total_posicoes": 2000
     },
     {
@@ -2017,7 +1335,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 1232300,
       "quantidade_descoberta": 0,
       "total_posicoes": 1232300
     },
@@ -2480,7 +1798,7 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 73000,
+      "quantidade_descoberta": 73800,
       "total_posicoes": 102000
     },
     {
@@ -2689,7 +2007,7 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
+      "quantidade_descoberta": 0,
       "total_posicoes": 1200
     },
     {
@@ -2700,7 +2018,7 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1200,
+      "quantidade_descoberta": 0,
       "total_posicoes": 1200
     },
     {
@@ -2711,7 +2029,7 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
+      "quantidade_descoberta": 0,
       "total_posicoes": 100
     },
     {
@@ -2766,7 +2084,7 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
+      "quantidade_descoberta": 0,
       "total_posicoes": 1100
     },
     {
@@ -2777,7 +2095,7 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
+      "quantidade_descoberta": 0,
       "total_posicoes": 1100
     },
     {
@@ -2792,28 +2110,6 @@
       "total_posicoes": 20400
     },
     {
-      "codigo_opcao": "CXSEP138",
-      "isin": "BRCXSE3P0261",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11100,
-      "total_posicoes": 12300
-    },
-    {
-      "codigo_opcao": "CXSEP14",
-      "isin": "BRCXSE3P01W7",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9900,
-      "total_posicoes": 10000
-    },
-    {
       "codigo_opcao": "CXSEP140",
       "isin": "BRCXSE3P04J8",
       "ativo": "CXSE",
@@ -2823,50 +2119,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "CXSEP148",
-      "isin": "BRCXSE3P01Y3",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1700,
-      "total_posicoes": 1700
-    },
-    {
-      "codigo_opcao": "CXSEP15",
-      "isin": "BRCXSE3P0238",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "CXSEP155",
-      "isin": "BRCXSE3P0220",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEP16",
-      "isin": "BRCXSE3P0204",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3800
     },
     {
       "codigo_opcao": "CXSEP160",
@@ -2880,61 +2132,6 @@
       "total_posicoes": 2200
     },
     {
-      "codigo_opcao": "CXSEP163",
-      "isin": "BRCXSE3P02D5",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 15200
-    },
-    {
-      "codigo_opcao": "CXSEP165",
-      "isin": "BRCXSE3P0212",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 42300
-    },
-    {
-      "codigo_opcao": "CXSEP168",
-      "isin": "BRCXSE3P01X5",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 37900,
-      "total_posicoes": 40200
-    },
-    {
-      "codigo_opcao": "CXSEP17",
-      "isin": "BRCXSE3P01V9",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 115100
-    },
-    {
-      "codigo_opcao": "CXSEP173",
-      "isin": "BRCXSE3P0287",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12400,
-      "total_posicoes": 21800
-    },
-    {
       "codigo_opcao": "CXSEP174",
       "isin": "BRCXSE3P04S9",
       "ativo": "CXSE",
@@ -2944,94 +2141,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1100,
       "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "CXSEP175",
-      "isin": "BRCXSE3P0279",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 147300
-    },
-    {
-      "codigo_opcao": "CXSEP178",
-      "isin": "BRCXSE3P02A1",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 340800
-    },
-    {
-      "codigo_opcao": "CXSEP18",
-      "isin": "BRCXSE3P01Q9",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 83100
-    },
-    {
-      "codigo_opcao": "CXSEP183",
-      "isin": "BRCXSE3P0246",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 22700,
-      "total_posicoes": 185400
-    },
-    {
-      "codigo_opcao": "CXSEP185",
-      "isin": "BRCXSE3P0295",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 18500,
-      "total_posicoes": 78100
-    },
-    {
-      "codigo_opcao": "CXSEP188",
-      "isin": "BRCXSE3P02E3",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14000,
-      "total_posicoes": 83900
-    },
-    {
-      "codigo_opcao": "CXSEP19",
-      "isin": "BRCXSE3P01S5",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 67400,
-      "total_posicoes": 84400
-    },
-    {
-      "codigo_opcao": "CXSEP193",
-      "isin": "BRCXSE3P02F0",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 37900,
-      "total_posicoes": 55800
     },
     {
       "codigo_opcao": "CXSEP195",
@@ -3052,30 +2161,8 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1800,
+      "quantidade_descoberta": 700,
       "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "CXSEP20",
-      "isin": "BRCXSE3P0345",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 44100,
-      "total_posicoes": 78400
-    },
-    {
-      "codigo_opcao": "CXSEP201",
-      "isin": "BRCXSE3P01Z0",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 40200,
-      "total_posicoes": 52500
     },
     {
       "codigo_opcao": "CXSEP205",
@@ -3089,50 +2176,6 @@
       "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "CXSEP21",
-      "isin": "BRCXSE3P02Y1",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7300,
-      "total_posicoes": 29900
-    },
-    {
-      "codigo_opcao": "CXSEP210",
-      "isin": "BRCXSE3P00U3",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 105,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 76100,
-      "total_posicoes": 126100
-    },
-    {
-      "codigo_opcao": "CXSEP215",
-      "isin": "BRCXSE3P02O2",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2600,
-      "total_posicoes": 4700
-    },
-    {
-      "codigo_opcao": "CXSEP22",
-      "isin": "BRCXSE3P02S3",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
       "codigo_opcao": "CXSEP224",
       "isin": "BRCXSE3P04E9",
       "ativo": "CXSE",
@@ -3142,61 +2185,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "CXSEP225",
-      "isin": "BRCXSE3P0394",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "CXSEP23",
-      "isin": "BRCXSE3P02V7",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "CXSEP235",
-      "isin": "BRCXSE3P02H6",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "CXSEP265",
-      "isin": "BRCXSE3P02Z8",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEP30",
-      "isin": "BRCXSE3P04C3",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
     },
     {
       "codigo_opcao": "CXSEP800",
@@ -3305,7 +2293,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 29000,
+      "quantidade_descoberta": 29600,
       "total_posicoes": 30700
     },
     {
@@ -3361,7 +2349,7 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1100
+      "total_posicoes": 1200
     },
     {
       "codigo_opcao": "CXSEQ177",
@@ -3427,7 +2415,7 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 34700,
-      "total_posicoes": 2072800
+      "total_posicoes": 2072700
     },
     {
       "codigo_opcao": "CXSEQ195",
@@ -3438,7 +2426,7 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1700,
-      "total_posicoes": 2079000
+      "total_posicoes": 2083000
     },
     {
       "codigo_opcao": "CXSEQ200",
@@ -3448,8 +2436,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 9200,
-      "total_posicoes": 2064200
+      "quantidade_descoberta": 3100,
+      "total_posicoes": 2072600
     },
     {
       "codigo_opcao": "CXSEQ205",
@@ -3459,8 +2447,8 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 17800,
-      "total_posicoes": 2041300
+      "quantidade_descoberta": 27900,
+      "total_posicoes": 3248400
     },
     {
       "codigo_opcao": "CXSEQ210",
@@ -3470,8 +2458,8 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 28000,
-      "total_posicoes": 3573300
+      "quantidade_descoberta": 28100,
+      "total_posicoes": 3573400
     },
     {
       "codigo_opcao": "CXSEQ215",
@@ -3481,8 +2469,8 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 12800,
-      "total_posicoes": 3732800
+      "quantidade_descoberta": 2800,
+      "total_posicoes": 3722800
     },
     {
       "codigo_opcao": "CXSEQ220",
@@ -3591,7 +2579,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 23700,
+      "quantidade_descoberta": 3300,
       "total_posicoes": 120000
     },
     {
@@ -3690,8 +2678,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1900
+      "quantidade_descoberta": 25800,
+      "total_posicoes": 25800
     },
     {
       "codigo_opcao": "CXSER172",
@@ -3701,8 +2689,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
+      "quantidade_descoberta": 600,
+      "total_posicoes": 600
     },
     {
       "codigo_opcao": "CXSER177",
@@ -3712,63 +2700,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEG183",
-      "isin": "BRCXSE3G0460",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 5300,
-      "quantidade_descoberta": 27400,
-      "total_posicoes": 33700
-    },
-    {
-      "codigo_opcao": "CXSES183",
-      "isin": "BRCXSE3S0466",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "CXSEE204",
-      "isin": "BRCXSE3E03K2",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 16300,
-      "quantidade_descoberta": 22000,
-      "total_posicoes": 777500
-    },
-    {
-      "codigo_opcao": "CXSEQ204",
-      "isin": "BRCXSE3Q03K6",
-      "ativo": "CXSE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2100,
-      "total_posicoes": 713800
-    },
-    {
-      "codigo_opcao": "CXSEA214",
-      "isin": "BRCXSE3A03S3",
-      "ativo": "CXSE",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 11200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26500
+      "quantidade_descoberta": 10000,
+      "total_posicoes": 10100
     },
     {
       "codigo_opcao": "CXSER180",
@@ -3822,8 +2755,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 13100,
-      "total_posicoes": 16100
+      "quantidade_descoberta": 5900,
+      "total_posicoes": 8900
     },
     {
       "codigo_opcao": "CXSER190",
@@ -3833,8 +2766,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 15900,
-      "total_posicoes": 27300
+      "quantidade_descoberta": 13100,
+      "total_posicoes": 27400
     },
     {
       "codigo_opcao": "CXSER195",
@@ -3844,8 +2777,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 72000
+      "quantidade_descoberta": 6600,
+      "total_posicoes": 68700
     },
     {
       "codigo_opcao": "CXSER200",
@@ -3855,8 +2788,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7400
+      "quantidade_descoberta": 1600,
+      "total_posicoes": 9000
     },
     {
       "codigo_opcao": "CXSER205",
@@ -3866,8 +2799,8 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 9500,
-      "total_posicoes": 11700
+      "quantidade_descoberta": 22900,
+      "total_posicoes": 30000
     },
     {
       "codigo_opcao": "CXSER210",
@@ -4123,6 +3056,28 @@
       "total_posicoes": 2300
     },
     {
+      "codigo_opcao": "CXSES21",
+      "isin": "BRCXSE3S0318",
+      "ativo": "CXSE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 11300,
+      "total_posicoes": 13700
+    },
+    {
+      "codigo_opcao": "CXSES214",
+      "isin": "BRCXSE3S03F2",
+      "ativo": "CXSE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
       "codigo_opcao": "CXSES95",
       "isin": "BRCXSE3S03Q9",
       "ativo": "CXSE",
@@ -4240,8 +3195,8 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4100
+      "quantidade_descoberta": 200,
+      "total_posicoes": 4000
     },
     {
       "codigo_opcao": "CXSET194",
@@ -4295,7 +3250,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 9600,
+      "quantidade_descoberta": 9700,
       "total_posicoes": 20800
     },
     {
@@ -4416,7 +3371,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 69200,
+      "quantidade_descoberta": 53500,
       "total_posicoes": 84600
     },
     {
@@ -4548,7 +3503,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 700,
       "total_posicoes": 10000
     },
     {
@@ -4570,7 +3525,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
+      "quantidade_descoberta": 1000,
       "total_posicoes": 1000
     },
     {
@@ -4615,7 +3570,7 @@
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10300
+      "total_posicoes": 11300
     },
     {
       "codigo_opcao": "CXSEV195",
@@ -4669,7 +3624,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 37900,
+      "quantidade_descoberta": 26900,
       "total_posicoes": 72900
     },
     {
@@ -4900,7 +3855,7 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
+      "quantidade_descoberta": 0,
       "total_posicoes": 10000
     },
     {
@@ -4911,7 +3866,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 46400,
+      "quantidade_descoberta": 40000,
       "total_posicoes": 100000
     },
     {
@@ -4955,7 +3910,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
+      "quantidade_descoberta": 0,
       "total_posicoes": 200
     },
     {
@@ -4999,7 +3954,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 54100,
+      "quantidade_descoberta": 27800,
       "total_posicoes": 54900
     },
     {
@@ -5034,6 +3989,28 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 200,
       "total_posicoes": 5200
+    },
+    {
+      "codigo_opcao": "CXSEG183",
+      "isin": "BRCXSE3G0460",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 5300,
+      "quantidade_descoberta": 27400,
+      "total_posicoes": 33700
+    },
+    {
+      "codigo_opcao": "CXSES183",
+      "isin": "BRCXSE3S0466",
+      "ativo": "CXSE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "CXSEX19",
@@ -5122,6 +4099,413 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CXSEE204",
+      "isin": "BRCXSE3E03K2",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 24300,
+      "quantidade_descoberta": 10100,
+      "total_posicoes": 790800
+    },
+    {
+      "codigo_opcao": "CXSEQ204",
+      "isin": "BRCXSE3Q03K6",
+      "ativo": "CXSE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2100,
+      "total_posicoes": 713800
+    },
+    {
+      "codigo_opcao": "CXSEA214",
+      "isin": "BRCXSE3A03S3",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 11200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 26500
+    },
+    {
+      "codigo_opcao": "CXSEF204",
+      "isin": "BRCXSE3F04E0",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 1700,
+      "quantidade_descoberta": 50400,
+      "total_posicoes": 459000
+    },
+    {
+      "codigo_opcao": "CXSEA150",
+      "isin": "BRCXSE3A0151",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 109,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8300
+    },
+    {
+      "codigo_opcao": "CXSEA155",
+      "isin": "BRCXSE3A03E3",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4600
+    },
+    {
+      "codigo_opcao": "CXSEA160",
+      "isin": "BRCXSE3A03J2",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "CXSEA165",
+      "isin": "BRCXSE3A03M6",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "CXSEA175",
+      "isin": "BRCXSE3A0300",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 700
+    },
+    {
+      "codigo_opcao": "CXSEA180",
+      "isin": "BRCXSE3A02R7",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "CXSEA185",
+      "isin": "BRCXSE3A02X5",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 21700
+    },
+    {
+      "codigo_opcao": "CXSEA190",
+      "isin": "BRCXSE3A02U1",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 15200
+    },
+    {
+      "codigo_opcao": "CXSEA195",
+      "isin": "BRCXSE3A03P9",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CXSEA200",
+      "isin": "BRCXSE3A02S5",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CXSEA205",
+      "isin": "BRCXSE3A02V9",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "CXSEA220",
+      "isin": "BRCXSE3A0375",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5100
+    },
+    {
+      "codigo_opcao": "CXSEA235",
+      "isin": "BRCXSE3A03A1",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CXSEB10",
+      "isin": "BRCXSE3B03Q5",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CXSEB180",
+      "isin": "BRCXSE3B03E1",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 700
+    },
+    {
+      "codigo_opcao": "CXSEB190",
+      "isin": "BRCXSE3B03F8",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "CXSEB200",
+      "isin": "BRCXSE3B0390",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 4700,
+      "total_posicoes": 5400
+    },
+    {
+      "codigo_opcao": "CXSEB214",
+      "isin": "BRCXSE3B0366",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CXSEB234",
+      "isin": "BRCXSE3B03U7",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "CXSEB244",
+      "isin": "BRCXSE3B03Z6",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6400
+    },
+    {
+      "codigo_opcao": "CXSEB25",
+      "isin": "BRCXSE3B03R3",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 400,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "CXSEB254",
+      "isin": "BRCXSE3B03T9",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1300,
+      "total_posicoes": 1300
+    },
+    {
+      "codigo_opcao": "CXSEB294",
+      "isin": "BRCXSE3B03D3",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CXSEC144",
+      "isin": "BRCXSE3C02Y9",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CXSEC149",
+      "isin": "BRCXSE3C02T9",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 2000,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 16300
+    },
+    {
+      "codigo_opcao": "CXSEC154",
+      "isin": "BRCXSE3C03C3",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 1800
+    },
+    {
+      "codigo_opcao": "CXSEC169",
+      "isin": "BRCXSE3C03H2",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "CXSEC174",
+      "isin": "BRCXSE3C0308",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 3100,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 3600
+    },
+    {
+      "codigo_opcao": "CXSEC20",
+      "isin": "BRCXSE3C02X1",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 600,
+      "total_posicoes": 700
+    },
+    {
+      "codigo_opcao": "CXSEC214",
+      "isin": "BRCXSE3C03V3",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 9300,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "CXSEC224",
+      "isin": "BRCXSE3C03K6",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "CXSEE209",
+      "isin": "BRCXSE3E03J4",
+      "ativo": "CXSE",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 3300,
+      "quantidade_descoberta": 25600,
+      "total_posicoes": 1065100
+    },
+    {
+      "codigo_opcao": "CXSEQ209",
+      "isin": "BRCXSE3Q03J8",
+      "ativo": "CXSE",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1500,
+      "total_posicoes": 1002500
     }
   ]
 }
