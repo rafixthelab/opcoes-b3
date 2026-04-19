@@ -1,79 +1,13 @@
 {
   "ticker": "SBFG",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 85,
-  "calls": 40,
-  "puts": 45,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 61,
+  "calls": 30,
+  "puts": 31,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "SBFGQ469",
-      "isin": "BRSBFG3Q0355",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6400
-    },
-    {
-      "codigo_opcao": "SBFGD109",
-      "isin": "BRSBFG3D03V2",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 900,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "SBFGP915",
-      "isin": "BRSBFG3P03S2",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16000
-    },
-    {
-      "codigo_opcao": "SBFGP935",
-      "isin": "BRSBFG3P03O1",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "SBFGP955",
-      "isin": "BRSBFG3P0422",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2600
-    },
-    {
-      "codigo_opcao": "SBFGP975",
-      "isin": "BRSBFG3P03P8",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
     {
       "codigo_opcao": "SBFGE134",
       "isin": "BRSBFG3E03C0",
@@ -92,7 +26,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
-      "quantidade_coberta": 300,
+      "quantidade_coberta": 1900,
       "quantidade_descoberta": 23000,
       "total_posicoes": 1027100
     },
@@ -105,7 +39,7 @@
       "contratos_em_aberto": 104,
       "quantidade_coberta": 2600,
       "quantidade_descoberta": 100,
-      "total_posicoes": 1006000
+      "total_posicoes": 1006600
     },
     {
       "codigo_opcao": "SBFGE149",
@@ -114,9 +48,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 1011000
+      "quantidade_coberta": 2100,
+      "quantidade_descoberta": 20600,
+      "total_posicoes": 1030000
     },
     {
       "codigo_opcao": "SBFGE154",
@@ -203,8 +137,8 @@
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 20400,
-      "total_posicoes": 1027400
+      "quantidade_descoberta": 10100,
+      "total_posicoes": 1028600
     },
     {
       "codigo_opcao": "SBFGQ139",
@@ -214,8 +148,8 @@
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1002300
+      "quantidade_descoberta": 11300,
+      "total_posicoes": 1012600
     },
     {
       "codigo_opcao": "SBFGQ144",
@@ -247,7 +181,7 @@
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 466700,
+      "quantidade_descoberta": 477000,
       "total_posicoes": 1000000
     },
     {
@@ -306,138 +240,6 @@
       "total_posicoes": 85400
     },
     {
-      "codigo_opcao": "SBFGD120",
-      "isin": "BRSBFG3D03I9",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 89800,
-      "total_posicoes": 91800
-    },
-    {
-      "codigo_opcao": "SBFGD130",
-      "isin": "BRSBFG3D03F5",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 71400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 328800
-    },
-    {
-      "codigo_opcao": "SBFGP130",
-      "isin": "BRSBFG3P03F9",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 46200,
-      "total_posicoes": 46200
-    },
-    {
-      "codigo_opcao": "SBFGP135",
-      "isin": "BRSBFG3P03J1",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5400,
-      "total_posicoes": 5400
-    },
-    {
-      "codigo_opcao": "SBFGP140",
-      "isin": "BRSBFG3P03G7",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8400,
-      "total_posicoes": 8400
-    },
-    {
-      "codigo_opcao": "SBFGD192",
-      "isin": "BRSBFG3D0442",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "SBFGF127",
-      "isin": "BRSBFG3F0275",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 55000
-    },
-    {
-      "codigo_opcao": "SBFGF132",
-      "isin": "BRSBFG3F02M8",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 15000
-    },
-    {
-      "codigo_opcao": "SBFGF137",
-      "isin": "BRSBFG3F02L0",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 16300
-    },
-    {
-      "codigo_opcao": "SBFGF142",
-      "isin": "BRSBFG3F02S5",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 31600
-    },
-    {
-      "codigo_opcao": "SBFGR127",
-      "isin": "BRSBFG3R02A8",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "SBFGR132",
-      "isin": "BRSBFG3R02F7",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10000
-    },
-    {
       "codigo_opcao": "SBFGB109",
       "isin": "BRSBFG3B02Y2",
       "ativo": "SBFG",
@@ -447,17 +249,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "SBFGD11",
-      "isin": "BRSBFG3D03E8",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
     },
     {
       "codigo_opcao": "SBFGE11",
@@ -478,8 +269,8 @@
       "semanal": false,
       "contratos_em_aberto": 103,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1300,
-      "total_posicoes": 17400
+      "quantidade_descoberta": 0,
+      "total_posicoes": 20100
     },
     {
       "codigo_opcao": "SBFGG11",
@@ -557,17 +348,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "SBFGP11",
-      "isin": "BRSBFG3P03E2",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 103,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 90100
     },
     {
       "codigo_opcao": "SBFGQ11",
@@ -658,61 +438,6 @@
       "total_posicoes": 10000
     },
     {
-      "codigo_opcao": "SBFGB149",
-      "isin": "BRSBFG3B0303",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "SBFGB159",
-      "isin": "BRSBFG3B0311",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3100
-    },
-    {
-      "codigo_opcao": "SBFGE130",
-      "isin": "BRSBFG3E03A4",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 2100,
-      "quantidade_descoberta": 3500,
-      "total_posicoes": 1011800
-    },
-    {
-      "codigo_opcao": "SBFGQ130",
-      "isin": "BRSBFG3Q03A8",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8700,
-      "total_posicoes": 1043300
-    },
-    {
-      "codigo_opcao": "SBFGF164",
-      "isin": "BRSBFG3F0218",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000000
-    },
-    {
       "codigo_opcao": "SBFGF115",
       "isin": "BRSBFG3F0226",
       "ativo": "SBFG",
@@ -735,125 +460,26 @@
       "total_posicoes": 100000
     },
     {
-      "codigo_opcao": "SBFGD125",
-      "isin": "BRSBFG3D03G3",
+      "codigo_opcao": "SBFGE130",
+      "isin": "BRSBFG3E03A4",
       "ativo": "SBFG",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
-      "quantidade_coberta": 115400,
-      "quantidade_descoberta": 5800,
-      "total_posicoes": 163800
+      "quantidade_coberta": 2100,
+      "quantidade_descoberta": 3500,
+      "total_posicoes": 1011900
     },
     {
-      "codigo_opcao": "SBFGD135",
-      "isin": "BRSBFG3D03J7",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 152600
-    },
-    {
-      "codigo_opcao": "SBFGD140",
-      "isin": "BRSBFG3D03H1",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7900,
-      "total_posicoes": 20100
-    },
-    {
-      "codigo_opcao": "SBFGP120",
-      "isin": "BRSBFG3P03I3",
+      "codigo_opcao": "SBFGQ130",
+      "isin": "BRSBFG3Q03A8",
       "ativo": "SBFG",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 104,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 28800,
-      "total_posicoes": 62400
-    },
-    {
-      "codigo_opcao": "SBFGP125",
-      "isin": "BRSBFG3P03H5",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 26200,
-      "total_posicoes": 26200
-    },
-    {
-      "codigo_opcao": "SBFGD144",
-      "isin": "BRSBFG3D0418",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 21600,
-      "total_posicoes": 22300
-    },
-    {
-      "codigo_opcao": "SBFGP109",
-      "isin": "BRSBFG3P03Y0",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 53300
-    },
-    {
-      "codigo_opcao": "SBFGP895",
-      "isin": "BRSBFG3P0414",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "SBFGP995",
-      "isin": "BRSBFG3P03Q6",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5100,
-      "total_posicoes": 37600
-    },
-    {
-      "codigo_opcao": "SBFGD115",
-      "isin": "BRSBFG3D03K5",
-      "ativo": "SBFG",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10600,
-      "total_posicoes": 10600
-    },
-    {
-      "codigo_opcao": "SBFGP115",
-      "isin": "BRSBFG3P03K9",
-      "ativo": "SBFG",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 104,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 34300
+      "quantidade_descoberta": 8700,
+      "total_posicoes": 1044400
     },
     {
       "codigo_opcao": "SBFGE110",
@@ -884,7 +510,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 104,
-      "quantidade_coberta": 200,
+      "quantidade_coberta": 2100,
       "quantidade_descoberta": 51200,
       "total_posicoes": 55100
     },
@@ -942,6 +568,116 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 5000,
       "total_posicoes": 91100
+    },
+    {
+      "codigo_opcao": "SBFGF127",
+      "isin": "BRSBFG3F0275",
+      "ativo": "SBFG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 64900
+    },
+    {
+      "codigo_opcao": "SBFGF132",
+      "isin": "BRSBFG3F02M8",
+      "ativo": "SBFG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 15000
+    },
+    {
+      "codigo_opcao": "SBFGF137",
+      "isin": "BRSBFG3F02L0",
+      "ativo": "SBFG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 16400
+    },
+    {
+      "codigo_opcao": "SBFGF142",
+      "isin": "BRSBFG3F02S5",
+      "ativo": "SBFG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 700,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 31600
+    },
+    {
+      "codigo_opcao": "SBFGR127",
+      "isin": "BRSBFG3R02A8",
+      "ativo": "SBFG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "SBFGR132",
+      "isin": "BRSBFG3R02F7",
+      "ativo": "SBFG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "SBFGQ469",
+      "isin": "BRSBFG3Q0355",
+      "ativo": "SBFG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6400
+    },
+    {
+      "codigo_opcao": "SBFGB149",
+      "isin": "BRSBFG3B0303",
+      "ativo": "SBFG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2100
+    },
+    {
+      "codigo_opcao": "SBFGB159",
+      "isin": "BRSBFG3B0311",
+      "ativo": "SBFG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3100
+    },
+    {
+      "codigo_opcao": "SBFGF164",
+      "isin": "BRSBFG3F0218",
+      "ativo": "SBFG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 104,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1005000
     }
   ]
 }
