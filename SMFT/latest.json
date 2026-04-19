@@ -1,13 +1,112 @@
 {
   "ticker": "SMFT",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 112,
-  "calls": 53,
-  "puts": 59,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 81,
+  "calls": 34,
+  "puts": 47,
   "semanais": 0,
   "opcoes": [
+    {
+      "codigo_opcao": "SMFTL253",
+      "isin": "BRSMFT3L02J4",
+      "ativo": "SMFT",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "SMFTE219",
+      "isin": "BRSMFT3E02I1",
+      "ativo": "SMFT",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2200,
+      "total_posicoes": 2200
+    },
+    {
+      "codigo_opcao": "SMFTE222",
+      "isin": "BRSMFT3E02G5",
+      "ativo": "SMFT",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3100,
+      "total_posicoes": 3400
+    },
+    {
+      "codigo_opcao": "SMFTE224",
+      "isin": "BRSMFT3E02H3",
+      "ativo": "SMFT",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "SMFTE229",
+      "isin": "BRSMFT3E02E0",
+      "ativo": "SMFT",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6700,
+      "total_posicoes": 6700
+    },
+    {
+      "codigo_opcao": "SMFTF228",
+      "isin": "BRSMFT3F0259",
+      "ativo": "SMFT",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 40000,
+      "total_posicoes": 40000
+    },
+    {
+      "codigo_opcao": "SMFTF238",
+      "isin": "BRSMFT3F0226",
+      "ativo": "SMFT",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SMFTQ219",
+      "isin": "BRSMFT3Q02G9",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 13000,
+      "total_posicoes": 13100
+    },
+    {
+      "codigo_opcao": "SMFTR240",
+      "isin": "BRSMFT3R0321",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 44300
+    },
     {
       "codigo_opcao": "SMFTE182",
       "isin": "BRSMFT3E0292",
@@ -49,7 +148,7 @@
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 5400,
-      "quantidade_descoberta": 27800,
+      "quantidade_descoberta": 46300,
       "total_posicoes": 326900
     },
     {
@@ -71,8 +170,8 @@
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 5200
+      "quantidade_descoberta": 10900,
+      "total_posicoes": 15300
     },
     {
       "codigo_opcao": "SMFTE197",
@@ -83,7 +182,7 @@
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 231000
+      "total_posicoes": 231100
     },
     {
       "codigo_opcao": "SMFTE199",
@@ -92,9 +191,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 118,
-      "quantidade_coberta": 30000,
+      "quantidade_coberta": 31500,
       "quantidade_descoberta": 4700,
-      "total_posicoes": 36700
+      "total_posicoes": 37700
     },
     {
       "codigo_opcao": "SMFTE202",
@@ -105,7 +204,7 @@
       "contratos_em_aberto": 118,
       "quantidade_coberta": 2000,
       "quantidade_descoberta": 7100,
-      "total_posicoes": 10300
+      "total_posicoes": 10500
     },
     {
       "codigo_opcao": "SMFTE204",
@@ -125,7 +224,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 118,
-      "quantidade_coberta": 400,
+      "quantidade_coberta": 300,
       "quantidade_descoberta": 1100,
       "total_posicoes": 1600
     },
@@ -136,9 +235,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 118,
-      "quantidade_coberta": 1900,
+      "quantidade_coberta": 2100,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2500
+      "total_posicoes": 2700
     },
     {
       "codigo_opcao": "SMFTE212",
@@ -149,7 +248,7 @@
       "contratos_em_aberto": 118,
       "quantidade_coberta": 7000,
       "quantidade_descoberta": 600,
-      "total_posicoes": 37600
+      "total_posicoes": 36600
     },
     {
       "codigo_opcao": "SMFTE214",
@@ -160,7 +259,7 @@
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1000,
-      "total_posicoes": 10100
+      "total_posicoes": 10000
     },
     {
       "codigo_opcao": "SMFTQ182",
@@ -170,7 +269,7 @@
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 203300,
+      "quantidade_descoberta": 203900,
       "total_posicoes": 239800
     },
     {
@@ -182,7 +281,7 @@
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 10200
+      "total_posicoes": 16200
     },
     {
       "codigo_opcao": "SMFTQ187",
@@ -193,7 +292,7 @@
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2700
+      "total_posicoes": 3700
     },
     {
       "codigo_opcao": "SMFTQ189",
@@ -203,8 +302,8 @@
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 18700,
-      "total_posicoes": 27500
+      "quantidade_descoberta": 21400,
+      "total_posicoes": 34200
     },
     {
       "codigo_opcao": "SMFTQ192",
@@ -229,257 +328,147 @@
       "total_posicoes": 8600
     },
     {
-      "codigo_opcao": "SMFTD164",
-      "isin": "BRSMFT3D0293",
+      "codigo_opcao": "SMFTQ197",
+      "isin": "BRSMFT3Q02C8",
       "ativo": "SMFT",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "total_posicoes": 5300
     },
     {
-      "codigo_opcao": "SMFTD169",
-      "isin": "BRSMFT3D0244",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SMFTD174",
-      "isin": "BRSMFT3D0210",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "SMFTD189",
-      "isin": "BRSMFT3D0269",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 5600,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 12200
-    },
-    {
-      "codigo_opcao": "SMFTD244",
-      "isin": "BRSMFT3D02A0",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2400,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "SMFTD274",
-      "isin": "BRSMFT3D02B8",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SMFTP164",
-      "isin": "BRSMFT3P0281",
+      "codigo_opcao": "SMFTQ199",
+      "isin": "BRSMFT3Q0215",
       "ativo": "SMFT",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 10500,
-      "total_posicoes": 23000
+      "quantidade_descoberta": 10100,
+      "total_posicoes": 30400
     },
     {
-      "codigo_opcao": "SMFTP169",
-      "isin": "BRSMFT3P02C0",
+      "codigo_opcao": "SMFTQ204",
+      "isin": "BRSMFT3Q0272",
       "ativo": "SMFT",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 116900,
-      "total_posicoes": 117800
+      "quantidade_descoberta": 23000,
+      "total_posicoes": 26100
     },
     {
-      "codigo_opcao": "SMFTP174",
-      "isin": "BRSMFT3P0257",
+      "codigo_opcao": "SMFTQ207",
+      "isin": "BRSMFT3Q02B0",
       "ativo": "SMFT",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 19600,
-      "total_posicoes": 43700
+      "quantidade_descoberta": 1800,
+      "total_posicoes": 10700
     },
     {
-      "codigo_opcao": "SMFTP244",
-      "isin": "BRSMFT3P0216",
+      "codigo_opcao": "SMFTQ209",
+      "isin": "BRSMFT3Q02A2",
       "ativo": "SMFT",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
+      "quantidade_descoberta": 80000,
+      "total_posicoes": 84000
     },
     {
-      "codigo_opcao": "SMFTS241",
-      "isin": "BRSMFT3S01Z7",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 119,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7700
-    },
-    {
-      "codigo_opcao": "SMFTD215",
-      "isin": "BRSMFT3D01W6",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 1100,
-      "quantidade_descoberta": 29400,
-      "total_posicoes": 31400
-    },
-    {
-      "codigo_opcao": "SMFTD225",
-      "isin": "BRSMFT3D01X4",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1724600
-    },
-    {
-      "codigo_opcao": "SMFTP225",
-      "isin": "BRSMFT3P01W0",
+      "codigo_opcao": "SMFTQ212",
+      "isin": "BRSMFT3Q02D6",
       "ativo": "SMFT",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 2300
-    },
-    {
-      "codigo_opcao": "SMFTQ144",
-      "isin": "BRSMFT3Q02P0",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "SMFTQ154",
-      "isin": "BRSMFT3Q02Q8",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2600,
-      "total_posicoes": 4800
-    },
-    {
-      "codigo_opcao": "SMFTQ159",
-      "isin": "BRSMFT3Q02M7",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 4400
-    },
-    {
-      "codigo_opcao": "SMFTQ164",
-      "isin": "BRSMFT3Q02V8",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 15800,
-      "total_posicoes": 23200
-    },
-    {
-      "codigo_opcao": "SMFTQ169",
-      "isin": "BRSMFT3Q02N5",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 231000,
-      "total_posicoes": 250200
-    },
-    {
-      "codigo_opcao": "SMFTF202",
-      "isin": "BRSMFT3F02P3",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 119,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 30000
-    },
-    {
-      "codigo_opcao": "SMFTF207",
-      "isin": "BRSMFT3F02J6",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 119,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SMFTR147",
-      "isin": "BRSMFT3R02N3",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 119,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 2100
     },
     {
-      "codigo_opcao": "SMFTD190",
-      "isin": "BRSMFT3D0186",
+      "codigo_opcao": "SMFTQ214",
+      "isin": "BRSMFT3Q0280",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "SMFTF188",
+      "isin": "BRSMFT3F0283",
       "ativo": "SMFT",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 113,
+      "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
+      "quantidade_descoberta": 7600,
+      "total_posicoes": 7600
+    },
+    {
+      "codigo_opcao": "SMFTF195",
+      "isin": "BRSMFT3F02A5",
+      "ativo": "SMFT",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 800,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 800
+    },
+    {
+      "codigo_opcao": "SMFTR193",
+      "isin": "BRSMFT3R0297",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 900
+    },
+    {
+      "codigo_opcao": "SMFTR195",
+      "isin": "BRSMFT3R0289",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "SMFTR198",
+      "isin": "BRSMFT3R02A0",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "SMFTR215",
+      "isin": "BRSMFT3R0313",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 27000,
+      "total_posicoes": 27000
     },
     {
       "codigo_opcao": "SMFTF190",
@@ -559,17 +548,6 @@
       "total_posicoes": 10000
     },
     {
-      "codigo_opcao": "SMFTP190",
-      "isin": "BRSMFT3P0182",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 113,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 48800
-    },
-    {
       "codigo_opcao": "SMFTQ190",
       "isin": "BRSMFT3Q01F3",
       "ativo": "SMFT",
@@ -577,8 +555,8 @@
       "semanal": false,
       "contratos_em_aberto": 113,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 7900,
-      "total_posicoes": 34700
+      "quantidade_descoberta": 8400,
+      "total_posicoes": 35600
     },
     {
       "codigo_opcao": "SMFTR162",
@@ -590,6 +568,28 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
       "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "SMFTR177",
+      "isin": "BRSMFT3R02K9",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2600,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "SMFTR182",
+      "isin": "BRSMFT3R02S2",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
     },
     {
       "codigo_opcao": "SMFTR185",
@@ -611,7 +611,7 @@
       "contratos_em_aberto": 113,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 500,
-      "total_posicoes": 2000
+      "total_posicoes": 2200
     },
     {
       "codigo_opcao": "SMFTT19",
@@ -669,336 +669,6 @@
       "total_posicoes": 10000
     },
     {
-      "codigo_opcao": "SMFTR215",
-      "isin": "BRSMFT3R0313",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 119,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27000,
-      "total_posicoes": 27000
-    },
-    {
-      "codigo_opcao": "SMFTD219",
-      "isin": "BRSMFT3D01T2",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 2300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 21200
-    },
-    {
-      "codigo_opcao": "SMFTD229",
-      "isin": "BRSMFT3D01S4",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 2700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7700
-    },
-    {
-      "codigo_opcao": "SMFTD239",
-      "isin": "BRSMFT3D01U0",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4200
-    },
-    {
-      "codigo_opcao": "SMFTD249",
-      "isin": "BRSMFT3D01R6",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "SMFTP219",
-      "isin": "BRSMFT3P01R0",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "SMFTP229",
-      "isin": "BRSMFT3P01Q2",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "SMFTE234",
-      "isin": "BRSMFT3E02J9",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SMFTN174",
-      "isin": "BRSMFT3N02B7",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 15000
-    },
-    {
-      "codigo_opcao": "SMFTQ234",
-      "isin": "BRSMFT3Q02J3",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 5600
-    },
-    {
-      "codigo_opcao": "SMFTL253",
-      "isin": "BRSMFT3L02J4",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "SMFTD287",
-      "isin": "BRSMFT3D01O3",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 458000,
-      "total_posicoes": 458000
-    },
-    {
-      "codigo_opcao": "SMFTD312",
-      "isin": "BRSMFT3D01P0",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 459000,
-      "total_posicoes": 459000
-    },
-    {
-      "codigo_opcao": "SMFTB199",
-      "isin": "BRSMFT3B02C0",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "SMFTD210",
-      "isin": "BRSMFT3D01V8",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 1400,
-      "quantidade_descoberta": 12800,
-      "total_posicoes": 36200
-    },
-    {
-      "codigo_opcao": "SMFTP210",
-      "isin": "BRSMFT3P01V2",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 80000,
-      "total_posicoes": 81100
-    },
-    {
-      "codigo_opcao": "SMFTP215",
-      "isin": "BRSMFT3P01X8",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4400,
-      "total_posicoes": 6500
-    },
-    {
-      "codigo_opcao": "SMFTD184",
-      "isin": "BRSMFT3D0236",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1800,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "SMFTD194",
-      "isin": "BRSMFT3D0277",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 18900,
-      "quantidade_descoberta": 22800,
-      "total_posicoes": 42200
-    },
-    {
-      "codigo_opcao": "SMFTP184",
-      "isin": "BRSMFT3P0224",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 18600,
-      "total_posicoes": 47600
-    },
-    {
-      "codigo_opcao": "SMFTP189",
-      "isin": "BRSMFT3P0273",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1700000,
-      "total_posicoes": 1855700
-    },
-    {
-      "codigo_opcao": "SMFTP194",
-      "isin": "BRSMFT3P0265",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 204500
-    },
-    {
-      "codigo_opcao": "SMFTP234",
-      "isin": "BRSMFT3P0208",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "SMFTE219",
-      "isin": "BRSMFT3E02I1",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2200
-    },
-    {
-      "codigo_opcao": "SMFTE222",
-      "isin": "BRSMFT3E02G5",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3100,
-      "total_posicoes": 3400
-    },
-    {
-      "codigo_opcao": "SMFTE224",
-      "isin": "BRSMFT3E02H3",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "SMFTE229",
-      "isin": "BRSMFT3E02E0",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3300,
-      "total_posicoes": 6700
-    },
-    {
-      "codigo_opcao": "SMFTF228",
-      "isin": "BRSMFT3F0259",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 40000
-    },
-    {
-      "codigo_opcao": "SMFTF238",
-      "isin": "BRSMFT3F0226",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "SMFTQ219",
-      "isin": "BRSMFT3Q02G9",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3000,
-      "total_posicoes": 3100
-    },
-    {
       "codigo_opcao": "SMFTQ224",
       "isin": "BRSMFT3Q02E4",
       "ativo": "SMFT",
@@ -1032,6 +702,116 @@
       "total_posicoes": 1200
     },
     {
+      "codigo_opcao": "SMFTQ175",
+      "isin": "BRSMFT3Q02K1",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 379600
+    },
+    {
+      "codigo_opcao": "SMFTQ144",
+      "isin": "BRSMFT3Q02P0",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3000,
+      "total_posicoes": 3000
+    },
+    {
+      "codigo_opcao": "SMFTQ154",
+      "isin": "BRSMFT3Q02Q8",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2600,
+      "total_posicoes": 4800
+    },
+    {
+      "codigo_opcao": "SMFTQ159",
+      "isin": "BRSMFT3Q02M7",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100500,
+      "total_posicoes": 103100
+    },
+    {
+      "codigo_opcao": "SMFTQ164",
+      "isin": "BRSMFT3Q02V8",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 15800,
+      "total_posicoes": 23200
+    },
+    {
+      "codigo_opcao": "SMFTQ169",
+      "isin": "BRSMFT3Q02N5",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 231000,
+      "total_posicoes": 250200
+    },
+    {
+      "codigo_opcao": "SMFTF202",
+      "isin": "BRSMFT3F02P3",
+      "ativo": "SMFT",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 30000,
+      "total_posicoes": 30000
+    },
+    {
+      "codigo_opcao": "SMFTF207",
+      "isin": "BRSMFT3F02J6",
+      "ativo": "SMFT",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 149300
+    },
+    {
+      "codigo_opcao": "SMFTR147",
+      "isin": "BRSMFT3R02N3",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2100
+    },
+    {
+      "codigo_opcao": "SMFTR212",
+      "isin": "BRSMFT3R02W4",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
+    },
+    {
       "codigo_opcao": "SMFTF193",
       "isin": "BRSMFT3F0291",
       "ativo": "SMFT",
@@ -1039,8 +819,8 @@
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 700
+      "quantidade_descoberta": 9800,
+      "total_posicoes": 10200
     },
     {
       "codigo_opcao": "SMFTF198",
@@ -1050,7 +830,7 @@
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 100,
       "total_posicoes": 100
     },
     {
@@ -1061,124 +841,14 @@
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1700
+      "quantidade_descoberta": 200,
+      "total_posicoes": 5200
     },
     {
-      "codigo_opcao": "SMFTQ197",
-      "isin": "BRSMFT3Q02C8",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 5300
-    },
-    {
-      "codigo_opcao": "SMFTQ199",
-      "isin": "BRSMFT3Q0215",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 20200
-    },
-    {
-      "codigo_opcao": "SMFTQ204",
-      "isin": "BRSMFT3Q0272",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 23000,
-      "total_posicoes": 26100
-    },
-    {
-      "codigo_opcao": "SMFTQ207",
-      "isin": "BRSMFT3Q02B0",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1800,
-      "total_posicoes": 10700
-    },
-    {
-      "codigo_opcao": "SMFTQ209",
-      "isin": "BRSMFT3Q02A2",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "SMFTQ212",
-      "isin": "BRSMFT3Q02D6",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "SMFTQ214",
-      "isin": "BRSMFT3Q0280",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "SMFTF195",
-      "isin": "BRSMFT3F02A5",
+      "codigo_opcao": "SMFTB199",
+      "isin": "BRSMFT3B02C0",
       "ativo": "SMFT",
       "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 800
-    },
-    {
-      "codigo_opcao": "SMFTR193",
-      "isin": "BRSMFT3R0297",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 900
-    },
-    {
-      "codigo_opcao": "SMFTR195",
-      "isin": "BRSMFT3R0289",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "SMFTR198",
-      "isin": "BRSMFT3R02A0",
-      "ativo": "SMFT",
-      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
@@ -1186,59 +856,48 @@
       "total_posicoes": 500
     },
     {
-      "codigo_opcao": "SMFTD200",
-      "isin": "BRSMFT3D01Y2",
+      "codigo_opcao": "SMFTS241",
+      "isin": "BRSMFT3S01Z7",
       "ativo": "SMFT",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 17800,
-      "quantidade_descoberta": 91400,
-      "total_posicoes": 341500
-    },
-    {
-      "codigo_opcao": "SMFTD205",
-      "isin": "BRSMFT3D01Z9",
-      "ativo": "SMFT",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 1100,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 7000
+      "total_posicoes": 7700
     },
     {
-      "codigo_opcao": "SMFTP200",
-      "isin": "BRSMFT3P01Y6",
+      "codigo_opcao": "SMFTE234",
+      "isin": "BRSMFT3E02J9",
       "ativo": "SMFT",
-      "tipo": "Put",
+      "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 109700
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "SMFTP205",
-      "isin": "BRSMFT3P01Z3",
-      "ativo": "SMFT",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 118,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 907700,
-      "total_posicoes": 1758000
-    },
-    {
-      "codigo_opcao": "SMFTQ175",
-      "isin": "BRSMFT3Q02K1",
+      "codigo_opcao": "SMFTN174",
+      "isin": "BRSMFT3N02B7",
       "ativo": "SMFT",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 118,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 379600
+      "total_posicoes": 15000
+    },
+    {
+      "codigo_opcao": "SMFTQ234",
+      "isin": "BRSMFT3Q02J3",
+      "ativo": "SMFT",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 118,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 700,
+      "total_posicoes": 4700
     }
   ]
 }
