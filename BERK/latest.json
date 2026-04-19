@@ -1,24 +1,13 @@
 {
   "ticker": "BERK",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 3,
-  "calls": 2,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 2,
+  "calls": 1,
   "puts": 1,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "BERKQ119",
-      "isin": "BRBERK9Q00I0",
-      "ativo": "BERK",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 101,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10840
-    },
     {
       "codigo_opcao": "BERKL13",
       "isin": "BRBERK9L00E0",
@@ -31,15 +20,15 @@
       "total_posicoes": 2000
     },
     {
-      "codigo_opcao": "BERKD131",
-      "isin": "BRBERK9D00J6",
+      "codigo_opcao": "BERKQ119",
+      "isin": "BRBERK9Q00I0",
       "ativo": "BERK",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 101,
-      "quantidade_coberta": 1100,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2650
+      "total_posicoes": 10840
     }
   ]
 }
