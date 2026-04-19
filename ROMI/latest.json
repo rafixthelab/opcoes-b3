@@ -1,156 +1,13 @@
 {
   "ticker": "ROMI",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 60,
-  "calls": 32,
-  "puts": 28,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 47,
+  "calls": 25,
+  "puts": 22,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "ROMIA140",
-      "isin": "BRROMI3A01K0",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14300
-    },
-    {
-      "codigo_opcao": "ROMIA90",
-      "isin": "BRROMI3A01I4",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 2400,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 6300
-    },
-    {
-      "codigo_opcao": "ROMIB140",
-      "isin": "BRROMI3B00S3",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 18300
-    },
-    {
-      "codigo_opcao": "ROMIB150",
-      "isin": "BRROMI3B00T1",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8600
-    },
-    {
-      "codigo_opcao": "ROMIB90",
-      "isin": "BRROMI3B00R5",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 7700
-    },
-    {
-      "codigo_opcao": "ROMID900",
-      "isin": "BRROMI3D00N0",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 5900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6200
-    },
-    {
-      "codigo_opcao": "ROMIE90",
-      "isin": "BRROMI3E00Z2",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 2100,
-      "quantidade_descoberta": 20200,
-      "total_posicoes": 23100
-    },
-    {
-      "codigo_opcao": "ROMIG90",
-      "isin": "BRROMI3G00T0",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "ROMIH90",
-      "isin": "BRROMI3H0163",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4300
-    },
-    {
-      "codigo_opcao": "ROMII90",
-      "isin": "BRROMI3I0170",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ROMIJ90",
-      "isin": "BRROMI3J0153",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ROMIK150",
-      "isin": "BRROMI3K0267",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 2800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4300
-    },
-    {
-      "codigo_opcao": "ROMIK90",
-      "isin": "BRROMI3K0242",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
     {
       "codigo_opcao": "ROMIE700",
       "isin": "BRROMI3E01G0",
@@ -169,9 +26,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 201,
-      "quantidade_coberta": 5400,
-      "quantidade_descoberta": 4500,
-      "total_posicoes": 118300
+      "quantidade_coberta": 6000,
+      "quantidade_descoberta": 4800,
+      "total_posicoes": 119900
     },
     {
       "codigo_opcao": "ROMIQ700",
@@ -182,7 +39,7 @@
       "contratos_em_aberto": 201,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 45000
+      "total_posicoes": 48400
     },
     {
       "codigo_opcao": "ROMIQ900",
@@ -193,271 +50,7 @@
       "contratos_em_aberto": 201,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2400
-    },
-    {
-      "codigo_opcao": "ROMIF700",
-      "isin": "BRROMI3F02B6",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3200
-    },
-    {
-      "codigo_opcao": "ROMIL90",
-      "isin": "BRROMI3L01O9",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1500
-    },
-    {
-      "codigo_opcao": "ROMIM90",
-      "isin": "BRROMI3M01I9",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5100
-    },
-    {
-      "codigo_opcao": "ROMIN90",
-      "isin": "BRROMI3N00R0",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "ROMIP900",
-      "isin": "BRROMI3P00N4",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8400
-    },
-    {
-      "codigo_opcao": "ROMIQ90",
-      "isin": "BRROMI3Q00Z6",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "ROMIR90",
-      "isin": "BRROMI3R01L2",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6300
-    },
-    {
-      "codigo_opcao": "ROMIS90",
-      "isin": "BRROMI3S00T5",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4300
-    },
-    {
-      "codigo_opcao": "ROMIT90",
-      "isin": "BRROMI3T0169",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 32300
-    },
-    {
-      "codigo_opcao": "ROMIU90",
-      "isin": "BRROMI3U0174",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 197,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "ROMID720",
-      "isin": "BRROMI3D0118",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 1100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "ROMID920",
-      "isin": "BRROMI3D0126",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "ROMIP720",
-      "isin": "BRROMI3P0114",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 45400
-    },
-    {
-      "codigo_opcao": "ROMIP920",
-      "isin": "BRROMI3P0122",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "ROMID780",
-      "isin": "BRROMI3D0183",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 5900,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "ROMID820",
-      "isin": "BRROMI3D0175",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 9400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 9400
-    },
-    {
-      "codigo_opcao": "ROMIE780",
-      "isin": "BRROMI3E01J4",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 7000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11500
-    },
-    {
-      "codigo_opcao": "ROMIE820",
-      "isin": "BRROMI3E01K2",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 4300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 17400
-    },
-    {
-      "codigo_opcao": "ROMIP820",
-      "isin": "BRROMI3P0189",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ROMIQ68",
-      "isin": "BRROMI3Q01I0",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 30500
-    },
-    {
-      "codigo_opcao": "ROMIQ780",
-      "isin": "BRROMI3Q01K6",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14100
-    },
-    {
-      "codigo_opcao": "ROMIQ820",
-      "isin": "BRROMI3Q01J8",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "ROMID740",
-      "isin": "BRROMI3D0191",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "ROMID76",
-      "isin": "BRROMI3D01D9",
-      "ativo": "ROMI",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2400
+      "total_posicoes": 3000
     },
     {
       "codigo_opcao": "ROMIE720",
@@ -466,9 +59,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 1000,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1000
+      "total_posicoes": 1200
     },
     {
       "codigo_opcao": "ROMIE740",
@@ -478,7 +71,7 @@
       "semanal": false,
       "contratos_em_aberto": 201,
       "quantidade_coberta": 600,
-      "quantidade_descoberta": 1400,
+      "quantidade_descoberta": 1300,
       "total_posicoes": 2200
     },
     {
@@ -488,7 +81,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 201,
-      "quantidade_coberta": 10700,
+      "quantidade_coberta": 13600,
       "quantidade_descoberta": 0,
       "total_posicoes": 13600
     },
@@ -499,7 +92,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 201,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 3100,
       "quantidade_descoberta": 0,
       "total_posicoes": 3100
     },
@@ -515,39 +108,6 @@
       "total_posicoes": 700
     },
     {
-      "codigo_opcao": "ROMIP68",
-      "isin": "BRROMI3P01C5",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "ROMIP700",
-      "isin": "BRROMI3P0197",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 28800
-    },
-    {
-      "codigo_opcao": "ROMIP740",
-      "isin": "BRROMI3P01B7",
-      "ativo": "ROMI",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 201,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
-    },
-    {
       "codigo_opcao": "ROMIQ620",
       "isin": "BRROMI3Q01O8",
       "ativo": "ROMI",
@@ -557,6 +117,17 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 19300,
       "total_posicoes": 21100
+    },
+    {
+      "codigo_opcao": "ROMIQ660",
+      "isin": "BRROMI3Q01N0",
+      "ativo": "ROMI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 201,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
     },
     {
       "codigo_opcao": "ROMIQ720",
@@ -625,6 +196,292 @@
       "total_posicoes": 2800
     },
     {
+      "codigo_opcao": "ROMIF700",
+      "isin": "BRROMI3F02B6",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 201,
+      "quantidade_coberta": 3200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3200
+    },
+    {
+      "codigo_opcao": "ROMIA140",
+      "isin": "BRROMI3A01K0",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 1000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 14300
+    },
+    {
+      "codigo_opcao": "ROMIA90",
+      "isin": "BRROMI3A01I4",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 2400,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 6300
+    },
+    {
+      "codigo_opcao": "ROMIB140",
+      "isin": "BRROMI3B00S3",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 18300
+    },
+    {
+      "codigo_opcao": "ROMIB150",
+      "isin": "BRROMI3B00T1",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10700
+    },
+    {
+      "codigo_opcao": "ROMIB90",
+      "isin": "BRROMI3B00R5",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7700
+    },
+    {
+      "codigo_opcao": "ROMIE90",
+      "isin": "BRROMI3E00Z2",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 2100,
+      "quantidade_descoberta": 20200,
+      "total_posicoes": 23100
+    },
+    {
+      "codigo_opcao": "ROMIG90",
+      "isin": "BRROMI3G00T0",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "ROMIH90",
+      "isin": "BRROMI3H0163",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 4300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4300
+    },
+    {
+      "codigo_opcao": "ROMII90",
+      "isin": "BRROMI3I0170",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ROMIJ90",
+      "isin": "BRROMI3J0153",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "ROMIK150",
+      "isin": "BRROMI3K0267",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 2800,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4300
+    },
+    {
+      "codigo_opcao": "ROMIK90",
+      "isin": "BRROMI3K0242",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "ROMIL90",
+      "isin": "BRROMI3L01O9",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 2000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "ROMIM90",
+      "isin": "BRROMI3M01I9",
+      "ativo": "ROMI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5100
+    },
+    {
+      "codigo_opcao": "ROMIN90",
+      "isin": "BRROMI3N00R0",
+      "ativo": "ROMI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "ROMIQ90",
+      "isin": "BRROMI3Q00Z6",
+      "ativo": "ROMI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
+    },
+    {
+      "codigo_opcao": "ROMIR90",
+      "isin": "BRROMI3R01L2",
+      "ativo": "ROMI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6300
+    },
+    {
+      "codigo_opcao": "ROMIS90",
+      "isin": "BRROMI3S00T5",
+      "ativo": "ROMI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4300
+    },
+    {
+      "codigo_opcao": "ROMIT90",
+      "isin": "BRROMI3T0169",
+      "ativo": "ROMI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 32300
+    },
+    {
+      "codigo_opcao": "ROMIU90",
+      "isin": "BRROMI3U0174",
+      "ativo": "ROMI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 197,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "ROMIE780",
+      "isin": "BRROMI3E01J4",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 201,
+      "quantidade_coberta": 10500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 11500
+    },
+    {
+      "codigo_opcao": "ROMIE820",
+      "isin": "BRROMI3E01K2",
+      "ativo": "ROMI",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 201,
+      "quantidade_coberta": 4300,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 17400
+    },
+    {
+      "codigo_opcao": "ROMIQ68",
+      "isin": "BRROMI3Q01I0",
+      "ativo": "ROMI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 201,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 30500
+    },
+    {
+      "codigo_opcao": "ROMIQ780",
+      "isin": "BRROMI3Q01K6",
+      "ativo": "ROMI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 201,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 14100
+    },
+    {
+      "codigo_opcao": "ROMIQ820",
+      "isin": "BRROMI3Q01J8",
+      "ativo": "ROMI",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 201,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
       "codigo_opcao": "ROMIO76",
       "isin": "BRROMI3O01O3",
       "ativo": "ROMI",
@@ -633,7 +490,7 @@
       "contratos_em_aberto": 201,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 500
+      "total_posicoes": 1000
     },
     {
       "codigo_opcao": "ROMIR680",
