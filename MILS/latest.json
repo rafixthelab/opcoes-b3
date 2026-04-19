@@ -1,56 +1,78 @@
 {
   "ticker": "MILS",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 57,
-  "calls": 29,
-  "puts": 28,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 42,
+  "calls": 22,
+  "puts": 20,
   "semanais": 0,
   "opcoes": [
     {
-      "codigo_opcao": "MILSD129",
-      "isin": "BRMILS3D04C7",
+      "codigo_opcao": "MILSI163",
+      "isin": "BRMILS3I0596",
+      "ativo": "MILS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 131,
+      "quantidade_coberta": 22000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 25300
+    },
+    {
+      "codigo_opcao": "MILSU11",
+      "isin": "BRMILS3U0574",
+      "ativo": "MILS",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 131,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 20000,
+      "total_posicoes": 20000
+    },
+    {
+      "codigo_opcao": "MILSU12",
+      "isin": "BRMILS3U0582",
+      "ativo": "MILS",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 131,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 20000,
+      "total_posicoes": 20500
+    },
+    {
+      "codigo_opcao": "MILSF142",
+      "isin": "BRMILS3F0490",
       "ativo": "MILS",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 132,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3000
     },
     {
-      "codigo_opcao": "MILSD149",
-      "isin": "BRMILS3D04D5",
+      "codigo_opcao": "MILSF147",
+      "isin": "BRMILS3F0482",
       "ativo": "MILS",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 132,
-      "quantidade_coberta": 200,
+      "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 9000
+      "total_posicoes": 100
     },
     {
-      "codigo_opcao": "MILSP129",
-      "isin": "BRMILS3P04C1",
+      "codigo_opcao": "MILSR142",
+      "isin": "BRMILS3R0496",
       "ativo": "MILS",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 132,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MILSP149",
-      "isin": "BRMILS3P04D9",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 2300
+      "total_posicoes": 3000
     },
     {
       "codigo_opcao": "MILSE142",
@@ -61,7 +83,7 @@
       "contratos_em_aberto": 132,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 2209000
+      "total_posicoes": 2211000
     },
     {
       "codigo_opcao": "MILSE147",
@@ -81,9 +103,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 132,
-      "quantidade_coberta": 2700,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 414700
+      "quantidade_coberta": 2600,
+      "quantidade_descoberta": 5600,
+      "total_posicoes": 415900
     },
     {
       "codigo_opcao": "MILSE152",
@@ -141,6 +163,149 @@
       "total_posicoes": 100
     },
     {
+      "codigo_opcao": "MILSE135",
+      "isin": "BRMILS3E03N4",
+      "ativo": "MILS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "MILSE145",
+      "isin": "BRMILS3E03L8",
+      "ativo": "MILS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 4500,
+      "total_posicoes": 9900
+    },
+    {
+      "codigo_opcao": "MILSE155",
+      "isin": "BRMILS3E03J2",
+      "ativo": "MILS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "MILSF139",
+      "isin": "BRMILS3F03Z5",
+      "ativo": "MILS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "MILSF144",
+      "isin": "BRMILS3F03Y8",
+      "ativo": "MILS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7000
+    },
+    {
+      "codigo_opcao": "MILSF154",
+      "isin": "BRMILS3F0466",
+      "ativo": "MILS",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "MILSQ120",
+      "isin": "BRMILS3Q03H0",
+      "ativo": "MILS",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "MILSQ130",
+      "isin": "BRMILS3Q03O6",
+      "ativo": "MILS",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 11300
+    },
+    {
+      "codigo_opcao": "MILSQ135",
+      "isin": "BRMILS3Q03N8",
+      "ativo": "MILS",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 19300
+    },
+    {
+      "codigo_opcao": "MILSQ145",
+      "isin": "BRMILS3Q03M0",
+      "ativo": "MILS",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 700,
+      "total_posicoes": 4300
+    },
+    {
+      "codigo_opcao": "MILSR134",
+      "isin": "BRMILS3R0454",
+      "ativo": "MILS",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12400
+    },
+    {
+      "codigo_opcao": "MILSR139",
+      "isin": "BRMILS3R0439",
+      "ativo": "MILS",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "MILSR144",
+      "isin": "BRMILS3R03Z0",
+      "ativo": "MILS",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 132,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 7000
+    },
+    {
       "codigo_opcao": "MILSE132",
       "isin": "BRMILS3E03F0",
       "ativo": "MILS",
@@ -159,7 +324,7 @@
       "semanal": false,
       "contratos_em_aberto": 132,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
+      "quantidade_descoberta": 300,
       "total_posicoes": 500
     },
     {
@@ -169,7 +334,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 132,
-      "quantidade_coberta": 6800,
+      "quantidade_coberta": 7100,
       "quantidade_descoberta": 13700,
       "total_posicoes": 21700
     },
@@ -192,8 +357,8 @@
       "semanal": false,
       "contratos_em_aberto": 132,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 600
+      "quantidade_descoberta": 500,
+      "total_posicoes": 800
     },
     {
       "codigo_opcao": "MILSQ157",
@@ -207,39 +372,6 @@
       "total_posicoes": 1000
     },
     {
-      "codigo_opcao": "MILSI163",
-      "isin": "BRMILS3I0596",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 131,
-      "quantidade_coberta": 22000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 25300
-    },
-    {
-      "codigo_opcao": "MILSU11",
-      "isin": "BRMILS3U0574",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 131,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20000,
-      "total_posicoes": 20000
-    },
-    {
-      "codigo_opcao": "MILSU12",
-      "isin": "BRMILS3U0582",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 131,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20000,
-      "total_posicoes": 20500
-    },
-    {
       "codigo_opcao": "MILSB90",
       "isin": "BRMILS3B02U7",
       "ativo": "MILS",
@@ -249,83 +381,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "MILSD140",
-      "isin": "BRMILS3D03Q9",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 51000,
-      "total_posicoes": 51000
-    },
-    {
-      "codigo_opcao": "MILSD145",
-      "isin": "BRMILS3D0401",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 15600,
-      "total_posicoes": 16600
-    },
-    {
-      "codigo_opcao": "MILSD150",
-      "isin": "BRMILS3D03K2",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 5700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6400
-    },
-    {
-      "codigo_opcao": "MILSD155",
-      "isin": "BRMILS3D03R7",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 7500
-    },
-    {
-      "codigo_opcao": "MILSD160",
-      "isin": "BRMILS3D03S5",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "MILSD165",
-      "isin": "BRMILS3D0443",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6800,
-      "total_posicoes": 6800
-    },
-    {
-      "codigo_opcao": "MILSD175",
-      "isin": "BRMILS3D0427",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 800
     },
     {
       "codigo_opcao": "MILSE900",
@@ -357,8 +412,8 @@
       "semanal": false,
       "contratos_em_aberto": 130,
       "quantidade_coberta": 186400,
-      "quantidade_descoberta": 800,
-      "total_posicoes": 1109800
+      "quantidade_descoberta": 3900,
+      "total_posicoes": 1107900
     },
     {
       "codigo_opcao": "MILSG900",
@@ -370,72 +425,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MILSP135",
-      "isin": "BRMILS3P03J8",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "MILSP140",
-      "isin": "BRMILS3P03L4",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "MILSP145",
-      "isin": "BRMILS3P03X9",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2300
-    },
-    {
-      "codigo_opcao": "MILSP150",
-      "isin": "BRMILS3P0415",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 1900
-    },
-    {
-      "codigo_opcao": "MILSP155",
-      "isin": "BRMILS3P03W1",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MILSP160",
-      "isin": "BRMILS3P03O8",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 130,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 3100
     },
     {
       "codigo_opcao": "MILSR10",
@@ -457,7 +446,7 @@
       "contratos_em_aberto": 130,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3000
+      "total_posicoes": 4600
     },
     {
       "codigo_opcao": "MILSR875",
@@ -480,160 +469,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MILSD139",
-      "isin": "BRMILS3D04E3",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 33100
-    },
-    {
-      "codigo_opcao": "MILSD144",
-      "isin": "BRMILS3D04I4",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 2500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10800
-    },
-    {
-      "codigo_opcao": "MILSE135",
-      "isin": "BRMILS3E03N4",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "MILSE145",
-      "isin": "BRMILS3E03L8",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 9900
-    },
-    {
-      "codigo_opcao": "MILSE155",
-      "isin": "BRMILS3E03J2",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "MILSF154",
-      "isin": "BRMILS3F0466",
-      "ativo": "MILS",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MILSP114",
-      "isin": "BRMILS3P04E7",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MILSP119",
-      "isin": "BRMILS3P04L2",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "MILSP139",
-      "isin": "BRMILS3P04K4",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "MILSP144",
-      "isin": "BRMILS3P04H0",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2500,
-      "total_posicoes": 8000
-    },
-    {
-      "codigo_opcao": "MILSQ120",
-      "isin": "BRMILS3Q03H0",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "MILSQ130",
-      "isin": "BRMILS3Q03O6",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 11200
-    },
-    {
-      "codigo_opcao": "MILSQ135",
-      "isin": "BRMILS3Q03N8",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2900,
-      "total_posicoes": 19300
-    },
-    {
-      "codigo_opcao": "MILSQ145",
-      "isin": "BRMILS3Q03M0",
-      "ativo": "MILS",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 132,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 4300
     }
   ]
 }
