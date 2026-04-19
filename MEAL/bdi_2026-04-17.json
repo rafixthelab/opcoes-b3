@@ -1,0 +1,89 @@
+{
+  "ticker": "MEAL",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 7,
+  "calls": 5,
+  "puts": 2,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "MEALA280",
+      "isin": "BRMEAL3A01E9",
+      "ativo": "MEAL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "MEALA340",
+      "isin": "BRMEAL3A01F6",
+      "ativo": "MEAL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "MEALB340",
+      "isin": "BRMEAL3B01L2",
+      "ativo": "MEAL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "MEALC280",
+      "isin": "BRMEAL3C01U1",
+      "ativo": "MEAL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 600
+    },
+    {
+      "codigo_opcao": "MEALC340",
+      "isin": "BRMEAL3C01V9",
+      "ativo": "MEAL",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "MEALX280",
+      "isin": "BRMEAL3X01O0",
+      "ativo": "MEAL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 140000
+    },
+    {
+      "codigo_opcao": "MEALX320",
+      "isin": "BRMEAL3X01N2",
+      "ativo": "MEAL",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 105,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 20000
+    }
+  ]
+}
