@@ -1,486 +1,13 @@
 {
   "ticker": "ANIM",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 140,
-  "calls": 68,
-  "puts": 72,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 94,
+  "calls": 47,
+  "puts": 47,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "ANIMD470",
-      "isin": "BRANIM3D0454",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 45700
-    },
-    {
-      "codigo_opcao": "ANIMD50",
-      "isin": "BRANIM3D0447",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 26400
-    },
-    {
-      "codigo_opcao": "ANIMP470",
-      "isin": "BRANIM3P0443",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1700,
-      "total_posicoes": 1700
-    },
-    {
-      "codigo_opcao": "ANIMD345",
-      "isin": "BRANIM3D04H4",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 900
-    },
-    {
-      "codigo_opcao": "ANIMD355",
-      "isin": "BRANIM3D04A9",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 700
-    },
-    {
-      "codigo_opcao": "ANIMD375",
-      "isin": "BRANIM3D04O0",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 1100
-    },
-    {
-      "codigo_opcao": "ANIMD385",
-      "isin": "BRANIM3D04N2",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "ANIMD395",
-      "isin": "BRANIM3D04C5",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8100
-    },
-    {
-      "codigo_opcao": "ANIMD425",
-      "isin": "BRANIM3D04K8",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 50100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 52400
-    },
-    {
-      "codigo_opcao": "ANIMD405",
-      "isin": "BRANIM3D0405",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5500,
-      "total_posicoes": 5500
-    },
-    {
-      "codigo_opcao": "ANIMD415",
-      "isin": "BRANIM3D0413",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 25700,
-      "total_posicoes": 25800
-    },
-    {
-      "codigo_opcao": "ANIMD435",
-      "isin": "BRANIM3D0421",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 32100,
-      "quantidade_descoberta": 7300,
-      "total_posicoes": 205600
-    },
-    {
-      "codigo_opcao": "ANIMD485",
-      "isin": "BRANIM3D0439",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 28300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 130400
-    },
-    {
-      "codigo_opcao": "ANIMP405",
-      "isin": "BRANIM3P0419",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 22100
-    },
-    {
-      "codigo_opcao": "ANIMP415",
-      "isin": "BRANIM3P0401",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 67000
-    },
-    {
-      "codigo_opcao": "ANIMP435",
-      "isin": "BRANIM3P0427",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 99100
-    },
-    {
-      "codigo_opcao": "ANIMP485",
-      "isin": "BRANIM3P0435",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 21000,
-      "total_posicoes": 21100
-    },
-    {
-      "codigo_opcao": "ANIME465",
-      "isin": "BRANIM3E05C0",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 9000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 38900
-    },
-    {
-      "codigo_opcao": "ANIME475",
-      "isin": "BRANIM3E05G1",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1600
-    },
-    {
-      "codigo_opcao": "ANIME485",
-      "isin": "BRANIM3E04Y7",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6300,
-      "total_posicoes": 58600
-    },
-    {
-      "codigo_opcao": "ANIME495",
-      "isin": "BRANIM3E04U5",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 3100,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 8100
-    },
-    {
-      "codigo_opcao": "ANIME510",
-      "isin": "BRANIM3E04T7",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 44000,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 45300
-    },
-    {
-      "codigo_opcao": "ANIME530",
-      "isin": "BRANIM3E04X9",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 2000,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "ANIME550",
-      "isin": "BRANIM3E0529",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "ANIME570",
-      "isin": "BRANIM3E05I7",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6500
-    },
-    {
-      "codigo_opcao": "ANIME590",
-      "isin": "BRANIM3E0552",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12100
-    },
-    {
-      "codigo_opcao": "ANIMQ285",
-      "isin": "BRANIM3Q0590",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "ANIMQ295",
-      "isin": "BRANIM3Q0533",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "ANIMQ305",
-      "isin": "BRANIM3Q04Y1",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "ANIMQ315",
-      "isin": "BRANIM3Q04S3",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "ANIMQ325",
-      "isin": "BRANIM3Q05I1",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 10000
-    },
-    {
-      "codigo_opcao": "ANIMQ355",
-      "isin": "BRANIM3Q0582",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "ANIMQ365",
-      "isin": "BRANIM3Q05N1",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10000,
-      "total_posicoes": 37500
-    },
-    {
-      "codigo_opcao": "ANIMQ375",
-      "isin": "BRANIM3Q04T1",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 20600
-    },
-    {
-      "codigo_opcao": "ANIMQ385",
-      "isin": "BRANIM3Q05C4",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 89500
-    },
-    {
-      "codigo_opcao": "ANIMQ445",
-      "isin": "BRANIM3Q05M3",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
-      "total_posicoes": 48100
-    },
-    {
-      "codigo_opcao": "ANIMQ455",
-      "isin": "BRANIM3Q05F7",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 522000
-    },
-    {
-      "codigo_opcao": "ANIMQ465",
-      "isin": "BRANIM3Q05G5",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 41000
-    },
-    {
-      "codigo_opcao": "ANIMQ475",
-      "isin": "BRANIM3Q05H3",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 29000
-    },
-    {
-      "codigo_opcao": "ANIMQ485",
-      "isin": "BRANIM3Q0525",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 49000
-    },
-    {
-      "codigo_opcao": "ANIMQ495",
-      "isin": "BRANIM3Q05K7",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5600
-    },
-    {
-      "codigo_opcao": "ANIMQ510",
-      "isin": "BRANIM3Q0566",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14200
-    },
-    {
-      "codigo_opcao": "ANIMQ550",
-      "isin": "BRANIM3Q04Z8",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 8500
-    },
     {
       "codigo_opcao": "ANIMA20",
       "isin": "BRANIM3A03S9",
@@ -566,8 +93,30 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 2600,
+      "quantidade_descoberta": 15000,
       "total_posicoes": 15000
+    },
+    {
+      "codigo_opcao": "ANIMF435",
+      "isin": "BRANIM3F0502",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "ANIMF455",
+      "isin": "BRANIM3F0528",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
     },
     {
       "codigo_opcao": "ANIMF465",
@@ -577,7 +126,7 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
+      "quantidade_descoberta": 1500,
       "total_posicoes": 1500
     },
     {
@@ -598,9 +147,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 6000,
+      "quantidade_coberta": 49000,
       "quantidade_descoberta": 1000,
-      "total_posicoes": 9000
+      "total_posicoes": 62900
     },
     {
       "codigo_opcao": "ANIMF540",
@@ -611,7 +160,7 @@
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 71800
+      "total_posicoes": 71300
     },
     {
       "codigo_opcao": "ANIMF600",
@@ -753,7 +302,7 @@
       "semanal": false,
       "contratos_em_aberto": 109,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 400,
+      "quantidade_descoberta": 600,
       "total_posicoes": 38000
     },
     {
@@ -766,17 +315,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 100,
       "total_posicoes": 2600
-    },
-    {
-      "codigo_opcao": "ANIMP200",
-      "isin": "BRANIM3P02A7",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 109,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
     },
     {
       "codigo_opcao": "ANIMQ20",
@@ -900,6 +438,17 @@
       "total_posicoes": 300
     },
     {
+      "codigo_opcao": "ANIMS125",
+      "isin": "BRANIM3S04X9",
+      "ativo": "ANIM",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 5000
+    },
+    {
       "codigo_opcao": "ANIMX685",
       "isin": "BRANIM3X06F1",
       "ativo": "ANIM",
@@ -988,17 +537,6 @@
       "total_posicoes": 22000
     },
     {
-      "codigo_opcao": "ANIMS125",
-      "isin": "BRANIM3S04X9",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
       "codigo_opcao": "ANIMA480",
       "isin": "BRANIM3A0523",
       "ativo": "ANIM",
@@ -1032,6 +570,28 @@
       "total_posicoes": 17800
     },
     {
+      "codigo_opcao": "ANIME560",
+      "isin": "BRANIM3E04M2",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 880100
+    },
+    {
+      "codigo_opcao": "ANIMQ560",
+      "isin": "BRANIM3Q04M6",
+      "ativo": "ANIM",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1800
+    },
+    {
       "codigo_opcao": "ANIME400",
       "isin": "BRANIM3E04N0",
       "ativo": "ANIM",
@@ -1061,8 +621,8 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 22900,
-      "total_posicoes": 29100
+      "quantidade_descoberta": 18700,
+      "total_posicoes": 24900
     },
     {
       "codigo_opcao": "ANIME430",
@@ -1071,9 +631,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6100,
-      "total_posicoes": 71200
+      "quantidade_coberta": 600,
+      "quantidade_descoberta": 18900,
+      "total_posicoes": 69700
     },
     {
       "codigo_opcao": "ANIMQ390",
@@ -1084,7 +644,7 @@
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 12200
+      "total_posicoes": 12300
     },
     {
       "codigo_opcao": "ANIMQ400",
@@ -1105,8 +665,8 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1100,
-      "total_posicoes": 11700
+      "quantidade_descoberta": 800,
+      "total_posicoes": 11400
     },
     {
       "codigo_opcao": "ANIMQ420",
@@ -1128,62 +688,29 @@
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 8400,
-      "total_posicoes": 12500
+      "total_posicoes": 11700
     },
     {
-      "codigo_opcao": "ANIME560",
-      "isin": "BRANIM3E04M2",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1059600
-    },
-    {
-      "codigo_opcao": "ANIMQ560",
-      "isin": "BRANIM3Q04M6",
+      "codigo_opcao": "ANIMR305",
+      "isin": "BRANIM3R0557",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 1800
+      "total_posicoes": 5000
     },
     {
-      "codigo_opcao": "ANIMD490",
-      "isin": "BRANIM3D0462",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 14200
-    },
-    {
-      "codigo_opcao": "ANIMP490",
-      "isin": "BRANIM3P0450",
+      "codigo_opcao": "ANIMR365",
+      "isin": "BRANIM3R05L3",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3000
-    },
-    {
-      "codigo_opcao": "ANIMP50",
-      "isin": "BRANIM3P0468",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5600,
-      "total_posicoes": 5600
+      "total_posicoes": 4500
     },
     {
       "codigo_opcao": "ANIME345",
@@ -1214,7 +741,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 10100,
+      "quantidade_coberta": 14700,
       "quantidade_descoberta": 0,
       "total_posicoes": 25700
     },
@@ -1227,11 +754,132 @@
       "contratos_em_aberto": 110,
       "quantidade_coberta": 100,
       "quantidade_descoberta": 200,
-      "total_posicoes": 89200
+      "total_posicoes": 125900
     },
     {
-      "codigo_opcao": "ANIMR305",
-      "isin": "BRANIM3R0557",
+      "codigo_opcao": "ANIME465",
+      "isin": "BRANIM3E05C0",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 9000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 38200
+    },
+    {
+      "codigo_opcao": "ANIME475",
+      "isin": "BRANIM3E05G1",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 10600
+    },
+    {
+      "codigo_opcao": "ANIME485",
+      "isin": "BRANIM3E04Y7",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6300,
+      "total_posicoes": 85500
+    },
+    {
+      "codigo_opcao": "ANIME495",
+      "isin": "BRANIM3E04U5",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 12600,
+      "quantidade_descoberta": 1100,
+      "total_posicoes": 18900
+    },
+    {
+      "codigo_opcao": "ANIME510",
+      "isin": "BRANIM3E04T7",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 2000,
+      "quantidade_descoberta": 6800,
+      "total_posicoes": 19500
+    },
+    {
+      "codigo_opcao": "ANIME530",
+      "isin": "BRANIM3E04X9",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 2700,
+      "quantidade_descoberta": 2000,
+      "total_posicoes": 5500
+    },
+    {
+      "codigo_opcao": "ANIME550",
+      "isin": "BRANIM3E0529",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "ANIME570",
+      "isin": "BRANIM3E05I7",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6500
+    },
+    {
+      "codigo_opcao": "ANIME590",
+      "isin": "BRANIM3E0552",
+      "ativo": "ANIM",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12100
+    },
+    {
+      "codigo_opcao": "ANIMQ285",
+      "isin": "BRANIM3Q0590",
+      "ativo": "ANIM",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4000
+    },
+    {
+      "codigo_opcao": "ANIMQ295",
+      "isin": "BRANIM3Q0533",
+      "ativo": "ANIM",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1000,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "ANIMQ305",
+      "isin": "BRANIM3Q04Y1",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
@@ -1241,206 +889,151 @@
       "total_posicoes": 5000
     },
     {
-      "codigo_opcao": "ANIMR365",
-      "isin": "BRANIM3R05L3",
+      "codigo_opcao": "ANIMQ315",
+      "isin": "BRANIM3Q04S3",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 4500
+      "total_posicoes": 6000
     },
     {
-      "codigo_opcao": "ANIMD480",
-      "isin": "BRANIM3D03X3",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 33700
-    },
-    {
-      "codigo_opcao": "ANIMP480",
-      "isin": "BRANIM3P03X7",
+      "codigo_opcao": "ANIMQ325",
+      "isin": "BRANIM3Q05I1",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 8000,
-      "total_posicoes": 58000
-    },
-    {
-      "codigo_opcao": "ANIMD500",
-      "isin": "BRANIM3D03Y1",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 6400,
       "quantidade_descoberta": 0,
-      "total_posicoes": 285000
+      "total_posicoes": 10000
     },
     {
-      "codigo_opcao": "ANIMD570",
-      "isin": "BRANIM3D03Z8",
+      "codigo_opcao": "ANIMQ355",
+      "isin": "BRANIM3Q0582",
       "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 6500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 319100
-    },
-    {
-      "codigo_opcao": "ANIMD445",
-      "isin": "BRANIM3D04J0",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 134900,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 168500
-    },
-    {
-      "codigo_opcao": "ANIMD455",
-      "isin": "BRANIM3D04M4",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 36700,
-      "quantidade_descoberta": 42800,
-      "total_posicoes": 86800
-    },
-    {
-      "codigo_opcao": "ANIMD465",
-      "isin": "BRANIM3D0496",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 12100,
-      "quantidade_descoberta": 17800,
-      "total_posicoes": 46300
-    },
-    {
-      "codigo_opcao": "ANIMD510",
-      "isin": "BRANIM3D04E1",
-      "ativo": "ANIM",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1000,
-      "total_posicoes": 6100
+      "total_posicoes": 3000
     },
     {
-      "codigo_opcao": "ANIMD530",
-      "isin": "BRANIM3D04G6",
+      "codigo_opcao": "ANIMQ365",
+      "isin": "BRANIM3Q05N1",
       "ativo": "ANIM",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 34600
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 10000,
+      "total_posicoes": 37500
     },
     {
-      "codigo_opcao": "ANIMD550",
-      "isin": "BRANIM3D04D3",
+      "codigo_opcao": "ANIMQ375",
+      "isin": "BRANIM3Q04T1",
       "ativo": "ANIM",
-      "tipo": "Call",
+      "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 500,
+      "total_posicoes": 20600
     },
     {
-      "codigo_opcao": "ANIMD590",
-      "isin": "BRANIM3D04I2",
-      "ativo": "ANIM",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 2800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 83100
-    },
-    {
-      "codigo_opcao": "ANIMP305",
-      "isin": "BRANIM3P0484",
+      "codigo_opcao": "ANIMQ385",
+      "isin": "BRANIM3Q05C4",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 302000
+      "total_posicoes": 69500
     },
     {
-      "codigo_opcao": "ANIMP315",
-      "isin": "BRANIM3P04B1",
+      "codigo_opcao": "ANIMQ445",
+      "isin": "BRANIM3Q05M3",
+      "ativo": "ANIM",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 300,
+      "total_posicoes": 47800
+    },
+    {
+      "codigo_opcao": "ANIMQ455",
+      "isin": "BRANIM3Q05F7",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 300
+      "total_posicoes": 522000
     },
     {
-      "codigo_opcao": "ANIMP325",
-      "isin": "BRANIM3P04M8",
+      "codigo_opcao": "ANIMQ465",
+      "isin": "BRANIM3Q05G5",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 37200
+      "total_posicoes": 41000
     },
     {
-      "codigo_opcao": "ANIMP335",
-      "isin": "BRANIM3P04H8",
+      "codigo_opcao": "ANIMQ475",
+      "isin": "BRANIM3Q05H3",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 49800
+      "total_posicoes": 29000
     },
     {
-      "codigo_opcao": "ANIMP345",
-      "isin": "BRANIM3P04L0",
+      "codigo_opcao": "ANIMQ485",
+      "isin": "BRANIM3Q0525",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 19700
+      "total_posicoes": 37000
     },
     {
-      "codigo_opcao": "ANIMP355",
-      "isin": "BRANIM3P0476",
+      "codigo_opcao": "ANIMQ495",
+      "isin": "BRANIM3Q05K7",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 22000
+      "total_posicoes": 5500
     },
     {
-      "codigo_opcao": "ANIMP365",
-      "isin": "BRANIM3P04O4",
+      "codigo_opcao": "ANIMQ510",
+      "isin": "BRANIM3Q0566",
+      "ativo": "ANIM",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 110,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 17200
+    },
+    {
+      "codigo_opcao": "ANIMQ550",
+      "isin": "BRANIM3Q04Z8",
       "ativo": "ANIM",
       "tipo": "Put",
       "semanal": false,
@@ -1448,105 +1041,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 8500
-    },
-    {
-      "codigo_opcao": "ANIMP375",
-      "isin": "BRANIM3P04J4",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 15000,
-      "total_posicoes": 115600
-    },
-    {
-      "codigo_opcao": "ANIMP385",
-      "isin": "BRANIM3P04D7",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 94600
-    },
-    {
-      "codigo_opcao": "ANIMP395",
-      "isin": "BRANIM3P04K2",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 30700
-    },
-    {
-      "codigo_opcao": "ANIMP425",
-      "isin": "BRANIM3P04G0",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 18600,
-      "total_posicoes": 22800
-    },
-    {
-      "codigo_opcao": "ANIMP445",
-      "isin": "BRANIM3P04A3",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 40700,
-      "total_posicoes": 46700
-    },
-    {
-      "codigo_opcao": "ANIMP455",
-      "isin": "BRANIM3P04F2",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 47400,
-      "total_posicoes": 47500
-    },
-    {
-      "codigo_opcao": "ANIMP465",
-      "isin": "BRANIM3P04E5",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7500,
-      "total_posicoes": 7500
-    },
-    {
-      "codigo_opcao": "ANIMP550",
-      "isin": "BRANIM3P0492",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12800
-    },
-    {
-      "codigo_opcao": "ANIMP590",
-      "isin": "BRANIM3P04N6",
-      "ativo": "ANIM",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2700,
-      "total_posicoes": 2700
     }
   ]
 }
