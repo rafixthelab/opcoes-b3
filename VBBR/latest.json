@@ -1,101 +1,13 @@
 {
   "ticker": "VBBR",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 295,
-  "calls": 164,
-  "puts": 131,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 186,
+  "calls": 105,
+  "puts": 81,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "VBBRD249",
-      "isin": "BRVBBR3D0459",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3900,
-      "total_posicoes": 3900
-    },
-    {
-      "codigo_opcao": "VBBRD259",
-      "isin": "BRVBBR3D0442",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 759500,
-      "total_posicoes": 759500
-    },
-    {
-      "codigo_opcao": "VBBRD269",
-      "isin": "BRVBBR3D0434",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5024500,
-      "total_posicoes": 5025500
-    },
-    {
-      "codigo_opcao": "VBBRP249",
-      "isin": "BRVBBR3P0448",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 600,
-      "total_posicoes": 102700
-    },
-    {
-      "codigo_opcao": "VBBRP259",
-      "isin": "BRVBBR3P0455",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 81000,
-      "total_posicoes": 93100
-    },
-    {
-      "codigo_opcao": "VBBRP269",
-      "isin": "BRVBBR3P0430",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 53700,
-      "total_posicoes": 75600
-    },
-    {
-      "codigo_opcao": "VBBRD239",
-      "isin": "BRVBBR3D0467",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "VBBRP239",
-      "isin": "BRVBBR3P0463",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27700,
-      "total_posicoes": 27900
-    },
     {
       "codigo_opcao": "VBBRF340",
       "isin": "BRVBBR3F05A2",
@@ -130,1159 +42,26 @@
       "total_posicoes": 400
     },
     {
-      "codigo_opcao": "VBBRD339",
-      "isin": "BRVBBR3D04X2",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 900,
-      "quantidade_descoberta": 67500,
-      "total_posicoes": 70000
-    },
-    {
-      "codigo_opcao": "VBBRD349",
-      "isin": "BRVBBR3D04Y0",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 77400,
-      "total_posicoes": 84000
-    },
-    {
-      "codigo_opcao": "VBBRD359",
-      "isin": "BRVBBR3D04Z7",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 17400,
-      "total_posicoes": 17700
-    },
-    {
-      "codigo_opcao": "VBBRD369",
-      "isin": "BRVBBR3D04W4",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12000,
-      "total_posicoes": 12000
-    },
-    {
-      "codigo_opcao": "VBBRP339",
-      "isin": "BRVBBR3P04X6",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 33100,
-      "total_posicoes": 35600
-    },
-    {
-      "codigo_opcao": "VBBRP349",
-      "isin": "BRVBBR3P04W8",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8200,
-      "total_posicoes": 8200
-    },
-    {
-      "codigo_opcao": "VBBRP359",
-      "isin": "BRVBBR3P04Y4",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 9400,
-      "total_posicoes": 9400
-    },
-    {
-      "codigo_opcao": "VBBRF330",
-      "isin": "BRVBBR3F04N8",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VBBRE182",
-      "isin": "BRVBBR3E06G0",
+      "codigo_opcao": "VBBRI307",
+      "isin": "BRVBBR3I04I2",
       "ativo": "VBBR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 8000
+      "total_posicoes": 600
     },
     {
-      "codigo_opcao": "VBBRE184",
-      "isin": "BRVBBR3E06H8",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VBBRE187",
-      "isin": "BRVBBR3E06J4",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "VBBRD287",
-      "isin": "BRVBBR3D04L7",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 12700,
-      "total_posicoes": 12800
-    },
-    {
-      "codigo_opcao": "VBBRD325",
-      "isin": "BRVBBR3D04K9",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 5900,
-      "quantidade_descoberta": 217800,
-      "total_posicoes": 299000
-    },
-    {
-      "codigo_opcao": "VBBRD329",
-      "isin": "BRVBBR3D04H5",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 3200,
-      "quantidade_descoberta": 290900,
-      "total_posicoes": 415500
-    },
-    {
-      "codigo_opcao": "VBBRP284",
-      "isin": "BRVBBR3P04K3",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 48900,
-      "total_posicoes": 61000
-    },
-    {
-      "codigo_opcao": "VBBRP287",
-      "isin": "BRVBBR3P04L1",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 272500,
-      "total_posicoes": 299700
-    },
-    {
-      "codigo_opcao": "VBBRP329",
-      "isin": "BRVBBR3P04J5",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 25900,
-      "total_posicoes": 33000
-    },
-    {
-      "codigo_opcao": "VBBRQ303",
-      "isin": "BRVBBR3Q05J0",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 39500,
-      "total_posicoes": 106900
-    },
-    {
-      "codigo_opcao": "VBBRQ328",
-      "isin": "BRVBBR3Q05L6",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 32300,
-      "total_posicoes": 37500
-    },
-    {
-      "codigo_opcao": "VBBRG362",
-      "isin": "BRVBBR3G04L0",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 19000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 19000
-    },
-    {
-      "codigo_opcao": "VBBRD312",
-      "isin": "BRVBBR3D04E2",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 12500,
-      "quantidade_descoberta": 50600,
-      "total_posicoes": 64800
-    },
-    {
-      "codigo_opcao": "VBBRP312",
-      "isin": "BRVBBR3P04E6",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 158500,
-      "total_posicoes": 163400
-    },
-    {
-      "codigo_opcao": "VBBRD319",
-      "isin": "BRVBBR3D04G7",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 144600,
-      "total_posicoes": 253300
-    },
-    {
-      "codigo_opcao": "VBBRP319",
-      "isin": "BRVBBR3P04G1",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 39700,
-      "total_posicoes": 55500
-    },
-    {
-      "codigo_opcao": "VBBRE331",
-      "isin": "BRVBBR3E05N8",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 19800,
-      "quantidade_descoberta": 3500,
-      "total_posicoes": 38000
-    },
-    {
-      "codigo_opcao": "VBBRQ331",
-      "isin": "BRVBBR3Q05N2",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 36500,
-      "total_posicoes": 39100
-    },
-    {
-      "codigo_opcao": "VBBRF182",
-      "isin": "BRVBBR3F05C8",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 7800,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 12400
-    },
-    {
-      "codigo_opcao": "VBBRD374",
-      "isin": "BRVBBR3D05X9",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "VBBRD379",
-      "isin": "BRVBBR3D0632",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8400,
-      "total_posicoes": 9500
-    },
-    {
-      "codigo_opcao": "VBBRD384",
-      "isin": "BRVBBR3D0608",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 8400,
-      "total_posicoes": 8400
-    },
-    {
-      "codigo_opcao": "VBBRG267",
-      "isin": "BRVBBR3G04C9",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VBBRG272",
-      "isin": "BRVBBR3G04A3",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VBBRG277",
-      "isin": "BRVBBR3G04E5",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1786,
-      "total_posicoes": 2700
-    },
-    {
-      "codigo_opcao": "VBBRS269",
-      "isin": "BRVBBR3S04E0",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "VBBRS294",
-      "isin": "BRVBBR3S04F7",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VBBRF334",
-      "isin": "BRVBBR3F05F1",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 11400,
-      "quantidade_descoberta": 63900,
-      "total_posicoes": 91200
-    },
-    {
-      "codigo_opcao": "VBBRR334",
-      "isin": "BRVBBR3R05F6",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
-      "total_posicoes": 14500
-    },
-    {
-      "codigo_opcao": "VBBRF272",
-      "isin": "BRVBBR3F05G9",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 27700
-    },
-    {
-      "codigo_opcao": "VBBRR272",
-      "isin": "BRVBBR3R05G4",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7700,
-      "total_posicoes": 17900
-    },
-    {
-      "codigo_opcao": "VBBRF292",
-      "isin": "BRVBBR3F05O3",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "VBBRF327",
-      "isin": "BRVBBR3F05L9",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "VBBRF337",
-      "isin": "BRVBBR3F05K1",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 27100,
-      "total_posicoes": 32800
-    },
-    {
-      "codigo_opcao": "VBBRF347",
-      "isin": "BRVBBR3F05M7",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 42200,
-      "total_posicoes": 46800
-    },
-    {
-      "codigo_opcao": "VBBRF352",
-      "isin": "BRVBBR3F05T2",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 3000,
-      "quantidade_descoberta": 8200,
-      "total_posicoes": 13700
-    },
-    {
-      "codigo_opcao": "VBBRF357",
-      "isin": "BRVBBR3F05R6",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VBBRF362",
-      "isin": "BRVBBR3F05S4",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 753000,
-      "total_posicoes": 753000
-    },
-    {
-      "codigo_opcao": "VBBRF367",
-      "isin": "BRVBBR3F05N5",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "VBBRR297",
-      "isin": "BRVBBR3R05Q3",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5900
-    },
-    {
-      "codigo_opcao": "VBBRR327",
-      "isin": "BRVBBR3R05S9",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 30300,
-      "total_posicoes": 30400
-    },
-    {
-      "codigo_opcao": "VBBRR337",
-      "isin": "BRVBBR3R05L4",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6400,
-      "total_posicoes": 6400
-    },
-    {
-      "codigo_opcao": "VBBRR347",
-      "isin": "BRVBBR3R05N0",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 34700,
-      "total_posicoes": 36000
-    },
-    {
-      "codigo_opcao": "VBBRL284",
-      "isin": "BRVBBR3L08Y4",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 4100,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 47800
-    },
-    {
-      "codigo_opcao": "VBBRX284",
-      "isin": "BRVBBR3X08Y9",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "VBBRI209",
-      "isin": "BRVBBR3I0454",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 214,
-      "total_posicoes": 12531
-    },
-    {
-      "codigo_opcao": "VBBRU209",
-      "isin": "BRVBBR3U0458",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 303
-    },
-    {
-      "codigo_opcao": "VBBRD299",
-      "isin": "BRVBBR3D04A0",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 1640400,
-      "total_posicoes": 1640600
-    },
-    {
-      "codigo_opcao": "VBBRP299",
-      "isin": "BRVBBR3P04A4",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20200,
-      "total_posicoes": 61600
-    },
-    {
-      "codigo_opcao": "VBBRR275",
-      "isin": "BRVBBR3R04M5",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1296300,
-      "total_posicoes": 1323100
-    },
-    {
-      "codigo_opcao": "VBBRD217",
-      "isin": "BRVBBR3D04O1",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5200
-    },
-    {
-      "codigo_opcao": "VBBRD227",
-      "isin": "BRVBBR3D04M5",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 500
-    },
-    {
-      "codigo_opcao": "VBBRD247",
-      "isin": "BRVBBR3D04R4",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "VBBRD262",
-      "isin": "BRVBBR3D04T0",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 8000,
-      "total_posicoes": 8200
-    },
-    {
-      "codigo_opcao": "VBBRD295",
-      "isin": "BRVBBR3D04P8",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 102600,
-      "total_posicoes": 102600
-    },
-    {
-      "codigo_opcao": "VBBRD307",
-      "isin": "BRVBBR3D04S2",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 24000,
-      "total_posicoes": 24100
-    },
-    {
-      "codigo_opcao": "VBBRD310",
-      "isin": "BRVBBR3D04N3",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 63900,
-      "total_posicoes": 170600
-    },
-    {
-      "codigo_opcao": "VBBRD317",
-      "isin": "BRVBBR3D04Q6",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 77300,
-      "total_posicoes": 91900
-    },
-    {
-      "codigo_opcao": "VBBRP227",
-      "isin": "BRVBBR3P04N7",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "VBBRP247",
-      "isin": "BRVBBR3P04P2",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6000,
-      "total_posicoes": 6000
-    },
-    {
-      "codigo_opcao": "VBBRP262",
-      "isin": "BRVBBR3P04R8",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 65100,
-      "total_posicoes": 85200
-    },
-    {
-      "codigo_opcao": "VBBRP295",
-      "isin": "BRVBBR3P04M9",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 53100,
-      "total_posicoes": 57400
-    },
-    {
-      "codigo_opcao": "VBBRP307",
-      "isin": "BRVBBR3P04S6",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 37800,
-      "total_posicoes": 40300
-    },
-    {
-      "codigo_opcao": "VBBRP310",
-      "isin": "BRVBBR3P04O5",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 256700,
-      "total_posicoes": 273900
-    },
-    {
-      "codigo_opcao": "VBBRP317",
-      "isin": "BRVBBR3P04Q0",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 113400,
-      "total_posicoes": 115800
-    },
-    {
-      "codigo_opcao": "VBBRH282",
-      "isin": "BRVBBR3H04U9",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4400
-    },
-    {
-      "codigo_opcao": "VBBRT282",
-      "isin": "BRVBBR3T04U4",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "VBBRF167",
-      "isin": "BRVBBR3F05H7",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 108900,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 109300
-    },
-    {
-      "codigo_opcao": "VBBRG154",
-      "isin": "BRVBBR3G04M8",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 4000,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 99600
-    },
-    {
-      "codigo_opcao": "VBBRG344",
-      "isin": "BRVBBR3G04N6",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 2400,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2500
-    },
-    {
-      "codigo_opcao": "VBBRF402",
-      "isin": "BRVBBR3F05U0",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 115,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 750000,
-      "total_posicoes": 750000
-    },
-    {
-      "codigo_opcao": "VBBRD304",
-      "isin": "BRVBBR3D04F9",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 2600,
-      "quantidade_descoberta": 95700,
-      "total_posicoes": 150300
-    },
-    {
-      "codigo_opcao": "VBBRP304",
-      "isin": "BRVBBR3P04F3",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 146800,
-      "total_posicoes": 154400
-    },
-    {
-      "codigo_opcao": "VBBRI234",
-      "isin": "BRVBBR3I05M1",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 4000
-    },
-    {
-      "codigo_opcao": "VBBRI269",
-      "isin": "BRVBBR3I04Z6",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VBBRI292",
-      "isin": "BRVBBR3I0645",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VBBRJ16",
-      "isin": "BRVBBR3J04S9",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VBBRV16",
-      "isin": "BRVBBR3V04S4",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VBBRV169",
-      "isin": "BRVBBR3V04T2",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "VBBRV17",
-      "isin": "BRVBBR3V04Q8",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "VBBRV174",
-      "isin": "BRVBBR3V04R6",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 14,
-      "total_posicoes": 14
-    },
-    {
-      "codigo_opcao": "VBBRD284",
-      "isin": "BRVBBR3D04J1",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 25700,
-      "total_posicoes": 25700
-    },
-    {
-      "codigo_opcao": "VBBRD315",
-      "isin": "BRVBBR3D04I3",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 4400,
-      "quantidade_descoberta": 108400,
-      "total_posicoes": 219200
-    },
-    {
-      "codigo_opcao": "VBBRE286",
-      "isin": "BRVBBR3E05J6",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 1700,
-      "quantidade_descoberta": 51600,
-      "total_posicoes": 66600
-    },
-    {
-      "codigo_opcao": "VBBRE303",
-      "isin": "BRVBBR3E05K4",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 700,
-      "quantidade_descoberta": 54800,
-      "total_posicoes": 57000
-    },
-    {
-      "codigo_opcao": "VBBRE313",
-      "isin": "BRVBBR3E05L2",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 1700,
-      "quantidade_descoberta": 43500,
-      "total_posicoes": 52900
-    },
-    {
-      "codigo_opcao": "VBBRE328",
-      "isin": "BRVBBR3E05M0",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 67800,
-      "total_posicoes": 84400
-    },
-    {
-      "codigo_opcao": "VBBRP315",
-      "isin": "BRVBBR3P04H9",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 256100,
-      "total_posicoes": 258000
-    },
-    {
-      "codigo_opcao": "VBBRP325",
-      "isin": "BRVBBR3P04I7",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 49500,
-      "total_posicoes": 51600
-    },
-    {
-      "codigo_opcao": "VBBRQ286",
-      "isin": "BRVBBR3Q05K8",
+      "codigo_opcao": "VBBRU307",
+      "isin": "BRVBBR3U04I7",
       "ativo": "VBBR",
       "tipo": "Put",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 92300
-    },
-    {
-      "codigo_opcao": "VBBRQ313",
-      "isin": "BRVBBR3Q05M4",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 87800,
-      "total_posicoes": 116800
-    },
-    {
-      "codigo_opcao": "VBBRE298",
-      "isin": "BRVBBR3E05O6",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 6000,
-      "quantidade_descoberta": 43100,
-      "total_posicoes": 129300
-    },
-    {
-      "codigo_opcao": "VBBRF319",
-      "isin": "BRVBBR3F05D6",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6200,
-      "total_posicoes": 8800
-    },
-    {
-      "codigo_opcao": "VBBRQ298",
-      "isin": "BRVBBR3Q05O0",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 32600,
-      "total_posicoes": 65200
-    },
-    {
-      "codigo_opcao": "VBBRR309",
-      "isin": "BRVBBR3R05E9",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 98700,
-      "total_posicoes": 107500
-    },
-    {
-      "codigo_opcao": "VBBRR319",
-      "isin": "BRVBBR3R05D1",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "VBBRA284",
-      "isin": "BRVBBR3A0809",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 300
+      "total_posicoes": 200
     },
     {
       "codigo_opcao": "VBBRF307",
@@ -1347,7 +126,7 @@
       "semanal": false,
       "contratos_em_aberto": 112,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 15695,
+      "quantidade_descoberta": 5522,
       "total_posicoes": 298958
     },
     {
@@ -1360,138 +139,6 @@
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
       "total_posicoes": 1300
-    },
-    {
-      "codigo_opcao": "VBBRD279",
-      "isin": "BRVBBR3D0483",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 8600,
-      "total_posicoes": 8800
-    },
-    {
-      "codigo_opcao": "VBBRD289",
-      "isin": "BRVBBR3D0475",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 15500,
-      "quantidade_descoberta": 5002400,
-      "total_posicoes": 10024000
-    },
-    {
-      "codigo_opcao": "VBBRP279",
-      "isin": "BRVBBR3P0489",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 46900,
-      "total_posicoes": 111800
-    },
-    {
-      "codigo_opcao": "VBBRP289",
-      "isin": "BRVBBR3P0471",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 107200,
-      "total_posicoes": 710800
-    },
-    {
-      "codigo_opcao": "VBBRD274",
-      "isin": "BRVBBR3D0491",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 2100
-    },
-    {
-      "codigo_opcao": "VBBRP274",
-      "isin": "BRVBBR3P0497",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 346200
-    },
-    {
-      "codigo_opcao": "VBBRD277",
-      "isin": "BRVBBR3D04C6",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7500,
-      "total_posicoes": 7500
-    },
-    {
-      "codigo_opcao": "VBBRD282",
-      "isin": "BRVBBR3D04D4",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4200,
-      "total_posicoes": 4200
-    },
-    {
-      "codigo_opcao": "VBBRP277",
-      "isin": "BRVBBR3P04C0",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 22800,
-      "total_posicoes": 39200
-    },
-    {
-      "codigo_opcao": "VBBRP282",
-      "isin": "BRVBBR3P04D8",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 3700,
-      "total_posicoes": 1508100
-    },
-    {
-      "codigo_opcao": "VBBRL345",
-      "isin": "BRVBBR3L08Z1",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 167000
-    },
-    {
-      "codigo_opcao": "VBBRD429",
-      "isin": "BRVBBR3D05Z4",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 200,
-      "total_posicoes": 200
     },
     {
       "codigo_opcao": "VBBRA326",
@@ -1511,9 +158,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 300,
-      "quantidade_descoberta": 2000,
-      "total_posicoes": 20800
+      "quantidade_coberta": 6600,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 20900
     },
     {
       "codigo_opcao": "VBBRE253",
@@ -1544,7 +191,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 3100,
+      "quantidade_coberta": 1100,
       "quantidade_descoberta": 3500,
       "total_posicoes": 8100
     },
@@ -1556,8 +203,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 3200,
-      "total_posicoes": 5500
+      "quantidade_descoberta": 2800,
+      "total_posicoes": 5100
     },
     {
       "codigo_opcao": "VBBRE273",
@@ -1568,7 +215,7 @@
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 28500,
-      "total_posicoes": 30300
+      "total_posicoes": 30400
     },
     {
       "codigo_opcao": "VBBRE278",
@@ -1600,7 +247,7 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 49300,
+      "quantidade_descoberta": 49100,
       "total_posicoes": 49500
     },
     {
@@ -1655,8 +302,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 50700,
-      "total_posicoes": 54200
+      "quantidade_descoberta": 50300,
+      "total_posicoes": 54100
     },
     {
       "codigo_opcao": "VBBRQ263",
@@ -1677,8 +324,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 46500,
-      "total_posicoes": 95600
+      "quantidade_descoberta": 42900,
+      "total_posicoes": 92000
     },
     {
       "codigo_opcao": "VBBRQ273",
@@ -1688,8 +335,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 11800,
-      "total_posicoes": 31100
+      "quantidade_descoberta": 10800,
+      "total_posicoes": 30100
     },
     {
       "codigo_opcao": "VBBRQ278",
@@ -1699,8 +346,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 48400,
-      "total_posicoes": 55800
+      "quantidade_descoberta": 41900,
+      "total_posicoes": 54400
     },
     {
       "codigo_opcao": "VBBRQ283",
@@ -1710,8 +357,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 21300,
-      "total_posicoes": 136300
+      "quantidade_descoberta": 18200,
+      "total_posicoes": 133200
     },
     {
       "codigo_opcao": "VBBRQ288",
@@ -1722,18 +369,205 @@
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 1500,
-      "total_posicoes": 50200
+      "total_posicoes": 57600
     },
     {
-      "codigo_opcao": "VBBRD182",
-      "isin": "BRVBBR3D04V6",
+      "codigo_opcao": "VBBRE286",
+      "isin": "BRVBBR3E05J6",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 1700,
+      "quantidade_descoberta": 51600,
+      "total_posicoes": 66600
+    },
+    {
+      "codigo_opcao": "VBBRE303",
+      "isin": "BRVBBR3E05K4",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 700,
+      "quantidade_descoberta": 54000,
+      "total_posicoes": 55600
+    },
+    {
+      "codigo_opcao": "VBBRE313",
+      "isin": "BRVBBR3E05L2",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 1700,
+      "quantidade_descoberta": 24000,
+      "total_posicoes": 42700
+    },
+    {
+      "codigo_opcao": "VBBRE328",
+      "isin": "BRVBBR3E05M0",
       "ativo": "VBBR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 500,
+      "quantidade_descoberta": 61100,
+      "total_posicoes": 65800
+    },
+    {
+      "codigo_opcao": "VBBRQ286",
+      "isin": "BRVBBR3Q05K8",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 92300
+    },
+    {
+      "codigo_opcao": "VBBRQ313",
+      "isin": "BRVBBR3Q05M4",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 168400,
+      "total_posicoes": 182200
+    },
+    {
+      "codigo_opcao": "VBBRQ303",
+      "isin": "BRVBBR3Q05J0",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 32100,
+      "total_posicoes": 120300
+    },
+    {
+      "codigo_opcao": "VBBRQ328",
+      "isin": "BRVBBR3Q05L6",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 49700,
+      "total_posicoes": 55000
+    },
+    {
+      "codigo_opcao": "VBBRG267",
+      "isin": "BRVBBR3G04C9",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VBBRG272",
+      "isin": "BRVBBR3G04A3",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VBBRG277",
+      "isin": "BRVBBR3G04E5",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1786,
+      "total_posicoes": 2700
+    },
+    {
+      "codigo_opcao": "VBBRS269",
+      "isin": "BRVBBR3S04E0",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
       "total_posicoes": 500
+    },
+    {
+      "codigo_opcao": "VBBRG289",
+      "isin": "BRVBBR3G04K2",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "VBBRF167",
+      "isin": "BRVBBR3F05H7",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 108900,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 109300
+    },
+    {
+      "codigo_opcao": "VBBRF402",
+      "isin": "BRVBBR3F05U0",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 750000,
+      "total_posicoes": 750000
+    },
+    {
+      "codigo_opcao": "VBBRE331",
+      "isin": "BRVBBR3E05N8",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 19800,
+      "quantidade_descoberta": 7000,
+      "total_posicoes": 38300
+    },
+    {
+      "codigo_opcao": "VBBRQ331",
+      "isin": "BRVBBR3Q05N2",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 65800,
+      "total_posicoes": 72700
+    },
+    {
+      "codigo_opcao": "VBBRF182",
+      "isin": "BRVBBR3F05C8",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 12200,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 12400
     },
     {
       "codigo_opcao": "VBBRE295",
@@ -1743,8 +577,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 57900,
-      "total_posicoes": 90200
+      "quantidade_descoberta": 53500,
+      "total_posicoes": 85800
     },
     {
       "codigo_opcao": "VBBRQ295",
@@ -1754,8 +588,393 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 4000,
-      "total_posicoes": 65400
+      "quantidade_descoberta": 0,
+      "total_posicoes": 61800
+    },
+    {
+      "codigo_opcao": "VBBRS294",
+      "isin": "BRVBBR3S04F7",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VBBRF334",
+      "isin": "BRVBBR3F05F1",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 18700,
+      "quantidade_descoberta": 64500,
+      "total_posicoes": 88200
+    },
+    {
+      "codigo_opcao": "VBBRR334",
+      "isin": "BRVBBR3R05F6",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1500,
+      "total_posicoes": 8700
+    },
+    {
+      "codigo_opcao": "VBBRF272",
+      "isin": "BRVBBR3F05G9",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 27700
+    },
+    {
+      "codigo_opcao": "VBBRR272",
+      "isin": "BRVBBR3R05G4",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 5200,
+      "total_posicoes": 17900
+    },
+    {
+      "codigo_opcao": "VBBRG362",
+      "isin": "BRVBBR3G04L0",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 19000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 19000
+    },
+    {
+      "codigo_opcao": "VBBRF292",
+      "isin": "BRVBBR3F05O3",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "VBBRF322",
+      "isin": "BRVBBR3F05P0",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3200,
+      "total_posicoes": 3400
+    },
+    {
+      "codigo_opcao": "VBBRF327",
+      "isin": "BRVBBR3F05L9",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 200,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "VBBRF337",
+      "isin": "BRVBBR3F05K1",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 500,
+      "quantidade_descoberta": 32700,
+      "total_posicoes": 39700
+    },
+    {
+      "codigo_opcao": "VBBRF347",
+      "isin": "BRVBBR3F05M7",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 43800,
+      "total_posicoes": 47100
+    },
+    {
+      "codigo_opcao": "VBBRF352",
+      "isin": "BRVBBR3F05T2",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 3000,
+      "quantidade_descoberta": 14500,
+      "total_posicoes": 17700
+    },
+    {
+      "codigo_opcao": "VBBRF357",
+      "isin": "BRVBBR3F05R6",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VBBRF362",
+      "isin": "BRVBBR3F05S4",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 752200,
+      "total_posicoes": 753600
+    },
+    {
+      "codigo_opcao": "VBBRF367",
+      "isin": "BRVBBR3F05N5",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 6800
+    },
+    {
+      "codigo_opcao": "VBBRR297",
+      "isin": "BRVBBR3R05Q3",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 6400
+    },
+    {
+      "codigo_opcao": "VBBRR322",
+      "isin": "BRVBBR3R05P5",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 14200,
+      "total_posicoes": 21000
+    },
+    {
+      "codigo_opcao": "VBBRR327",
+      "isin": "BRVBBR3R05S9",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 30500,
+      "total_posicoes": 30600
+    },
+    {
+      "codigo_opcao": "VBBRR337",
+      "isin": "BRVBBR3R05L4",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6400,
+      "total_posicoes": 7100
+    },
+    {
+      "codigo_opcao": "VBBRR347",
+      "isin": "BRVBBR3R05N0",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 36000,
+      "total_posicoes": 36000
+    },
+    {
+      "codigo_opcao": "VBBRL284",
+      "isin": "BRVBBR3L08Y4",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 3900,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 47800
+    },
+    {
+      "codigo_opcao": "VBBRX284",
+      "isin": "BRVBBR3X08Y9",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
+    },
+    {
+      "codigo_opcao": "VBBRF330",
+      "isin": "BRVBBR3F04N8",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 100,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VBBRI234",
+      "isin": "BRVBBR3I05M1",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 4000
+    },
+    {
+      "codigo_opcao": "VBBRI269",
+      "isin": "BRVBBR3I04Z6",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VBBRI292",
+      "isin": "BRVBBR3I0645",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VBBRL345",
+      "isin": "BRVBBR3L08Z1",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 167000
+    },
+    {
+      "codigo_opcao": "VBBRI209",
+      "isin": "BRVBBR3I0454",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 214,
+      "total_posicoes": 12531
+    },
+    {
+      "codigo_opcao": "VBBRU209",
+      "isin": "BRVBBR3U0458",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 303
+    },
+    {
+      "codigo_opcao": "VBBRE298",
+      "isin": "BRVBBR3E05O6",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 6000,
+      "quantidade_descoberta": 43000,
+      "total_posicoes": 129200
+    },
+    {
+      "codigo_opcao": "VBBRF319",
+      "isin": "BRVBBR3F05D6",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 6200,
+      "total_posicoes": 8800
+    },
+    {
+      "codigo_opcao": "VBBRQ298",
+      "isin": "BRVBBR3Q05O0",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 24000,
+      "total_posicoes": 54200
+    },
+    {
+      "codigo_opcao": "VBBRR309",
+      "isin": "BRVBBR3R05E9",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 98700,
+      "total_posicoes": 115500
+    },
+    {
+      "codigo_opcao": "VBBRR319",
+      "isin": "BRVBBR3R05D1",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2000
+    },
+    {
+      "codigo_opcao": "VBBRA284",
+      "isin": "BRVBBR3A0809",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 300
     },
     {
       "codigo_opcao": "VBBRE203",
@@ -1775,7 +994,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
+      "quantidade_coberta": 100,
       "quantidade_descoberta": 0,
       "total_posicoes": 3400
     },
@@ -1788,7 +1007,7 @@
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 3200
+      "total_posicoes": 31200
     },
     {
       "codigo_opcao": "VBBRE223",
@@ -1831,8 +1050,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 12100,
-      "quantidade_descoberta": 26614,
-      "total_posicoes": 145100
+      "quantidade_descoberta": 26414,
+      "total_posicoes": 145600
     },
     {
       "codigo_opcao": "VBBRE296",
@@ -1841,9 +1060,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 1300,
+      "quantidade_coberta": 700,
       "quantidade_descoberta": 10000,
-      "total_posicoes": 17000
+      "total_posicoes": 19400
     },
     {
       "codigo_opcao": "VBBRE308",
@@ -1853,8 +1072,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 62700,
-      "total_posicoes": 62900
+      "quantidade_descoberta": 49700,
+      "total_posicoes": 49900
     },
     {
       "codigo_opcao": "VBBRE318",
@@ -1865,7 +1084,7 @@
       "contratos_em_aberto": 114,
       "quantidade_coberta": 200,
       "quantidade_descoberta": 53700,
-      "total_posicoes": 82400
+      "total_posicoes": 61500
     },
     {
       "codigo_opcao": "VBBRE323",
@@ -1875,8 +1094,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 3000,
-      "quantidade_descoberta": 195100,
-      "total_posicoes": 221600
+      "quantidade_descoberta": 197200,
+      "total_posicoes": 222900
     },
     {
       "codigo_opcao": "VBBRE333",
@@ -1885,9 +1104,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 4500,
-      "quantidade_descoberta": 9948700,
-      "total_posicoes": 10841600
+      "quantidade_coberta": 4600,
+      "quantidade_descoberta": 12939300,
+      "total_posicoes": 13831200
     },
     {
       "codigo_opcao": "VBBRE338",
@@ -1896,9 +1115,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 6700,
-      "quantidade_descoberta": 18900,
-      "total_posicoes": 52800
+      "quantidade_coberta": 8900,
+      "quantidade_descoberta": 24500,
+      "total_posicoes": 56900
     },
     {
       "codigo_opcao": "VBBRE343",
@@ -1908,8 +1127,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 6900,
-      "quantidade_descoberta": 121500,
-      "total_posicoes": 180700
+      "quantidade_descoberta": 116000,
+      "total_posicoes": 176700
     },
     {
       "codigo_opcao": "VBBRE348",
@@ -1919,8 +1138,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 2000,
-      "quantidade_descoberta": 10839600,
-      "total_posicoes": 21631300
+      "quantidade_descoberta": 13862300,
+      "total_posicoes": 27654000
     },
     {
       "codigo_opcao": "VBBRE353",
@@ -1930,8 +1149,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 3900,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 756700
+      "quantidade_descoberta": 1200,
+      "total_posicoes": 756900
     },
     {
       "codigo_opcao": "VBBRE358",
@@ -1941,8 +1160,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 25200,
-      "quantidade_descoberta": 35800,
-      "total_posicoes": 1548300
+      "quantidade_descoberta": 42900,
+      "total_posicoes": 1558600
     },
     {
       "codigo_opcao": "VBBRE363",
@@ -1951,9 +1170,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 4334800,
-      "total_posicoes": 4431300
+      "quantidade_coberta": 5300,
+      "quantidade_descoberta": 4338000,
+      "total_posicoes": 4433600
     },
     {
       "codigo_opcao": "VBBRE368",
@@ -1963,8 +1182,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 102700,
-      "total_posicoes": 111100
+      "quantidade_descoberta": 106600,
+      "total_posicoes": 127100
     },
     {
       "codigo_opcao": "VBBRE373",
@@ -1974,8 +1193,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 53100,
-      "total_posicoes": 78500
+      "quantidade_descoberta": 60200,
+      "total_posicoes": 78800
     },
     {
       "codigo_opcao": "VBBRE378",
@@ -1984,8 +1203,8 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 29700,
+      "quantidade_coberta": 100,
+      "quantidade_descoberta": 42000,
       "total_posicoes": 42300
     },
     {
@@ -1996,7 +1215,7 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 1600,
-      "quantidade_descoberta": 3008000,
+      "quantidade_descoberta": 3005200,
       "total_posicoes": 3016300
     },
     {
@@ -2007,7 +1226,7 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 6500,
+      "quantidade_descoberta": 0,
       "total_posicoes": 10200
     },
     {
@@ -2018,8 +1237,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 200,
-      "quantidade_descoberta": 47600,
-      "total_posicoes": 51300
+      "quantidade_descoberta": 47900,
+      "total_posicoes": 51600
     },
     {
       "codigo_opcao": "VBBRQ223",
@@ -2040,8 +1259,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 700,
-      "total_posicoes": 160400
+      "quantidade_descoberta": 0,
+      "total_posicoes": 168900
     },
     {
       "codigo_opcao": "VBBRQ296",
@@ -2051,8 +1270,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 47900
+      "quantidade_descoberta": 1500,
+      "total_posicoes": 48300
     },
     {
       "codigo_opcao": "VBBRQ308",
@@ -2062,8 +1281,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 1600,
-      "total_posicoes": 798100
+      "quantidade_descoberta": 49100,
+      "total_posicoes": 885400
     },
     {
       "codigo_opcao": "VBBRQ318",
@@ -2073,8 +1292,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 79100,
-      "total_posicoes": 99300
+      "quantidade_descoberta": 71500,
+      "total_posicoes": 91500
     },
     {
       "codigo_opcao": "VBBRQ323",
@@ -2084,8 +1303,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 90300,
-      "total_posicoes": 139700
+      "quantidade_descoberta": 87300,
+      "total_posicoes": 136300
     },
     {
       "codigo_opcao": "VBBRQ333",
@@ -2095,8 +1314,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 6900,
-      "total_posicoes": 12800
+      "quantidade_descoberta": 5600,
+      "total_posicoes": 39700
     },
     {
       "codigo_opcao": "VBBRQ338",
@@ -2106,8 +1325,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 190900,
-      "total_posicoes": 197400
+      "quantidade_descoberta": 160500,
+      "total_posicoes": 167000
     },
     {
       "codigo_opcao": "VBBRQ343",
@@ -2117,8 +1336,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 127400,
-      "total_posicoes": 170500
+      "quantidade_descoberta": 125500,
+      "total_posicoes": 168600
     },
     {
       "codigo_opcao": "VBBRQ348",
@@ -2139,8 +1358,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 17200,
-      "total_posicoes": 17200
+      "quantidade_descoberta": 16600,
+      "total_posicoes": 16600
     },
     {
       "codigo_opcao": "VBBRQ358",
@@ -2161,8 +1380,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 23200,
-      "total_posicoes": 23500
+      "quantidade_descoberta": 22700,
+      "total_posicoes": 23000
     },
     {
       "codigo_opcao": "VBBRQ368",
@@ -2172,8 +1391,8 @@
       "semanal": false,
       "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 9000,
-      "total_posicoes": 9000
+      "quantidade_descoberta": 12000,
+      "total_posicoes": 12000
     },
     {
       "codigo_opcao": "VBBRQ373",
@@ -2209,15 +1428,202 @@
       "total_posicoes": 4000
     },
     {
+      "codigo_opcao": "VBBRG154",
+      "isin": "BRVBBR3G04M8",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 4000,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 99600
+    },
+    {
+      "codigo_opcao": "VBBRG344",
+      "isin": "BRVBBR3G04N6",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 2400,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 2600
+    },
+    {
+      "codigo_opcao": "VBBRE212",
+      "isin": "BRVBBR3E0573",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 4563,
+      "quantidade_descoberta": 90,
+      "total_posicoes": 8680
+    },
+    {
+      "codigo_opcao": "VBBRE262",
+      "isin": "BRVBBR3E0581",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 19077,
+      "quantidade_descoberta": 36012,
+      "total_posicoes": 59646
+    },
+    {
+      "codigo_opcao": "VBBRQ212",
+      "isin": "BRVBBR3Q0579",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 20480,
+      "total_posicoes": 20480
+    },
+    {
+      "codigo_opcao": "VBBRQ262",
+      "isin": "BRVBBR3Q0587",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 33300
+    },
+    {
+      "codigo_opcao": "VBBRJ16",
+      "isin": "BRVBBR3J04S9",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VBBRV16",
+      "isin": "BRVBBR3V04S4",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VBBRV169",
+      "isin": "BRVBBR3V04T2",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    },
+    {
+      "codigo_opcao": "VBBRV17",
+      "isin": "BRVBBR3V04Q8",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 14,
+      "total_posicoes": 400
+    },
+    {
+      "codigo_opcao": "VBBRV174",
+      "isin": "BRVBBR3V04R6",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 14,
+      "total_posicoes": 14
+    },
+    {
+      "codigo_opcao": "VBBRR275",
+      "isin": "BRVBBR3R04M5",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 1296300,
+      "total_posicoes": 1323100
+    },
+    {
+      "codigo_opcao": "VBBRE182",
+      "isin": "BRVBBR3E06G0",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8000
+    },
+    {
+      "codigo_opcao": "VBBRE184",
+      "isin": "BRVBBR3E06H8",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "VBBRE187",
+      "isin": "BRVBBR3E06J4",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1300
+    },
+    {
+      "codigo_opcao": "VBBRF312",
+      "isin": "BRVBBR3F05I5",
+      "ativo": "VBBR",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 3600,
+      "total_posicoes": 4100
+    },
+    {
       "codigo_opcao": "VBBRF342",
       "isin": "BRVBBR3F05J3",
       "ativo": "VBBR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 115,
-      "quantidade_coberta": 500,
-      "quantidade_descoberta": 15700,
-      "total_posicoes": 61100
+      "quantidade_coberta": 33300,
+      "quantidade_descoberta": 18400,
+      "total_posicoes": 60700
+    },
+    {
+      "codigo_opcao": "VBBRR312",
+      "isin": "BRVBBR3R05I0",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 115,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 500
     },
     {
       "codigo_opcao": "VBBRR342",
@@ -2227,569 +1633,8 @@
       "semanal": false,
       "contratos_em_aberto": 115,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 8600,
-      "total_posicoes": 8600
-    },
-    {
-      "codigo_opcao": "VBBRI307",
-      "isin": "BRVBBR3I04I2",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 600
-    },
-    {
-      "codigo_opcao": "VBBRU307",
-      "isin": "BRVBBR3U04I7",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 200
-    },
-    {
-      "codigo_opcao": "VBBRD224",
-      "isin": "BRVBBR3D05E9",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1800,
-      "total_posicoes": 1800
-    },
-    {
-      "codigo_opcao": "VBBRD237",
-      "isin": "BRVBBR3D05C3",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1000,
-      "total_posicoes": 1000
-    },
-    {
-      "codigo_opcao": "VBBRD244",
-      "isin": "BRVBBR3D0574",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 5000,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "VBBRD252",
-      "isin": "BRVBBR3D05S9",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 42700
-    },
-    {
-      "codigo_opcao": "VBBRD254",
-      "isin": "BRVBBR3D0590",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6300,
-      "total_posicoes": 6400
-    },
-    {
-      "codigo_opcao": "VBBRD257",
-      "isin": "BRVBBR3D0582",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1800,
-      "total_posicoes": 2000
-    },
-    {
-      "codigo_opcao": "VBBRD264",
-      "isin": "BRVBBR3D05V3",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 400
-    },
-    {
-      "codigo_opcao": "VBBRD267",
-      "isin": "BRVBBR3D05M2",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 100,
-      "total_posicoes": 100
-    },
-    {
-      "codigo_opcao": "VBBRD272",
-      "isin": "BRVBBR3D05J8",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7600,
-      "total_posicoes": 7700
-    },
-    {
-      "codigo_opcao": "VBBRD292",
-      "isin": "BRVBBR3D0509",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 7200,
-      "total_posicoes": 28600
-    },
-    {
-      "codigo_opcao": "VBBRD297",
-      "isin": "BRVBBR3D0517",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 34500,
-      "total_posicoes": 74500
-    },
-    {
-      "codigo_opcao": "VBBRD302",
-      "isin": "BRVBBR3D05P5",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 24300,
-      "total_posicoes": 27900
-    },
-    {
-      "codigo_opcao": "VBBRD322",
-      "isin": "BRVBBR3D05U5",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 2800,
-      "quantidade_descoberta": 85600,
-      "total_posicoes": 90800
-    },
-    {
-      "codigo_opcao": "VBBRD327",
-      "isin": "BRVBBR3D05T7",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 5500,
-      "quantidade_descoberta": 38800,
-      "total_posicoes": 47300
-    },
-    {
-      "codigo_opcao": "VBBRD332",
-      "isin": "BRVBBR3D05R1",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 400,
-      "quantidade_descoberta": 17200,
-      "total_posicoes": 276700
-    },
-    {
-      "codigo_opcao": "VBBRD334",
-      "isin": "BRVBBR3D05I0",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 100,
-      "quantidade_descoberta": 29800,
-      "total_posicoes": 52900
-    },
-    {
-      "codigo_opcao": "VBBRD337",
-      "isin": "BRVBBR3D05B5",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 3100,
-      "quantidade_descoberta": 55700,
-      "total_posicoes": 188400
-    },
-    {
-      "codigo_opcao": "VBBRD342",
-      "isin": "BRVBBR3D05F6",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 200,
-      "quantidade_descoberta": 38100,
-      "total_posicoes": 48500
-    },
-    {
-      "codigo_opcao": "VBBRD344",
-      "isin": "BRVBBR3D05G4",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 2400,
-      "quantidade_descoberta": 37900,
-      "total_posicoes": 45800
-    },
-    {
-      "codigo_opcao": "VBBRD347",
-      "isin": "BRVBBR3D05L4",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 8600,
-      "quantidade_descoberta": 35700,
-      "total_posicoes": 47400
-    },
-    {
-      "codigo_opcao": "VBBRD352",
-      "isin": "BRVBBR3D05A7",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 5800,
-      "quantidade_descoberta": 40900,
-      "total_posicoes": 59400
-    },
-    {
-      "codigo_opcao": "VBBRD354",
-      "isin": "BRVBBR3D0566",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 800,
-      "quantidade_descoberta": 10600,
-      "total_posicoes": 12700
-    },
-    {
-      "codigo_opcao": "VBBRD357",
-      "isin": "BRVBBR3D05Q3",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 1300,
-      "quantidade_descoberta": 4100,
-      "total_posicoes": 28900
-    },
-    {
-      "codigo_opcao": "VBBRD362",
-      "isin": "BRVBBR3D05O8",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 1500,
-      "quantidade_descoberta": 35700,
-      "total_posicoes": 44700
-    },
-    {
-      "codigo_opcao": "VBBRD364",
-      "isin": "BRVBBR3D05K6",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 1000,
-      "quantidade_descoberta": 16900,
-      "total_posicoes": 26600
-    },
-    {
-      "codigo_opcao": "VBBRD367",
-      "isin": "BRVBBR3D0525",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 10100,
-      "total_posicoes": 10100
-    },
-    {
-      "codigo_opcao": "VBBRP224",
-      "isin": "BRVBBR3P0570",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 5000
-    },
-    {
-      "codigo_opcao": "VBBRP244",
-      "isin": "BRVBBR3P05P9",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 17800,
-      "total_posicoes": 18800
-    },
-    {
-      "codigo_opcao": "VBBRP252",
-      "isin": "BRVBBR3P05D5",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11400,
-      "total_posicoes": 12000
-    },
-    {
-      "codigo_opcao": "VBBRP254",
-      "isin": "BRVBBR3P05B9",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 11500,
-      "total_posicoes": 17300
-    },
-    {
-      "codigo_opcao": "VBBRP257",
-      "isin": "BRVBBR3P05V7",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 19000,
-      "total_posicoes": 22200
-    },
-    {
-      "codigo_opcao": "VBBRP264",
-      "isin": "BRVBBR3P05J2",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 75300,
-      "total_posicoes": 96300
-    },
-    {
-      "codigo_opcao": "VBBRP267",
-      "isin": "BRVBBR3P05E3",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 32500,
-      "total_posicoes": 44300
-    },
-    {
-      "codigo_opcao": "VBBRP272",
-      "isin": "BRVBBR3P05Q7",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 43700,
-      "total_posicoes": 66800
-    },
-    {
-      "codigo_opcao": "VBBRP292",
-      "isin": "BRVBBR3P05K0",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 614600,
-      "total_posicoes": 774300
-    },
-    {
-      "codigo_opcao": "VBBRP297",
-      "isin": "BRVBBR3P05O2",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 40100,
-      "total_posicoes": 42500
-    },
-    {
-      "codigo_opcao": "VBBRP302",
-      "isin": "BRVBBR3P05T1",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 59000,
-      "total_posicoes": 63800
-    },
-    {
-      "codigo_opcao": "VBBRP322",
-      "isin": "BRVBBR3P05H6",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 34100,
-      "total_posicoes": 35600
-    },
-    {
-      "codigo_opcao": "VBBRP327",
-      "isin": "BRVBBR3P05G8",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 30000,
-      "total_posicoes": 30000
-    },
-    {
-      "codigo_opcao": "VBBRP332",
-      "isin": "BRVBBR3P05F0",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 37000,
-      "total_posicoes": 38100
-    },
-    {
-      "codigo_opcao": "VBBRP334",
-      "isin": "BRVBBR3P05C7",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 19300,
-      "total_posicoes": 19400
-    },
-    {
-      "codigo_opcao": "VBBRP337",
-      "isin": "BRVBBR3P0505",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 80700,
-      "total_posicoes": 81300
-    },
-    {
-      "codigo_opcao": "VBBRP342",
-      "isin": "BRVBBR3P0562",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 49700,
-      "total_posicoes": 50200
-    },
-    {
-      "codigo_opcao": "VBBRP344",
-      "isin": "BRVBBR3P05S3",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 40400,
-      "total_posicoes": 40400
-    },
-    {
-      "codigo_opcao": "VBBRP347",
-      "isin": "BRVBBR3P05L8",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6200,
-      "total_posicoes": 6200
-    },
-    {
-      "codigo_opcao": "VBBRP352",
-      "isin": "BRVBBR3P05A1",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 2900,
-      "total_posicoes": 2900
-    },
-    {
-      "codigo_opcao": "VBBRP354",
-      "isin": "BRVBBR3P0513",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 6500,
-      "total_posicoes": 6500
-    },
-    {
-      "codigo_opcao": "VBBRP357",
-      "isin": "BRVBBR3P0539",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 300,
-      "total_posicoes": 300
-    },
-    {
-      "codigo_opcao": "VBBRP362",
-      "isin": "BRVBBR3P0588",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 114,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 400
+      "quantidade_descoberta": 4700,
+      "total_posicoes": 9900
     },
     {
       "codigo_opcao": "VBBRA200",
@@ -2847,24 +1692,13 @@
       "total_posicoes": 642
     },
     {
-      "codigo_opcao": "VBBRD18",
-      "isin": "BRVBBR3D03Y2",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1500,
-      "total_posicoes": 1500
-    },
-    {
       "codigo_opcao": "VBBRE180",
       "isin": "BRVBBR3E0342",
       "ativo": "VBBR",
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 110,
-      "quantidade_coberta": 336,
+      "quantidade_coberta": 425,
       "quantidade_descoberta": 600,
       "total_posicoes": 1671
     },
@@ -2886,7 +1720,7 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 112,
-      "quantidade_coberta": 14556,
+      "quantidade_coberta": 14459,
       "quantidade_descoberta": 0,
       "total_posicoes": 18659
     },
@@ -3045,17 +1879,6 @@
       "total_posicoes": 2400
     },
     {
-      "codigo_opcao": "VBBRP18",
-      "isin": "BRVBBR3P03Y6",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 110,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 4284,
-      "total_posicoes": 4284
-    },
-    {
       "codigo_opcao": "VBBRQ180",
       "isin": "BRVBBR3Q0348",
       "ativo": "VBBR",
@@ -3074,7 +1897,7 @@
       "semanal": false,
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
-      "quantidade_descoberta": 907,
+      "quantidade_descoberta": 107,
       "total_posicoes": 907
     },
     {
@@ -3196,7 +2019,7 @@
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 302
+      "total_posicoes": 2
     },
     {
       "codigo_opcao": "VBBRX300",
@@ -3207,51 +2030,29 @@
       "contratos_em_aberto": 110,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 5502
+      "total_posicoes": 7402
     },
     {
-      "codigo_opcao": "VBBRE212",
-      "isin": "BRVBBR3E0573",
+      "codigo_opcao": "VBBRH282",
+      "isin": "BRVBBR3H04U9",
       "ativo": "VBBR",
       "tipo": "Call",
       "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 5370,
-      "quantidade_descoberta": 90,
-      "total_posicoes": 8680
-    },
-    {
-      "codigo_opcao": "VBBRE262",
-      "isin": "BRVBBR3E0581",
-      "ativo": "VBBR",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 17377,
-      "quantidade_descoberta": 36012,
-      "total_posicoes": 59646
-    },
-    {
-      "codigo_opcao": "VBBRQ212",
-      "isin": "BRVBBR3Q0579",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 112,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 20480,
-      "total_posicoes": 20480
-    },
-    {
-      "codigo_opcao": "VBBRQ262",
-      "isin": "BRVBBR3Q0587",
-      "ativo": "VBBR",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 112,
+      "contratos_em_aberto": 114,
       "quantidade_coberta": 0,
       "quantidade_descoberta": 0,
-      "total_posicoes": 33300
+      "total_posicoes": 4400
+    },
+    {
+      "codigo_opcao": "VBBRT282",
+      "isin": "BRVBBR3T04U4",
+      "ativo": "VBBR",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 114,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1300
     }
   ]
 }
