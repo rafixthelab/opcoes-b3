@@ -1,11 +1,11 @@
 {
   "ticker": "NEOE",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 7,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 6,
   "calls": 5,
-  "puts": 2,
+  "puts": 1,
   "semanais": 0,
   "opcoes": [
     {
@@ -73,17 +73,6 @@
       "quantidade_coberta": 11500,
       "quantidade_descoberta": 0,
       "total_posicoes": 14500
-    },
-    {
-      "codigo_opcao": "NEOEP335",
-      "isin": "BRNEOE3P02L2",
-      "ativo": "NEOE",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 127,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 29000
     }
   ]
 }
