@@ -1,0 +1,89 @@
+{
+  "ticker": "LAVV",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 7,
+  "calls": 4,
+  "puts": 3,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "LAVVF156",
+      "isin": "BRLAVV3F00N9",
+      "ativo": "LAVV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1100
+    },
+    {
+      "codigo_opcao": "LAVVE166",
+      "isin": "BRLAVV3E00M4",
+      "ativo": "LAVV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 3600
+    },
+    {
+      "codigo_opcao": "LAVVQ136",
+      "isin": "BRLAVV3Q00V9",
+      "ativo": "LAVV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1300
+    },
+    {
+      "codigo_opcao": "LAVVQ141",
+      "isin": "BRLAVV3Q00U1",
+      "ativo": "LAVV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 100
+    },
+    {
+      "codigo_opcao": "LAVVR131",
+      "isin": "BRLAVV3R0118",
+      "ativo": "LAVV",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 8500
+    },
+    {
+      "codigo_opcao": "LAVVG157",
+      "isin": "BRLAVV3G00L1",
+      "ativo": "LAVV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 119,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1000
+    },
+    {
+      "codigo_opcao": "LAVVE191",
+      "isin": "BRLAVV3E00T9",
+      "ativo": "LAVV",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 120,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 200
+    }
+  ]
+}
