@@ -1,8 +1,8 @@
 {
   "ticker": "AMBP",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
   "total_registros": 12,
   "calls": 7,
   "puts": 5,
@@ -28,7 +28,7 @@
       "contratos_em_aberto": 103,
       "quantidade_coberta": 1466900,
       "quantidade_descoberta": 100,
-      "total_posicoes": 1500100
+      "total_posicoes": 1505100
     },
     {
       "codigo_opcao": "AMBPH138",
@@ -81,9 +81,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 105,
-      "quantidade_coberta": 100,
+      "quantidade_coberta": 200,
       "quantidade_descoberta": 1100,
-      "total_posicoes": 14200
+      "total_posicoes": 14300
     },
     {
       "codigo_opcao": "AMBPF400",
@@ -103,9 +103,9 @@
       "tipo": "Call",
       "semanal": false,
       "contratos_em_aberto": 105,
-      "quantidade_coberta": 21900,
+      "quantidade_coberta": 22500,
       "quantidade_descoberta": 0,
-      "total_posicoes": 47700
+      "total_posicoes": 48300
     },
     {
       "codigo_opcao": "AMBPG70",
