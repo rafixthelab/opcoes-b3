@@ -1,46 +1,13 @@
 {
   "ticker": "PGMN",
   "fonte": "BDI B3",
-  "data_referencia": "2026-04-16",
-  "capturado_em": "2026-04-17 11:20:28",
-  "total_registros": 8,
-  "calls": 4,
-  "puts": 4,
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 5,
+  "calls": 3,
+  "puts": 2,
   "semanais": 0,
   "opcoes": [
-    {
-      "codigo_opcao": "PGMNP517",
-      "isin": "BRPGMN3P0049",
-      "ativo": "PGMN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1488000,
-      "total_posicoes": 1488000
-    },
-    {
-      "codigo_opcao": "PGMND607",
-      "isin": "BRPGMN3D0076",
-      "ativo": "PGMN",
-      "tipo": "Call",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 0,
-      "total_posicoes": 1488000
-    },
-    {
-      "codigo_opcao": "PGMNP567",
-      "isin": "BRPGMN3P0064",
-      "ativo": "PGMN",
-      "tipo": "Put",
-      "semanal": false,
-      "contratos_em_aberto": 106,
-      "quantidade_coberta": 0,
-      "quantidade_descoberta": 1488000,
-      "total_posicoes": 1488000
-    },
     {
       "codigo_opcao": "PGMNF717",
       "isin": "BRPGMN3F0058",
