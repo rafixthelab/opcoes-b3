@@ -1,0 +1,34 @@
+{
+  "ticker": "LOGG",
+  "fonte": "BDI B3",
+  "data_referencia": "2026-04-17",
+  "capturado_em": "2026-04-19 09:22:28",
+  "total_registros": 2,
+  "calls": 1,
+  "puts": 1,
+  "semanais": 0,
+  "opcoes": [
+    {
+      "codigo_opcao": "LOGGQ265",
+      "isin": "BRLOGG3Q00N8",
+      "ativo": "LOGG",
+      "tipo": "Put",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 0,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 10000
+    },
+    {
+      "codigo_opcao": "LOGGE300",
+      "isin": "BRLOGG3E00R5",
+      "ativo": "LOGG",
+      "tipo": "Call",
+      "semanal": false,
+      "contratos_em_aberto": 112,
+      "quantidade_coberta": 1500,
+      "quantidade_descoberta": 0,
+      "total_posicoes": 1500
+    }
+  ]
+}
